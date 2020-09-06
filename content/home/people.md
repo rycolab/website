@@ -4,28 +4,26 @@
 
 widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 68  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 30  # Order that this section will appear.
 
-title = "Meet the Team"
+title = "People"
 subtitle = ""
 
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Principal Investigators",
-                 "Researchers",
-                 "Grad Students",
-                 "Administration",
-                 "Visitors",
-                 "Alumni"]
+  user_groups = ["Members","Frequent Collaborators", "Alumna&ast;"]
+  
+  folder = "people"
 
 [design]
   # Show user's social networking links? (true/false)
-  show_social = false
+  show_social = true
 
   # Show user's interests? (true/false)
-  show_interests = true
+  show_interests = false
+
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -34,14 +32,14 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  # color = "navy"
+  # color = "#f0fff3"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
   # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/media/`.
+  # image = "background.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
@@ -53,4 +51,7 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+
 +++
+
+<font size="2.5"> \*Alumna is the nominative plural of alumnum, which means student in Latin. This a gender neutral (or, better said, gender neuter) version of the gendered words alumni and alumnae.</font>
