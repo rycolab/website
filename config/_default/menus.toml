@@ -28,3 +28,8 @@
   url = "#readinggroup"
   weight = 70
 
+[[main]]
+  name = "Thesis Projects"
+  url = "#projects"
+  weight = 80
+

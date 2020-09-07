@@ -9,3 +9,5 @@ public/
 pictures/
 bibs/
 csv_to_bib.py
+go.mod
+go.sum
