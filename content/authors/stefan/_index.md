@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Stefan Lazov
+title: Stefan Lazov
 secondary: Стефан Лазов
 
 # Username (this should match the folder name)

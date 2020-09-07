@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Tiago Pimentel
+title: Tiago Pimentel
 
 # Username (this should match the folder name)
 authors:

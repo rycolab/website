@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Josef Valvoda
+title: Josef Valvoda
 
 # Username (this should match the folder name)
 authors:

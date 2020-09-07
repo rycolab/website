@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Ran Zmigrod
+title: Ran Zmigrod
 secondary: רן זמיגרוֹד
 
 # Username (this should match the folder name)

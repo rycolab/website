@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Ekaterina Vylomova
+title: Ekaterina Vylomova
 secondary: Екатерина Выломова
 
 # Username (this should match the folder name)

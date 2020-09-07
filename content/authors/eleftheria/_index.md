@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Eleftheria Tsipidi
+title: Eleftheria Tsipidi
 secondary: Ελευθερία Τσιπίδη
 
 # Username (this should match the folder name)

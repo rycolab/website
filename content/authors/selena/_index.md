@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Selena Pepić
+title: Selena Pepić
 
 # Username (this should match the folder name)
 authors:

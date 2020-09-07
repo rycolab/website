@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Damián Blasi
+title: Damián Blasi
 
 # Username (this should match the folder name)
 authors:

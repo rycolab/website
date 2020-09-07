@@ -1,6 +1,7 @@
 ---
 # Display name
-name: Tianyu Liu
+title: Tianyu Liu
+secondary: 刘天宇
 
 # Username (this should match the folder name)
 authors:

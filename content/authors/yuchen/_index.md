@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Yuchen Jiang
+title: Yuchen Jiang
 secondary: 姜昱辰
 
 # Username (this should match the folder name)

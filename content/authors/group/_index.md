@@ -17,7 +17,7 @@ interests : []
 
 foci : ["Decoding Strategies for Neural MT", "Information-Theoretic Linguistics", "Computational Typology", "Computational Morphology", "Bias and Fairness in NLP Systems", "Computational Approaches to Metaphor", "Low-resource Linguistic Annotation","Algorithms for Parsing", "Interpreting Neural Representations of Language","Computational Social Science", "NLP Applications"]
 
-
+avatar: "circle"
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

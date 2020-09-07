@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Lucas Torroba Hennigen
+title: Lucas Torroba Hennigen
 
 # Username (this should match the folder name)
 authors:

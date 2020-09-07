@@ -4,3 +4,8 @@
 # Hugo
 /resources/
 public/
+
+*.DS_Store
+pictures/
+bibs/
+csv_to_bib.py

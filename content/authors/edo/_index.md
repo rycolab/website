@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Edoardo M. Ponti
+title: Edoardo M. Ponti
 
 # Username (this should match the folder name)
 authors:

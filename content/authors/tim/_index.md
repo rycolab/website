@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Tim Vieira
+title: Tim Vieira
 
 # Username (this should match the folder name)
 authors:

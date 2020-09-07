@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Shijie Wu
+title: Shijie Wu
 secondary: 伍世杰
 
 # Username (this should match the folder name)

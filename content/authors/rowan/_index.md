@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Rowan Hall Maudslay
+title: Rowan Hall Maudslay
 
 # Username (this should match the folder name)
 authors:

@@ -1,6 +1,7 @@
 ---
 # Display name
-name: Jun Yen Leung
+title: Jun Yen Leung
+secondary: 梁俊彥
 
 # Username (this should match the folder name)
 authors:

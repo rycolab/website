@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Emanuele Bugliarello
+title: Emanuele Bugliarello
 
 # Username (this should match the folder name)
 authors:

@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Jiaoda Li
+title: Jiaoda Li
 
 # Username (this should match the folder name)
 authors:

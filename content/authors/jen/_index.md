@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Jennifer C. White
+title: Jennifer C. White
 
 # Username (this should match the folder name)
 authors:

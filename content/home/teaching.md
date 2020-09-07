@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Teaching"
-subtitle = "[See All Classes](classes)"
+subtitle = "[SEE ALL CLASSES](classes)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
