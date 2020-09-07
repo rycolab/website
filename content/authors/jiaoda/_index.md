@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Jiaoda Li
+secondary: 李矫达
 
 # Username (this should match the folder name)
 authors:

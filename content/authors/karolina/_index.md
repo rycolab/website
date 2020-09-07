@@ -32,10 +32,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:ks@di.ku.dk"  
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/karstanczak
 - icon: github
   icon_pack: fab
   link: https://github.com/kstanczak
-
 
   
 # Link to a PDF of your resume/CV from the About widget.
