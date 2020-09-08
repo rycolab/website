@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Rycolab Reading Group"
-subtitle = ""
+title = "ETHZ++ NLP Reading Group"
+subtitle = "[SEE FULL READING LIST](readinggroup)"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -47,17 +47,8 @@ subtitle = ""
   fractions = false
 +++
 
-<span style="color:grey">Follow our lab's weekly readings!</span>
+<span style="color:grey">Our lab, along with Mrinmaya Sachan's lab, meets weekly on Fridays at 15:00 CEST. Here's what we're reading!</span>
 
-* **2/7 - 23/7:** [Fundamentals of Reinforcement Learning](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning#syllabus)
+**19/9**: [Centering: A Framework for Modeling the Local Coherence of Discourse](https://www.aclweb.org/anthology/J95-2003/)
+**25/9**: [End-to-end Neural Creference Resolution](https://arxiv.org/abs/1707.07045)
 
-* **1/5:** [Bayesian density estimation and inference using mixtures](http://links.jstor.org/sici?sici=0162-1459%28199506%2990%3A430%3C577%3ABDEAIU%3E2.0.CO%3B2-8) and [Markov chain sampling methods for Dirichlet process mixture models](http://links.jstor.org/sici?sici=1061-8600%28200006%299%3A2%3C249%3AMCSMFD%3E2.0.CO%3B2-R)
-
-* **28/4:** [Experience Grounds Language](https://arxiv.org/pdf/2004.10151.pdf) and [Climbing towards NLU:
-On Meaning, Form, and Understanding in the Age of Data](https://openreview.net/pdf?id=GKTvAcb12b)
-
-* **24/4:** [Bayesian Models of Graphs, Arrays and Other Exchangeable Random Structures](https://arxiv.org/pdf/1312.7857.pdf)
-
-* **17/4:** [Lecture Notes on Bayesian Nonparametrics - Ch.6: Exchangeability](http://www.gatsby.ucl.ac.uk/~porbanz/papers/porbanz_BNP_draft.pdf)
-* **15/4:** [Information-Theoretic Probing with Minimum Description Length](https://arxiv.org/pdf/2003.12298.pdf)
-* **14/4:** [Lecture Notes on Bayesian Nonparametrics - Ch.2: Clustering and the Dirichlet Process](http://www.gatsby.ucl.ac.uk/~porbanz/papers/porbanz_BNP_draft.pdf) and [Stat 362: Bayesian Nonparametrics - Lecture 1](http://web.stanford.edu/class/stats362/lec1.pdf)
