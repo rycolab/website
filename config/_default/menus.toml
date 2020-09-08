@@ -24,12 +24,11 @@
   weight = 60
 
 [[main]]
-  name = "Reading Group"
-  url = "#readinggroup"
+  name = "Thesis Projects"
+  url = "#projects"
   weight = 70
 
 [[main]]
-  name = "Thesis Projects"
-  url = "#projects"
+  name = "Reading Group"
+  url = "#readinggroup"
   weight = 80
-
