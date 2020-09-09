@@ -42,20 +42,20 @@ The objective of the course is to learn the basic concepts in the statistical pr
 <table class="table">
   <thead>
     <tr>
-      <th scope="col">Week</th>
-      <th scope="col">Date</th>
-      <th scope="col">Topic</th>
-      <th scope="col">Slides</th>
-      <th scope="col">Readings</th>
-      <th scope="col">Supplementary Material</th>
+      <th scope="col" style='white-space:nowrap'>Week</th>
+      <th scope="col" style='white-space:nowrap'>Date</th>
+      <th scope="col" style='white-space:nowrap'>Topic</th>
+      <th scope="col" style='white-space:nowrap'>Slides</th>
+      <th scope="col" style='white-space:nowrap'>Readings</th>
+      <th scope="col" style='white-space:nowrap'>Supplementary Material</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row">1&emsp;&emsp;&emsp;&emsp;</th>
+      <th scope="row">1</th>
       <td>14.09.2020</td>
       <td>Introduction to Natural Language</td>
-      <td>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -65,7 +65,9 @@ The objective of the course is to learn the basic concepts in the statistical pr
       <td>Backpropagation</td>
       <td></td>
       <td></td>
-      <td><a href="https://people.cs.umass.edu/~domke/courses/sml2011/08autodiff_nnets.pdf">Justin Domke’s Notes</a></br>
+      <td>
+        <a href="https://colah.github.io/posts/2015-08-Backprop/">Chris Olah's Blog</a></br>
+        <a href="https://people.cs.umass.edu/~domke/courses/sml2011/08autodiff_nnets.pdf">Justin Domke’s Notes</a></br>
         <a href="https://timvieira.github.io/blog/post/2017/08/18/backprop-is-not-just-the-chain-rule/">Tim Vieira’s Blog</a></br>
         <a href="https://ee227c.github.io/notes/ee227c-lecture16.pdf">Moritz Hardt’s Notes</a></br>
         <a href="https://core.ac.uk/download/pdf/82480031.pdf">Baur and Strassen (1983)</a></br>
