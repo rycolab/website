@@ -52,13 +52,13 @@ profile = false
       <td></td>
       <td>Reinforcement Learning</td>
       <td><a href="https://www.coursera.org/learn/fundamentals-of-reinforcement-learning#syllabus">Fundamentals of Reinforcement Learning</a></td>
-      <td>Univeristy of Waterloo</td>
+      <td>Martha White and Adam White</td>
       <td></td>
     </tr>
       <tr>
       <th scope="row">1/5</th>
       <td></td>
-      <td>Nonparametric Modeling</td>
+      <td>Bayesian Non-Parametrics</td>
       <td><a href="http://links.jstor.org/sici?sici=0162-1459%28199506%2990%3A430%3C577%3ABDEAIU%3E2.0.CO%3B2-8">Bayesian density estimation and inference using mixtures</a></br>
       <a href="http://links.jstor.org/sici?sici=1061-8600%28200006%299%3A2%3C249%3AMCSMFD%3E2.0.CO%3B2-R">Markov chain sampling methods for Dirichlet process mixture models</a></td>
       <td></td>
@@ -76,7 +76,7 @@ profile = false
     <tr>
       <th scope="row">24/4</th>
       <td></td>
-      <td>Bayesian Models</td>
+      <td>Bayesian Non-Parametrics</td>
       <td><a href="https://arxiv.org/pdf/1312.7857.pdf">Bayesian Models of Graphs, Arrays and Other Exchangeable Random Structures</a></td>
       <td></td>
       <td></td>
@@ -85,7 +85,7 @@ profile = false
     <tr>
       <th scope="row">17/4</th>
       <td></td>
-      <td>Bayesian Nonparametrics</td>
+      <td>Bayesian Non-Parametrics</td>
       <td><a href="http://www.gatsby.ucl.ac.uk/~porbanz/papers/porbanz_BNP_draft.pdf">Lecture Notes on Bayesian Nonparametrics - Ch.6: Exchangeability</a></td>
       <td></td>
       <td></td>
@@ -101,7 +101,7 @@ profile = false
     <tr>
       <th scope="row">14/4</th>
       <td></td>
-      <td>Bayesian Nonparametrics</td>
+      <td>Bayesian Non-Parametrics</td>
       <td><a href="http://www.gatsby.ucl.ac.uk/~porbanz/papers/porbanz_BNP_draft.pdf">Lecture Notes on Bayesian Nonparametrics - Ch.2: Clustering and the Dirichlet Process</a></br>
         <a href="http://web.stanford.edu/class/stats362/lec1.pdf">Stat 362: Bayesian Nonparametrics - Lecture 1</a></td>
       <td></td>
