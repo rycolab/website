@@ -50,5 +50,5 @@ subtitle = "[SEE FULL READING LIST](readinggroup)"
 <span style="color:grey">Our lab, along with Mrinmaya Sachan's lab, meets weekly on Fridays at 15:00 CEST. Here's what we're reading!</span>
 
 **19/9**: [Centering: A Framework for Modeling the Local Coherence of Discourse](https://www.aclweb.org/anthology/J95-2003/)
-**25/9**: [End-to-end Neural Creference Resolution](https://arxiv.org/abs/1707.07045)
+**25/9**: [End-to-end Neural Coreference Resolution](https://arxiv.org/abs/1707.07045)
 

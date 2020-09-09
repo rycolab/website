@@ -34,8 +34,8 @@ profile = false
     <tr>
       <th scope="row">25/9</th>
       <td>Tianyu</td>
-      <td>Centering Theory</td>
-      <td><a href="https://arxiv.org/abs/1707.07045">End-to-end Neural Creference Resolution</a></td>
+      <td>Coreference Resolution</td>
+      <td><a href="https://arxiv.org/abs/1707.07045">End-to-end Neural Coreference Resolution</a></td>
       <td>Kenton Lee, Luheng He, Mike Lewis, Luke Zettlemoyer</td>
       <td></td>
     </tr>
