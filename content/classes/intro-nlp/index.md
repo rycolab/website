@@ -31,7 +31,7 @@ The objective of the course is to learn the basic concepts in the statistical pr
 ## News
 
 **31.08** &emsp; Class website is online!  
-**31.08** &emsp; We are using piazza as our discussion forum. Please enroll [here](piazza.com/ethz.ch/fall2020/252300500l).  
+**31.08** &emsp; We are using piazza as our discussion forum. Please enroll [here](https://www.piazza.com/ethz.ch/fall2020/252300500l).  
 **14.09** &emsp; First lecture.
 
 
@@ -181,7 +181,7 @@ The objective of the course is to learn the basic concepts in the statistical pr
 </table>
 
 ## Contact
-You can ask questions on [piazza](piazza.com/ethz.ch/fall2020/252300500l). Please post questions there, so others can see them and share in the discussion.
+You can ask questions on [piazza](https://www.piazza.com/ethz.ch/fall2020/252300500l). Please post questions there, so others can see them and share in the discussion.
 
 If you have questions which are not of general interest, please don't hesitate to contact us directly.
 
