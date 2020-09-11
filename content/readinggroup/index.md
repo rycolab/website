@@ -18,10 +18,7 @@ profile = false
 
 
 ## Reading List
-<!-- <button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
-        data-filename="{{ .RelPermalink }}">
-  Cite
-</button> -->
+
 
 <table class="table" style='word-wrap:break-word'>
   <thead>
@@ -31,7 +28,7 @@ profile = false
       <th scope="col" style='white-space:nowrap'>Topic</th>
       <th scope="col" style='white-space:nowrap'>Title</th>
       <th scope="col" style='white-space:nowrap'>Authors</th>
-      <th scope="col" style='white-space:nowrap'>Bib</th>
+      <th scope="col" style='white-space:nowrap'>Bib&emsp;&emsp;</th>
     </tr>
   </thead>
   <tbody>
@@ -41,8 +38,8 @@ profile = false
       <td>Coreference Resolution</td>
       <td><a href="https://arxiv.org/abs/1707.07045">End-to-end Neural Coreference Resolution</a></td>
       <td>Kenton Lee, Luheng He, Mike Lewis, Luke Zettlemoyer</td>
-      <td>
-</td>
+      <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
+        data-filename="bibs/lee-etal-2017-end.bib">Cite</button></td>
     </tr>
     <tr>
       <th scope="row">18/9</th>
@@ -50,7 +47,8 @@ profile = false
       <td>Centering Theory</td>
       <td><a href="https://www.aclweb.org/anthology/J95-2003/">Centering: A Framework for Modeling the Local Coherence of Discourse</a></td>
       <td>Barbara J. Grosz, Aravind K. Joshi, Scott Weinstein</td>
-      <td></td>
+      <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
+        data-filename="bibs/grosz-etal-1995-centering.bib">Cite</button></td>
     </tr>
     <tr>
       <th scope="row">2/7 - 23/7</th>
