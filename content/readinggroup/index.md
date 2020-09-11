@@ -18,6 +18,10 @@ profile = false
 
 
 ## Reading List
+<!-- <button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
+        data-filename="{{ .RelPermalink }}">
+  Cite
+</button> -->
 
 <table class="table" style='word-wrap:break-word'>
   <thead>
@@ -37,7 +41,8 @@ profile = false
       <td>Coreference Resolution</td>
       <td><a href="https://arxiv.org/abs/1707.07045">End-to-end Neural Coreference Resolution</a></td>
       <td>Kenton Lee, Luheng He, Mike Lewis, Luke Zettlemoyer</td>
-      <td></td>
+      <td>
+</td>
     </tr>
     <tr>
       <th scope="row">18/9</th>
