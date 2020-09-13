@@ -32,7 +32,7 @@ The objective of the course is to learn the basic concepts in the statistical pr
 
 **31.08** &emsp; Class website is online!  
 **31.08** &emsp; We are using piazza as our discussion forum. Please enroll [here](https://www.piazza.com/ethz.ch/fall2020/252300500l).  
-**14.09** &emsp; First lecture.
+**21.09** &emsp; First lecture.
 
 
 ## Syllabus
@@ -43,7 +43,7 @@ The objective of the course is to learn the basic concepts in the statistical pr
   <thead>
     <tr>
       <th scope="col" style='white-space:nowrap'>Week</th>
-      <th scope="col" style='white-space:nowrap'>Date</th>
+      <th scope="col" style='white-space:nowrap'>Date&emsp;&emsp;</th>
       <th scope="col" style='white-space:nowrap'>Topic</th>
       <th scope="col" style='white-space:nowrap'>Slides</th>
       <th scope="col" style='white-space:nowrap'>Readings</th>
@@ -52,8 +52,16 @@ The objective of the course is to learn the basic concepts in the statistical pr
   </thead>
   <tbody>
     <tr>
+      <th scope="row">-</th>
+      <td>14.09.20</td>
+      <td>Knabenschiessen (no class)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <th scope="row">1</th>
-      <td>14.09.2020</td>
+      <td>21.09.20</td>
       <td>Introduction to Natural Language</td>
       <td></td>
       <td></td>
@@ -61,7 +69,7 @@ The objective of the course is to learn the basic concepts in the statistical pr
     </tr>
     <tr>
       <th scope="row">2</th>
-      <td>21.09.2020</td>
+      <td>28.09.20</td>
       <td>Backpropagation</td>
       <td></td>
       <td></td>
@@ -76,7 +84,7 @@ The objective of the course is to learn the basic concepts in the statistical pr
     </tr>
     <tr>
       <th scope="row">3</th>
-      <td>28.09.2020 </td>
+      <td>5.10.20 </td>
       <td>Log-Linear Modeling---Meet the Softmax</td>
       <td></td>
       <td>Eisenstein Ch. 2</td>
@@ -85,7 +93,7 @@ The objective of the course is to learn the basic concepts in the statistical pr
     </tr>
     <tr>
       <th scope="row">4</th>
-      <td>5.10.2020 </td>
+      <td>12.10.20</td>
       <td>Sentiment Analysis with Multi-layer Perceptrons</td>
       <td></td>
       <td>Eisenstein Ch. 3 and Ch. 4</br>Goodfellow, Bengio and Courville Ch. 6</td>
@@ -97,7 +105,7 @@ The objective of the course is to learn the basic concepts in the statistical pr
     </tr>
     <tr>
       <th scope="row">5</th>
-      <td>12.10.2020 </td>
+      <td>19.10.20</td>
       <td>Language Modeling with *n*-grams and LSTMs</td>
       <td></td>
       <td>Eisenstein Ch. 6</br>Goodfellow, Bengio and Courville Ch. 10</td>
@@ -109,7 +117,7 @@ The objective of the course is to learn the basic concepts in the statistical pr
     </tr>
     <tr>
       <th scope="row">6</th>
-      <td>19.10.2020 </td>
+      <td>26.10.20</td>
       <td>Part-of-Speech Tagging with CRFs</td>
       <td></td>
       <td>Eisenstein Ch. 7 and 8</td>
@@ -120,7 +128,7 @@ The objective of the course is to learn the basic concepts in the statistical pr
     </tr>
     <tr>
       <th scope="row">7</th>
-      <td>26.10.2020 </td>
+      <td>2.11.20</td>
       <td>Context-Free Parsing with CKY</td>
       <td></td>
       <td>Eisenstein Ch. 10</td>
@@ -132,7 +140,7 @@ The objective of the course is to learn the basic concepts in the statistical pr
     </tr>
     <tr>
       <th scope="row">8</th>
-      <td>2.11.2020 </td>
+      <td>9.11.20</td>
       <td>Dependency Parsing with the Matrix-Tree Theorem</td>
       <td></td>
       <td>Eisenstein Ch. 11</td>
@@ -143,7 +151,7 @@ The objective of the course is to learn the basic concepts in the statistical pr
     </tr>
     <tr>
       <th scope="row">9</th>
-      <td>9.11.2020 </td>
+      <td>16.11.20</td>
       <td>Transliteration with WFSTs</td>
       <td></td>
       <td>Eisenstein Ch. 9</td>
@@ -152,7 +160,7 @@ The objective of the course is to learn the basic concepts in the statistical pr
     </tr>
     <tr>
       <th scope="row">10</th>
-      <td>16.11.2020 </td>
+      <td>23.11.20</td>
       <td>Machine Translation with Transformers</td>
       <td></td>
       <td>Eisenstein Ch. 18</td>
@@ -162,7 +170,7 @@ The objective of the course is to learn the basic concepts in the statistical pr
     </tr>
     <tr>
       <th scope="row">11</th>
-      <td>23.11.2020</td>
+      <td>30.11.20</td>
       <td>Axes of Modeling</td>
       <td></td>
       <td></td>
@@ -170,7 +178,7 @@ The objective of the course is to learn the basic concepts in the statistical pr
     </tr>
     <tr>
       <th scope="row">12</th>
-      <td>30.11.2020</td>
+      <td>7.12.20</td>
       <td>Bias and Fairness in NLP</td>
       <td></td>
       <td></td>
