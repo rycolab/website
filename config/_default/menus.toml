@@ -32,3 +32,8 @@
   name = "Reading Group"
   url = "#readinggroup"
   weight = 80
+
+[[main]]
+  name = "Joining"
+  url = "#joining"
+  weight = 90
