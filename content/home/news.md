@@ -47,6 +47,18 @@ subtitle = ""
   extensions = ["hardLineBreak"]
 
 +++
+* **15/9:** 9 papers (8 long, 1 short) accepted to EMNLP 2020
+  - If Beam Search is the Answer, What was the Question?
+  - Pareto Probing: Trading-Off Accuracy and Simplicity
+  - Intrinsic Probing through Dimension Selection
+  - Investigating Cross-Linguistic Adjective Ordering Tendencies with a Latent-Variable Model
+  - Speakers Fill Semantic Gaps with Context
+  - Please Mind the Root: Decoding Arborescences for Dependency Parsing
+  - Exploring the Linear Subspace Hypothesis in Gender Bias Mitigation
+  - Finding Concept-specific Biases in Form–Meaning Associations
+&nbsp;
+* **14/9:** *Parameter Space Factorization for Zero-Shot Learning across Tasks and Languages* to appear in TACL 2020.
+&nbsp;
 * **9/2:** **[Eleftheria Tsipidi](authors/eleftheria/)** will start her PhD at ETH Zürich. She will be co-advised by Severin Klinger and Ryan and will be associated with ETH Zurich’s Media Technology Center.
 &nbsp;
 * **29/8:** [Efficient Computation of Expectations under Spanning Tree Distributions](publication/zmigrodal-tacl-20/) to appear in TACL 2020.
