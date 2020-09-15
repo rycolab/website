@@ -48,16 +48,16 @@ subtitle = ""
 
 +++
 * **15/9:** 9 papers (8 long, 1 short) accepted to EMNLP 2020
-  - If Beam Search is the Answer, What was the Question?
-  - Pareto Probing: Trading-Off Accuracy and Simplicity
-  - Intrinsic Probing through Dimension Selection
-  - Investigating Cross-Linguistic Adjective Ordering Tendencies with a Latent-Variable Model
-  - Speakers Fill Semantic Gaps with Context
-  - Please Mind the Root: Decoding Arborescences for Dependency Parsing
-  - Exploring the Linear Subspace Hypothesis in Gender Bias Mitigation
-  - Finding Concept-specific Biases in Form–Meaning Associations
+  - [If Beam Search is the Answer, What was the Question?](publication/meisteral-emnlp-20/)
+  - [Pareto Probing: Trading Off Accuracy and Simplicity](publication/pimentelal-emnlp-20/)
+  - [Intrinsic Probing through Dimension Selection](publication/hennigenal-emnlp-20/)
+  - [Investigating Cross-Linguistic Adjective Ordering Tendencies with a Latent-Variable Model](publication/leungal-emnlp-20/)
+  - [Speakers Fill Semantic Gaps with Context](publication/pimentel-2-al-emnlp-20/)
+  - [Please Mind the Root: Decoding Arborescences for Dependency Parsing](publication/zmigrodal-emnlp-20/)
+  - [Exploring the Linear Subspace Hypothesis in Gender Bias Mitigation](publication/palomocotterell-emnlp-20/)
+  - [Finding Concept-specific Biases in Form–Meaning Associations](publication/pimentel-3-al-emnlp-20/)
 &nbsp;
-* **14/9:** *Parameter Space Factorization for Zero-Shot Learning across Tasks and Languages* to appear in TACL 2020.
+* **14/9:** [Parameter Space Factorization for Zero-Shot Learning across Tasks and Languages](publication/pontial-tacl-20/) to appear in TACL 2020.
 &nbsp;
 * **9/2:** **[Eleftheria Tsipidi](authors/eleftheria/)** will start her PhD at ETH Zürich. She will be co-advised by Severin Klinger and Ryan and will be associated with ETH Zurich’s Media Technology Center.
 &nbsp;
