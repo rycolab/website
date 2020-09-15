@@ -56,6 +56,7 @@ subtitle = ""
   - [Please Mind the Root: Decoding Arborescences for Dependency Parsing](publication/zmigrodal-emnlp-20/)
   - [Exploring the Linear Subspace Hypothesis in Gender Bias Mitigation](publication/palomocotterell-emnlp-20/)
   - [Finding Concept-specific Biases in Form–Meaning Associations](publication/pimentel-3-al-emnlp-20/)
+  - [Measuring the Similarity of Grammatical Gender Systems by Comparing Partitions](publication/mccarthyal-emnlp-20)
 &nbsp;
 * **14/9:** [Parameter Space Factorization for Zero-Shot Learning across Tasks and Languages](publication/pontial-tacl-20/) to appear in TACL 2020.
 &nbsp;

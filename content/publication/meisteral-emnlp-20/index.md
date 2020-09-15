@@ -1,7 +1,7 @@
 ---
 title: "If Beam Search is the Answer, What was the Question?"
 date: 2020-08-01
-publishDate: 2020-09-15T09:43:32.961306Z
+publishDate: 2020-09-15T14:35:00.049655Z
 authors: ["Clara Meister", "Tim Vieira", "Ryan Cotterell"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Investigating Cross-Linguistic Adjective Ordering Tendencies with a Latent-Variable Model"
 date: 2020-08-01
-publishDate: 2020-09-15T09:43:34.667396Z
+publishDate: 2020-09-15T14:35:01.512219Z
 authors: ["Jun Yen Leung", "Guy Emerson", "Ryan Cotterell"]
 publication_types: ["1"]
 abstract: ""
