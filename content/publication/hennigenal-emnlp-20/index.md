@@ -1,7 +1,7 @@
 ---
 title: "Intrinsic Probing through Dimension Selection"
 date: 2020-08-01
-publishDate: 2020-09-15T14:35:01.027873Z
+publishDate: 2020-09-15T16:25:45.836817Z
 authors: ["Lucas Torroba Hennigen", "Adina Williams", "Ryan Cotterell"]
 publication_types: ["1"]
 abstract: ""
