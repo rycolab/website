@@ -31,12 +31,15 @@
   <span class="pub-publication">
     {{ if $page.Params.publication_short }}
       {{ $page.Params.publication_short | markdownify }}
+      <span class="middot-divider"></span>
     {{ else if $page.Params.publication }}
       {{ $page.Params.publication | markdownify }}
+      <span class="middot-divider"></span>
     {{ end }}
+
   {{ end }}
   {{ if eq $page.Type "publication" }}
-  <span class="middot-divider"></span>
+  
   {{ $date := $page.Date.Format (site.Params.publications.date_format) }}
    {{ $date }}
    {{ end}}
