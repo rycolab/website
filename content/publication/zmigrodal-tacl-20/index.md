@@ -1,7 +1,7 @@
 ---
 title: "Efficient Computation of Expectations under Spanning Tree Distributions"
 date: 2020-01-01
-publishDate: 2020-09-15T16:25:44.354167Z
+publishDate: 2020-09-17T11:40:39.056674Z
 authors: ["Ran Zmigrod", "Tim Vieira", "Ryan Cotterell"]
 publication_types: ["2"]
 abstract: ""

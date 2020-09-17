@@ -1,7 +1,7 @@
 ---
-title: "Pareto Probing: Trading Off Accuracy and Simplicity"
-date: 2020-08-01
-publishDate: 2020-09-15T16:25:45.311684Z
+title: "Pareto Probing: Trading Off Accuracy for Simplicity"
+date: 2020-11-01
+publishDate: 2020-09-17T11:40:33.737618Z
 authors: ["Tiago Pimentel", "Naomi Saphra", "Adina Williams", "Ryan Cotterell"]
 publication_types: ["1"]
 abstract: ""

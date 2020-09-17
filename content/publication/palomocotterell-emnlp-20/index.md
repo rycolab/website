@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Linear Subspace Hypothesis in Gender Bias Mitigation"
-date: 2020-08-01
-publishDate: 2020-09-15T16:25:47.731270Z
+date: 2020-11-01
+publishDate: 2020-09-17T11:40:36.085699Z
 authors: ["Francisco Vargas Palomo", "Ryan Cotterell"]
 publication_types: ["1"]
 abstract: ""

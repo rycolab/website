@@ -1,7 +1,7 @@
 ---
 title: "Parameter Space Factorization for Zero-Shot Learning across Tasks and Languages"
 date: 2020-01-01
-publishDate: 2020-09-15T16:25:48.707149Z
+publishDate: 2020-09-17T11:40:39.552238Z
 authors: ["Edoardo M Ponti", "Ivan Vulić", "Ryan Cotterell", "Marinela Parovic", "Roi Reichart", "Anna Korhonen"]
 publication_types: ["2"]
 abstract: ""
