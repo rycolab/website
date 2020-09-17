@@ -47,6 +47,8 @@ subtitle = ""
   extensions = ["hardLineBreak"]
 
 +++
+* **17/9:** [Ryan](authors/ryan/) is publication chair of NAACL 2021.
+&nbsp;
 * **15/9:** 9 papers (8 long, 1 short) accepted to EMNLP 2020
   - [If Beam Search is the Answer, What was the Question?](publication/meisteral-emnlp-20/)
   - [Pareto Probing: Trading Off Accuracy and Simplicity](publication/pimentelal-emnlp-20/)
