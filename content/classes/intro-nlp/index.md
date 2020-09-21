@@ -45,7 +45,7 @@ The objective of the course is to learn the basic concepts in the statistical pr
       <th scope="col" style='white-space:nowrap'>Week</th>
       <th scope="col" style='white-space:nowrap'>Date&emsp;&emsp;</th>
       <th scope="col" style='white-space:nowrap'>Topic</th>
-      <th scope="col" style='white-space:nowrap'>Slides</th>
+      <th scope="col" style='white-space:nowrap'>Slides&emsp;&emsp;</th>
       <th scope="col" style='white-space:nowrap'>Readings</th>
       <th scope="col" style='white-space:nowrap'>Supplementary Material</th>
     </tr>
@@ -63,7 +63,7 @@ The objective of the course is to learn the basic concepts in the statistical pr
       <th scope="row">1</th>
       <td>21.09.20</td>
       <td>Introduction to Natural Language</td>
-      <td></td>
+      <td><a href="slides/lecture1.pdf">Lecture 1</a></td>
       <td></td>
       <td></td>
     </tr>
