@@ -23,7 +23,7 @@ The objective of the course is to learn the basic concepts in the statistical pr
 
 **Lectures:** Mon 12-14h Zoom (link to be emailed day of lecture)
 
-**Discussion Sections:** Tues 13-14h Zoom (link to be emailed day of discussion)
+**Discussion Sections:** Wednesday 13-14h Zoom (link to be emailed day of discussion)
 
 **Textbooks:** [Introduction to Natural Language Processing (Eisenstein)](https://www.amazon.de/Jacob-Eisenstein/dp/0262042843/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=30OMHV1C018JY&dchild=1&keywords=introduction+to+natural+language+processing&qid=1598878964&sprefix=introduction+to+na%2Caps%2C148&sr=8-1)  
 &emsp;&emsp;&emsp;&emsp;&emsp; [Deep Learning (Goodfellow, Bengio and Courville)](https://www.deeplearningbook.org/)
