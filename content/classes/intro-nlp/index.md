@@ -64,7 +64,7 @@ The objective of the course is to learn the basic concepts in the statistical pr
       <td>21.09.20</td>
       <td>Introduction to Natural Language</td>
       <td><a href="slides/lecture1.pdf">Lecture 1</a></td>
-      <td></td>
+      <td>Eisenstein Ch. 1</td>
       <td></td>
     </tr>
     <tr>
