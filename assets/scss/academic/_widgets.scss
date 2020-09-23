@@ -283,6 +283,13 @@ a.hero-cta-alt:hover {
   object-fit: cover;
 }
 
+.avatar-small {
+  width: 180px;
+  height: 180px;
+  margin: 0 auto;
+  object-fit: cover;
+}
+
 // Use smaller avatar size in About widget on small devices.
 @include media-breakpoint-down(sm) {
   .wg-about .avatar {
