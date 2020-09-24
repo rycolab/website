@@ -58,5 +58,6 @@ Clara recently started her PhD with Ryan at ETH Zurich. She received her B.S. an
 Native Language: English
 
 Animal Form: Grumpy Cat
+
 <img  class="avatar-small" src="grumpy-cat.jpg" style="float: center" />
 

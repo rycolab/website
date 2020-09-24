@@ -61,3 +61,7 @@ Jun is a video game programmer at Electric Square. They are also interested in c
 
 Native Languages: English and Cantonese
 
+Animal Form: Orca
+
+<!-- <img  class="avatar-small" src="orca.jpg" style="float: center" />
+ -->

@@ -65,4 +65,6 @@ Edoardo is a prospective postdoctoral fellow at [Mila](https://mila.quebec/en/) 
 
 Native Language: Italian
 
+Animal Form: Water bear (Tardigrade)
 
+<img  class="avatar-small" src="tardigrade.jpg" style="float: center" />

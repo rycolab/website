@@ -63,3 +63,7 @@ user_groups:
 Ekaterina Vylomova is a Postdoctoral Fellow at the University of Melbourne. She holds a PhD in Computer Science obtained from the University of Melbourne. Her research is focused on compositionality modelling for morphology, models for derivational morphology, neural machine translation, and diachronic language modeling. 
 
 Native Language: Russian
+
+Animal Form: Northern mockingbird (Mimus polyglottos) 
+
+<img  class="avatar-small" src="bird.jpg" style="float: center" />

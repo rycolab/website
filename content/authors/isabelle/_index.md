@@ -64,4 +64,7 @@ user_groups:
 
 Isabelle is an associate professor at the University of Copenhagen, Department of Computer Science and works in the general areas of Statistical Natural Language Processing and Machine Learning
 
+Animal Form: Owl 
 
+<!-- <img  class="avatar-small" src="owl.jpg" style="float: center" />
+ -->

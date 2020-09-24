@@ -63,3 +63,8 @@ user_groups:
 Ran is a second-year PhD student at the University of Cambridge advised by Ryan. Previously, Ran completed the Computer Science Tripos at the University of Cambridge and continued on to Part III where he was also advised by Ryan. He is primarily interested in research regarding algorithms in NLP and parsing, and is picking up new interests as he goes along. While he waits for his systems to train he likes to play tennis, lacrosse and do stand-up comedy.
 
 Native Language: Hebrew
+
+Animal Form: Honey badger
+
+<!-- <img  class="avatar-small" src="honey-badger.jpg" style="float: center" />
+ -->

@@ -77,3 +77,7 @@ I am curious about most things: [Simone Teufel](https://www.cl.cam.ac.uk/~sht25/
 ![alt text][fam]
 
 [fam]: image2.png "Family"
+
+Animal Form: Raccoon
+
+<img  class="avatar-small" src="raccoon.jpg" style="float: center" />

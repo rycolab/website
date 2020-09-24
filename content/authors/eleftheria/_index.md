@@ -50,3 +50,7 @@ user_groups:
 Eleftheria is a first-year PhD student in Computer Science at ETH Zurich. She will be co-supervised by [Severin Klinger](https://people.inf.ethz.ch/~kseverin/) and Ryan and is associated with ETH Zurich’s [Media Technology Center](https://mtc.ethz.ch/). Previously, she was a Research Engineer at Disney Research where she worked on natural language understanding and emotion classification. Eleftheria received an MSc in Artificial Intelligence with specialization in NLP from the [University of Edinburgh](https://www.ed.ac.uk/) where her thesis was on machine translation. Before that, she received a BA in English Language and Literature with specialization in Linguistics from the [University of Athens](https://en.wikipedia.org/wiki/National_and_Kapodistrian_University_of_Athens). At the moment, her research focuses on multilingual text summarization. Research-wise, she is also interested in the application of NLP and ML to the study of mass media. Outside of research, Eleftheria likes tea, [TvTropes](https://tvtropes.org/), wholesome memes, and playing soundtracks by ear on the piano.
 
 Native Language: Greek
+
+Animal Form: House cat
+
+<img  class="avatar-small" src="cat.png" style="float: center" />

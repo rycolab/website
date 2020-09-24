@@ -67,3 +67,7 @@ Tiago is a second-year PhD student in Computer Science at the University of Camb
 
 Native Language: Portuguese
 
+Animal Form: Sea turtle
+
+<!-- <img  class="avatar-small" src="seaa-turtle.jpg" style="float: center" />
+ -->
