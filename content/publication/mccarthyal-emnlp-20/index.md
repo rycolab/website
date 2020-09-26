@@ -1,7 +1,7 @@
 ---
 title: "Measuring the Similarity of Grammatical Gender Systems by Comparing Partitions"
 date: 2020-11-01
-publishDate: 2020-09-17T11:40:37.064466Z
+publishDate: 2020-09-26T06:11:21.618727Z
 authors: ["Arya D. McCarthy", "Adina Williams", "Shijia Liu", "David Yarowsky", "Ryan Cotterell"]
 publication_types: ["1"]
 abstract: ""

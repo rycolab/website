@@ -59,9 +59,6 @@ subtitle = ""
   - [Exploring the Linear Subspace Hypothesis in Gender Bias Mitigation](publication/palomocotterell-emnlp-20/)
   - [Measuring the Similarity of Grammatical Gender Systems by Comparing Partitions](publication/mccarthyal-emnlp-20)
 &nbsp;
-* **15/9:** 1 long paper accepted to Findings of EMNLP
-  - [Finding Concept-specific Biases in Form–Meaning Associations](publication/pimentel-3-al-emnlp-20/)
-&nbsp;
 * **14/9:** [Parameter Space Factorization for Zero-Shot Learning across Tasks and Languages](publication/pontial-tacl-20/) to appear in TACL 2020.
 &nbsp;
 * **9/2:** **[Eleftheria Tsipidi](authors/eleftheria/)** will start her PhD at ETH Zürich. She will be co-advised by Severin Klinger and Ryan and will be associated with ETH Zurich’s Media Technology Center.
