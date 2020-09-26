@@ -33,6 +33,15 @@ profile = false
   </thead>
   <tbody>
     <tr>
+      <th scope="row">2/10</th>
+      <td>Tiago</td>
+      <td>V-Information</td>
+      <td><a href="https://openreview.net/forum?id=r1eBeyHFDH">A Theory of Usable Information under Computational Constraints</a></td>
+      <td>Yilun Xu, Shengjia Zhao, Jiaming Song, Russell Stewart, Stefano Ermon</td>
+      <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
+        data-filename="bibs/xu-etal-2020-information.bib">Cite</button></td>
+    </tr>
+    <tr>
       <th scope="row">25/9</th>
       <td>Tianyu</td>
       <td>Coreference Resolution</td>
