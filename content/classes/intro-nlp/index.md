@@ -201,7 +201,7 @@ If you have questions which are not of general interest, please don't hesitate t
     </tr>
     <tr>
       <td>Teaching Assistants</td>
-      <td><a href="mailto:meistecl@inf.ethz.ch">Clara Meister</a>, <a href="mailto:niklas.stoehr@inf.ethz.ch">Niklas Stoehr</a></td>
+      <td><a href="mailto:meistecl@inf.ethz.ch">Clara Meister</a>, <a href="mailto:niklas.stoehr@inf.ethz.ch">Niklas Stoehr</a>, <a href="mailto:pinjia.he@inf.ethz.ch">Pinjia He</a>, <a href="mailto:mkuznetsova@inf.ethz.ch">Rita Kuznetsova</a></td>
     </tr>
     
   </tbody>

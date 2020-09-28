@@ -47,6 +47,10 @@ subtitle = ""
   extensions = ["hardLineBreak"]
 
 +++
+* **15/12:** [Ryan](authors/ryan/) is giving an invited talk at the University of Geneva.
+&nbsp;
+* **11/11:** [Ryan](authors/ryan/) is giving an invited talk at Moscow State University.
+&nbsp;
 * **17/9:** [Ryan](authors/ryan/) is publication chair of NAACL 2021.
 &nbsp;
 * **15/9:** 8 papers (7 long, 1 short) accepted to EMNLP 2020
