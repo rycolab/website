@@ -71,7 +71,7 @@ The objective of the course is to learn the basic concepts in the statistical pr
       <th scope="row">2</th>
       <td>28.09.20</td>
       <td>Backpropagation</td>
-      <td></td>
+      <td><a href="slides/lecture2.pdf">Lecture 2</a></td>
       <td></td>
       <td>
         <a href="https://colah.github.io/posts/2015-08-Backprop/">Chris Olah's Blog</a></br>
