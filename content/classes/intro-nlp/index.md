@@ -123,7 +123,8 @@ The objective of the course is to learn the basic concepts in the statistical pr
       <td>Part-of-Speech Tagging with CRFs</td>
       <td></td>
       <td>Eisenstein Ch. 7 and 8</td>
-      <td><a href="https://dl.acm.org/doi/10.5555/645529.658277">McCallum et al. (2000)</a></br>
+      <td><a href="https://timvieira.github.io/blog/post/2015/04/29/multiclass-logistic-regression-and-conditional-random-fields-are-the-same-thing/">Tim Vieira's Blog</a></br>
+        <a href="https://dl.acm.org/doi/10.5555/645529.658277">McCallum et al. (2000)</a></br>
         <a href="https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers">Lafferty et al. (2001)</a></br>
         <a href="https://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf">Sutton and McCallum (2011)</a></br>
         <a href="https://mitpress.mit.edu/books/probabilistic-graphical-models">Koller and Friedman (2009)</a></td>
