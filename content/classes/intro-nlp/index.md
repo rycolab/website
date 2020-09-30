@@ -2,7 +2,8 @@
 +++
 title = 'Natural Language Processing'
 subtitle = 'ETH Zürich, Autumn 2020: [Course catalog](http://vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2020W&lang=de&ansicht=EINSCHRAENKUNGEN&lerneinheitId=141758)'
-summary = 'This course presents an introduction to general topics and techniques used in natural language processing today, primarily focusing on statistical approaches. The course provides an overview of the primary areas of research in language processing as well as a detailed exploration of the models and techniques used both in research and in commercial natural language systems.'
+summary = 'This course presents topics in natural language processing with an emphasis on modern techniques, primarily focusing on statistical and deep learning approaches. The course provides an overview of the primary areas of research in language processing as well as a detailed exploration of the models and techniques used both in research and in commercial natural language systems.'
+
 date = "2020-31-08T00:00:00Z"
 featured = false
 draft = false
@@ -33,6 +34,7 @@ The objective of the course is to learn the basic concepts in the statistical pr
 **31.08** &emsp; Class website is online!  
 **31.08** &emsp; We are using piazza as our discussion forum. Please enroll [here](https://www.piazza.com/ethz.ch/fall2020/252300500l).  
 **21.09** &emsp; First lecture.
+**30.09** &emsp; First discussion section.
 
 
 ## Syllabus

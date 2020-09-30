@@ -64,6 +64,6 @@ Ekaterina Vylomova is a Postdoctoral Fellow at the University of Melbourne. She 
 
 Native Language: Russian
 
-Animal Form: Northern mockingbird (Mimus polyglottos) 
+Animal Form: Mimus polyglottos
 
 <img  class="avatar-small" src="bird.jpg" style="float: center" />

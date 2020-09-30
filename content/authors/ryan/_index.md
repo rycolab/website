@@ -78,6 +78,6 @@ I am curious about most things: [Simone Teufel](https://www.cl.cam.ac.uk/~sht25/
 
 [fam]: image2.png "Family"
 
-Animal Form: Raccoon
+Animal Form: Wug
 
-<img  class="avatar-small" src="raccoon.jpg" style="float: center" />
+<img  class="avatar-small" src="wug.png" style="float: center" />
