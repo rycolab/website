@@ -51,6 +51,8 @@ subtitle = ""
 &nbsp;
 * **11/11:** [Ryan](authors/ryan/) is giving an invited talk at Moscow State University.
 &nbsp;
+* **25/9:** Through ETH Zurich, we are officially part of the ELLIS PhD program, which supports PhDs and Post-Docs by providing access to leading researchers through boot camps, summer schools and workshops of the ELLIS programs.
+&nbsp;
 * **17/9:** [Ryan](authors/ryan/) is publication chair of NAACL 2021.
 &nbsp;
 * **15/9:** 8 papers (7 long, 1 short) accepted to EMNLP 2020
