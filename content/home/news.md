@@ -14,6 +14,7 @@ subtitle = ""
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
+  line_spacing = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
