@@ -48,13 +48,15 @@ subtitle = ""
 
 +++
 * **15/12:** [Ryan](authors/ryan/) is giving an invited talk at the University of Geneva.
-&nbsp;
+
 * **11/11:** [Ryan](authors/ryan/) is giving an invited talk at Moscow State University.
-&nbsp;
+
+* **30/9:** [Paula Czarnowska's](authors/paula/) paper Morphologically Aware Word-Level Translation was accepted to COLING 2020. Joint work with Ryan, [Sebastian Ruder](https://ruder.io/), and [Anne Copestake](https://www.cl.cam.ac.uk/~aac10/). We are super excited for the release of Paula's follow-up to her well received EMNLP 2019 paper [Don't Forget the Long Tail! A Comprehensive Analysis of Morphological Generalization in Bilingual Lexicon Induction](https://arxiv.org/abs/1909.02855).
+
 * **25/9:** Through ETH Zurich, we are officially part of the [ELLIS PhD program](https://ellis.eu/phd-postdoc), which supports PhDs and Post-Docs by providing access to leading researchers through boot camps, summer schools and workshops of the ELLIS programs.
-&nbsp;
+
 * **17/9:** [Ryan](authors/ryan/) is publication chair of NAACL 2021.
-&nbsp;
+
 * **15/9:** 8 papers (7 long, 1 short) accepted to EMNLP 2020
   - [If Beam Search is the Answer, What was the Question?](publication/meisteral-emnlp-20/)
   - [Pareto Probing: Trading Off Accuracy and Simplicity](publication/pimentelal-emnlp-20/)
@@ -64,25 +66,25 @@ subtitle = ""
   - [Please Mind the Root: Decoding Arborescences for Dependency Parsing](publication/zmigrodal-emnlp-20/)
   - [Exploring the Linear Subspace Hypothesis in Gender Bias Mitigation](publication/palomocotterell-emnlp-20/)
   - [Measuring the Similarity of Grammatical Gender Systems by Comparing Partitions](publication/mccarthyal-emnlp-20)
-&nbsp;
+
 * **14/9:** [Parameter Space Factorization for Zero-Shot Learning across Tasks and Languages](publication/pontial-tacl-20/) to appear in TACL 2020.
-&nbsp;
+
 * **9/2:** **[Eleftheria Tsipidi](authors/eleftheria/)** will start her PhD at ETH Zürich. She will be co-advised by Severin Klinger and Ryan and will be associated with ETH Zurich’s Media Technology Center.
-&nbsp;
+
 * **29/8:** [Efficient Computation of Expectations under Spanning Tree Distributions](publication/zmigrodal-tacl-20/) to appear in TACL 2020.
-&nbsp;
+
 * **7/7:** [Best-First Beam Search](publication/meisteral-tacl-20/) to appear in TACL 2020.
-&nbsp;
+
 * **2/7:** [Reading group](#readinggroup) is back for the summer!!
-&nbsp;
+
 * **4/5:** [On the Relationships Between the Grammatical Genders of Inanimate Nouns and Their Co-Occurring Adjectives and Verbs](publication/williamsal-tacl-20/) to appear in TACL 2020.
-&nbsp;
+
 * **30/4:** **[Rowan Hall Maudslay](authors/rowan/)** receives the Leslie Wilson Vice-Chancellor's Scholarship which will fund his entire doctoral studies in the Computer Laboratory (Department of Computer Science and Technology) at the University of Cambridge. He will be co-advised by Ryan Cotterell and Simone Teufel. Congrats, Rowan!
-&nbsp;
+
 * **28/4:** **[Niklas Stoehr](authors/niklas/)** will start his PhD at ETH Zürich in October 2020. He will be co-advised by Ryan Cotterell and Bob West of EPF Lausanne.  
-&nbsp;
+
 * **23/4:** **[Jennifer White](authors/jen/)** receives funding for the entirety of her PhD at the University of Cambridge; she is to be co-advised by Ryan Cotterell and Simone Teufel. Congrats, Jennifer!
-&nbsp;
+
 * **4/4:** 7 papers (5 long, 2 short) accepted to ACL 2020
   - [Information-Theoretic Probing for Linguistic Structure](publication/pimentelal-acl-20/)
   - [A Tale of a Probe and a Parser](publication/hall-maudslayal-acl-20/)
