@@ -52,7 +52,7 @@ subtitle = ""
 
 * **11/11:** [Ryan](authors/ryan/) is giving an invited talk at Moscow State University.
 
-* **30/9:** [Paula Czarnowska's](authors/paula/) paper Morphologically Aware Word-Level Translation was accepted to COLING 2020. Joint work with Ryan, [Sebastian Ruder](https://ruder.io/), and [Anne Copestake](https://www.cl.cam.ac.uk/~aac10/). We are super excited for the release of Paula's follow-up to her well received EMNLP 2019 paper [Don't Forget the Long Tail! A Comprehensive Analysis of Morphological Generalization in Bilingual Lexicon Induction](https://arxiv.org/abs/1909.02855).
+* **30/9:** [Paula Czarnowska's](authors/paula/) paper Morphologically Aware Word-Level Translation was accepted to COLING 2020. Joint work with Ryan, [Sebastian Ruder](https://ruder.io/), and [Ann Copestake](https://www.cl.cam.ac.uk/~aac10/). We are super excited for the release of Paula's follow-up to her well received EMNLP 2019 paper [Don't Forget the Long Tail! A Comprehensive Analysis of Morphological Generalization in Bilingual Lexicon Induction](https://arxiv.org/abs/1909.02855).
 
 * **25/9:** Through ETH Zurich, we are officially part of the [ELLIS PhD program](https://ellis.eu/phd-postdoc), which supports PhDs and Post-Docs by providing access to leading researchers through boot camps, summer schools and workshops of the ELLIS programs.
 
