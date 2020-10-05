@@ -166,6 +166,14 @@ The objective of the course is to learn the basic concepts in the statistical pr
     <tr>
       <th scope="row">10</th>
       <td>23.11.20</td>
+      <td>No Class (EMNLP Deadline)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">11</th>
+      <td>30.11.20</td>
       <td>Machine Translation with Transformers</td>
       <td></td>
       <td>Eisenstein Ch. 18</td>
@@ -174,16 +182,16 @@ The objective of the course is to learn the basic concepts in the statistical pr
         <a href="https://www.aclweb.org/anthology/W18-2509/">Rush (2018)</a></td>
     </tr>
     <tr>
-      <th scope="row">11</th>
-      <td>30.11.20</td>
+      <th scope="row">12</th>
+      <td>7.12.20</td>
       <td>Axes of Modeling</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <th scope="row">12</th>
-      <td>7.12.20</td>
+      <th scope="row">13</th>
+      <td>14.12.20</td>
       <td>Bias and Fairness in NLP</td>
       <td></td>
       <td></td>
