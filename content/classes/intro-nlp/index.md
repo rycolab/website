@@ -90,7 +90,8 @@ The objective of the course is to learn the basic concepts in the statistical pr
       <th scope="row">3</th>
       <td>5.10.20 </td>
       <td>Log-Linear Modeling---Meet the Softmax</td>
-      <td><a href="slides/lecture3.pdf">Lecture 3</a></td>
+      <td><a href="slides/lecture3.pdf">Lecture 3</a></br>
+        <a href="slides/log-linear-tutorial.pdf">Tutorial</a></td>
       <td>Eisenstein Ch. 2</td>
       <td><a href="https://www.cs.jhu.edu/~jason/papers/ferraro+eisner.tnlp13.pdf">Ferraro and Eisner (2013)</a></br>
         <a href="http://cs.jhu.edu/~jason/tutorials/loglin/further.html">Jason Eisner’s list of further resources on log-linear modeling</a></td>
