@@ -21,6 +21,11 @@ This course presents topics in natural language processing with an emphasis on m
 
 The objective of the course is to learn the basic concepts in the statistical processing of natural languages. The course will be project-oriented so that the students can also gain hands-on experience with state-of-the-art tools and techniques.
 
+#### Grading
+Marks for the course will be determined by the following formula:  
+* 70% Final Exam  
+* 30% Course Project/Assignment
+
 
 **Lectures:** Mon 12-14h Zoom (link to be emailed and posted on piazza day of lecture)
 
@@ -33,8 +38,9 @@ The objective of the course is to learn the basic concepts in the statistical pr
 
 **31.08** &emsp; Class website is online!  
 **31.08** &emsp; We are using piazza as our discussion forum. Please enroll [here](https://www.piazza.com/ethz.ch/fall2020/252300500l).  
-**21.09** &emsp; First lecture.
-**30.09** &emsp; First discussion section.
+**21.09** &emsp; First lecture.  
+**30.09** &emsp; First discussion section.  
+**1.11** &emsp; Project proposals due for groups electing to do research project (submission instructions to come).
 
 
 ## Syllabus
@@ -201,6 +207,12 @@ The objective of the course is to learn the basic concepts in the statistical pr
     
   </tbody>
 </table>
+
+## Course Project/Assignment
+
+The course project/assigment will be worth 30% of your final mark. Every student has the option of completing either a research project or a structured assignment. The project would be an open-ended research project where students reimplement an existing research paper or perform novel research if they are so inclined. In the assignment, some of the questions would be more theoretical and resemble the questions you will see on the final exam. However, there may also be a large coding portion in the assignment, which would not look like the exam questions. For instance, we may ask you to implement a recurrent neural dependency parser. 
+
+Assignments must be completed individually. Projects can be completed in groups of up to 4. If you choose to do the project, we require a proposal no later than November 1, 2020 (submission instructions to be released soon). We will (unless severely impeded) release the assignment before the proposal deadline in case students would like to see both options before choosing. All projects/assigments will be due at the end of the semester.
 
 ## Contact
 You can ask questions on [piazza](https://www.piazza.com/ethz.ch/fall2020/252300500l). Please post questions there, so others can see them and share in the discussion.
