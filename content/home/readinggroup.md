@@ -52,6 +52,6 @@ subtitle = "[SEE FULL READING LIST](readinggroup)"
 **19/9**: [Centering: A Framework for Modeling the Local Coherence of Discourse](https://www.aclweb.org/anthology/J95-2003/)
 **25/9**: [End-to-end Neural Coreference Resolution](https://arxiv.org/abs/1707.07045)
 **2/10**: [A Theory of Usable Information under Computational Constraints](https://openreview.net/forum?id=r1eBeyHFDH)
-**9/10**: Variational Dropout
+**9/10**: [Learning Sparse Networks Using Targeted Dropout](https://arxiv.org/abs/1905.13678)
 
 
