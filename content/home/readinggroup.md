@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
 title = "ETHZ++ NLP Reading Group"
-subtitle = "[SEE FULL READING LIST](readinggroup)"
+subtitle = "[SEE FULL READING LIST HISTORY](readinggroup)"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -49,9 +49,8 @@ subtitle = "[SEE FULL READING LIST](readinggroup)"
 
 <span style="color:grey">Our lab, along with Mrinmaya Sachan's lab, meets weekly on Fridays at 15:00 CEST. Here's what we're reading!</span>
 
-**19/9**: [Centering: A Framework for Modeling the Local Coherence of Discourse](https://www.aclweb.org/anthology/J95-2003/)
-**25/9**: [End-to-end Neural Coreference Resolution](https://arxiv.org/abs/1707.07045)
 **2/10**: [A Theory of Usable Information under Computational Constraints](https://openreview.net/forum?id=r1eBeyHFDH)
 **9/10**: [Learning Sparse Networks Using Targeted Dropout](https://arxiv.org/abs/1905.13678)
+**16/10**: [Utility is in the Eye of the User: A Critique of NLP Leaderboards](https://arxiv.org/pdf/2009.13888.pdf)
 
 

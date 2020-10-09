@@ -34,6 +34,24 @@ profile = false
   <tbody>
     <tr>
       <th scope="row">2/10</th>
+      <td>Shehzaad</td>
+      <td>Critique of Leaderboards</td>
+      <td><a href="https://arxiv.org/pdf/2009.13888.pdf">Utility is in the Eye of the User: A Critique of NLP Leaderboards</a></td>
+      <td>Kawin Ethayarajh and Dan Jurafsky</td>
+      <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
+        data-filename="bibs/ethayarajh-2020-utility.bib">Cite</button></td>
+    </tr>
+    <tr>
+      <th scope="row">2/10</th>
+      <td>Jiaoda</td>
+      <td>Dropout and Pruning</td>
+      <td><a href="https://arxiv.org/abs/1905.13678">Learning Sparse Networks Using Targeted Dropout</a></td>
+      <td>Aidan N. Gomez, Ivan Zhang, Siddhartha Rao Kamalakara, Divyam Madaan, Kevin Swersky, Yarin Gal, Geoffrey E. Hinton</td>
+      <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
+        data-filename="bibs/gomez-2020-dropout.bib">Cite</button></td>
+    </tr>
+    <tr>
+      <th scope="row">2/10</th>
       <td>Tiago</td>
       <td>V-Information</td>
       <td><a href="https://openreview.net/forum?id=r1eBeyHFDH">A Theory of Usable Information under Computational Constraints</a></td>
