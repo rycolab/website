@@ -112,7 +112,9 @@ Marks for the course will be determined by the following formula:
         <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.441.7873&rep=rep1&type=pdf">Cybenko (1989)</a></br>
         <a href="https://arxiv.org/pdf/1710.11278.pdf">Hanin and Selke (2018)</a></br>
         <a href="https://www.cs.cornell.edu/home/llee/omsa/omsa.pdf">Pang and Lee (2008)</a></br>
-        <a href="https://www.aclweb.org/anthology/P15-1162/">Iyyer et al. (2015)</a></br></td>
+        <a href="https://www.aclweb.org/anthology/P15-1162/">Iyyer et al. (2015)</a></br>
+      <a href="https://arxiv.org/pdf/1411.2738.pdf">word2vec Parameter Learning Explained</a></br>
+    <a href="https://arxiv.org/pdf/1402.3722.pdf">word2vec Explained</a></br></td>
     </tr>
     <tr>
       <th scope="row">5</th>
