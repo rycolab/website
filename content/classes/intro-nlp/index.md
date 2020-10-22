@@ -176,7 +176,7 @@ Marks for the course will be determined by the following formula:
     <tr>
       <th scope="row">10</th>
       <td>23.11.20</td>
-      <td>No Class (EMNLP Deadline)</td>
+      <td>No Class (NAACL Deadline)</td>
       <td></td>
       <td></td>
       <td></td>
