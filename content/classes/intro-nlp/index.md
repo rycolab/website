@@ -133,7 +133,7 @@ Marks for the course will be determined by the following formula:
       <th scope="row">6</th>
       <td>26.10.20</td>
       <td>Part-of-Speech Tagging with CRFs</td>
-      <td></td>
+      <td><a href="slides/lecture6.pdf">Lecture 6</a></td>
       <td>Eisenstein Ch. 7 and 8</td>
       <td><a href="https://timvieira.github.io/blog/post/2015/04/29/multiclass-logistic-regression-and-conditional-random-fields-are-the-same-thing/">Tim Vieira's Blog</a></br>
         <a href="https://dl.acm.org/doi/10.5555/645529.658277">McCallum et al. (2000)</a></br>
