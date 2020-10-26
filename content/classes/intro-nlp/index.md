@@ -121,7 +121,8 @@ Marks for the course will be determined by the following formula:
       <th scope="row">5</th>
       <td>19.10.20</td>
       <td>Language Modeling with *n*-grams and LSTMs</td>
-      <td><a href="slides/lecture5.pdf">Lecture 5</a></td>
+      <td><a href="slides/lecture5.pdf">Lecture 5</a></br>
+        <a href="slides/lang-model-tutorial.pdf">Tutorial</a></td>
       <td>Eisenstein Ch. 6</br>Goodfellow, Bengio and Courville Ch. 10</td>
       <td><a href="https://nlp.stanford.edu/~wcmac/papers/20050421-smoothing-tutorial.pdf">Good Tutorial on n-gram smoothing</a></br>
         <a href="https://en.wikipedia.org/wiki/Good%E2%80%93Turing_frequency_estimation">Good–Turing Smoothing</a></br>
