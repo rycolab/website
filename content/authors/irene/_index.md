@@ -30,7 +30,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:ikn20@cam.ac.uk" 
+  link: "mailto:irene.nikkarinen@gmail.com" 
 - icon: github
   icon_pack: fab
   link: https://github.com/irenenikk

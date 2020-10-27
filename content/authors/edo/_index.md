@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: University of Cambridge
-  url: "https://www.cam.ac.uk/"
+- name: Mila Montreal
+  url: "https://mila.quebec/en/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: PhD student at the University of Cambridge
@@ -33,7 +33,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:ep490@cam.ac.uk"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:edoardo-maria.ponti@mila.quebec"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/PontiEdoardo
@@ -59,7 +59,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Members
+- Frequent Collaborators
 ---
 Edoardo is a prospective postdoctoral fellow at [Mila](https://mila.quebec/en/) in Montreal, Canada. He is expected to complete his Ph.D. at the [University of Cambridge](https://www.cam.ac.uk/) in September 2020.  In Cambridge, he was affiliated with [St John's College](https://www.joh.cam.ac.uk/) and supervised by Prof. [Anna Korhonen](https://www.cl.cam.ac.uk/~alk23/) and [Ivan Vulić](https://sites.google.com/site/ivanvulic/). As an undergrad, he studied modern literature at the [University of Pavia](http://wcm-3.unipv.it/site/en/home.html), Italy. He works closely with Ryan. He previously interned as an AI/ML researcher at [Apple](https://www.apple.com/) in Cupertino. His research has been supported by a [Google Research Faculty Award](https://ai.google/research/outreach/faculty-research-awards/) and an [ERC PoC](https://www.mmll.cam.ac.uk/news/prof-anna-korhonens-project-enabling-multilingual-conversational-ai-awarded-erc-proof-concept) grant for projects co-written with his supervisors. His research focuses on few-shot multilingual learning and on text-based commonsense reasoning. 
 
