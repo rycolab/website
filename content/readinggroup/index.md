@@ -23,7 +23,7 @@ profile = false
 <table class="table" style='word-wrap:break-word'>
   <thead>
     <tr>
-      <th scope="col" style='white-space:nowrap'>Date</th>
+      <th scope="col" style='white-space:nowrap'>Date&emsp;</th>
       <th scope="col" style='white-space:nowrap'>Presenter(s)</th>
       <th scope="col" style='white-space:nowrap'>Topic</th>
       <th scope="col" style='white-space:nowrap'>Title</th>
@@ -33,16 +33,34 @@ profile = false
   </thead>
   <tbody>
     <tr>
-      <th scope="row">2/10</th>
+      <th scope="row">30/10</th>
+      <td>Marinela</td>
+      <td>Pruning</td>
+      <td><a href="https://arxiv.org/pdf/1803.03635.pdf">The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks</a></td>
+      <td>Jonathan Frankle, Michael Carbin</td>
+      <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
+        data-filename="bibs/frankle-2019-lottery.bib">Cite</button></td>
+    </tr>
+    <tr>
+      <th scope="row">23/10</th>
+      <td>Afra</td>
+      <td>Sampling without Replacement</td>
+      <td><a href="https://arxiv.org/pdf/2002.09067.pdf">Incremental Sampling Without Replacement for Sequence Models</a></td>
+      <td>Kensen Shi, David Bieber, Charles Sutton</td>
+      <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
+        data-filename="bibs/shi-swor-2020.bib">Cite</button></td>
+    </tr>
+    <tr>
+      <th scope="row">16/10</th>
       <td>Shehzaad</td>
       <td>Critique of Leaderboards</td>
       <td><a href="https://arxiv.org/pdf/2009.13888.pdf">Utility is in the Eye of the User: A Critique of NLP Leaderboards</a></td>
-      <td>Kawin Ethayarajh and Dan Jurafsky</td>
+      <td>Kawin Ethayarajh, Dan Jurafsky</td>
       <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
         data-filename="bibs/ethayarajh-2020-utility.bib">Cite</button></td>
     </tr>
     <tr>
-      <th scope="row">2/10</th>
+      <th scope="row">9/10</th>
       <td>Jiaoda</td>
       <td>Dropout and Pruning</td>
       <td><a href="https://arxiv.org/abs/1905.13678">Learning Sparse Networks Using Targeted Dropout</a></td>

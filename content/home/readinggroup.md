@@ -49,8 +49,7 @@ subtitle = "[SEE FULL READING LIST HISTORY](readinggroup)"
 
 <span style="color:grey">Our lab, along with Mrinmaya Sachan's lab, meets weekly on Fridays at 15:00 CEST. Here's what we're reading!</span>
 
-**2/10**: [A Theory of Usable Information under Computational Constraints](https://openreview.net/forum?id=r1eBeyHFDH)
-**9/10**: [Learning Sparse Networks Using Targeted Dropout](https://arxiv.org/abs/1905.13678)
 **16/10**: [Utility is in the Eye of the User: A Critique of NLP Leaderboards](https://arxiv.org/pdf/2009.13888.pdf)
-
+**23/10**: [Incremental Sampling Without Replacement for Sequence Models](https://arxiv.org/pdf/2002.09067.pdf)
+**30/10**: [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/pdf/1803.03635.pdf)
 
