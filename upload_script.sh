@@ -22,6 +22,6 @@ fi
 echo "Cleaning up"
 rm -r $TEMP
 cd public
-git add .
-git commit -m "${MESSAGE}"
-git push origin master
+#git add .
+#git commit -m "${MESSAGE}"
+#git push origin master

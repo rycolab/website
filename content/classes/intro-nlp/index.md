@@ -206,7 +206,11 @@ Marks for the course will be determined by the following formula:
       <td>Bias and Fairness in NLP</td>
       <td></td>
       <td></td>
-      <td><a href="http://ciml.info/dl/v0_99/ciml-v0_99-ch08.pdf">A Course in Machine Learning Chapter 8</a></td>
+      <td><a href="https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf">Bolukabasi et al. (2016)</a></br>
+        <a href="https://arxiv.org/abs/1903.03862">Gonen and Goldberg (2019)</a></br>
+        <a href="https://arxiv.org/abs/1909.00871">Hall Maudslay et al. (2019)</a></br>
+        <a href="https://arxiv.org/abs/2009.09435">Vargas and Cotterell (2020)</a></br>
+        <a href="http://ciml.info/dl/v0_99/ciml-v0_99-ch08.pdf">A Course in Machine Learning Chapter 8</a></td>
     </tr>
     
   </tbody>
