@@ -14,7 +14,7 @@ DESTINATION=public/
 TEMP=`mktemp -d`
 echo "Building from $SOURCE"
 hugo --source="$SOURCE" --destination="$TEMP"
-cp $DESTINATION/{.git, CNAME} $TEMP
+cp "$DESTINATION"/{.git, CNAME} $TEMP
 if [ $? -eq 0 ]; then
     echo "Syncing to $DESTINATION"
     rsync -aq --delete "$TEMP/" "$DESTINATION"
