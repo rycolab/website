@@ -23,7 +23,9 @@ bio:
 
 
 interests:
-- parsing
+- beautiful algorithms
+- unit-tested code
+- handstands
 
 
 # Social/Academic Networking
