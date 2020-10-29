@@ -21,7 +21,7 @@ if [ $? -eq 0 ]; then
 fi
 echo "Cleaning up"
 rm -r $TEMP
-cd public
-git add .
-git commit -m "${MESSAGE}"
-git push origin master
+#cd public
+#git add .
+#git commit -m "${MESSAGE}"
+#git push origin master
