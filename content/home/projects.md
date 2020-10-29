@@ -53,5 +53,5 @@ Please send an email to [ryan.cotterell@inf.ethz.ch](mailto:ryan.cotterell@inf.e
 
 ### Project Announcements
 
-[Bayesian Meta-Learning for Natural Language Processing](https://drive.google.com/file/d/1lguq0TpaOEvQXE44dekIhLjf9L8KCpe1/view?usp=sharing) – Vincent Fortuin, Edoardo Ponti, Ryan Cotterell
+[Bayesian Meta-Learning for NLP](https://drive.google.com/file/d/1lguq0TpaOEvQXE44dekIhLjf9L8KCpe1/view?usp=sharing) – Vincent Fortuin, Edoardo Ponti, Ryan Cotterell
 
