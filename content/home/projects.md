@@ -50,3 +50,8 @@ subtitle = ""
 If you are a BSc or MSc student at ETHZ interested in writing your thesis with us, we would be delighted to hear from you! We accept students who are seeking an independent research project as well. Our research broadly revolves around theoretical and applied problems in Natural Language Processing, Computational Linguistics, Machine Learning and Statistics. To obtain a better understanding of what currently interests us, we invite you to check our recent publications. However, feel free to express interest in any topic you think our group might be well suited to advise you on: Just because we have not yet looked into a topic does not mean we are not interested in it or willing to become interested in the topic. 
 &nbsp;
 Please send an email to [ryan.cotterell@inf.ethz.ch](mailto:ryan.cotterell@inf.ethz.ch)  with CC to [clara.meister@inf.ethz.ch](mailto:clara.meister@inf.ethz.ch) and [niklas.stoehr@inf.ethz.ch](mailto:niklas.stoehr@inf.ethz.ch) and state either [bachelor’s thesis] or [master’s thesis] at the start of the subject. For us to get to know you a little, please write a paragraph introducing yourself and why you are interested in working with us. It would help us a lot if you also provided a list of four or five more concrete topics that you are interested in. We will try our best to find a project that suits your interests. We are looking forward to receiving your inquiry!
+
+### Project Announcements
+
+[Bayesian Meta-Learning for Natural Language Processing](https://drive.google.com/file/d/1lguq0TpaOEvQXE44dekIhLjf9L8KCpe1/view?usp=sharing) – Vincent Fortuin, Edoardo Ponti, Ryan Cotterell
+
