@@ -40,7 +40,9 @@ Marks for the course will be determined by the following formula:
 **31.08** &emsp; We are using piazza as our discussion forum. Please enroll [here](https://www.piazza.com/ethz.ch/fall2020/252300500l).  
 **21.09** &emsp; First lecture.  
 **30.09** &emsp; First discussion section.  
-**1.11** &emsp; Project proposals due for groups electing to do research project (submission instructions to come).
+**16.10** &emsp; [Project guidelines](materials/project_guidelines.pdf) released.  
+**23.10** &emsp; [First part](materials/assignment.pdf) of course assignment released.     
+**1.11** &emsp;&ensp; Project proposals due for groups electing to do research project (submission instructions to come).
 
 
 ## Syllabus
@@ -218,7 +220,7 @@ Marks for the course will be determined by the following formula:
 
 ## Course Project/Assignment
 
-The course project/assigment will be worth 30% of your final mark. Every student has the option of completing either a research project or a structured assignment. The project would be an open-ended research project where students reimplement an existing research paper or perform novel research if they are so inclined. Please find the guidelines <a href="materials/project_guidelines.pdf">here</a>. In the assignment, some of the questions would be more theoretical and resemble the questions you will see on the final exam. However, there may also be a large coding portion in the assignment, which would not look like the exam questions. For instance, we may ask you to implement a recurrent neural dependency parser. Please find the first portion of the assignment <a href="materials/assignment.pdf">here</a>.
+Every student has the option of completing *either* a research project or a structured assignment. The course project/assigment will be worth 30% of your final mark. The project would be an open-ended research project where students reimplement an existing research paper or perform novel research if they are so inclined. Please find the guidelines <a href="materials/project_guidelines.pdf">here</a>. In the assignment, some of the questions would be more theoretical and resemble the questions you will see on the final exam. However, there may also be a large coding portion in the assignment, which would not look like the exam questions. For instance, we may ask you to implement a recurrent neural dependency parser. Please find the first portion of the assignment <a href="materials/assignment.pdf">here</a>.
 
 Assignments must be completed individually. Projects can be completed in groups of up to 4. If you choose to do the project, we require a proposal no later than November 1, 2020 23:59 CEST. Please see project guidelines for content/formatting instructions; email proposals to Clara (email address below) by the deadline. All projects/assigments will be due at the end of the semester.
 
