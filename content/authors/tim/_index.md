@@ -20,8 +20,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-Tim develops machine learning algorithms for tough problems—tending toward applications in natural language processing and programming languages.
-When he's not in front of a whiteboard or computer, he's probably climbing things, walking around on his hands, or hanging out with Hanna Wallach and [@maia.the.pomsky](@maia.the.pomsky).
 
 
 interests:
@@ -65,5 +63,8 @@ email: ""
 user_groups:
 - Frequent Collaborators
 ---
+
+Tim develops machine learning algorithms for tough problems—tending toward applications in natural language processing and programming languages.
+When he's not in front of a whiteboard or computer, he's probably climbing things, walking around on his hands, or hanging out with Hanna Wallach and [@maia.the.pomsky](@maia.the.pomsky).
 
 
