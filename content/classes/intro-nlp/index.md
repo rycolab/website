@@ -40,9 +40,10 @@ Marks for the course will be determined by the following formula:
 **31.08** &emsp; We are using piazza as our discussion forum. Please enroll [here](https://www.piazza.com/ethz.ch/fall2020/252300500l).  
 **21.09** &emsp; First lecture.  
 **30.09** &emsp; First discussion section.  
-**16.10** &emsp; [Project guidelines](materials/project_guidelines.pdf) released.  
-**23.10** &emsp; [First part](materials/assignment.pdf) of course assignment released.     
-**1.11** &emsp;&ensp; Project proposals due for groups electing to do research project (submission instructions to come).
+**16.10** &emsp; [Project guidelines](https://drive.google.com/file/d/125XGqBMwGHpFc6pS1JNhmbEXFpt_hGHC/view?usp=sharing) released.  
+**23.10** &emsp; [First part](https://drive.google.com/file/d/1amwSapXHa-PkxIM45nRyK_jaTYeHtw2b/view?usp=sharing) of course assignment released.   
+**1.11** &emsp;&ensp; Project proposals due for groups electing to do research project (submission instructions to come).  
+**4.11** &emsp;&ensp; [LaTex template](https://www.overleaf.com/read/vdpvbjpwrrvb) for course assignment released.
 
 
 ## Syllabus
@@ -73,7 +74,7 @@ Marks for the course will be determined by the following formula:
       <th scope="row">1</th>
       <td>21.09.20</td>
       <td>Introduction to Natural Language</td>
-      <td><a href="slides/lecture1.pdf">Lecture 1</a></td>
+      <td><a href="https://drive.google.com/file/d/1QzLLQ5vEzMSG5T-FWaGSHwwHxiw-htD1/view?usp=sharing">Lecture 1</a></td>
       <td>Eisenstein Ch. 1</td>
       <td></td>
     </tr>
@@ -81,7 +82,7 @@ Marks for the course will be determined by the following formula:
       <th scope="row">2</th>
       <td>28.09.20</td>
       <td>Backpropagation</td>
-      <td><a href="slides/lecture2.pdf">Lecture 2</a></td>
+      <td><a href="https://drive.google.com/file/d/1eK14-qNV7t6aZrrnLp3_4jCTFB-vFMEw/view?usp=sharing">Lecture 2</a></td>
       <td></td>
       <td>
         <a href="https://colah.github.io/posts/2015-08-Backprop/">Chris Olah's Blog</a></br>
@@ -91,15 +92,15 @@ Marks for the course will be determined by the following formula:
         <a href="https://core.ac.uk/download/pdf/82480031.pdf">Baur and Strassen (1983)</a></br>
         <a href="https://www.amazon.co.uk/Evaluating-Derivatives-Principles-Algorithmic-Differentiation/dp/0898716594/ref=sr_1_1?dchild=1&keywords=griewank&qid=1598888684&s=books&sr=1-1">Griewank and Walter (2008)</a></br>
         <a href="https://www.cs.jhu.edu/~jason/papers/eisner.spnlp16.pdf">Eisner (2016)</a></br>
-        <a href="materials/mlp_comp_graph.pdf">Computation Graph for MLP</a></br>
-        <a href="materials/comp_graph.pdf">Computation Graph Example</a></td>
+        <a href="https://drive.google.com/file/d/1XWRz4yMi2A5BZSRSgnnbRJikqz7RYtrN/view?usp=sharing">Computation Graph for MLP</a></br>
+        <a href="https://drive.google.com/file/d/1hsYIXXd6cEWocrhI-pQ4Ox8FG49Otu_m/view?usp=sharing">Computation Graph Example</a></td>
     </tr>
     <tr>
       <th scope="row">3</th>
       <td>5.10.20 </td>
       <td>Log-Linear Modeling---Meet the Softmax</td>
-      <td><a href="slides/lecture3.pdf">Lecture 3</a></br>
-        <a href="slides/log-linear-tutorial.pdf">Tutorial</a></td>
+      <td><a href="https://drive.google.com/file/d/1lIyqnOTmHdBMaF7ZJGXK_1FAVoYcy4UU/view?usp=sharing">Lecture 3</a></br>
+        <a href="https://drive.google.com/file/d/1ZDzByTlWmnrM4xpFZc2FOVt_-JZQNoG-/view?usp=sharing">Tutorial</a></td>
       <td>Eisenstein Ch. 2</td>
       <td><a href="https://www.cs.jhu.edu/~jason/papers/ferraro+eisner.tnlp13.pdf">Ferraro and Eisner (2013)</a></br>
         <a href="http://cs.jhu.edu/~jason/tutorials/loglin/further.html">Jason Eisner’s list of further resources on log-linear modeling</a></td>
@@ -108,8 +109,8 @@ Marks for the course will be determined by the following formula:
       <th scope="row">4</th>
       <td>12.10.20</td>
       <td>Sentiment Analysis with Multi-layer Perceptrons</td>
-      <td><a href="slides/lecture4.pdf">Lecture 4</a></br>
-        <a href="slides/recnn-tutorial.pdf">Tutorial</a></td>
+      <td><a href="https://drive.google.com/file/d/1wgVbAq5bpm-YGDHU0YCsB4JwM-5WZqRp/view?usp=sharing">Lecture 4</a></br>
+        <a href="https://drive.google.com/file/d/1s2i8M28bfVaVkM-YQs4Vv1ilJalqAuDn/view?usp=sharing">Tutorial</a></td>
       <td>Eisenstein Ch. 3 and Ch. 4</br>Goodfellow, Bengio and Courville Ch. 6</td>
       <td><a href="https://en.wikipedia.org/wiki/Universal_approximation_theorem">Wikipedia</a></br>
         <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.441.7873&rep=rep1&type=pdf">Cybenko (1989)</a></br>
@@ -123,8 +124,8 @@ Marks for the course will be determined by the following formula:
       <th scope="row">5</th>
       <td>19.10.20</td>
       <td>Language Modeling with *n*-grams and LSTMs</td>
-      <td><a href="slides/lecture5.pdf">Lecture 5</a></br>
-        <a href="slides/lang-model-tutorial.pdf">Tutorial</a></td>
+      <td><a href="https://drive.google.com/file/d/1oh3GCSaELhR9sbtmu2Ek_WKDUtD5LVdt/view?usp=sharing">Lecture 5</a></br>
+        <a href="https://drive.google.com/file/d/1bKJaHOZjvbYJgkssFmIi7Qaw6z1Otnxa/view?usp=sharing">Tutorial</a></td>
       <td>Eisenstein Ch. 6</br>Goodfellow, Bengio and Courville Ch. 10</td>
       <td><a href="https://nlp.stanford.edu/~wcmac/papers/20050421-smoothing-tutorial.pdf">Good Tutorial on n-gram smoothing</a></br>
         <a href="https://en.wikipedia.org/wiki/Good%E2%80%93Turing_frequency_estimation">Good–Turing Smoothing</a></br>
@@ -136,7 +137,8 @@ Marks for the course will be determined by the following formula:
       <th scope="row">6</th>
       <td>26.10.20</td>
       <td>Part-of-Speech Tagging with CRFs</td>
-      <td><a href="slides/lecture6.pdf">Lecture 6</a></td>
+      <td><a href="https://drive.google.com/file/d/1obhXXD9i_1sUMFXijYJ-Y5Rcmdb1su2Y/view?usp=sharing">Lecture 6</a></br>
+        <a href="https://drive.google.com/file/d/1obhXXD9i_1sUMFXijYJ-Y5Rcmdb1su2Y/view?usp=sharing">Tutorial</a></td>
       <td>Eisenstein Ch. 7 and 8</td>
       <td><a href="https://timvieira.github.io/blog/post/2015/04/29/multiclass-logistic-regression-and-conditional-random-fields-are-the-same-thing/">Tim Vieira's Blog</a></br>
         <a href="https://dl.acm.org/doi/10.5555/645529.658277">McCallum et al. (2000)</a></br>
@@ -147,6 +149,14 @@ Marks for the course will be determined by the following formula:
     <tr>
       <th scope="row">7</th>
       <td>2.11.20</td>
+      <td>Review</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">8</th>
+      <td>9.11.20</td>
       <td>Context-Free Parsing with CKY</td>
       <td></td>
       <td>Eisenstein Ch. 10</td>
@@ -157,8 +167,8 @@ Marks for the course will be determined by the following formula:
         <a href="http://www.softwarepreservation.org/projects/FORTRAN/CockeSchwartz_ProgLangCompilers.pdf">Cocke and Schwartz (1970)</a></td>
     </tr>
     <tr>
-      <th scope="row">8</th>
-      <td>9.11.20</td>
+      <th scope="row">9</th>
+      <td>16.11.20</td>
       <td>Dependency Parsing with the Matrix-Tree Theorem</td>
       <td></td>
       <td>Eisenstein Ch. 11</td>
@@ -166,15 +176,6 @@ Marks for the course will be determined by the following formula:
         <a href="https://www.aclweb.org/anthology/D07-1014/">Smith and Smith (2007)</a></br>
         <a href="https://www.aclweb.org/anthology/W07-2216/">McDonald and Satta (2007)</a></br>
         <a href="https://www.morganclaypool.com/doi/abs/10.2200/S00169ED1V01Y200901HLT002">McDonald, Kübler and Nivre (2009)</a></td>
-    </tr>
-    <tr>
-      <th scope="row">9</th>
-      <td>16.11.20</td>
-      <td>Transliteration with WFSTs</td>
-      <td></td>
-      <td>Eisenstein Ch. 9</td>
-      <td><a href="https://www.aclweb.org/anthology/J98-4003.pdf">Knight and Graehl (1998)</a></br>
-        <a href="https://cs.nyu.edu/~mohri/pub/hbka.pdf">Mohri, Pereira and Riley (2008)</a></td>
     </tr>
     <tr>
       <th scope="row">10</th>
@@ -187,20 +188,21 @@ Marks for the course will be determined by the following formula:
     <tr>
       <th scope="row">11</th>
       <td>30.11.20</td>
+      <td>Transliteration with WFSTs</td>
+      <td></td>
+      <td>Eisenstein Ch. 9</td>
+      <td><a href="https://www.aclweb.org/anthology/J98-4003.pdf">Knight and Graehl (1998)</a></br>
+        <a href="https://cs.nyu.edu/~mohri/pub/hbka.pdf">Mohri, Pereira and Riley (2008)</a></td>
+    </tr>
+    <tr>
+      <th scope="row">12</th>
+      <td>7.12.20</td>
       <td>Machine Translation with Transformers</td>
       <td></td>
       <td>Eisenstein Ch. 18</td>
       <td><a href="https://www.amazon.com/gp/product/1108497322/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1108497322&linkCode=as2&tag=statismachint-20&linkId=ca7b8315b48f309c992019761c3ac4e4">Neural Machine Translation</a></br>
         <a href="https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf">Vaswani et al. (2017)</a></br>
         <a href="https://www.aclweb.org/anthology/W18-2509/">Rush (2018)</a></td>
-    </tr>
-    <tr>
-      <th scope="row">12</th>
-      <td>7.12.20</td>
-      <td>Axes of Modeling</td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <th scope="row">13</th>
@@ -220,9 +222,15 @@ Marks for the course will be determined by the following formula:
 
 ## Course Project/Assignment
 
-Every student has the option of completing *either* a research project or a structured assignment. The course project/assigment will be worth 30% of your final mark. The project would be an open-ended research project where students reimplement an existing research paper or perform novel research if they are so inclined. Please find the guidelines <a href="materials/project_guidelines.pdf">here</a>. In the assignment, some of the questions would be more theoretical and resemble the questions you will see on the final exam. However, there may also be a large coding portion in the assignment, which would not look like the exam questions. For instance, we may ask you to implement a recurrent neural dependency parser. Please find the first portion of the assignment <a href="materials/assignment.pdf">here</a>.
+Every student has the option of completing *either* a research project or a structured assignment. The course project/assigment will be worth 30% of your final mark. The project would be an open-ended research project where students reimplement an existing research paper or perform novel research if they are so inclined. Please find the guidelines below. In the assignment, some of the questions would be more theoretical and resemble the questions you will see on the final exam. However, there may also be a large coding portion in the assignment, which would not look like the exam questions. For instance, we may ask you to implement a recurrent neural dependency parser. Please find the first portion of the assignment and the writeup template below.
 
 Assignments must be completed individually. Projects can be completed in groups of up to 4. If you choose to do the project, we require a proposal no later than November 1, 2020 23:59 CEST. Please see project guidelines for content/formatting instructions; email proposals to Clara (email address below) by the deadline. All projects/assigments will be due at the end of the semester.
+
+## Materials
+
+- [Project Guidelines](https://drive.google.com/file/d/125XGqBMwGHpFc6pS1JNhmbEXFpt_hGHC/view?usp=sharing)
+- [Course Assignment: Part 1](https://drive.google.com/file/d/1amwSapXHa-PkxIM45nRyK_jaTYeHtw2b/view?usp=sharing)
+- [Course Assignment LaTex Template](https://www.overleaf.com/read/vdpvbjpwrrvb)
 
 ## Contact
 You can ask questions on [piazza](https://www.piazza.com/ethz.ch/fall2020/252300500l). Please post questions there, so others can see them and share in the discussion.
