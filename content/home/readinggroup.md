@@ -49,7 +49,7 @@ subtitle = "[SEE FULL READING LIST HISTORY](readinggroup)"
 
 <span style="color:grey">Our lab, along with Mrinmaya Sachan's lab, meets weekly on Fridays at 15:00 CEST. Here's what we're reading!</span>
 
-**16/10**: [Utility is in the Eye of the User: A Critique of NLP Leaderboards](https://arxiv.org/pdf/2009.13888.pdf)
 **23/10**: [Incremental Sampling Without Replacement for Sequence Models](https://arxiv.org/pdf/2002.09067.pdf)
-**30/10**: [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/pdf/1803.03635.pdf)
+**30/10**: [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/pdf/1803.03635.pdf)  
+**6/11**: [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](http://proceedings.mlr.press/v48/gal16.pdf)
 

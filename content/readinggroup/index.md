@@ -33,13 +33,22 @@ profile = false
   </thead>
   <tbody>
     <tr>
+      <th scope="row">6/11</th>
+      <td>Sankalan</td>
+      <td>MC-Dropout</td>
+      <td><a href="http://proceedings.mlr.press/v48/gal16.pdf">Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning</a></td>
+      <td>Yarin Gal, Zoubin Ghahramani</td>
+      <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
+        data-filename="bibs/frankle-2019-lottery.bib">Cite</button></td>
+    </tr>
+    <tr>
       <th scope="row">30/10</th>
       <td>Marinela</td>
       <td>Pruning</td>
       <td><a href="https://arxiv.org/pdf/1803.03635.pdf">The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks</a></td>
       <td>Jonathan Frankle, Michael Carbin</td>
       <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
-        data-filename="bibs/frankle-2019-lottery.bib">Cite</button></td>
+        data-filename="bibs/gal-2016-mcdropout.bib">Cite</button></td>
     </tr>
     <tr>
       <th scope="row">23/10</th>
