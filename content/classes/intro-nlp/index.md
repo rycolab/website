@@ -41,7 +41,7 @@ Marks for the course will be determined by the following formula:
 **21.09** &emsp; First lecture.  
 **30.09** &emsp; First discussion section.  
 **16.10** &emsp; [Project guidelines](https://drive.google.com/file/d/125XGqBMwGHpFc6pS1JNhmbEXFpt_hGHC/view?usp=sharing) released.  
-**23.10** &emsp; [First part](https://drive.google.com/file/d/1amwSapXHa-PkxIM45nRyK_jaTYeHtw2b/view?usp=sharing) of course assignment released.   
+**23.10** &emsp; [First part](https://drive.google.com/file/d/1EcLANxfCsW8xHyT8JYB7CSVYp8WxNQhP/view?usp=sharing) of course assignment released.   
 **1.11** &emsp;&ensp; Project proposals due for groups electing to do research project (submission instructions to come).  
 **4.11** &emsp;&ensp; [LaTex template](https://www.overleaf.com/read/vdpvbjpwrrvb) for course assignment released.
 
@@ -229,7 +229,7 @@ Assignments must be completed individually. Projects can be completed in groups 
 ## Materials
 
 - [Project Guidelines](https://drive.google.com/file/d/125XGqBMwGHpFc6pS1JNhmbEXFpt_hGHC/view?usp=sharing)
-- [Course Assignment: Part 1](https://drive.google.com/file/d/1amwSapXHa-PkxIM45nRyK_jaTYeHtw2b/view?usp=sharing)
+- [Course Assignment: Part 1](https://drive.google.com/file/d/1EcLANxfCsW8xHyT8JYB7CSVYp8WxNQhP/view?usp=sharing)
 - [Course Assignment LaTex Template](https://www.overleaf.com/read/vdpvbjpwrrvb)
 
 ## Contact
