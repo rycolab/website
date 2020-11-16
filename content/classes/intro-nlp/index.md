@@ -233,9 +233,7 @@ Assignments must be completed individually. Projects can be completed in groups 
 - [Course Assignment LaTex Template](https://www.overleaf.com/read/vdpvbjpwrrvb)
 
 ## Contact
-You can ask questions on [piazza](https://www.piazza.com/ethz.ch/fall2020/252300500l). Please post questions there, so others can see them and share in the discussion.
-
-If you have questions which are not of general interest, please don't hesitate to contact us directly.
+You can ask questions on [piazza](https://www.piazza.com/ethz.ch/fall2020/252300500l). Please post questions there, so others can see them and share in the discussion. If you have questions which are not of general interest, please don't hesitate to contact us directly.
 
 <table class="table">
   <tbody>
