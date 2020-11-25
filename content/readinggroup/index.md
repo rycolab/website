@@ -33,6 +33,14 @@ profile = false
   </thead>
   <tbody>
     <tr>
+      <th scope="row">27/11</th>
+      <td>Clara</td>
+      <td>Mirror Descent</td>
+      <td><a href="https://vene.ro/blog/mirror-descent.html">Optimizing with constraints: reparametrization and geometry</a></td>
+      <td>Vlad Niculae</td>
+      <td></td>
+    </tr>
+    <tr>
       <th scope="row">6/11</th>
       <td>Sankalan</td>
       <td>MC-Dropout</td>
