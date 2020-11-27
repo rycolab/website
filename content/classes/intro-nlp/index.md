@@ -157,6 +157,14 @@ Marks for the course will be determined by the following formula:
     <tr>
       <th scope="row">8</th>
       <td>9.11.20</td>
+      <td>Class canceled</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">9</th>
+      <td>16.11.20</td>
       <td>Context-Free Parsing with CKY</td>
       <td><a href="https://drive.google.com/file/d/1Y2c-a4i0HFu3VMCENh-NlC5GM3ZOqfwm/view">Lecture 8</a></td>
       <td>Eisenstein Ch. 10</td>
@@ -165,17 +173,6 @@ Marks for the course will be determined by the following formula:
         <a href="https://www.ideals.illinois.edu/handle/2142/74304">Kasami (1966)</a></br>
         <a href="https://www.sciencedirect.com/science/article/pii/S001999586780007X?via%3Dihub">Younger (1967)</a></br>
         <a href="http://www.softwarepreservation.org/projects/FORTRAN/CockeSchwartz_ProgLangCompilers.pdf">Cocke and Schwartz (1970)</a></td>
-    </tr>
-    <tr>
-      <th scope="row">9</th>
-      <td>16.11.20</td>
-      <td>Dependency Parsing with the Matrix-Tree Theorem</td>
-      <td></td>
-      <td>Eisenstein Ch. 11</td>
-      <td><a href="https://www.aclweb.org/anthology/D07-1015/">Koo et al. (2007)</a></br>
-        <a href="https://www.aclweb.org/anthology/D07-1014/">Smith and Smith (2007)</a></br>
-        <a href="https://www.aclweb.org/anthology/W07-2216/">McDonald and Satta (2007)</a></br>
-        <a href="https://www.morganclaypool.com/doi/abs/10.2200/S00169ED1V01Y200901HLT002">McDonald, Kübler and Nivre (2009)</a></td>
     </tr>
     <tr>
       <th scope="row">10</th>
@@ -188,6 +185,17 @@ Marks for the course will be determined by the following formula:
     <tr>
       <th scope="row">11</th>
       <td>30.11.20</td>
+      <td>Dependency Parsing with the Matrix-Tree Theorem</td>
+      <td></td>
+      <td>Eisenstein Ch. 11</td>
+      <td><a href="https://www.aclweb.org/anthology/D07-1015/">Koo et al. (2007)</a></br>
+        <a href="https://www.aclweb.org/anthology/D07-1014/">Smith and Smith (2007)</a></br>
+        <a href="https://www.aclweb.org/anthology/W07-2216/">McDonald and Satta (2007)</a></br>
+        <a href="https://www.morganclaypool.com/doi/abs/10.2200/S00169ED1V01Y200901HLT002">McDonald, Kübler and Nivre (2009)</a></td>
+    </tr>
+    <tr>
+      <th scope="row">12</th>
+      <td>TBA</td>
       <td>Transliteration with WFSTs</td>
       <td></td>
       <td>Eisenstein Ch. 9</td>
@@ -196,7 +204,7 @@ Marks for the course will be determined by the following formula:
     </tr>
     <tr>
       <th scope="row">12</th>
-      <td>7.12.20</td>
+      <td>TBA</td>
       <td>Machine Translation with Transformers</td>
       <td></td>
       <td>Eisenstein Ch. 18</td>

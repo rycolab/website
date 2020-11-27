@@ -1,27 +1,43 @@
-MESSAGE=${1}
-
-rm -r public
-git submodule add -f -b master https://github.com/rycolab/rycolab.github.io.git public
-git add .
-git commit -m "${MESSAGE}"
-git push -u origin master
-
 #!/bin/bash
+set -e
 
-SOURCE='.'
-DESTINATION=public/
+rm -rf public
+git submodule add -f -b master https://github.com/rycolab/rycolab.github.io.git public
 
-TEMP=`mktemp -d`
-echo "Building from $SOURCE"
-hugo --source="$SOURCE" --destination="$TEMP"
-cp "$DESTINATION"/{.git,CNAME} $TEMP
-if [ $? -eq 0 ]; then
-    echo "Syncing to $DESTINATION"
-    rsync -aq --delete "$TEMP/" "$DESTINATION"
-fi
-echo "Cleaning up"
-rm -r $TEMP
+printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
+
+# Build the project.
+hugo --gc
+
+# Go To Public folder
 cd public
-git add .
-git commit -m "${MESSAGE}"
+
+# Add changes to git.
+git add -A
+
+# Commit changes.
+msg="rebuilding site $(date)"
+if [ -n "$*" ]; then
+	msg="$*"
+fi
+git commit -m "$msg"
+
+# Push source and build repos.
 git push origin master
+
+cd ..
+git add -A
+git commit -m "$msg"
+git push origin master
+
+# SOURCE='.'
+# DESTINATION=public/
+
+# TEMP=`mktemp -d`
+# echo "Building from $SOURCE"
+# hugo --source="$SOURCE" --destination="$TEMP"
+# cp "$DESTINATION"/{.git,CNAME} $TEMP
+# if [ $? -eq 0 ]; then
+#     echo "Syncing to $DESTINATION"
+#     rsync -aq --delete "$TEMP/" "$DESTINATION"
+# fi
