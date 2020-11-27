@@ -55,3 +55,5 @@ Please send an email to [ryan.cotterell@inf.ethz.ch](mailto:ryan.cotterell@inf.e
 
 [Bayesian Meta-Learning for NLP](https://drive.google.com/file/d/1lguq0TpaOEvQXE44dekIhLjf9L8KCpe1/view?usp=sharing) – Vincent Fortuin, Edoardo Ponti, Ryan Cotterell
 
+[News Attention and Stance Detection in Armed Conflict Reporting](https://drive.google.com/file/d/1xEuGkhvtObs3eJlbzgzpemVaNNzlnGYy/view?usp=sharing) – Niklas Stoehr, Ryan Cotterell
+
