@@ -27,7 +27,7 @@ Marks for the course will be determined by the following formula:
 * 30% Course Project/Assignment
 
 
-**Lectures:** Mon 12-14h Zoom (link to be emailed and posted on piazza day of lecture)
+**Lectures:** Mon 12-14h Zoom (recurring link, same password as previous lectures: [https://ethz.zoom.us/j/4548886166?pwd=cFdUMEZoTnByaEI0NXZCeU5MTHpVUT09](https://ethz.zoom.us/j/4548886166?pwd=cFdUMEZoTnByaEI0NXZCeU5MTHpVUT09))
 
 **Discussion Sections:** Wednesday 13-14h Zoom (link to be emailed and posted on piazza day of discussion)
 
@@ -44,7 +44,8 @@ Marks for the course will be determined by the following formula:
 **23.10** &emsp; [First part](https://drive.google.com/file/d/1EcLANxfCsW8xHyT8JYB7CSVYp8WxNQhP/view?usp=sharing) of course assignment released.   
 **1.11** &emsp;&ensp; Project proposals due for groups electing to do research project (submission instructions to come).  
 **4.11** &emsp;&ensp; [LaTex template](https://www.overleaf.com/read/vdpvbjpwrrvb) for course assignment released.  
-**30.11** &emsp; Makeup class to be held on last Friday of semester (18.12).
+**30.11** &emsp; Makeup class to be held on last Friday of semester (18.12).  
+**11.12** &emsp; Progress report for class project is due.
 
 
 ## Syllabus
@@ -167,7 +168,7 @@ Marks for the course will be determined by the following formula:
       <th scope="row">9</th>
       <td>16.11.20</td>
       <td>Context-Free Parsing with CKY</td>
-      <td><a href="https://drive.google.com/file/d/1Y2c-a4i0HFu3VMCENh-NlC5GM3ZOqfwm/view">Lecture 8</a></td>
+      <td><a href="https://drive.google.com/file/d/1Y2c-a4i0HFu3VMCENh-NlC5GM3ZOqfwm/view">Lecture 7</a></td>
       <td>Eisenstein Ch. 10</td>
       <td><a href="http://www.cs.columbia.edu/~mcollins/io.pdf">The Inside-Outside Algorithm</a></br>
         <a href="https://www.cs.jhu.edu/~jason/465/PowerPoint/lect08-parse.ppt">Jason Eisner’s Slides</a></br>
@@ -187,7 +188,7 @@ Marks for the course will be determined by the following formula:
       <th scope="row">11</th>
       <td>30.11.20</td>
       <td>Dependency Parsing with the Matrix-Tree Theorem</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1OpcMu9K69zXt2KhaKvozaOQK9O-hKxj9/view?usp=sharing">Lecture 8</a></td>
       <td>Eisenstein Ch. 11</td>
       <td><a href="https://www.aclweb.org/anthology/D07-1015/">Koo et al. (2007)</a></br>
         <a href="https://www.aclweb.org/anthology/D07-1014/">Smith and Smith (2007)</a></br>
@@ -233,7 +234,7 @@ Marks for the course will be determined by the following formula:
 
 Every student has the option of completing *either* a research project or a structured assignment. The course project/assigment will be worth 30% of your final mark. The project would be an open-ended research project where students reimplement an existing research paper or perform novel research if they are so inclined. Please find the guidelines below. In the assignment, some of the questions would be more theoretical and resemble the questions you will see on the final exam. However, there may also be a large coding portion in the assignment, which would not look like the exam questions. For instance, we may ask you to implement a recurrent neural dependency parser. Please find the first portion of the assignment and the writeup template below.
 
-Assignments must be completed individually. Projects can be completed in groups of up to 4. If you choose to do the project, we require a proposal no later than November 1, 2020 23:59 CEST. Please see project guidelines for content/formatting instructions; email proposals to Clara (email address below) by the deadline. All projects/assigments will be due at the end of the semester.
+Assignments must be completed individually. Projects can be completed in groups of up to 4. If you choose to do the project, we require a proposal no later than November 1, 2020 23:59 CEST. Further, a progress report is due **December 11, 2020 23:59 CEST**. Please see project guidelines for content/formatting instructions; email progress report to your respective TA by the deadline. All projects/assigments will be due at the end of the semester.
 
 ## Materials
 
