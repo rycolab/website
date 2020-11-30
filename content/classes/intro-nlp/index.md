@@ -43,7 +43,8 @@ Marks for the course will be determined by the following formula:
 **16.10** &emsp; [Project guidelines](https://drive.google.com/file/d/125XGqBMwGHpFc6pS1JNhmbEXFpt_hGHC/view?usp=sharing) released.  
 **23.10** &emsp; [First part](https://drive.google.com/file/d/1EcLANxfCsW8xHyT8JYB7CSVYp8WxNQhP/view?usp=sharing) of course assignment released.   
 **1.11** &emsp;&ensp; Project proposals due for groups electing to do research project (submission instructions to come).  
-**4.11** &emsp;&ensp; [LaTex template](https://www.overleaf.com/read/vdpvbjpwrrvb) for course assignment released.
+**4.11** &emsp;&ensp; [LaTex template](https://www.overleaf.com/read/vdpvbjpwrrvb) for course assignment released.  
+**30.11** &emsp; Makeup class to be held on last Friday of semester (18.12).
 
 
 ## Syllabus
@@ -195,7 +196,7 @@ Marks for the course will be determined by the following formula:
     </tr>
     <tr>
       <th scope="row">12</th>
-      <td>TBA</td>
+      <td>7.12.20</td>
       <td>Transliteration with WFSTs</td>
       <td></td>
       <td>Eisenstein Ch. 9</td>
@@ -203,8 +204,8 @@ Marks for the course will be determined by the following formula:
         <a href="https://cs.nyu.edu/~mohri/pub/hbka.pdf">Mohri, Pereira and Riley (2008)</a></td>
     </tr>
     <tr>
-      <th scope="row">12</th>
-      <td>TBA</td>
+      <th scope="row">13</th>
+      <td>14.12.20</td>
       <td>Machine Translation with Transformers</td>
       <td></td>
       <td>Eisenstein Ch. 18</td>
@@ -214,7 +215,7 @@ Marks for the course will be determined by the following formula:
     </tr>
     <tr>
       <th scope="row">13</th>
-      <td>14.12.20</td>
+      <td>18.12.20</td>
       <td>Bias and Fairness in NLP</td>
       <td></td>
       <td></td>
