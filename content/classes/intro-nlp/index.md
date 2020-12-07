@@ -23,7 +23,7 @@ The objective of the course is to learn the basic concepts in the statistical pr
 
 #### Grading
 Marks for the course will be determined by the following formula:  
-* 70% Final Exam  
+* 70% Final Exam  (Feb. 17, 2021; One A4 sheet of handwritten notes will be permitted)
 * 30% Course Project/Assignment
 
 
@@ -199,7 +199,7 @@ Marks for the course will be determined by the following formula:
       <th scope="row">12</th>
       <td>7.12.20</td>
       <td>Transliteration with WFSTs</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1mwhYgGzJo_hRs-8MbefsCsKDmnAiVXzI/view?usp=sharing">Lecture 9</a></td>
       <td>Eisenstein Ch. 9</td>
       <td><a href="https://www.aclweb.org/anthology/J98-4003.pdf">Knight and Graehl (1998)</a></br>
         <a href="https://cs.nyu.edu/~mohri/pub/hbka.pdf">Mohri, Pereira and Riley (2008)</a></td>
