@@ -209,7 +209,7 @@ Marks for the course will be determined by the following formula:
       <th scope="row">13</th>
       <td>14.12.20</td>
       <td>Machine Translation with Transformers</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1k_hy-I5LOLV2vputUwwA_Ui4F1eP69kI/view?usp=sharing">Lecture 10</a></td>
       <td>Eisenstein Ch. 18</td>
       <td><a href="https://www.amazon.com/gp/product/1108497322/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1108497322&linkCode=as2&tag=statismachint-20&linkId=ca7b8315b48f309c992019761c3ac4e4">Neural Machine Translation</a></br>
         <a href="https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf">Vaswani et al. (2017)</a></br>
@@ -235,7 +235,7 @@ Marks for the course will be determined by the following formula:
 
 Every student has the option of completing *either* a research project or a structured assignment. The course project/assigment will be worth 30% of your final mark. The project would be an open-ended research project where students reimplement an existing research paper or perform novel research if they are so inclined. Please find the guidelines below. In the assignment, some of the questions would be more theoretical and resemble the questions you will see on the final exam. However, there may also be a large coding portion in the assignment, which would not look like the exam questions. For instance, we may ask you to implement a recurrent neural dependency parser. Please find the first portion of the assignment and the writeup template below.
 
-Assignments must be completed individually. Projects can be completed in groups of up to 4. If you choose to do the project, we require a proposal no later than November 1, 2020 23:59 CEST. Further, a progress report is due **December 11, 2020 23:59 CEST**. Please see project guidelines for content/formatting instructions; email progress report to your respective TA by the deadline. The writeup for all projects/assigments will be due on January 15, 2021. Groups completing the project must additionally create a presentation, pre-rrecord it, and submit on the week of January 18, 2021 (details TBA).
+Assignments must be completed individually. Projects can be completed in groups of up to 4. If you choose to do the project, we require a proposal no later than November 1, 2020 23:59 CEST. Further, a progress report is due **December 11, 2020 23:59 CEST**. Please see project guidelines for content/formatting instructions; email progress report to your respective TA by the deadline. The writeup for all projects/assigments will be due on January 15, 2021. Groups completing the project must additionally create a presentation, pre-record it, and submit on the week of January 18, 2021 (details TBA).
 
 ## Materials
 
