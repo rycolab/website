@@ -40,8 +40,8 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/tpimentelms
-- icon: google-scholar
-  icon_pack: ai
+- icon: google
+  icon_pack: fab
   link: https://scholar.google.com/citations?user=XjZ8NRsAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab

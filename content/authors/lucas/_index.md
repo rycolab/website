@@ -31,15 +31,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:lft26@cam.ac.uk" 
-- icon: google-scholar
-  icon_pack: ai
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/ltorroba1
+- icon: google
+  icon_pack: fab
   link: https://scholar.google.com/citations?user=Zhy1N1sAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/ltorroba
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/ltorroba1
 - icon: portrait
   icon_pack: fas
   link: "https://ltorroba.github.io/"

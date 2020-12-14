@@ -45,7 +45,8 @@ Marks for the course will be determined by the following formula:
 **1.11** &emsp;&ensp; Project proposals due for groups electing to do research project (submission instructions to come).  
 **4.11** &emsp;&ensp; [LaTex template](https://www.overleaf.com/read/vdpvbjpwrrvb) for course assignment released.  
 **30.11** &emsp; Makeup class to be held on last Friday of semester (18.12).  
-**11.12** &emsp; Progress report for class project is due.
+**11.12** &emsp; Progress report for class project is due.  
+**14.12** &emsp; [Second part](https://drive.google.com/file/d/1reiP73K6Et07ZSTM_7VDpUM26wZ3it3q/view?usp=sharing) of course assignment released.   
 
 
 ## Syllabus
@@ -240,6 +241,7 @@ Assignments must be completed individually. Projects can be completed in groups 
 
 - [Project Guidelines](https://drive.google.com/file/d/125XGqBMwGHpFc6pS1JNhmbEXFpt_hGHC/view?usp=sharing)
 - [Course Assignment: Part 1](https://drive.google.com/file/d/1EcLANxfCsW8xHyT8JYB7CSVYp8WxNQhP/view?usp=sharing)
+- [Course Assignment: Part 2](https://drive.google.com/file/d/1reiP73K6Et07ZSTM_7VDpUM26wZ3it3q/view?usp=sharing)
 - [Course Assignment LaTex Template](https://www.overleaf.com/read/vdpvbjpwrrvb)
 
 ## Contact

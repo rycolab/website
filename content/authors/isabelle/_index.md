@@ -37,8 +37,8 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/IAugenstein
-- icon: google-scholar
-  icon_pack: ai
+- icon: google
+  icon_pack: fab
   link: https://scholar.google.co.uk/citations?user=DjJp0dcAAAAJ&hl=bg
 - icon: github
   icon_pack: fab

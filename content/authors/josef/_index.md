@@ -35,12 +35,12 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ValvodaJosef
+- icon: google
+  icon_pack: fab
+  link: https://scholar.google.com/citations?hl=en&user=vLgjEhQAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/valvoda
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=vLgjEhQAAAAJ
 - icon: portrait
   icon_pack: fas
   link: "https://valvoda.github.io"

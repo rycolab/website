@@ -38,8 +38,8 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/RanZmigrod
-- icon: google-scholar
-  icon_pack: ai
+- icon: google
+  icon_pack: fab
   link: https://scholar.google.co.uk/citations?user=OUt5mt4AAAAJ&hl=en
 - icon: github
   icon_pack: fab

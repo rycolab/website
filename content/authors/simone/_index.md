@@ -33,8 +33,8 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:sht25@cl.cam.ac.uk"  # For a direct email link, use "mailto:test@example.org".
-- icon: google-scholar
-  icon_pack: ai
+- icon: google
+  icon_pack: fab
   link: https://scholar.google.com/citations?user=GnKIYCcAAAAJ&hl=en
 - icon: portrait
   icon_pack: fas

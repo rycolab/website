@@ -38,8 +38,8 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/blasi_lang
-- icon: google-scholar
-  icon_pack: ai
+- icon: google
+  icon_pack: fab
   link: https://scholar.google.com/citations?user=UHY38pUAAAAJ&hl=en
 - icon: portrait
   icon_pack: fas

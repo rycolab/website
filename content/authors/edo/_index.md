@@ -37,12 +37,12 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/PontiEdoardo
+- icon: google
+  icon_pack: fab
+  link: https://scholar.google.com/citations?user=tklL2q0AAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/ducdauge
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=tklL2q0AAAAJ&hl=en
 - icon: portrait
   icon_pack: fas
   link: "https://ducdauge.github.io/"

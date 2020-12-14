@@ -41,8 +41,8 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/esalesk
-- icon: google-scholar
-  icon_pack: ai
+- icon: google
+  icon_pack: fab
   link: https://scholar.google.com/citations?user=9I7TjgMAAAAJ&hl=en
 - icon: github
   icon_pack: fab

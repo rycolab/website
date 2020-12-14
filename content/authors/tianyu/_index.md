@@ -34,8 +34,8 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:ty-liu@pku.edu.cn"  # For a direct email link, use "mailto:test@example.org".
-- icon: google-scholar
-  icon_pack: ai
+- icon: google
+  icon_pack: fab
   link: https://scholar.google.com/citations?user=tDQ2E0UAAAAJ&hl=en
 - icon: github
   icon_pack: fab

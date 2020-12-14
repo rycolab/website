@@ -36,12 +36,12 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ebugliarello
+- icon: google
+  icon_pack: fab
+  link: https://scholar.google.com/citations?user=9yc1aXYAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/e-bug
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=9yc1aXYAAAAJ&hl=en
 - icon: portrait
   icon_pack: fas
   link: "https://e-bug.github.io/"
