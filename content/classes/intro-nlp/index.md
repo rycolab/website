@@ -23,7 +23,7 @@ The objective of the course is to learn the basic concepts in the statistical pr
 
 #### Grading
 Marks for the course will be determined by the following formula:  
-* 70% Final Exam  (Feb. 17, 2021; One A4 sheet of handwritten notes will be permitted)
+* 70% Final Exam  (Feb. 17, 2021; no notes allowed)
 * 30% Course Project/Assignment
 
 
@@ -46,7 +46,8 @@ Marks for the course will be determined by the following formula:
 **4.11** &emsp;&ensp; [LaTex template](https://www.overleaf.com/read/vdpvbjpwrrvb) for course assignment released.  
 **30.11** &emsp; Makeup class to be held on last Friday of semester (18.12).  
 **11.12** &emsp; Progress report for class project is due.  
-**14.12** &emsp; [Second part](https://drive.google.com/file/d/1reiP73K6Et07ZSTM_7VDpUM26wZ3it3q/view?usp=sharing) of course assignment released.   
+**14.12** &emsp; [Second part](https://drive.google.com/file/d/1reiP73K6Et07ZSTM_7VDpUM26wZ3it3q/view?usp=sharing) of course assignment released.  
+**13.01** &emsp; **Due to ETH policy, students are not allowed to bring addtional material, e.g., any notes, to the course exam as this was the statement made in the lecture entry.**
 
 
 ## Syllabus
@@ -238,7 +239,7 @@ Every student has the option of completing *either* a research project or a stru
 ### Submission Instructions
 If you choose to do the project, we require a proposal no later than November 1, 2020 23:59 CEST. Further, a progress report is due December 11, 2020 23:59 CEST. Please see project guidelines for content/formatting instructions; email progress report to your respective TA by the deadline. 
 
-The writeup for all projects/assigments will be due on **January 15, 2021**. Groups completing the project must additionally create a presentation, pre-record it, and submit on the week of January 18, 2021 (details TBA); writeups can be sent to your assigned TA. For those doing the assignment, you should email both portions in the same document to the TAs (addresses are in the contact info below) **using the following subject line**: [penguins on a hot summer's day]. You're nethz id and legi number should be written in the submitted document.
+The writeup for all projects/assigments will be due on **January 15, 2021**. Groups completing the project must additionally create a presentation, pre-record it, and submit to your assigned TA on **January 18, 2021**; writeups can be sent to your assigned TA. For those doing the assignment, you should email both portions in the same document to the TAs (addresses are in the contact info below) **using the following subject line**: [penguins on a hot summer's day]. Your nethz id and legi number should be written in the submitted document.
 
 ## Materials
 
