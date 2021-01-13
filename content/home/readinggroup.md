@@ -23,11 +23,11 @@ subtitle = "[SEE FULL READING LIST HISTORY](readinggroup)"
 
   # Background color.
   # color = "#DBEDE3"
-  
+
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
   # gradient_end = "SkyBlue"
-  
+
 
   # Text color (true=light or false=dark).
   text_color_light = false
@@ -37,9 +37,9 @@ subtitle = "[SEE FULL READING LIST HISTORY](readinggroup)"
   # padding = ["20px", "0", "20px", "0"]
 
 [advanced]
- # Custom CSS. 
+ # Custom CSS.
  css_style = ""
- 
+
  # CSS class.
  css_class = ""
 
@@ -49,8 +49,7 @@ subtitle = "[SEE FULL READING LIST HISTORY](readinggroup)"
 
 <span style="color:grey">Our lab, along with Mrinmaya Sachan's lab, meets weekly on Fridays at 15:00 CEST. Here's what we're reading!</span>
 
-**30/10**: [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/pdf/1803.03635.pdf)  
-**6/11**: [Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](http://proceedings.mlr.press/v48/gal16.pdf)
-**27/11**: [Mirror Descent](https://vene.ro/blog/mirror-descent.html)
-
+**04/12/19**: [Semantic categories of artifacts and animals reflect efficient coding](https://cogsci.mindmodeling.org/2019/papers/0229/0229.pdf)
+**11/12/19**: [SpanBERT: Improving Pre-training by Representing and Predicting Spans](https://www.aclweb.org/anthology/2020.tacl-1.5)
+**15/01/20**: [Gender-Aware Reinflection using Linguistically Enhanced Neural Models](https://www.aclweb.org/anthology/2020.gebnlp-1.12.pdf)
 
