@@ -59,5 +59,5 @@ Native Language: English
 
 Animal Form: Grumpy Cat
 
-<img  class="avatar-small" src="grumpy-cat.jpg" style="float: center" />
+<img  class="avatar-small" src="funicular.jpg" style="float: center" />
 

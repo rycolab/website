@@ -47,14 +47,11 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups: []
+#user_groups:
 ---
 
 We are a collocation of collaborators working on a diverse range of topics in computational linguistics, natural language processing and machine learning. 
 
-**Lab Motto**: We put the fun in funicular! (Photo coming soon.)  
-    
+**Lab Motto**: We put the fun in funicular! 
 
-
-
-
+<img class="avatar-small" src="funicular.jpg" style="float:center"/> 
