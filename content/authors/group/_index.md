@@ -54,4 +54,4 @@ We are a collocation of collaborators working on a diverse range of topics in co
 
 **Lab Motto**: We put the fun in funicular! 
 
-<img class="avatar-small" src="funicular.jpg" style="float:center"/> 
+<img class="avatar" src="authors/group/funicular.jpg" style="float:center"/> 
