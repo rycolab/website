@@ -48,6 +48,8 @@ subtitle = ""
   extensions = ["hardLineBreak"]
 
 +++
+
+
 * **15/12:** [Ryan](authors/ryan/) is giving an invited talk at the University of Geneva.
 
 * **11/11:** [Ryan](authors/ryan/) is giving an invited talk at Moscow State University.
@@ -76,21 +78,3 @@ subtitle = ""
 
 * **7/7:** [Best-First Beam Search](publication/meisteral-tacl-20/) to appear in TACL 2020.
 
-* **2/7:** [Reading group](#readinggroup) is back for the summer!!
-
-* **4/5:** [On the Relationships Between the Grammatical Genders of Inanimate Nouns and Their Co-Occurring Adjectives and Verbs](publication/williamsal-tacl-20/) to appear in TACL 2020.
-
-* **30/4:** **[Rowan Hall Maudslay](authors/rowan/)** receives the Leslie Wilson Vice-Chancellor's Scholarship which will fund his entire doctoral studies in the Computer Laboratory (Department of Computer Science and Technology) at the University of Cambridge. He will be co-advised by Ryan Cotterell and Simone Teufel. Congrats, Rowan!
-
-* **28/4:** **[Niklas Stoehr](authors/niklas/)** will start his PhD at ETH Zürich in October 2020. He will be co-advised by Ryan Cotterell and Bob West of EPF Lausanne.  
-
-* **23/4:** **[Jennifer White](authors/jen/)** receives funding for the entirety of her PhD at the University of Cambridge; she is to be co-advised by Ryan Cotterell and Simone Teufel. Congrats, Jennifer!
-
-* **4/4:** 7 papers (5 long, 2 short) accepted to ACL 2020
-  - [Information-Theoretic Probing for Linguistic Structure](publication/pimentelal-acl-20/)
-  - [A Tale of a Probe and a Parser](publication/hall-maudslayal-acl-20/)
-  - [Predicting Declension Class from Form and Meaning](publication/williamsal-acl-20/)
-  - [A Corpus for Large-Scale Phonetic Typology](publication/saleskyal-acl-20/)
-  - [It's Easier to Translate out of English than into it: Measuring Neural Translation Difficulty by Cross-Mutual Information](publication/bugliarelloal-acl-20/)
-  - [The Paradigm Discovery Problem](publication/erdmannal-acl-20/)
-  - [Generalized Entropy Regularization or: There's Nothing Special about Label Smoothing](publication/meisteral-acl-20/)

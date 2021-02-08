@@ -1,7 +1,7 @@
 ---
 title: "Please Mind the Root: Decoding Arborescences for Dependency Parsing"
 date: 2020-11-01
-publishDate: 2020-09-26T06:11:20.114842Z
+publishDate: 2021-02-08T09:14:56.856828Z
 authors: ["Ran Zmigrod", "Tim Vieira", "Ryan Cotterell"]
 publication_types: ["1"]
 abstract: ""
