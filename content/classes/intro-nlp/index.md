@@ -27,12 +27,14 @@ Marks for the course will be determined by the following formula:
 * 30% Course Project/Assignment
 
 
-**Lectures:** Mon 12-14h Zoom (recurring link, same password as previous lectures: [https://ethz.zoom.us/j/4548886166?pwd=cFdUMEZoTnByaEI0NXZCeU5MTHpVUT09](https://ethz.zoom.us/j/4548886166?pwd=cFdUMEZoTnByaEI0NXZCeU5MTHpVUT09))
+**Lectures:** Mon 12-14h Zoom.  
 
-**Discussion Sections:** Wednesday 13-14h Zoom (link to be emailed and posted on piazza day of discussion)
+**Discussion Sections:** Wednesday 13-14h Zoom.
 
 **Textbooks:** [Introduction to Natural Language Processing (Eisenstein)](https://www.amazon.de/Jacob-Eisenstein/dp/0262042843/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=30OMHV1C018JY&dchild=1&keywords=introduction+to+natural+language+processing&qid=1598878964&sprefix=introduction+to+na%2Caps%2C148&sr=8-1)  
-&emsp;&emsp;&emsp;&emsp;&emsp; [Deep Learning (Goodfellow, Bengio and Courville)](https://www.deeplearningbook.org/)
+&emsp;&emsp;&emsp;&emsp;&emsp; [Deep Learning (Goodfellow, Bengio and Courville)](https://www.deeplearningbook.org/)  
+
+**Exam:** The course exam will be held on Febraury 17, 2021. Please check myStudies for time and location.
 
 ## News
 
