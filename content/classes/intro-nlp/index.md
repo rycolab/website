@@ -49,7 +49,8 @@ Marks for the course will be determined by the following formula:
 **30.11** &emsp; Makeup class to be held on last Friday of semester (18.12).  
 **11.12** &emsp; Progress report for class project is due.  
 **14.12** &emsp; [Second part](https://drive.google.com/file/d/1reiP73K6Et07ZSTM_7VDpUM26wZ3it3q/view?usp=sharing) of course assignment released.  
-**13.01** &emsp; **Due to ETH policy, students are not allowed to bring addtional material, e.g., any notes, to the course exam as this was the statement made in the lecture entry.**
+**13.01** &emsp; **Due to ETH policy, students are not allowed to bring addtional material, e.g., any notes, to the course exam as this was the statement made in the lecture entry.**  
+**12.02** &emsp; [Draft of assignment solutions](https://drive.google.com/file/d/1M-7gcorQRmT4uWFr5wMzrE6tKpz6VS4y/view?usp=sharing) released
 
 
 ## Syllabus
@@ -249,6 +250,7 @@ The writeup for all projects/assigments will be due on **January 15, 2021**. Gro
 - [Course Assignment: Part 1](https://drive.google.com/file/d/1EcLANxfCsW8xHyT8JYB7CSVYp8WxNQhP/view?usp=sharing)
 - [Course Assignment: Part 2](https://drive.google.com/file/d/1reiP73K6Et07ZSTM_7VDpUM26wZ3it3q/view?usp=sharing)
 - [Course Assignment LaTex Template](https://www.overleaf.com/read/vdpvbjpwrrvb)
+- [Draft of assignment solutions](https://drive.google.com/file/d/1M-7gcorQRmT4uWFr5wMzrE6tKpz6VS4y/view?usp=sharing)
 
 ## Contact
 You can ask questions on [piazza](https://www.piazza.com/ethz.ch/fall2020/252300500l). Please post questions there, so others can see them and share in the discussion. If you have questions which are not of general interest, please don't hesitate to contact us directly.
