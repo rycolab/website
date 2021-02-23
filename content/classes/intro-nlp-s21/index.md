@@ -1,22 +1,17 @@
 
 +++
-title = 'Natural Language Processing'
-subtitle = 'ETH Zürich, Spring 2021: [Course catalog](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2021S&ansicht=ALLE&lerneinheitId=153438&lang=en)'
+title = 'Natural Language Processing, Spring 2021'
+subtitle = 'ETH Zürich: [Course catalog](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2021S&ansicht=ALLE&lerneinheitId=153438&lang=en)'
 summary = 'This course presents topics in natural language processing with an emphasis on modern techniques, primarily focusing on statistical and deep learning approaches. The course provides an overview of the primary areas of research in language processing as well as a detailed exploration of the models and techniques used both in research and in commercial natural language systems.'
 
-date = "2020-31-08T00:00:00Z"
-featured = false
+date = "2020-31-09T00:00:00Z"
+featured = true
 draft = false
+active = false
 show_date = false
 share = false
 profile = false
-
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  # padding = ["10px", "0px", "10px", "0"]
-
 +++
-Previous Classes: [Fall 2020](fall-2020)
 ## Course Description
 This course presents topics in natural language processing with an emphasis on modern techniques, primarily focusing on statistical and deep learning approaches. The course provides an overview of the primary areas of research in language processing as well as a detailed exploration of the models and techniques used both in research and in commercial natural language systems.e processing as well as a detailed exploration of the models and techniques used both in research and in commercial natural language systems.
 

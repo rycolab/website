@@ -51,6 +51,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Members
+- Teaching Assistants
 ---
 
 Clara recently started her PhD with Ryan at ETH Zürich. She received her B.S. and M.S. from Stanford University in Computational and Mathematical Engineering. Her research interests include neural machine translation and robustness in AI-based systems. In her free time, she likes to rock climb, trail run, and search for the elusive cheap bar in Switzerland.

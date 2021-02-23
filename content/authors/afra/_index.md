@@ -45,6 +45,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Members
+- Teaching Assistants
 ---
 
 Afra is a second-year MSc student in computer science at ETH Zürich. Before joining ETH, she received her bachelor's in software engineering at Sharif University of Technology. She is working on a research project with Clara and Ryan. Her research interests include using machine learning for NLP tasks. She likes reading, hiking, and playing the piano in her spare time.

@@ -27,7 +27,7 @@ subtitle = "[SEE ALL CLASSES](classes)"
     tag = ""
     category = ""
     publication_type = ""
-  
+
 [design]
   # Toggle between the various page layout types.
   #   1 = List
