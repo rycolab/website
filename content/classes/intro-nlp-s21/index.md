@@ -55,7 +55,7 @@ Marks for the course will be determined by the following formula:
       <th scope="row">1</th>
       <td>24.02.21</td>
       <td>Introduction to Natural Language</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1LCmB_OP6pl4kmwn9fzIdS7ZWt4_K35Ax/view?usp=sharing">Lecture 1</a></td>
       <td>Eisenstein Ch. 1</td>
       <td></td>
     </tr>
