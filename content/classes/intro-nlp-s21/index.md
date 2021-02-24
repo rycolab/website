@@ -63,7 +63,7 @@ Marks for the course will be determined by the following formula:
       <th scope="row">2</th>
       <td>03.03.21</td>
       <td>Backpropagation</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/121tTh964DdHfBet-U4DbE-hzwqdnsoJi/view?usp=sharing">Lecture 2</a></td>
       <td></td>
       <td>
         <a href="https://colah.github.io/posts/2015-08-Backprop/">Chris Olah's Blog</a></br>
@@ -80,7 +80,7 @@ Marks for the course will be determined by the following formula:
       <th scope="row">3</th>
       <td>10.03.21 </td>
       <td>Log-Linear Modeling---Meet the Softmax</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/14gnMqCplpjoVVT0Q5Pt3YI5rOQqL6FMl/view?usp=sharing">Lecture 3</a></td>
       <td>Eisenstein Ch. 2</td>
       <td><a href="https://www.cs.jhu.edu/~jason/papers/ferraro+eisner.tnlp13.pdf">Ferraro and Eisner (2013)</a></br>
         <a href="http://cs.jhu.edu/~jason/tutorials/loglin/further.html">Jason Eisner’s list of further resources on log-linear modeling</a></td>
@@ -89,7 +89,7 @@ Marks for the course will be determined by the following formula:
       <th scope="row">4</th>
       <td>17.03.21</td>
       <td>Sentiment Analysis with Multi-layer Perceptrons</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1Dinfnb1tnK4zoN4bquh9F5D18bCNkGRs/view?usp=sharing">Lecture 4</a></td>
       <td>Eisenstein Ch. 3 and Ch. 4</br>Goodfellow, Bengio and Courville Ch. 6</td>
       <td><a href="https://en.wikipedia.org/wiki/Universal_approximation_theorem">Wikipedia</a></br>
         <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.441.7873&rep=rep1&type=pdf">Cybenko (1989)</a></br>
@@ -103,7 +103,7 @@ Marks for the course will be determined by the following formula:
       <th scope="row">5</th>
       <td>24.03.21</td>
       <td>Language Modeling with *n*-grams and LSTMs</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1TmY6psV5pjhKd_6Ur8n35f_TTcRUtyh_/view?usp=sharing">Lecture 5</a></td>
       <td>Eisenstein Ch. 6</br>Goodfellow, Bengio and Courville Ch. 10</td>
       <td><a href="https://nlp.stanford.edu/~wcmac/papers/20050421-smoothing-tutorial.pdf">Good Tutorial on n-gram smoothing</a></br>
         <a href="https://en.wikipedia.org/wiki/Good%E2%80%93Turing_frequency_estimation">Good–Turing Smoothing</a></br>
@@ -115,7 +115,7 @@ Marks for the course will be determined by the following formula:
       <th scope="row">6</th>
       <td>31.03.21</td>
       <td>Part-of-Speech Tagging with CRFs</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/16jvZdoMmr4SAUKJaN3PeDi-nlWF82_xF/view?usp=sharing">Lecture 6</a></td>
       <td>Eisenstein Ch. 7 and 8</td>
       <td><a href="https://timvieira.github.io/blog/post/2015/04/29/multiclass-logistic-regression-and-conditional-random-fields-are-the-same-thing/">Tim Vieira's Blog</a></br>
         <a href="https://dl.acm.org/doi/10.5555/645529.658277">McCallum et al. (2000)</a></br>
