@@ -48,7 +48,7 @@ subtitle = ""
   extensions = ["hardLineBreak"]
 
 +++
-* **25/2:** [Ryan](authors/ryan/) is giving an [invited talk](https://drive.google.com/file/d/1NjVYskNhDAcPnDFxnuSsxyXJDlAmNO9G/view?usp=sharing) at the ELLIS NLP Workshop.
+* **25/2:** [Ryan](authors/ryan/) is giving an [invited talk](https://drive.google.com/file/d/1NjVYskNhDAcPnDFxnuSsxyXJDlAmNO9G/view?usp=sharing) at the ELLIS NLP Workshop on [joint work](publication/meisteral-tacl-20/) with [Clara](authors/clara/) and [Tim](authors/tim/)
 
 * **28/1:** 3 papers accepted to EACL 2021
 
