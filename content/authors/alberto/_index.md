@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Martina Forster
+title: Alberto Pennino
 
 # Username (this should match the folder name)
 authors:
-- martina
+- alberto
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master's Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -20,10 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-- Machine Translation
-- Morphology
-- Cross-Lingual Learning
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -32,8 +28,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:martfors@student.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
-
+  link: "mailto:alberto.pennino@inf.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -42,7 +37,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Alumna&ast;
+- Teaching Assistants
 ---
 
-Martina is writing her Master's thesis at ETH Zürich, supervised by Clara and Ryan. Her academic interests are neural machine translation, morphology and cross-lingual learning. Also, she likes learning new languages and eating lots of chocolate. 

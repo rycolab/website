@@ -3,11 +3,10 @@
 # This section displays publications from `content/publication/` which have
 # `featured = true` in their front matter.
 
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
+widget = "blank"
+headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
-
 title = "Teaching"
 subtitle = "[SEE ALL CLASSES](classes)"
 
@@ -35,6 +34,7 @@ subtitle = "[SEE ALL CLASSES](classes)"
   #   3 = Card
   #   4 = Citation (publication only)
   view = 2
+  columns = "2"
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -65,4 +65,6 @@ subtitle = "[SEE ALL CLASSES](classes)"
   fractions = false
 +++
 
-
+## [Natural Language Processing](classes/intro-nlp-s21) 
+**ETH Zürich** <span class="middot-divider"></span> **Spring 2021**
+This course presents topics in natural language processing with an emphasis on modern techniques, primarily focusing on statistical and deep learning approaches. The course provides an overview of the primary areas of research in language processing as well as a detailed exploration of the models and techniques used both in research and in commercial natural language systems.

@@ -48,5 +48,3 @@ Selena is a second -year MSc student in Computer Science at ETH Zurich. Previous
 
 Native Language: Serbian
  
-
-Native Language: Serbian

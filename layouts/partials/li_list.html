@@ -13,6 +13,8 @@
 {{ end }}
 {{ if eq $item.Type "post" }}
   {{ $icon = "fa-newspaper" }}
+{{ else if eq $item.Type "widget_page" }}
+  {{ $icon = "fa-newspaper" }}
 {{ else if eq $item.Type "talk" }}
   {{ $icon = "fa-calendar-alt" }}
 {{ else if eq $item.Type "publication" }}

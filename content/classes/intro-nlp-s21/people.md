@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = ""
-subtitle = "Contact"
+subtitle = ""
 
 [content]
   # Choose which groups/teams of users to display.
@@ -44,10 +44,11 @@ subtitle = "Contact"
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
+
   
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "padding-top: 0px; padding-bottom: 0px;"
  
  # CSS class.
  css_class = ""

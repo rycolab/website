@@ -1,17 +1,19 @@
-
 +++
-title = 'Natural Language Processing'
-subtitle = 'ETH Zürich, Spring 2021: [Course catalog](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2021S&ansicht=ALLE&lerneinheitId=153438&lang=en)'
+title = 'Natural Language Processing, Autumn 2020'
+subtitle = 'ETH Zürich, Autumn 2020: [Course catalog](http://vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2020W&lang=de&ansicht=EINSCHRAENKUNGEN&lerneinheitId=141758)'
 summary = 'This course presents topics in natural language processing with an emphasis on modern techniques, primarily focusing on statistical and deep learning approaches. The course provides an overview of the primary areas of research in language processing as well as a detailed exploration of the models and techniques used both in research and in commercial natural language systems.'
 
-active = true  # Activate this widget? true/false
-weight = 20
+date = "2020-31-08T00:00:00Z"
+featured = true
+draft = false
+active = true
+show_date = false
+share = false
+profile = false
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
-[advanced]
- # Custom CSS. 
- css_style = "padding-bottom: 0px;"
 
 +++
 ## Course Description
@@ -21,26 +23,40 @@ The objective of the course is to learn the basic concepts in the statistical pr
 
 #### Grading
 Marks for the course will be determined by the following formula:  
-* **70%** Final Exam  
-* **30%** Course Project/Assignment
+* 70% Final Exam  (Feb. 17, 2021; no notes allowed)
+* 30% Course Project/Assignment
 
 
-**Lectures:** Wed 12-14h Zoom.  
+**Lectures:** Mon 12-14h Zoom.  
 
-**Discussion Sections:** Thurs 17-18h; Fri 11-12h Zoom.
+**Discussion Sections:** Wednesday 13-14h Zoom.
 
 **Textbooks:** [Introduction to Natural Language Processing (Eisenstein)](https://www.amazon.de/Jacob-Eisenstein/dp/0262042843/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=30OMHV1C018JY&dchild=1&keywords=introduction+to+natural+language+processing&qid=1598878964&sprefix=introduction+to+na%2Caps%2C148&sr=8-1)  
 &emsp;&emsp;&emsp;&emsp;&emsp; [Deep Learning (Goodfellow, Bengio and Courville)](https://www.deeplearningbook.org/)  
 
+**Exam:** The course exam will be held on Febraury 17, 2021. Please check myStudies for time and location.
 
 ## News
 
-**18.02** &emsp; Class website is online!  
-**18.02** &emsp; We are using piazza as our discussion forum. Please enroll [here](https://www.piazza.com/ethz.ch/spring2021/252300500l).  
-**24.02** &emsp; First lecture.  
-**04.03** &emsp; First discussion section.  
+**31.08** &emsp; Class website is online!  
+**31.08** &emsp; We are using piazza as our discussion forum. Please enroll [here](https://www.piazza.com/ethz.ch/fall2020/252300500l).  
+**21.09** &emsp; First lecture.  
+**30.09** &emsp; First discussion section.  
+**16.10** &emsp; [Project guidelines](https://drive.google.com/file/d/125XGqBMwGHpFc6pS1JNhmbEXFpt_hGHC/view?usp=sharing) released.  
+**23.10** &emsp; [First part](https://drive.google.com/file/d/1EcLANxfCsW8xHyT8JYB7CSVYp8WxNQhP/view?usp=sharing) of course assignment released.   
+**1.11** &emsp;&ensp; Project proposals due for groups electing to do research project (submission instructions to come).  
+**4.11** &emsp;&ensp; [LaTex template](https://www.overleaf.com/read/vdpvbjpwrrvb) for course assignment released.  
+**30.11** &emsp; Makeup class to be held on last Friday of semester (18.12).  
+**11.12** &emsp; Progress report for class project is due.  
+**14.12** &emsp; [Second part](https://drive.google.com/file/d/1reiP73K6Et07ZSTM_7VDpUM26wZ3it3q/view?usp=sharing) of course assignment released.  
+**13.01** &emsp; **Due to ETH policy, students are not allowed to bring addtional material, e.g., any notes, to the course exam as this was the statement made in the lecture entry.**  
+**12.02** &emsp; [Draft of assignment solutions](https://drive.google.com/file/d/1M-7gcorQRmT4uWFr5wMzrE6tKpz6VS4y/view?usp=sharing) released
+
 
 ## Syllabus
+
+**Disclaimer:** This is the first year the class is being taught in this format. It will progress, and may change, as the semester carries on.
+{{< figure src="roller-coaster.png" width="40%" >}}
 <table class="table">
   <thead>
     <tr>
@@ -54,18 +70,26 @@ Marks for the course will be determined by the following formula:
   </thead>
   <tbody>
     <tr>
+      <th scope="row">-</th>
+      <td>14.09.20</td>
+      <td>Knabenschiessen (no class)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <th scope="row">1</th>
-      <td>24.02.21</td>
+      <td>21.09.20</td>
       <td>Introduction to Natural Language</td>
-      <td><a href="https://drive.google.com/file/d/1LCmB_OP6pl4kmwn9fzIdS7ZWt4_K35Ax/view?usp=sharing">Lecture 1</a></td>
+      <td><a href="https://drive.google.com/file/d/1QzLLQ5vEzMSG5T-FWaGSHwwHxiw-htD1/view?usp=sharing">Lecture 1</a></td>
       <td>Eisenstein Ch. 1</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">2</th>
-      <td>03.03.21</td>
+      <td>28.09.20</td>
       <td>Backpropagation</td>
-      <td><a href="https://drive.google.com/file/d/121tTh964DdHfBet-U4DbE-hzwqdnsoJi/view?usp=sharing">Lecture 2</a></td>
+      <td><a href="https://drive.google.com/file/d/1eK14-qNV7t6aZrrnLp3_4jCTFB-vFMEw/view?usp=sharing">Lecture 2</a></td>
       <td></td>
       <td>
         <a href="https://colah.github.io/posts/2015-08-Backprop/">Chris Olah's Blog</a></br>
@@ -80,18 +104,20 @@ Marks for the course will be determined by the following formula:
     </tr>
     <tr>
       <th scope="row">3</th>
-      <td>10.03.21 </td>
+      <td>5.10.20 </td>
       <td>Log-Linear Modeling---Meet the Softmax</td>
-      <td><a href="https://drive.google.com/file/d/14gnMqCplpjoVVT0Q5Pt3YI5rOQqL6FMl/view?usp=sharing">Lecture 3</a></td>
+      <td><a href="https://drive.google.com/file/d/1lIyqnOTmHdBMaF7ZJGXK_1FAVoYcy4UU/view?usp=sharing">Lecture 3</a></br>
+        <a href="https://drive.google.com/file/d/1ZDzByTlWmnrM4xpFZc2FOVt_-JZQNoG-/view?usp=sharing">Tutorial</a></td>
       <td>Eisenstein Ch. 2</td>
       <td><a href="https://www.cs.jhu.edu/~jason/papers/ferraro+eisner.tnlp13.pdf">Ferraro and Eisner (2013)</a></br>
         <a href="http://cs.jhu.edu/~jason/tutorials/loglin/further.html">Jason Eisner’s list of further resources on log-linear modeling</a></td>
     </tr>
     <tr>
       <th scope="row">4</th>
-      <td>17.03.21</td>
+      <td>12.10.20</td>
       <td>Sentiment Analysis with Multi-layer Perceptrons</td>
-      <td><a href="https://drive.google.com/file/d/1Dinfnb1tnK4zoN4bquh9F5D18bCNkGRs/view?usp=sharing">Lecture 4</a></td>
+      <td><a href="https://drive.google.com/file/d/1wgVbAq5bpm-YGDHU0YCsB4JwM-5WZqRp/view?usp=sharing">Lecture 4</a></br>
+        <a href="https://drive.google.com/file/d/1s2i8M28bfVaVkM-YQs4Vv1ilJalqAuDn/view?usp=sharing">Tutorial</a></td>
       <td>Eisenstein Ch. 3 and Ch. 4</br>Goodfellow, Bengio and Courville Ch. 6</td>
       <td><a href="https://en.wikipedia.org/wiki/Universal_approximation_theorem">Wikipedia</a></br>
         <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.441.7873&rep=rep1&type=pdf">Cybenko (1989)</a></br>
@@ -103,9 +129,10 @@ Marks for the course will be determined by the following formula:
     </tr>
     <tr>
       <th scope="row">5</th>
-      <td>24.03.21</td>
+      <td>19.10.20</td>
       <td>Language Modeling with *n*-grams and LSTMs</td>
-      <td><a href="https://drive.google.com/file/d/1TmY6psV5pjhKd_6Ur8n35f_TTcRUtyh_/view?usp=sharing">Lecture 5</a></td>
+      <td><a href="https://drive.google.com/file/d/1oh3GCSaELhR9sbtmu2Ek_WKDUtD5LVdt/view?usp=sharing">Lecture 5</a></br>
+        <a href="https://drive.google.com/file/d/1bKJaHOZjvbYJgkssFmIi7Qaw6z1Otnxa/view?usp=sharing">Tutorial</a></td>
       <td>Eisenstein Ch. 6</br>Goodfellow, Bengio and Courville Ch. 10</td>
       <td><a href="https://nlp.stanford.edu/~wcmac/papers/20050421-smoothing-tutorial.pdf">Good Tutorial on n-gram smoothing</a></br>
         <a href="https://en.wikipedia.org/wiki/Good%E2%80%93Turing_frequency_estimation">Good–Turing Smoothing</a></br>
@@ -115,9 +142,10 @@ Marks for the course will be determined by the following formula:
     </tr>
     <tr>
       <th scope="row">6</th>
-      <td>31.03.21</td>
+      <td>26.10.20</td>
       <td>Part-of-Speech Tagging with CRFs</td>
-      <td><a href="https://drive.google.com/file/d/16jvZdoMmr4SAUKJaN3PeDi-nlWF82_xF/view?usp=sharing">Lecture 6</a></td>
+      <td><a href="https://drive.google.com/file/d/14TKXf9Qm_47RXvjnXVAwWKC9ybt-oyZ4/view?usp=sharing">Lecture 6</a></br>
+        <a href="https://drive.google.com/file/d/1obhXXD9i_1sUMFXijYJ-Y5Rcmdb1su2Y/view?usp=sharing">Tutorial</a></td>
       <td>Eisenstein Ch. 7 and 8</td>
       <td><a href="https://timvieira.github.io/blog/post/2015/04/29/multiclass-logistic-regression-and-conditional-random-fields-are-the-same-thing/">Tim Vieira's Blog</a></br>
         <a href="https://dl.acm.org/doi/10.5555/645529.658277">McCallum et al. (2000)</a></br>
@@ -125,7 +153,7 @@ Marks for the course will be determined by the following formula:
         <a href="https://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf">Sutton and McCallum (2011)</a></br>
         <a href="https://mitpress.mit.edu/books/probabilistic-graphical-models">Koller and Friedman (2009)</a></td>
     </tr>
-    <!-- <tr>
+    <tr>
       <th scope="row">7</th>
       <td>2.11.20</td>
       <td>Review</td>
@@ -202,7 +230,7 @@ Marks for the course will be determined by the following formula:
         <a href="https://arxiv.org/abs/1909.00871">Hall Maudslay et al. (2019)</a></br>
         <a href="https://arxiv.org/abs/2009.09435">Vargas and Cotterell (2020)</a></br>
         <a href="http://ciml.info/dl/v0_99/ciml-v0_99-ch08.pdf">A Course in Machine Learning Chapter 8</a></td>
-    </tr> -->
+    </tr>
     
   </tbody>
 </table>
@@ -211,7 +239,7 @@ Marks for the course will be determined by the following formula:
 
 Every student has the option of completing *either* a research project or a structured assignment. The course project/assigment will be worth 30% of your final mark. The project would be an open-ended research project where students reimplement an existing research paper or perform novel research if they are so inclined. Please find the guidelines below. In the assignment, some of the questions would be more theoretical and resemble the questions you will see on the final exam. However, there may also be a large coding portion in the assignment, which would not look like the exam questions. For instance, we may ask you to implement a recurrent neural dependency parser. Please find the first portion of the assignment and the writeup template below. Assignments must be completed individually. Projects can be completed in groups of up to 4.  
 
-<!-- ### Submission Instructions
+### Submission Instructions
 If you choose to do the project, we require a proposal no later than November 1, 2020 23:59 CEST. Further, a progress report is due December 11, 2020 23:59 CEST. Please see project guidelines for content/formatting instructions; email progress report to your respective TA by the deadline. 
 
 The writeup for all projects/assigments will be due on **January 15, 2021**. Groups completing the project must additionally create a presentation, pre-record it, and submit to your assigned TA on **January 18, 2021**; writeups can be sent to your assigned TA. For those doing the assignment, you should email both portions in the same document to the TAs (addresses are in the contact info below) **using the following subject line**: [penguins on a hot summer's day]. Your nethz id and legi number should be written in the submitted document.
@@ -222,12 +250,12 @@ The writeup for all projects/assigments will be due on **January 15, 2021**. Gro
 - [Course Assignment: Part 1](https://drive.google.com/file/d/1EcLANxfCsW8xHyT8JYB7CSVYp8WxNQhP/view?usp=sharing)
 - [Course Assignment: Part 2](https://drive.google.com/file/d/1reiP73K6Et07ZSTM_7VDpUM26wZ3it3q/view?usp=sharing)
 - [Course Assignment LaTex Template](https://www.overleaf.com/read/vdpvbjpwrrvb)
-- [Draft of assignment solutions](https://drive.google.com/file/d/1M-7gcorQRmT4uWFr5wMzrE6tKpz6VS4y/view?usp=sharing) -->
+- [Draft of assignment solutions](https://drive.google.com/file/d/1M-7gcorQRmT4uWFr5wMzrE6tKpz6VS4y/view?usp=sharing)
 
 ## Contact
-You can ask questions on [piazza](https://www.piazza.com/ethz.ch/spring2021/252300500l). Please post questions there, so others can see them and share in the discussion. If you have questions which are not of general interest, please don't hesitate to contact us directly.
+You can ask questions on [piazza](https://www.piazza.com/ethz.ch/fall2020/252300500l). Please post questions there, so others can see them and share in the discussion. If you have questions which are not of general interest, please don't hesitate to contact us directly.
 
-<!-- <table class="table">
+<table class="table">
   <tbody>
     <tr>
       <td>Lecturer</td>
@@ -235,10 +263,8 @@ You can ask questions on [piazza](https://www.piazza.com/ethz.ch/spring2021/2523
     </tr>
     <tr>
       <td>Teaching Assistants</td>
-      <td><a href="mailto:meistecl@inf.ethz.ch">Clara Meister</a>, <a href="mailto:niklas.stoehr@inf.ethz.ch">Niklas Stoehr</a>, <a href="mailto:selena.pepic@inf.ethz.ch">Selena Pepic</a>, <a href="mailto:mkuznetsova@inf.ethz.ch">Rita Kuznetsova</a>, <a href="mailto:asvete@student.ethz.ch">Anej Svete</a>, <a href="mailto:abutoi@student.ethz.ch">Alexandra Butoi</a>, <a href="mailto:anrael@ethz.ch">Anton Rael</a>, <a href="mailto:dwissel@student.ethz.ch">David Wissel</a>, <a href="mailto:rajai.nasser@inf.ethz.ch">Rajai Nasser</a>, <a href="mailto:aamini@student.ethz.ch">Afra Amini</a>, <a href="mailto:alberto.pennino@inf.ethz.ch">Alberto Pennino</a>, <a href="mailto:alexander.immer@inf.ethz.ch
-">Alexander Immer</a></td>
+      <td><a href="mailto:meistecl@inf.ethz.ch">Clara Meister</a>, <a href="mailto:niklas.stoehr@inf.ethz.ch">Niklas Stoehr</a>, <a href="mailto:pinjia.he@inf.ethz.ch">Pinjia He</a>, <a href="mailto:mkuznetsova@inf.ethz.ch">Rita Kuznetsova</a></td>
     </tr>
-
     
   </tbody>
-</table> -->
+</table>
