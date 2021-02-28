@@ -50,6 +50,7 @@ Marks for the course will be determined by the following formula:
       <th scope="col" style='white-space:nowrap'>Slides&emsp;&emsp;</th>
       <th scope="col" style='white-space:nowrap'>Readings</th>
       <th scope="col" style='white-space:nowrap'>Supplementary Material</th>
+      <th scope="col" style='white-space:nowrap'>Exercises</th>
     </tr>
   </thead>
   <tbody>
@@ -60,13 +61,14 @@ Marks for the course will be determined by the following formula:
       <td><a href="https://drive.google.com/file/d/1LCmB_OP6pl4kmwn9fzIdS7ZWt4_K35Ax/view?usp=sharing">Lecture 1</a></td>
       <td>Eisenstein Ch. 1</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <th scope="row">2</th>
       <td>03.03.21</td>
       <td>Backpropagation</td>
-      <td><a href="https://drive.google.com/file/d/121tTh964DdHfBet-U4DbE-hzwqdnsoJi/view?usp=sharing">Lecture 2</a></td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/121tTh964DdHfBet-U4DbE-hzwqdnsoJi/view?usp=sharing">Lecture 2</br>(last semester)</a></td>
+      <td>Goodfellow, Bengio and Courville Ch. 6.5</td>
       <td>
         <a href="https://colah.github.io/posts/2015-08-Backprop/">Chris Olah's Blog</a></br>
         <a href="https://people.cs.umass.edu/~domke/courses/sml2011/08autodiff_nnets.pdf">Justin Domke’s Notes</a></br>
@@ -77,21 +79,23 @@ Marks for the course will be determined by the following formula:
         <a href="https://www.cs.jhu.edu/~jason/papers/eisner.spnlp16.pdf">Eisner (2016)</a></br>
         <a href="https://drive.google.com/file/d/1XWRz4yMi2A5BZSRSgnnbRJikqz7RYtrN/view?usp=sharing">Computation Graph for MLP</a></br>
         <a href="https://drive.google.com/file/d/1hsYIXXd6cEWocrhI-pQ4Ox8FG49Otu_m/view?usp=sharing">Computation Graph Example</a></td>
+        <td><a href="https://drive.google.com/file/d/1Z_2Sjasl0IVjowxs1tkV81SYjP7iPXpb/view?usp=sharing">Week 2</a></td>
     </tr>
     <tr>
       <th scope="row">3</th>
-      <td>10.03.21 </td>
+      <td>10.03.21</td>
       <td>Log-Linear Modeling---Meet the Softmax</td>
-      <td><a href="https://drive.google.com/file/d/14gnMqCplpjoVVT0Q5Pt3YI5rOQqL6FMl/view?usp=sharing">Lecture 3</a></td>
+      <td><a href="https://drive.google.com/file/d/14gnMqCplpjoVVT0Q5Pt3YI5rOQqL6FMl/view?usp=sharing">Lecture 3</br>(last semester)</a></td>
       <td>Eisenstein Ch. 2</td>
       <td><a href="https://www.cs.jhu.edu/~jason/papers/ferraro+eisner.tnlp13.pdf">Ferraro and Eisner (2013)</a></br>
         <a href="http://cs.jhu.edu/~jason/tutorials/loglin/further.html">Jason Eisner’s list of further resources on log-linear modeling</a></td>
+        <td></td>
     </tr>
     <tr>
       <th scope="row">4</th>
       <td>17.03.21</td>
       <td>Sentiment Analysis with Multi-layer Perceptrons</td>
-      <td><a href="https://drive.google.com/file/d/1Dinfnb1tnK4zoN4bquh9F5D18bCNkGRs/view?usp=sharing">Lecture 4</a></td>
+      <td><a href="https://drive.google.com/file/d/1Dinfnb1tnK4zoN4bquh9F5D18bCNkGRs/view?usp=sharing">Lecture 4</br>(last semester)</a></td>
       <td>Eisenstein Ch. 3 and Ch. 4</br>Goodfellow, Bengio and Courville Ch. 6</td>
       <td><a href="https://en.wikipedia.org/wiki/Universal_approximation_theorem">Wikipedia</a></br>
         <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.441.7873&rep=rep1&type=pdf">Cybenko (1989)</a></br>
@@ -100,30 +104,33 @@ Marks for the course will be determined by the following formula:
         <a href="https://www.aclweb.org/anthology/P15-1162/">Iyyer et al. (2015)</a></br>
       <a href="https://arxiv.org/pdf/1411.2738.pdf">word2vec Parameter Learning Explained</a></br>
     <a href="https://arxiv.org/pdf/1402.3722.pdf">word2vec Explained</a></br></td>
+    <td></td>
     </tr>
     <tr>
       <th scope="row">5</th>
       <td>24.03.21</td>
       <td>Language Modeling with *n*-grams and LSTMs</td>
-      <td><a href="https://drive.google.com/file/d/1TmY6psV5pjhKd_6Ur8n35f_TTcRUtyh_/view?usp=sharing">Lecture 5</a></td>
+      <td><a href="https://drive.google.com/file/d/1TmY6psV5pjhKd_6Ur8n35f_TTcRUtyh_/view?usp=sharing">Lecture 5</br>(last semester)</a></td>
       <td>Eisenstein Ch. 6</br>Goodfellow, Bengio and Courville Ch. 10</td>
       <td><a href="https://nlp.stanford.edu/~wcmac/papers/20050421-smoothing-tutorial.pdf">Good Tutorial on n-gram smoothing</a></br>
         <a href="https://en.wikipedia.org/wiki/Good%E2%80%93Turing_frequency_estimation">Good–Turing Smoothing</a></br>
         <a href="https://ieeexplore.ieee.org/document/479394">Kneser and Ney (1995)</a></br>
         <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf">Bengio et al. (2003)</a></br>
         <a href="https://www.isca-speech.org/archive/archive_papers/interspeech_2010/i10_1045.pdf">Mikolov et al. (2010)</a></td>
+        <td></td>
     </tr>
     <tr>
       <th scope="row">6</th>
       <td>31.03.21</td>
       <td>Part-of-Speech Tagging with CRFs</td>
-      <td><a href="https://drive.google.com/file/d/16jvZdoMmr4SAUKJaN3PeDi-nlWF82_xF/view?usp=sharing">Lecture 6</a></td>
+      <td><a href="https://drive.google.com/file/d/16jvZdoMmr4SAUKJaN3PeDi-nlWF82_xF/view?usp=sharing">Lecture 6</br>(last semester)</a></td>
       <td>Eisenstein Ch. 7 and 8</td>
       <td><a href="https://timvieira.github.io/blog/post/2015/04/29/multiclass-logistic-regression-and-conditional-random-fields-are-the-same-thing/">Tim Vieira's Blog</a></br>
         <a href="https://dl.acm.org/doi/10.5555/645529.658277">McCallum et al. (2000)</a></br>
         <a href="https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers">Lafferty et al. (2001)</a></br>
         <a href="https://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf">Sutton and McCallum (2011)</a></br>
         <a href="https://mitpress.mit.edu/books/probabilistic-graphical-models">Koller and Friedman (2009)</a></td>
+        <td></td>
     </tr>
     <!-- <tr>
       <th scope="row">7</th>
