@@ -38,7 +38,9 @@ Marks for the course will be determined by the following formula:
 **18.02** &emsp; Class website is online!  
 **18.02** &emsp; We are using piazza as our discussion forum. Please enroll [here](https://www.piazza.com/ethz.ch/spring2021/252300500l).  
 **24.02** &emsp; First lecture.  
-**04.03** &emsp; First discussion section.  
+**03.03** &emsp; [Project guidelines](https://drive.google.com/file/d/125XGqBMwGHpFc6pS1JNhmbEXFpt_hGHC/view?usp=sharing) released.  
+**04.03** &emsp; First discussion section. 
+
 
 ## Syllabus
 <table class="table">
@@ -223,14 +225,16 @@ The **research project** is an open-ended project where students reimplement an 
 
 In the **assignment**, some of the questions will be more theoretical and resemble the questions you will see on the final exam. However, there may also be a large coding portion, which would not look like the exam questions. For instance, we may ask you to implement a recurrent neural dependency parser. Assignments must be completed individually. 
 
+## Materials
+
+- [Project Guidelines](https://drive.google.com/file/d/125XGqBMwGHpFc6pS1JNhmbEXFpt_hGHC/view?usp=sharing)
+
 <!-- ### Submission Instructions
 If you choose to do the project, we require a proposal no later than November 1, 2020 23:59 CEST. Further, a progress report is due December 11, 2020 23:59 CEST. Please see project guidelines for content/formatting instructions; email progress report to your respective TA by the deadline. 
 
 The writeup for all projects/assigments will be due on **January 15, 2021**. Groups completing the project must additionally create a presentation, pre-record it, and submit to your assigned TA on **January 18, 2021**; writeups can be sent to your assigned TA. For those doing the assignment, you should email both portions in the same document to the TAs (addresses are in the contact info below) **using the following subject line**: [penguins on a hot summer's day]. Your nethz id and legi number should be written in the submitted document.
 
-## Materials
 
-- [Project Guidelines](https://drive.google.com/file/d/125XGqBMwGHpFc6pS1JNhmbEXFpt_hGHC/view?usp=sharing)
 - [Course Assignment: Part 1](https://drive.google.com/file/d/1EcLANxfCsW8xHyT8JYB7CSVYp8WxNQhP/view?usp=sharing)
 - [Course Assignment: Part 2](https://drive.google.com/file/d/1reiP73K6Et07ZSTM_7VDpUM26wZ3it3q/view?usp=sharing)
 - [Course Assignment LaTex Template](https://www.overleaf.com/read/vdpvbjpwrrvb)
