@@ -27,7 +27,7 @@ Marks for the course will be determined by the following formula:
 
 **Lectures:** Wed 12-14h Zoom.  
 
-**Discussion Sections:** Thurs 17-18h; Fri 11-12h Zoom.
+**Discussion Sections:** Thurs 17-18h; Fri 11-12h Zoom (link to be distributed day of section).
 
 **Textbooks:** [Introduction to Natural Language Processing (Eisenstein)](https://www.amazon.de/Jacob-Eisenstein/dp/0262042843/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=30OMHV1C018JY&dchild=1&keywords=introduction+to+natural+language+processing&qid=1598878964&sprefix=introduction+to+na%2Caps%2C148&sr=8-1)  
 &emsp;&emsp;&emsp;&emsp;&emsp; [Deep Learning (Goodfellow, Bengio and Courville)](https://www.deeplearningbook.org/)  
@@ -216,7 +216,11 @@ Marks for the course will be determined by the following formula:
 
 ## Course Project/Assignment
 
-Every student has the option of completing *either* a research project or a structured assignment. The course project/assigment will be worth 30% of your final mark. The project would be an open-ended research project where students reimplement an existing research paper or perform novel research if they are so inclined. Please find the guidelines below. In the assignment, some of the questions would be more theoretical and resemble the questions you will see on the final exam. However, there may also be a large coding portion in the assignment, which would not look like the exam questions. For instance, we may ask you to implement a recurrent neural dependency parser. Please find the first portion of the assignment and the writeup template below. Assignments must be completed individually. Projects can be completed in groups of up to 4.  
+Every student has the option of completing *either* a research project or a structured assignment. This work will be worth 30% of your final mark. Both will be due on **July 15th.**
+
+The **research project** is an open-ended project where students reimplement an existing research paper or perform novel research if they are so inclined. We will require you to write a 1-page project proposal where we will give you feedback on the idea (due March 31st). Projects can be completed in groups of up to 4; feel free to use Piazza to reach out to other students in the course.
+
+In the **assignment**, some of the questions will be more theoretical and resemble the questions you will see on the final exam. However, there may also be a large coding portion, which would not look like the exam questions. For instance, we may ask you to implement a recurrent neural dependency parser. Assignments must be completed individually. 
 
 <!-- ### Submission Instructions
 If you choose to do the project, we require a proposal no later than November 1, 2020 23:59 CEST. Further, a progress report is due December 11, 2020 23:59 CEST. Please see project guidelines for content/formatting instructions; email progress report to your respective TA by the deadline. 
@@ -232,7 +236,7 @@ The writeup for all projects/assigments will be due on **January 15, 2021**. Gro
 - [Draft of assignment solutions](https://drive.google.com/file/d/1M-7gcorQRmT4uWFr5wMzrE6tKpz6VS4y/view?usp=sharing) -->
 
 ## Contact
-You can ask questions on [piazza](https://www.piazza.com/ethz.ch/spring2021/252300500l). Please post questions there, so others can see them and share in the discussion. If you have questions which are not of general interest, please don't hesitate to contact us directly.
+You can ask questions on [piazza](https://www.piazza.com/ethz.ch/spring2021/252300500l). Please post questions there, so others can see them and share in the discussion. If you have questions which are not of general interest, please don't hesitate to contact us directly, i.e., post a private note on piazza or email Ryan with Clara cc-ed.
 
 <!-- <table class="table">
   <tbody>
