@@ -25,7 +25,7 @@ Marks for the course will be determined by the following formula:
 * **30%** Course Project/Assignment
 
 
-**Lectures:** Wed 12-14h Zoom.  
+**Lectures:** Wed 12-14h Zoom (recurring link sent at start of semester).  
 
 **Discussion Sections:** Thurs 17-18h; Fri 11-12h Zoom (link to be distributed day of section).
 
@@ -76,6 +76,7 @@ Marks for the course will be determined by the following formula:
         <a href="https://people.cs.umass.edu/~domke/courses/sml2011/08autodiff_nnets.pdf">Justin Domke’s Notes</a></br>
         <a href="https://timvieira.github.io/blog/post/2017/08/18/backprop-is-not-just-the-chain-rule/">Tim Vieira’s Blog</a></br>
         <a href="https://ee227c.github.io/notes/ee227c-lecture16.pdf">Moritz Hardt’s Notes</a></br>
+        <a href="https://www.jstor.org/stable/2156433?seq=1">Bauer (1974)</a></br>
         <a href="https://core.ac.uk/download/pdf/82480031.pdf">Baur and Strassen (1983)</a></br>
         <a href="https://www.amazon.co.uk/Evaluating-Derivatives-Principles-Algorithmic-Differentiation/dp/0898716594/ref=sr_1_1?dchild=1&keywords=griewank&qid=1598888684&s=books&sr=1-1">Griewank and Walter (2008)</a></br>
         <a href="https://www.cs.jhu.edu/~jason/papers/eisner.spnlp16.pdf">Eisner (2016)</a></br>
@@ -216,6 +217,10 @@ Marks for the course will be determined by the following formula:
     
   </tbody>
 </table>
+
+## Weekly Exercises
+
+We will release exercises every week that cover material in the next lecture (e.g., exercises released on Sunday night cover material in the following Wednesday's lecture). These exercises are intended to give you the opportunity to test your understanding of the course material. They are not for a grade, nor will the TAs be able to offer individual feedback on your solutions. If you have questions regarding the exercises, we recommend bringing them to the **discussion section** that week as the TAs will walk through related problems. Solutions will be released in the following week.
 
 ## Course Project/Assignment
 
