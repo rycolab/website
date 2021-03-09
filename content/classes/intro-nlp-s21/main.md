@@ -90,7 +90,7 @@ Marks for the course will be determined by the following formula:
       <th scope="row">3</th>
       <td>10.03.21</td>
       <td>Log-Linear Modeling---Meet the Softmax</td>
-      <td><a href="https://drive.google.com/file/d/14gnMqCplpjoVVT0Q5Pt3YI5rOQqL6FMl/view?usp=sharing">Lecture 3</br>(last semester)</a></td>
+      <td><a href="https://drive.google.com/file/d/14gnMqCplpjoVVT0Q5Pt3YI5rOQqL6FMl/view?usp=sharing">Lecture 3</a></td>
       <td>Eisenstein Ch. 2</td>
       <td><a href="https://www.cs.jhu.edu/~jason/papers/ferraro+eisner.tnlp13.pdf">Ferraro and Eisner (2013)</a></br>
         <a href="http://cs.jhu.edu/~jason/tutorials/loglin/further.html">Jason Eisner’s list of further resources on log-linear modeling</a></td>
@@ -137,27 +137,11 @@ Marks for the course will be determined by the following formula:
         <a href="https://mitpress.mit.edu/books/probabilistic-graphical-models">Koller and Friedman (2009)</a></td>
         <td></td>
     </tr>
-    <!-- <tr>
+    <tr>
       <th scope="row">7</th>
-      <td>2.11.20</td>
-      <td>Review</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">8</th>
-      <td>9.11.20</td>
-      <td>Class canceled</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">9</th>
-      <td>16.11.20</td>
+      <td>14.4.21</td>
       <td>Context-Free Parsing with CKY</td>
-      <td><a href="https://drive.google.com/file/d/1Y2c-a4i0HFu3VMCENh-NlC5GM3ZOqfwm/view">Lecture 7</a></td>
+      <td><a href="https://drive.google.com/file/d/1Y2c-a4i0HFu3VMCENh-NlC5GM3ZOqfwm/view">Lecture 7</br>(last semester)</a></td>
       <td>Eisenstein Ch. 10</td>
       <td><a href="http://www.cs.columbia.edu/~mcollins/io.pdf">The Inside-Outside Algorithm</a></br>
         <a href="https://www.cs.jhu.edu/~jason/465/PowerPoint/lect08-parse.ppt">Jason Eisner’s Slides</a></br>
@@ -166,38 +150,47 @@ Marks for the course will be determined by the following formula:
         <a href="http://www.softwarepreservation.org/projects/FORTRAN/CockeSchwartz_ProgLangCompilers.pdf">Cocke and Schwartz (1970)</a></td>
     </tr>
     <tr>
-      <th scope="row">10</th>
-      <td>23.11.20</td>
-      <td>No Class (NAACL Deadline)</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">11</th>
-      <td>30.11.20</td>
+      <th scope="row">8</th>
+      <td>21.4.21</td>
       <td>Dependency Parsing with the Matrix-Tree Theorem</td>
-      <td><a href="https://drive.google.com/file/d/1OpcMu9K69zXt2KhaKvozaOQK9O-hKxj9/view?usp=sharing">Lecture 8</a></td>
+      <td><a href="https://drive.google.com/file/d/1OpcMu9K69zXt2KhaKvozaOQK9O-hKxj9/view?usp=sharing">Lecture 8</br>(last semester)</a></td>
       <td>Eisenstein Ch. 11</td>
       <td><a href="https://www.aclweb.org/anthology/D07-1015/">Koo et al. (2007)</a></br>
         <a href="https://www.aclweb.org/anthology/D07-1014/">Smith and Smith (2007)</a></br>
         <a href="https://www.aclweb.org/anthology/W07-2216/">McDonald and Satta (2007)</a></br>
         <a href="https://www.morganclaypool.com/doi/abs/10.2200/S00169ED1V01Y200901HLT002">McDonald, Kübler and Nivre (2009)</a></td>
     </tr>
+    
     <tr>
-      <th scope="row">12</th>
-      <td>7.12.20</td>
+      <th scope="row">9</th>
+      <td>28.4.21</td>
+      <td>Semantics</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">10</th>
+      <td>5.5.21</td>
       <td>Transliteration with WFSTs</td>
-      <td><a href="https://drive.google.com/file/d/1mwhYgGzJo_hRs-8MbefsCsKDmnAiVXzI/view?usp=sharing">Lecture 9</a></td>
+      <td><a href="https://drive.google.com/file/d/1mwhYgGzJo_hRs-8MbefsCsKDmnAiVXzI/view?usp=sharing">Lecture 10</br>(last semester)</a></td>
       <td>Eisenstein Ch. 9</td>
       <td><a href="https://www.aclweb.org/anthology/J98-4003.pdf">Knight and Graehl (1998)</a></br>
         <a href="https://cs.nyu.edu/~mohri/pub/hbka.pdf">Mohri, Pereira and Riley (2008)</a></td>
     </tr>
     <tr>
-      <th scope="row">13</th>
-      <td>14.12.20</td>
+      <th scope="row">11</th>
+      <td>12.5.21</td>
+      <td>No Class (EMNLP Deadline)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">12</th>
+      <td>19.5.21</td>
       <td>Machine Translation with Transformers</td>
-      <td><a href="https://drive.google.com/file/d/1k_hy-I5LOLV2vputUwwA_Ui4F1eP69kI/view?usp=sharing">Lecture 10</a></td>
+      <td><a href="https://drive.google.com/file/d/1k_hy-I5LOLV2vputUwwA_Ui4F1eP69kI/view?usp=sharing">Lecture 12</br>(last semester)</a></td>
       <td>Eisenstein Ch. 18</td>
       <td><a href="https://www.amazon.com/gp/product/1108497322/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1108497322&linkCode=as2&tag=statismachint-20&linkId=ca7b8315b48f309c992019761c3ac4e4">Neural Machine Translation</a></br>
         <a href="https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf">Vaswani et al. (2017)</a></br>
@@ -205,7 +198,15 @@ Marks for the course will be determined by the following formula:
     </tr>
     <tr>
       <th scope="row">13</th>
-      <td>18.12.20</td>
+      <td>26.5.21</td>
+      <td>Axes of Modeling</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">14</th>
+      <td>2.6.21</td>
       <td>Bias and Fairness in NLP</td>
       <td></td>
       <td></td>
@@ -214,7 +215,7 @@ Marks for the course will be determined by the following formula:
         <a href="https://arxiv.org/abs/1909.00871">Hall Maudslay et al. (2019)</a></br>
         <a href="https://arxiv.org/abs/2009.09435">Vargas and Cotterell (2020)</a></br>
         <a href="http://ciml.info/dl/v0_99/ciml-v0_99-ch08.pdf">A Course in Machine Learning Chapter 8</a></td>
-    </tr> -->
+    </tr>
     
   </tbody>
 </table>
