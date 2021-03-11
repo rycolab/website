@@ -48,6 +48,12 @@ subtitle = ""
   extensions = ["hardLineBreak"]
 
 +++
+* **10/3:** 5 papers accepted to NAACL 2021
+  - A Non-Linear Structural Probe 
+  - What About the Precedent: An Information-Theoretic Analysis of Common Law 
+  - Do Syntactic Probes Probe Syntax? Experiments with Jabberwocky Probing 
+  - Finding Concept-specific Biases in Form–Meaning Associations 
+  - How (Non-)Optimal is the Lexicon?
 * **25/2:** [Ryan](authors/ryan/) is giving an [invited talk](https://drive.google.com/file/d/1NjVYskNhDAcPnDFxnuSsxyXJDlAmNO9G/view?usp=sharing) at the ELLIS NLP Workshop on [joint work](publication/meisteral-tacl-20/) with [Clara](authors/clara/) and [Tim](authors/tim/)
 
 * **28/1:** 3 papers accepted to EACL 2021
