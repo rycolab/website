@@ -48,7 +48,7 @@ subtitle = ""
   extensions = ["hardLineBreak"]
 
 +++
-* **10/3:** 5 papers accepted to NAACL 2021
+* **10/3:** 5 papers (3 long, 2 short) accepted to NAACL 2021
   - A Non-Linear Structural Probe 
   - What About the Precedent: An Information-Theoretic Analysis of Common Law 
   - Do Syntactic Probes Probe Syntax? Experiments with Jabberwocky Probing 

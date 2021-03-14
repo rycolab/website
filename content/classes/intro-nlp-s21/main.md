@@ -94,7 +94,8 @@ Marks for the course will be determined by the following formula:
       <td>Eisenstein Ch. 2</td>
       <td><a href="https://www.cs.jhu.edu/~jason/papers/ferraro+eisner.tnlp13.pdf">Ferraro and Eisner (2013)</a></br>
         <a href="http://cs.jhu.edu/~jason/tutorials/loglin/further.html">Jason Eisner’s list of further resources on log-linear modeling</a></td>
-        <td><a href="https://drive.google.com/file/d/1c0ukuClgztpR3rMA8cFQs2-tj4ClBlmr/view?usp=sharing">Week 3</a></td>
+        <td><a href="https://drive.google.com/file/d/1c0ukuClgztpR3rMA8cFQs2-tj4ClBlmr/view?usp=sharing">Week 3</a></br>
+          <a href="https://drive.google.com/file/d/1Dai8uwluiJZJt-ZHreG5XkX0IQIHQ60A/view?usp=sharing">Solutions</a></td>
     </tr>
     <tr>
       <th scope="row">4</th>
@@ -109,7 +110,7 @@ Marks for the course will be determined by the following formula:
         <a href="https://www.aclweb.org/anthology/P15-1162/">Iyyer et al. (2015)</a></br>
       <a href="https://arxiv.org/pdf/1411.2738.pdf">word2vec Parameter Learning Explained</a></br>
     <a href="https://arxiv.org/pdf/1402.3722.pdf">word2vec Explained</a></br></td>
-    <td></td>
+    <td><a href="https://drive.google.com/file/d/1iPur9_Rx6GUW9oL9-RDMXsYP4g8HXFos/view?usp=sharing">Week 4</a></td>
     </tr>
     <tr>
       <th scope="row">5</th>
