@@ -39,8 +39,8 @@ Marks for the course will be determined by the following formula:
 **18.02** &emsp; We are using piazza as our discussion forum. Please enroll [here](https://www.piazza.com/ethz.ch/spring2021/252300500l).  
 **24.02** &emsp; First lecture.  
 **03.03** &emsp; [Project guidelines](https://drive.google.com/file/d/125XGqBMwGHpFc6pS1JNhmbEXFpt_hGHC/view?usp=sharing) released.  
-**04.03** &emsp; First discussion section. 
-
+**04.03** &emsp; First discussion section.  
+**31.03** &emsp; Project proposals due. 
 
 ## Syllabus
 <table class="table">
@@ -229,9 +229,9 @@ We will release exercises every week that cover material in the next lecture (e.
 
 Every student has the option of completing *either* a research project or a structured assignment. This work will be worth 30% of your final mark. Both will be due on **July 15th.**
 
-The **research project** is an open-ended project where students reimplement an existing research paper or perform novel research if they are so inclined. We will require you to write a 1-page project proposal where we will give you feedback on the idea (due March 31st). Projects can be completed in groups of up to 4; feel free to use Piazza to reach out to other students in the course.
+The **research project** is an open-ended project where students reimplement an existing research paper or perform novel research if they are so inclined. Projects can be completed in groups of up to 4; feel free to use Piazza to reach out to other students in the course. We will require you to write a 1-page project proposal where we will give you feedback on the idea (due **March 31st**). Submission can be done on the course Moodle page (one submission per team please).
 
-In the **assignment**, some of the questions will be more theoretical and resemble the questions you will see on the final exam. However, there may also be a large coding portion, which would not look like the exam questions. For instance, we may ask you to implement a recurrent neural dependency parser. Assignments must be completed individually. 
+In the **assignment**, some of the questions will be more theoretical and resemble the questions you will see on the final exam. However, there will also be a substantial coding portion, which would not look like the exam questions. For instance, we may ask you to implement a recurrent neural dependency parser. Assignments must be completed individually. We will release the assignment in two waves, corresponding to when course material is covered. The first portion of the assignment will be released ~**April 2nd**.
 
 ## Materials
 
