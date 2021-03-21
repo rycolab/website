@@ -110,7 +110,8 @@ Marks for the course will be determined by the following formula:
         <a href="https://www.aclweb.org/anthology/P15-1162/">Iyyer et al. (2015)</a></br>
       <a href="https://arxiv.org/pdf/1411.2738.pdf">word2vec Parameter Learning Explained</a></br>
     <a href="https://arxiv.org/pdf/1402.3722.pdf">word2vec Explained</a></br></td>
-    <td><a href="https://drive.google.com/file/d/1iPur9_Rx6GUW9oL9-RDMXsYP4g8HXFos/view?usp=sharing">Week 4</a></td>
+    <td><a href="https://drive.google.com/file/d/1iPur9_Rx6GUW9oL9-RDMXsYP4g8HXFos/view?usp=sharing">Week 4</a></br>
+          <a href="https://drive.google.com/file/d/1f83kDZRsVYUVb34VaGT-_H09t7HQCNE9/view?usp=sharing">Solutions</a></td>
     </tr>
     <tr>
       <th scope="row">5</th>
@@ -123,7 +124,7 @@ Marks for the course will be determined by the following formula:
         <a href="https://ieeexplore.ieee.org/document/479394">Kneser and Ney (1995)</a></br>
         <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf">Bengio et al. (2003)</a></br>
         <a href="https://www.isca-speech.org/archive/archive_papers/interspeech_2010/i10_1045.pdf">Mikolov et al. (2010)</a></td>
-        <td></td>
+        <td><a href="https://drive.google.com/file/d/11oINZRB5hbjW2SG3H0KalPE-4nlceNPY/view?usp=sharing">Week 5</a></td>
     </tr>
     <tr>
       <th scope="row">6</th>
