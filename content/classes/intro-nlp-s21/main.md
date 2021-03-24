@@ -117,7 +117,7 @@ Marks for the course will be determined by the following formula:
       <th scope="row">5</th>
       <td>24.03.21</td>
       <td>Language Modeling with *n*-grams and LSTMs</td>
-      <td><a href="https://drive.google.com/file/d/1TmY6psV5pjhKd_6Ur8n35f_TTcRUtyh_/view?usp=sharing">Lecture 5</br>(last semester)</a></td>
+      <td><a href="https://drive.google.com/file/d/1TmY6psV5pjhKd_6Ur8n35f_TTcRUtyh_/view?usp=sharing">Lecture 5</a></td>
       <td>Eisenstein Ch. 6</br>Goodfellow, Bengio and Courville Ch. 10</td>
       <td><a href="https://nlp.stanford.edu/~wcmac/papers/20050421-smoothing-tutorial.pdf">Good Tutorial on n-gram smoothing</a></br>
         <a href="https://en.wikipedia.org/wiki/Good%E2%80%93Turing_frequency_estimation">Good–Turing Smoothing</a></br>
@@ -166,9 +166,9 @@ Marks for the course will be determined by the following formula:
     <tr>
       <th scope="row">9</th>
       <td>28.4.21</td>
-      <td>Semantics</td>
+      <td>Semantic Parsing with CCGs</td>
       <td></td>
-      <td></td>
+      <td>Eisenstein Ch. 9.3 and 12</td>
       <td></td>
     </tr>
     <tr>
