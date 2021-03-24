@@ -8,7 +8,6 @@ abstract: ""
 featured: false
 publication: "*Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing*"
 publication_short: "EMNLP"
-links:
 url_pdf: papers/zmigrod+al.emnlp20.pdf
 ---
 

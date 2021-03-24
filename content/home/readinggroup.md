@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
 title = "ETHZ++ NLP Reading Group"
-subtitle = "[SEE FULL READING LIST HISTORY](readinggroup)"
+subtitle = "[SEE FULL READING LIST HISTORY](/readinggroup)"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
