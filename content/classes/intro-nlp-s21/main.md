@@ -44,6 +44,9 @@ Marks for the course will be determined by the following formula:
 
 ## Syllabus
 <table class="table">
+  <head>
+    <base target="_blank">
+  </head>
   <thead>
     <tr>
       <th scope="col" style='white-space:nowrap'>Week</th>

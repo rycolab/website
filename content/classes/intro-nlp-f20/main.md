@@ -58,6 +58,9 @@ Marks for the course will be determined by the following formula:
 **Disclaimer:** This is the first year the class is being taught in this format. It will progress, and may change, as the semester carries on.
 {{< figure src="roller-coaster.png" width="40%" >}}
 <table class="table">
+  <head>
+    <base target="_blank">
+  </head>
   <thead>
     <tr>
       <th scope="col" style='white-space:nowrap'>Week</th>
