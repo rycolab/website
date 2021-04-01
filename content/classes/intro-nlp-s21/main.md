@@ -40,7 +40,8 @@ Marks for the course will be determined by the following formula:
 **24.02** &emsp; First lecture.  
 **03.03** &emsp; [Project guidelines](https://drive.google.com/file/d/125XGqBMwGHpFc6pS1JNhmbEXFpt_hGHC/view?usp=sharing) released.  
 **04.03** &emsp; First discussion section.  
-**31.03** &emsp; Project proposals due. 
+**31.03** &emsp; Project proposals due.  
+**01.04** &emsp; [Assignment Part 1](https://drive.google.com/file/d/1fnkBBeNn26ILyWj34a2gpZTUBGRMA8wu/view?usp=sharing) released (draft). 
 
 ## Syllabus
 <table class="table">
@@ -240,7 +241,8 @@ In the **assignment**, some of the questions will be more theoretical and resemb
 
 ## Materials
 
-- [Project Guidelines](https://drive.google.com/file/d/125XGqBMwGHpFc6pS1JNhmbEXFpt_hGHC/view?usp=sharing)
+- [Project Guidelines](https://drive.google.com/file/d/125XGqBMwGHpFc6pS1JNhmbEXFpt_hGHC/view?usp=sharing) 
+- [Assignment Part 1](https://drive.google.com/file/d/1fnkBBeNn26ILyWj34a2gpZTUBGRMA8wu/view?usp=sharing) (draft)
 
 <!-- ### Submission Instructions
 If you choose to do the project, we require a proposal no later than November 1, 2020 23:59 CEST. Further, a progress report is due December 11, 2020 23:59 CEST. Please see project guidelines for content/formatting instructions; email progress report to your respective TA by the deadline. 
