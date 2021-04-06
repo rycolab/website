@@ -237,12 +237,13 @@ Every student has the option of completing *either* a research project or a stru
 
 The **research project** is an open-ended project where students reimplement an existing research paper or perform novel research if they are so inclined. Projects can be completed in groups of up to 4; feel free to use Piazza to reach out to other students in the course. We will require you to write a 1-page project proposal where we will give you feedback on the idea (due **March 31st**). Submission can be done on the course Moodle page (one submission per team please).
 
-In the **assignment**, some of the questions will be more theoretical and resemble the questions you will see on the final exam. However, there will also be a substantial coding portion, which would not look like the exam questions. For instance, we may ask you to implement a recurrent neural dependency parser. Assignments must be completed individually. We will release the assignment in two waves, corresponding to when course material is covered. The first portion of the assignment will be released ~**April 2nd**.
+In the **assignment**, some of the questions will be more theoretical and resemble the questions you will see on the final exam. However, there will also be a substantial coding portion, which would not look like the exam questions. For instance, we may ask you to implement a recurrent neural dependency parser. Assignments must be completed individually, although you may discuss the assignment with other students. If you choose to do so, you must specify with whom you collaborated in your submission (see template below). We will release the assignment in two waves, corresponding to when course material is covered. The second portion of the assignment will be released ~**May 20th**.
 
 ## Materials
 
 - [Project Guidelines](https://drive.google.com/file/d/125XGqBMwGHpFc6pS1JNhmbEXFpt_hGHC/view?usp=sharing) 
 - [Assignment Part 1](https://drive.google.com/file/d/1fnkBBeNn26ILyWj34a2gpZTUBGRMA8wu/view?usp=sharing) (draft)
+- [Assignment Submission Template](https://www.overleaf.com/read/vdpvbjpwrrvb)
 
 <!-- ### Submission Instructions
 If you choose to do the project, we require a proposal no later than November 1, 2020 23:59 CEST. Further, a progress report is due December 11, 2020 23:59 CEST. Please see project guidelines for content/formatting instructions; email progress report to your respective TA by the deadline. 
