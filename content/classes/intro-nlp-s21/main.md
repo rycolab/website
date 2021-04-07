@@ -142,7 +142,8 @@ Marks for the course will be determined by the following formula:
         <a href="https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers">Lafferty et al. (2001)</a></br>
         <a href="https://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf">Sutton and McCallum (2011)</a></br>
         <a href="https://mitpress.mit.edu/books/probabilistic-graphical-models">Koller and Friedman (2009)</a></td>
-        <td><a href="https://drive.google.com/file/d/1CbQBGsh9xTkDVze0oTORrN3S3VIr3DFg/view?usp=sharing">Week 6</a></td>
+        <td><a href="https://drive.google.com/file/d/1CbQBGsh9xTkDVze0oTORrN3S3VIr3DFg/view?usp=sharing">Week 6</a></br>
+          <a href="https://drive.google.com/file/d/1-q7bz1kx89j2a8_8Yq--qXSVDzsy4YJb/view?usp=sharing">Solutions</a></td>
     </tr>
     <tr>
       <th scope="row">7</th>
