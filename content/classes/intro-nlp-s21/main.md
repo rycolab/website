@@ -156,6 +156,7 @@ Marks for the course will be determined by the following formula:
         <a href="https://www.ideals.illinois.edu/handle/2142/74304">Kasami (1966)</a></br>
         <a href="https://www.sciencedirect.com/science/article/pii/S001999586780007X?via%3Dihub">Younger (1967)</a></br>
         <a href="http://www.softwarepreservation.org/projects/FORTRAN/CockeSchwartz_ProgLangCompilers.pdf">Cocke and Schwartz (1970)</a></td>
+        <td><a href="https://drive.google.com/file/d/1nKp10BoJY5AdsXa3AmufSUTG-HMIeSoX/view?usp=sharing">Week 7</a></br>
     </tr>
     <tr>
       <th scope="row">8</th>
@@ -167,14 +168,15 @@ Marks for the course will be determined by the following formula:
         <a href="https://www.aclweb.org/anthology/D07-1014/">Smith and Smith (2007)</a></br>
         <a href="https://www.aclweb.org/anthology/W07-2216/">McDonald and Satta (2007)</a></br>
         <a href="https://www.morganclaypool.com/doi/abs/10.2200/S00169ED1V01Y200901HLT002">McDonald, Kübler and Nivre (2009)</a></td>
+        <td></td>
     </tr>
-    
     <tr>
       <th scope="row">9</th>
       <td>28.4.21</td>
       <td>Semantic Parsing with CCGs</td>
       <td></td>
       <td>Eisenstein Ch. 9.3 and 12</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -185,11 +187,13 @@ Marks for the course will be determined by the following formula:
       <td>Eisenstein Ch. 9</td>
       <td><a href="https://www.aclweb.org/anthology/J98-4003.pdf">Knight and Graehl (1998)</a></br>
         <a href="https://cs.nyu.edu/~mohri/pub/hbka.pdf">Mohri, Pereira and Riley (2008)</a></td>
+      <td></td>
     </tr>
     <tr>
       <th scope="row">11</th>
       <td>12.5.21</td>
       <td>No Class (EMNLP Deadline)</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -203,11 +207,13 @@ Marks for the course will be determined by the following formula:
       <td><a href="https://www.amazon.com/gp/product/1108497322/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1108497322&linkCode=as2&tag=statismachint-20&linkId=ca7b8315b48f309c992019761c3ac4e4">Neural Machine Translation</a></br>
         <a href="https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf">Vaswani et al. (2017)</a></br>
         <a href="https://www.aclweb.org/anthology/W18-2509/">Rush (2018)</a></td>
+      <td></td>
     </tr>
     <tr>
       <th scope="row">13</th>
       <td>26.5.21</td>
       <td>Axes of Modeling</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -223,6 +229,7 @@ Marks for the course will be determined by the following formula:
         <a href="https://arxiv.org/abs/1909.00871">Hall Maudslay et al. (2019)</a></br>
         <a href="https://arxiv.org/abs/2009.09435">Vargas and Cotterell (2020)</a></br>
         <a href="http://ciml.info/dl/v0_99/ciml-v0_99-ch08.pdf">A Course in Machine Learning Chapter 8</a></td>
+      <td></td>
     </tr>
     
   </tbody>
