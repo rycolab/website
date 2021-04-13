@@ -7,7 +7,19 @@ git submodule add -f -b master https://github.com/rycolab/rycolab.github.io.git 
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
 # Build the project.
-hugo --gc
+#hugo --gc
+
+SOURCE='.'
+DESTINATION=public/
+
+TEMP=`mktemp -d`
+echo "Building from $SOURCE"
+hugo --source="$SOURCE" --destination="$TEMP"
+cp "$DESTINATION"/{.git,CNAME} $TEMP
+if [ $? -eq 0 ]; then
+    echo "Syncing to $DESTINATION"
+    rsync -aq --delete "$TEMP/" "$DESTINATION"
+fi
 
 # Go To Public folder
 cd public

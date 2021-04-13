@@ -5,35 +5,36 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "/#about"
   weight = 10
 
 [[main]]
   name = "People"
-  url = "#people"
+  url = "/#people"
   weight = 40
 
 [[main]]
   name = "Publications"
-  url = "#publications"
+  url = "/#publications"
   weight = 50
 
 [[main]]
   name = "Teaching"
-  url = "#teaching"
+  url = "/#teaching"
   weight = 60
+  hrefTargetBlank = false
 
 [[main]]
   name = "Thesis Projects"
-  url = "#projects"
+  url = "/#projects"
   weight = 70
 
 [[main]]
   name = "Reading Group"
-  url = "#readinggroup"
+  url = "/#readinggroup"
   weight = 80
 
 [[main]]
   name = "Joining"
-  url = "#joining"
+  url = "/#joining"
   weight = 90
