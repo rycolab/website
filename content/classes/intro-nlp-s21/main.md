@@ -157,7 +157,9 @@ Marks for the course will be determined by the following formula:
         <a href="https://www.sciencedirect.com/science/article/pii/S001999586780007X?via%3Dihub">Younger (1967)</a></br>
         <a href="http://www.softwarepreservation.org/projects/FORTRAN/CockeSchwartz_ProgLangCompilers.pdf">Cocke and Schwartz (1970)</a></td>
         <td><a href="https://drive.google.com/file/d/1nKp10BoJY5AdsXa3AmufSUTG-HMIeSoX/view?usp=sharing">Week 7</a></br>
+          <a href="https://drive.google.com/file/d/1wrRnTAIBtSy8SO6Ye3VamqizTcq130A-/view?usp=sharing">Solutions</a></br>
           <a href="https://drive.google.com/file/d/1zJXpRrYIZpbQEgPv765NGHVw3G4mvHLA/view?usp=sharing">Coding Exercise</a></br>
+          <a href="https://drive.google.com/file/d/16q07tVT-HvOA4260dYoSR-VKvIBS9hD8/view?usp=sharing">Coding Solutions</a>
     </tr>
     <tr>
       <th scope="row">8</th>
@@ -169,7 +171,7 @@ Marks for the course will be determined by the following formula:
         <a href="https://www.aclweb.org/anthology/D07-1014/">Smith and Smith (2007)</a></br>
         <a href="https://www.aclweb.org/anthology/W07-2216/">McDonald and Satta (2007)</a></br>
         <a href="https://www.morganclaypool.com/doi/abs/10.2200/S00169ED1V01Y200901HLT002">McDonald, Kübler and Nivre (2009)</a></td>
-        <td></td>
+        <td><a href="https://drive.google.com/file/d/1-AKW_NzSMXXUVgBD1FBN2xOOTUGkpxq5/view?usp=sharing">Week 8</a></td>
     </tr>
     <tr>
       <th scope="row">9</th>
