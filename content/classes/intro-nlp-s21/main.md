@@ -165,7 +165,7 @@ Marks for the course will be determined by the following formula:
       <th scope="row">8</th>
       <td>21.4.21</td>
       <td>Dependency Parsing with the Matrix-Tree Theorem</td>
-      <td><a href="https://drive.google.com/file/d/1OpcMu9K69zXt2KhaKvozaOQK9O-hKxj9/view?usp=sharing">Lecture 8</br>(last semester)</a></td>
+      <td><a href="https://drive.google.com/file/d/1rztIaNxua6J5NkSGTLolqyUT9UDKcsQX/view?usp=sharing">Lecture 8</a></td>
       <td>Eisenstein Ch. 11</td>
       <td><a href="https://www.aclweb.org/anthology/D07-1015/">Koo et al. (2007)</a></br>
         <a href="https://www.aclweb.org/anthology/D07-1014/">Smith and Smith (2007)</a></br>
@@ -205,7 +205,7 @@ Marks for the course will be determined by the following formula:
       <th scope="row">12</th>
       <td>19.5.21</td>
       <td>Machine Translation with Transformers</td>
-      <td><a href="https://drive.google.com/file/d/1k_hy-I5LOLV2vputUwwA_Ui4F1eP69kI/view?usp=sharing">Lecture 12</br>(last semester)</a></td>
+      <td><a href="https://drive.google.com/file/d/1k_hy-I5LOLV2vputUwwA_Ui4F1eP69kI/view?usp=sharing">Lecture 11</br>(last semester)</a></td>
       <td>Eisenstein Ch. 18</td>
       <td><a href="https://www.amazon.com/gp/product/1108497322/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1108497322&linkCode=as2&tag=statismachint-20&linkId=ca7b8315b48f309c992019761c3ac4e4">Neural Machine Translation</a></br>
         <a href="https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf">Vaswani et al. (2017)</a></br>
