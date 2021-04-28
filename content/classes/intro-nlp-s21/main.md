@@ -179,7 +179,9 @@ Marks for the course will be determined by the following formula:
       <td>Semantic Parsing with CCGs</td>
       <td></td>
       <td>Eisenstein Ch. 9.3 and 12</td>
-      <td></td>
+      <td><a href="https://www.aclweb.org/anthology/P88-1034/">Weir and Joshi (1988)</a></br>
+        <a href="https://www.aclweb.org/anthology/Q14-1032/">Kuhlmann and Satta (2014)</a></br>
+        <a href="https://homepages.inf.ed.ac.uk/steedman/papers/ccg/ikdoz17.2.pdf">Mark Steedman's CCG slides</a></td>
       <td></td>
     </tr>
     <tr>
