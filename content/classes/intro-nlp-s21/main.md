@@ -162,8 +162,17 @@ Marks for the course will be determined by the following formula:
           <a href="https://drive.google.com/file/d/16q07tVT-HvOA4260dYoSR-VKvIBS9hD8/view?usp=sharing">Coding Solutions</a>
     </tr>
     <tr>
-      <th scope="row">8</th>
+      <th scope="row">-</th>
       <td>21.4.21</td>
+      <td>Lecture cancelled</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">8</th>
+      <td>28.4.21</td>
       <td>Dependency Parsing with the Matrix-Tree Theorem</td>
       <td><a href="https://drive.google.com/file/d/1rztIaNxua6J5NkSGTLolqyUT9UDKcsQX/view?usp=sharing">Lecture 8</a></td>
       <td>Eisenstein Ch. 11</td>
@@ -171,22 +180,23 @@ Marks for the course will be determined by the following formula:
         <a href="https://www.aclweb.org/anthology/D07-1014/">Smith and Smith (2007)</a></br>
         <a href="https://www.aclweb.org/anthology/W07-2216/">McDonald and Satta (2007)</a></br>
         <a href="https://www.morganclaypool.com/doi/abs/10.2200/S00169ED1V01Y200901HLT002">McDonald, Kübler and Nivre (2009)</a></td>
-        <td><a href="https://drive.google.com/file/d/1-AKW_NzSMXXUVgBD1FBN2xOOTUGkpxq5/view?usp=sharing">Week 8</a></td>
+        <td><a href="https://drive.google.com/file/d/1-AKW_NzSMXXUVgBD1FBN2xOOTUGkpxq5/view?usp=sharing">Week 8</a></br>
+          <a href="https://drive.google.com/file/d/1jd3FNdPrDkLQ7TB75svham8WDPqNmpxo/view?usp=sharing">Solutions</a></td>
     </tr>
     <tr>
       <th scope="row">9</th>
-      <td>28.4.21</td>
+      <td>5.5.21</td>
       <td>Semantic Parsing with CCGs</td>
       <td></td>
       <td>Eisenstein Ch. 9.3 and 12</td>
       <td><a href="https://www.aclweb.org/anthology/P88-1034/">Weir and Joshi (1988)</a></br>
         <a href="https://www.aclweb.org/anthology/Q14-1032/">Kuhlmann and Satta (2014)</a></br>
         <a href="https://homepages.inf.ed.ac.uk/steedman/papers/ccg/ikdoz17.2.pdf">Mark Steedman's CCG slides</a></td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1oRojvYSeG80Ght-YtYDoY5TIgZOPhBhv/view?usp=sharing">Week 9</a></td>
     </tr>
     <tr>
       <th scope="row">10</th>
-      <td>5.5.21</td>
+      <td>12.5.21</td>
       <td>Transliteration with WFSTs</td>
       <td><a href="https://drive.google.com/file/d/1mwhYgGzJo_hRs-8MbefsCsKDmnAiVXzI/view?usp=sharing">Lecture 10</br>(last semester)</a></td>
       <td>Eisenstein Ch. 9</td>
@@ -196,15 +206,6 @@ Marks for the course will be determined by the following formula:
     </tr>
     <tr>
       <th scope="row">11</th>
-      <td>12.5.21</td>
-      <td>No Class (EMNLP Deadline)</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">12</th>
       <td>19.5.21</td>
       <td>Machine Translation with Transformers</td>
       <td><a href="https://drive.google.com/file/d/1k_hy-I5LOLV2vputUwwA_Ui4F1eP69kI/view?usp=sharing">Lecture 11</br>(last semester)</a></td>
@@ -215,7 +216,7 @@ Marks for the course will be determined by the following formula:
       <td></td>
     </tr>
     <tr>
-      <th scope="row">13</th>
+      <th scope="row">12</th>
       <td>26.5.21</td>
       <td>Axes of Modeling</td>
       <td></td>
@@ -224,7 +225,7 @@ Marks for the course will be determined by the following formula:
       <td></td>
     </tr>
     <tr>
-      <th scope="row">14</th>
+      <th scope="row">13</th>
       <td>2.6.21</td>
       <td>Bias and Fairness in NLP</td>
       <td></td>
