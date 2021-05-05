@@ -1,7 +1,7 @@
 ---
 title: "SIGMORPHON 2020 Shared Task 0: Typologically Diverse Morphological Inflection"
 date: 2020-07-01
-publishDate: 2021-02-08T09:14:57.799260Z
+publishDate: 2021-05-05T10:12:49.866299Z
 authors: ["Ekaterina Vylomova", "Jennifer White", "Elizabeth Salesky", "Sabrina J. Mielke", "Shijie Wu", "Edoardo Maria Ponti", "Rowan Hall Maudslay", "Ran Zmigrod", "Josef Valvoda", "Svetlana Toldova", "Francis Tyers", "Elena Klyachko", "Ilya Yegorov", "Natalia Krizhanovsky", "Paula Czarnowska", "Irene Nikkarinen", "Andrew Krizhanovsky", "Tiago Pimentel", "Lucas Torroba Hennigen", "Christo Kirov", "Garrett Nicolai", "Adina Williams", "Antonios Anastasopoulos", "Hilaria Cruz", "Eleanor Chodroff", "Ryan Cotterell", "Miikka Silfverberg", "Mans Hulden"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "How (Non-)Optimal is the Lexicon?"
 date: 2021-01-01
-publishDate: 2021-05-04T16:38:00.197204Z
+publishDate: 2021-05-05T10:12:57.881003Z
 authors: ["Tiago Pimentel*", "Irene Nikkarinen*", "Kyle Mahowald", "Ryan Cotterell", "Damián Blasi"]
 publication_types: ["1"]
 abstract: ""

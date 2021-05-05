@@ -1,7 +1,7 @@
 ---
 title: "SIGTYP 2020 Shared Task: Prediction of Typological Features"
 date: 2020-11-01
-publishDate: 2021-02-08T09:14:57.615784Z
+publishDate: 2021-05-05T10:12:49.582408Z
 authors: ["Johannes Bjerva", "Elizabeth Salesky", "Sabrina J. Mielke", "Aditi Chaudhary", "Giuseppe G. A. Celano", "Edoardo M. Ponti", "Ekaterina Vylomova", "Ryan Cotterell", "Isabelle Augenstein"]
 publication_types: ["1"]
 abstract: ""

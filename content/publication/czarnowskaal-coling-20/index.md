@@ -1,7 +1,7 @@
 ---
 title: "Morphologically Aware Word-Level Translation"
 date: 2020-12-01
-publishDate: 2021-02-08T09:14:57.312855Z
+publishDate: 2021-05-05T10:12:49.154259Z
 authors: ["Paula Czarnowska", "Sebastian Ruder", "Ryan Cotterell", "Ann Copestake"]
 publication_types: ["1"]
 abstract: "We propose a novel morphologically aware probability model for bilingual lexicon induction, which jointly models lexeme translation and inflectional morphology in a structured way. Our model exploits the basic linguistic intuition that the lexeme is the key lexical unit of meaning, while inflectional morphology provides additional syntactic information. This approach leads to substantial performance improvements—19% average improvement in accuracy across 6 language pairs over the state of the art in the supervised setting and 16% in the weakly supervised setting. As another contribution, we highlight issues associated with modern BLI that stem from ignoring inflectional morphology, and propose three suggestions for improving the task."

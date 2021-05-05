@@ -1,7 +1,7 @@
 ---
 title: "SIGMORPHON 2020 Task 0 System Description: ETH Zürich Team"
 date: 2020-01-01
-publishDate: 2021-02-08T09:14:57.523217Z
+publishDate: 2021-05-05T10:12:49.439269Z
 authors: ["Martina Forster", "Clara Meister"]
 publication_types: ["1"]
 abstract: ""

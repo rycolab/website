@@ -1,7 +1,7 @@
 ---
 title: "Do Syntactic Probes Probe Syntax? Experiments with Jabberwocky Probing"
 date: 2021-01-01
-publishDate: 2021-05-04T16:37:59.913281Z
+publishDate: 2021-05-05T10:12:57.598569Z
 authors: ["Rowan Hall Mauslay", "Ryan Cotterell"]
 publication_types: ["1"]
 abstract: ""
