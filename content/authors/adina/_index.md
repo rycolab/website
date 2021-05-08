@@ -69,7 +69,7 @@ user_groups:
 - Frequent Collaborators
 ---
 
-Animal Form: Kinkajou 
+Animal Form: Numbat 
 
 <!-- <img  class="avatar-small" src="kinkajou.jpg" style="float: center" />
  -->

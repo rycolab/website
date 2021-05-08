@@ -23,10 +23,9 @@ bio:
 
 interests:
 - computational morphology
-- parsing
-- information-theoretic linguistics
 - computational typology
-- linguistic annotation
+- information-theoretic linguistics
+- parsing
 - low-resource NLP
 
 # Social/Academic Networking
