@@ -199,11 +199,11 @@ Marks for the course will be determined by the following formula:
       <th scope="row">10</th>
       <td>12.5.21</td>
       <td>Transliteration with WFSTs</td>
-      <td><a href="https://drive.google.com/file/d/1mwhYgGzJo_hRs-8MbefsCsKDmnAiVXzI/view?usp=sharing">Lecture 10</br>(last semester)</a></td>
+      <td><a href="https://drive.google.com/file/d/1SBZGZnkRbWrQaBYicocCpG15EcFSHxme/view?usp=sharing">Lecture 10</a></td>
       <td>Eisenstein Ch. 9</td>
       <td><a href="https://www.aclweb.org/anthology/J98-4003.pdf">Knight and Graehl (1998)</a></br>
         <a href="https://cs.nyu.edu/~mohri/pub/hbka.pdf">Mohri, Pereira and Riley (2008)</a></td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1s4X8ojXAFLtIaFlcLEI6dHur13p8CG6A/view?usp=sharing">Week 10</a></td>
     </tr>
     <tr>
       <th scope="row">11</th>
@@ -214,7 +214,7 @@ Marks for the course will be determined by the following formula:
       <td><a href="https://www.amazon.com/gp/product/1108497322/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1108497322&linkCode=as2&tag=statismachint-20&linkId=ca7b8315b48f309c992019761c3ac4e4">Neural Machine Translation</a></br>
         <a href="https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf">Vaswani et al. (2017)</a></br>
         <a href="https://www.aclweb.org/anthology/W18-2509/">Rush (2018)</a></td>
-      <td><a href="https://drive.google.com/file/d/1s4X8ojXAFLtIaFlcLEI6dHur13p8CG6A/view?usp=sharing">Week 10</a></td>
+      <td></td>
     </tr>
     <tr>
       <th scope="row">12</th>
