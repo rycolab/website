@@ -48,6 +48,8 @@ subtitle = ""
   extensions = ["hardLineBreak"]
 
 +++
+* **5/5:** 7 papers accepted to ACL 2021; 2 papers accepted to Findings of the ACL
+
 * **10/3:** 5 papers (3 long, 2 short) accepted to NAACL 2021
   - A Non-Linear Structural Probe 
   - What About the Precedent: An Information-Theoretic Analysis of Common Law 
