@@ -210,7 +210,7 @@ Marks for the course will be determined by the following formula:
       <th scope="row">11</th>
       <td>19.5.21</td>
       <td>Machine Translation with Transformers</td>
-      <td><a href="https://drive.google.com/file/d/1k_hy-I5LOLV2vputUwwA_Ui4F1eP69kI/view?usp=sharing">Lecture 11</br>(last semester)</a></td>
+      <td><a href="https://drive.google.com/file/d/1008UHRtJPtJIsTBtC1yOa6RrSJaidhke/view?usp=sharing">Lecture 11</a></td>
       <td>Eisenstein Ch. 18</td>
       <td><a href="https://www.amazon.com/gp/product/1108497322/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1108497322&linkCode=as2&tag=statismachint-20&linkId=ca7b8315b48f309c992019761c3ac4e4">Neural Machine Translation</a></br>
         <a href="https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf">Vaswani et al. (2017)</a></br>
