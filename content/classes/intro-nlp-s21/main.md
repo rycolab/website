@@ -216,7 +216,8 @@ Marks for the course will be determined by the following formula:
       <td><a href="https://www.amazon.com/gp/product/1108497322/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1108497322&linkCode=as2&tag=statismachint-20&linkId=ca7b8315b48f309c992019761c3ac4e4">Neural Machine Translation</a></br>
         <a href="https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf">Vaswani et al. (2017)</a></br>
         <a href="https://www.aclweb.org/anthology/W18-2509/">Rush (2018)</a></td>
-      <td><a href="https://drive.google.com/file/d/1EKXzkmbjXyxvn0i3PMzRKh96vZQ7iv7x/view?usp=sharing">Week 11</a></td>
+      <td><a href="https://drive.google.com/file/d/1EKXzkmbjXyxvn0i3PMzRKh96vZQ7iv7x/view?usp=sharing">Week 11</a></br>
+        <a href="https://drive.google.com/file/d/1le3KDU1J5juI7d1v_4hqXr_n2TocrMIY/view?usp=sharing">Solutions</a></td>
     </tr>
     <tr>
       <th scope="row">12</th>
