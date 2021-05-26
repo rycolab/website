@@ -223,7 +223,7 @@ Marks for the course will be determined by the following formula:
       <th scope="row">12</th>
       <td>26.5.21</td>
       <td>Axes of Modeling</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1JhLdKPxcalIk65F9Frdkgj2nr8RNCjLH/view?usp=sharing">Lecture 12</a></td>
       <td>Review: Eisenstein Ch. 2</br>Goodfellow, Bengio and Courville Ch. 5 and 11</td>
       <td></td>
       <td><a href="https://drive.google.com/file/d/1vCttVzDm4rM_s4oJ85byk2BvIgFfjEgJ/view?usp=sharing">Week 12</a></td>
