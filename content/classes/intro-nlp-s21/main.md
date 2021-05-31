@@ -226,7 +226,8 @@ Marks for the course will be determined by the following formula:
       <td><a href="https://drive.google.com/file/d/1JhLdKPxcalIk65F9Frdkgj2nr8RNCjLH/view?usp=sharing">Lecture 12</a></td>
       <td>Review: Eisenstein Ch. 2</br>Goodfellow, Bengio and Courville Ch. 5 and 11</td>
       <td></td>
-      <td><a href="https://drive.google.com/file/d/1vCttVzDm4rM_s4oJ85byk2BvIgFfjEgJ/view?usp=sharing">Week 12</a></td>
+      <td><a href="https://drive.google.com/file/d/1vCttVzDm4rM_s4oJ85byk2BvIgFfjEgJ/view?usp=sharing">Week 12</a></br>
+        <a href="https://drive.google.com/file/d/1ra2iP0f9HFCd2s9m0vouVuz39J-i42bZ/view?usp=sharing">Solutions</a></td>
     </tr>
     <tr>
       <th scope="row">13</th>
@@ -253,9 +254,9 @@ We will release exercises every week that cover material in the next lecture (e.
 
 Every student has the option of completing *either* a research project or a structured assignment. This work will be worth 30% of your final mark. Both will be due on **July 15th.**
 
-The **research project** is an open-ended project where students reimplement an existing research paper or perform novel research if they are so inclined. Projects can be completed in groups of up to 4; feel free to use Piazza to reach out to other students in the course. We will require you to write a 1-page project proposal where we will give you feedback on the idea (due **March 31st**). Submission can be done on the course Moodle page (one submission per team please). We will also require a progress report (due **May 31st**). Please send the progress report directly to your assigned TA.
+The **research project** is an open-ended project where students reimplement an existing research paper or perform novel research if they are so inclined. Projects can be completed in groups of up to 4; feel free to use Piazza to reach out to other students in the course. We will require you to write a 1-page project proposal where we will give you feedback on the idea (due **March 31st**). Submission can be done on the course Moodle page (one submission per team please). We will also require a progress report (due **May 31st**). Please send both the progress and final reports directly to your assigned TA.
 
-In the **assignment**, some of the questions will be more theoretical and resemble the questions you will see on the final exam. However, there will also be a substantial coding portion, which would not look like the exam questions. For instance, we may ask you to implement a recurrent neural dependency parser. Assignments must be completed individually, although you may discuss the assignment with other students. If you choose to do so, you must specify with whom you collaborated in your submission (see template below). We will release the assignment in two waves, corresponding to when course material is covered. The second portion of the assignment will be released ~**May 20th**.
+In the **assignment**, some of the questions will be more theoretical and resemble the questions you will see on the final exam. However, there will also be a substantial coding portion, which would not look like the exam questions. For instance, we may ask you to implement a recurrent neural dependency parser. Assignments must be completed individually, although you may discuss the assignment with other students. If you choose to do so, you must specify with whom you collaborated in your submission (see template below). We will release the assignment in two waves, corresponding to when course material is covered. The second portion of the assignment will be released ~**May 20th**. **Submission:** Upload a zip file (with a single pdf containing all written answers to both parts of the assignment and the colab notebooks) to the assignment submission task on Moodle. We will only process a single pdf: if you include multiple pdfs in your submission, only one will be graded.  
 
 ## Materials
 
