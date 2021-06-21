@@ -54,6 +54,7 @@ Please send an email to [ryan.cotterell@inf.ethz.ch](mailto:ryan.cotterell@inf.e
 ### Project Announcements
 
 [Transformer-based Long Document Representations](https://drive.google.com/file/d/1AsWySgsp1vv5k_AJGRglc-4z_7lho6-l/view?usp=sharing) Niklas, Josef
-[Numeracy in (News) Summarisation](https://drive.google.com/file/d/1VLtkwjImFZmMZCiaRioiYJAiAYZ6WC91/view?usp=sharing) Niklas (potentially with Neue Zürcher Zeitung NZZ)
+[Numeracy in (News) Summarisation](https://drive.google.com/file/d/1VLtkwjImFZmMZCiaRioiYJAiAYZ6WC91/view?usp=sharing) Niklas
+[NLP MSc theses with NZZ](https://docs.google.com/document/d/1TsiB-VSOPzW1Po1vVacfUDJp3VQEwm0NF_MVh8J_uco/edit?usp=sharing) Cristina, one Rycolab member
 
 
