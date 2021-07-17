@@ -60,6 +60,7 @@ email: ""
 user_groups:
 - Members
 - Lecturer
+- Lecturers
 ---
 I was born and raised in the city of [Baltimore, Maryland](https://en.wikipedia.org/wiki/Baltimore)—the greatest city in America. But you don’t have to take my word for it, it’s spray-painted on the city’s benches:
 ![alt text][bench]
