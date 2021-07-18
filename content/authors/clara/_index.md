@@ -33,16 +33,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:cmeister7.47@gmail.com"  # For a direct email link, use "mailto:test@example.org".
-- icon: github
-  icon_pack: fab
-  link: https://github.com/cimeister
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ClaraIsabelMei1
+- icon: google
+  icon_pack: fab
+  link: https://scholar.google.com/citations?user=quJhNH8AAAAJ&hl=en
+- icon: github
+  icon_pack: fab
+  link: https://github.com/cimeister
 - icon: portrait
   icon_pack: fas
   link: "https://cimeister.github.io"
-
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
