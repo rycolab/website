@@ -21,10 +21,8 @@ organizations:
 bio: PhD Student at ETH Zürich
 
 interests:
-- Language of Conflicts
-- Online-​Offline Conflicts
-- Conflict Networks
-- Online Media Bias 
+- Numbers in NLP
+- Machine Learning for Human Rights 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -43,9 +41,10 @@ social:
 - icon: portrait
   icon_pack: fas
   link: http://niklas-stoehr.com
-- icon: google-scholar
-  icon_pack: ai
+- icon: google
+  icon_pack: fab
   link: https://scholar.google.ch/citations?user=lYwy2iEAAAAJ&hl=en
+
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
