@@ -57,7 +57,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Members
-- Lecturers
+- TAs
 ---
 Lucas completed the MPhil in Advanced Computer Science at the [University of Cambridge](https://www.cam.ac.uk/) where he earned a distinction. He wrote his MPhil thesis with Ryan on probing pre-trained neural language models for morpho-syntax. Previously, he was a BSc Artificial Intelligence and Computer Science student at the [University of Edinburgh](https://www.ed.ac.uk/) where he worked with Shay Cohen. Currently, he is [working](https://www.ewor.io/) in the intersection of NLP and education, [thinking](https://www.gooddatainitiative.com/) broadly about AI, and applying to graduate schools to pursue a PhD in NLP!
 
