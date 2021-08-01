@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: MPhil Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Cambridge
-  url: "https://www.cam.ac.uk/"
+- name: MIT
+  url: "https://www.mit.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: MPhil student at the University of Cambridge
