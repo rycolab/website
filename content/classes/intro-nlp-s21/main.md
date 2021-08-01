@@ -233,7 +233,7 @@ Marks for the course will be determined by the following formula:
       <th scope="row">13</th>
       <td>2.6.21</td>
       <td>Bias and Fairness in NLP</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1AOUrM7LyXfRg-ygPsy2_4jjwuj2lyiR4/view?usp=sharing">Lecture 13</a></td>
       <td></td>
       <td><a href="https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf">Bolukabasi et al. (2016)</a></br>
         <a href="https://arxiv.org/abs/1903.03862">Gonen and Goldberg (2019)</a></br>
