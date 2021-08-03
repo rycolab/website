@@ -29,25 +29,30 @@ Since Shannon originally proposed his mathematical theory of communication in th
       <th scope="row">Lecture 1</th>
       <td>Introduction and Overview</td>
       <td><a href="https://drive.google.com/file/d/1ABs4lpZsIqbEcdxf3IdTedggowwp6uiY/view?usp=sharing">Slides</a></td>
+      <td></td>
     </tr>
     <tr>
       <th scope="row">Lecture 2</th>
       <td>Estimating Information-Theoretic Quantities</td>
       <td><a href="https://drive.google.com/file/d/13ZANGYeC1JC1QQUdzR2B5qAPVmlv2mBI/view?usp=sharing">Slides</a></td>
+      <td><a href="https://colab.research.google.com/drive/1lvBeLfCqpaT8cJlbtnIcpSpMRxPUu84e">iPython Notebook</a></td>
     </tr>
     <tr>
       <th scope="row">Lecture 3</th>
       <td>Case Studies in Complexity</td>
+      <td><a href="https://drive.google.com/file/d/1O4ENFD8IVu-6YPLHAbVvquK3WSqYIEvN/view?usp=sharing">Slides</a></td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">Lecture 4</th>
       <td>Case Studies in Correlation</td>
+      <td><a href="https://drive.google.com/file/d/1jlIXy6uJW_5LVdpsaJqVBIGuUODLAge6/view?usp=sharing">Slides</a></td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">Lecture 5</th>
       <td>Case Studies in Communication</td>
+      <td><a href="https://drive.google.com/file/d/1wRFbsrP7DeF5YvaZ0WNy5fIMlx9EnzuL/view?usp=sharing">Slides</a></td>
       <td></td>
     </tr>
 </tbody>
@@ -217,6 +222,14 @@ Thomas M. Cover and Joy A. Thomas. [Elements of Information Theory](https://onli
       <td>Aurnhammer, Christoph and Frank, Stefan L</td>
       <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
         data-filename="bibs/aurnhammer19.bib">Cite</button></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="https://aclanthology.org/2021.acl-long.404.pdf">A Cognitive Regularizer for Language Modeling</a></td>
+      <td>Wei, Jason and Meister, Clara and 
+	Cotterell, Ryan</td>
+      <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
+        data-filename="bibs/wei21.bib">Cite</button></td>
     </tr>
     <tr>
       <td></td>
