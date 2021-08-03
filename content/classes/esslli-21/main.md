@@ -299,6 +299,14 @@ Cotterell, Ryan</td>
         data-filename="bibs/meister2020.bib">Cite</button></td>
     </tr>
     <tr>
+      <td></td>
+      <td><a href="https://aclanthology.org/2021.acl-long.414.pdf">Language Model Evaluation Beyond Perplexity</a></td>
+      <td>Meister, Clara and 
+	Cotterell, Ryan</td>
+      <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
+        data-filename="bibs/meister2021.bib">Cite</button></td>
+    </tr>
+    <tr>
       <td><strong>Parsing</strong></td>
       <td>Syntactic dependencies correspond to word pairs with high mutual information</td>
       <td>Futrell, Richard and Qian, Peng and Gibson, Edward and Fedorenko, Evelina and Blank, Idan</td>
