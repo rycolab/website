@@ -66,6 +66,9 @@ Since Shannon originally proposed his mathematical theory of communication in th
 
 Thomas M. Cover and Joy A. Thomas. [Elements of Information Theory](https://onlinelibrary.wiley.com/doi/book/10.1002/047174882X). 2006. Wiley-Interscience, USA.
 
+### Statistics Background
+
+Peter J. Bickel and Kjell A. Doksum. [Mathematical Statistics](http://www.mim.ac.mw/books/Mathematical%20statistics,%20basic%20ideas%20and%20selected%20topics%20Vol%201,%20Second%20Edition.pdf). 2001. Prentice Hall, USA.
 
 ### Recent Papers (by topic)
 
@@ -81,43 +84,6 @@ Thomas M. Cover and Joy A. Thomas. [Elements of Information Theory](https://onli
   <tbody>
   	<tr>
       <td><strong>Entropy Estimation</strong></td>
-      <td><a href="https://proceedings.neurips.cc/paper/2001/file/d46e1fcf4c07ce4a69ee07e4134bcef1-Paper.pdf">Entropy and Inference, Revisited</a></td>
-      <td>Nemenman, Ilya and Shafee, F. and Bialek, William</td>
-      <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
-        data-filename="bibs/ent_inf.bib">Cite</button></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td><a href="https://www.jstor.org/stable/1936227?seq=1#metadata_info_tab_contents
-">Jackknifing An Index of Diversity</a></td>
-      <td>Samuel Zahl</td>
-      <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
-        data-filename="bibs/jackknife.bib">Cite</button></td>
-    </tr>
-    <tr>
-    <td></td>
-      <td><a href="https://proceedings.neurips.cc/paper/2001/file/fb2e203234df6dee15934e448ee88971-Paper.pdf
-">Distribution of Mutual Information</a></td>
-      <td>Hutter, Marcus</td>
-      <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
-        data-filename="bibs/dist_mi.bib">Cite</button></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td><a href="https://www.stat.berkeley.edu/~binyu/summer08/L2P2.pdf">Estimation of Entropy and Mutual Information</a></td>
-      <td>Paninski, Liam</td>
-      <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
-        data-filename="bibs/estimation_ent.bib">Cite</button></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td><a href="https://jmlr.org/papers/volume15/archer14a/archer14a.pdf">Bayesian Entropy Estimation for Countable Discrete Distributions</a></td>
-      <td>Evan Archer and Il Memming Park and Jonathan W. Pillow</td>
-      <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
-        data-filename="bibs/archer14.bib">Cite</button></td>
-    </tr>
-    <tr>
-      <td></td>
       <td><a href="http://www.nowozin.net/sebastian/blog/estimating-discrete-entropy-part-1.html">Estimating Discrete Entropy Part 1</a></td>
       <td>Sebastian Nowozin</td>
       <td></td>
@@ -134,6 +100,51 @@ Thomas M. Cover and Joy A. Thomas. [Elements of Information Theory](https://onli
       <td>Sebastian Nowozin</td>
       <td></td>
     </tr>
+    <tr>
+      <td></td>
+      <td><a href="https://www.jstor.org/stable/1936227?seq=1#metadata_info_tab_contents
+">Jackknifing An Index of Diversity</a></td>
+      <td>Samuel Zahl</td>
+      <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
+        data-filename="bibs/jackknife.bib">Cite</button></td>
+    </tr>
+    <tr>
+    <td></td>
+      <td><a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.52.6841">Estimating functions of probability distributions from a finite set of samples</a></td>
+      <td>David H. Wolpert and David R. Wolf</td>
+      <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
+        data-filename="bibs/wolpert95.bib">Cite</button></td>
+    </tr>
+    <tr>
+    <td></td>
+      <td><a href="https://proceedings.neurips.cc/paper/2001/file/fb2e203234df6dee15934e448ee88971-Paper.pdf
+">Distribution of Mutual Information</a></td>
+      <td>Hutter, Marcus</td>
+      <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
+        data-filename="bibs/dist_mi.bib">Cite</button></td>
+    </tr>
+  	<tr>
+      <td></td>
+      <td><a href="https://proceedings.neurips.cc/paper/2001/file/d46e1fcf4c07ce4a69ee07e4134bcef1-Paper.pdf">Entropy and Inference, Revisited</a></td>
+      <td>Nemenman, Ilya and Shafee, F. and Bialek, William</td>
+      <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
+        data-filename="bibs/ent_inf.bib">Cite</button></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="https://www.stat.berkeley.edu/~binyu/summer08/L2P2.pdf">Estimation of Entropy and Mutual Information</a></td>
+      <td>Paninski, Liam</td>
+      <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
+        data-filename="bibs/estimation_ent.bib">Cite</button></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="https://jmlr.org/papers/volume15/archer14a/archer14a.pdf">Bayesian Entropy Estimation for Countable Discrete Distributions</a></td>
+      <td>Evan Archer and Il Memming Park and Jonathan W. Pillow</td>
+      <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
+        data-filename="bibs/archer14.bib">Cite</button></td>
+    </tr>
+    
     <tr>
       <td><strong>Arbitrariness of the Sign</strong></td>
       <td><a href="https://aclanthology.org/P19-1171.pdf">Meaning to Form: Measuring Systematicity as Information</a></td>
@@ -260,6 +271,13 @@ Thomas M. Cover and Joy A. Thomas. [Elements of Information Theory](https://onli
     </tr>
     <tr>
       <td><strong>Lexicon</strong></td>
+      <td><a href="https://psycnet.apa.org/record/1935-04756-000">The Psycho-biology of Language</a></td>
+      <td>Zipf, G. K</td>
+      <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
+        data-filename="bibs/zipf35.bib">Cite</button></td>
+    </tr>
+    <tr>
+      <td></td>
       <td>Word lengths are optimized for efficient communication</td>
       <td>Piantadosi, Steven T. and Tily, Harry and Gibson, Edward</td>
       <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
@@ -271,6 +289,13 @@ Thomas M. Cover and Joy A. Thomas. [Elements of Information Theory](https://onli
       <td>Kyle Mahowald and Evelina Fedorenko and Steven T. Piantadosi and Edward Gibson</td>
       <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
         data-filename="bibs/mahowald2013.bib">Cite</button></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="https://www.mdpi.com/1099-4300/19/6/275">The Entropy of Words—Learnability and Expressivity across More than 1000 Languages</a></td>
+      <td>Bentz, Christian and Alikaniotis, Dimitrios and Cysouw, Michael and Ferrer-i-Cancho, Ramon</td>
+      <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
+        data-filename="bibs/bentz17.bib">Cite</button></td>
     </tr>
     <tr>
       <td></td>
@@ -321,6 +346,13 @@ Cotterell, Ryan</td>
     </tr>
     <tr>
       <td><strong>Parsing</strong></td>
+      <td>Mathematics as a Science of Patterns</td>
+      <td>Michael D. Resnik</td>
+      <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
+        data-filename="bibs/resnik97.bib">Cite</button></td>
+    </tr>
+    <tr>
+      <td></td>
       <td>Syntactic dependencies correspond to word pairs with high mutual information</td>
       <td>Futrell, Richard and Qian, Peng and Gibson, Edward and Fedorenko, Evelina and Blank, Idan</td>
       <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
