@@ -73,7 +73,7 @@ I am curious about most things: [Simone Teufel](https://www.cl.cam.ac.uk/~sht25/
 
 **Note**: I am not taking students at the moment—my lab has reached critical mass. I spend roughly 3–4 hours a week with my primary (and secondary) advisees and a similar amount of time with many of my close collaborators as well. I am fresh out of cycles :disappointed:
 
-**Note Note**: Despite the above note, please feel free to email anyway—about anything. But, if you do email me, please address me by my first name: Ryan. I strongly disprefer academic titles and find them horridly elitist—to wit, please don't ever call me Dr. Cotterell, Professor Cotterell, or (since I am in a German-speaking land) Professor Dr. Cotterell. How you address me in your email is a great shibboleth for whether you've actually read my page :wink:
+**Note Note**: Despite the above note, please feel free to email anyway—about anything. But, if you do email me, please address me by my first name: Ryan. I strongly disprefer academic titles.  
 
 **Family on the internet**: My uncle John Cotterell is a painter; check him out [here](http://jrcotterell.com/). My cousin [Jake Velker](https://ke.linkedin.com/in/jake-velker-22390459) does amazing work at the [One Acre Fund](https://oneacrefund.org/). My parents (Thomas Cotterell and Gina Scarinzi) are not on the internet, but here’s a recent picture of us in London, England:
 ![alt text][fam]
