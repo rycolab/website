@@ -77,7 +77,7 @@ Marks for the course will be determined by the following formula:
       <td><a href="https://drive.google.com/file/d/121tTh964DdHfBet-U4DbE-hzwqdnsoJi/view?usp=sharing">Lecture 2</a></td>
       <td>Goodfellow, Bengio and Courville Ch. 6.5</td>
       <td>
-        <a href="https://colah.github.io/posts/2015-08-Backprop/">Chris Olah's Blog</a></br>
+        <a href="https://colah.github.io/posts/2015-08-Backprop/" target="_blank">Chris Olah's Blog</a></br>
         <a href="https://people.cs.umass.edu/~domke/courses/sml2011/08autodiff_nnets.pdf">Justin Domke’s Notes</a></br>
         <a href="https://timvieira.github.io/blog/post/2017/08/18/backprop-is-not-just-the-chain-rule/">Tim Vieira’s Blog</a></br>
         <a href="https://ee227c.github.io/notes/ee227c-lecture16.pdf">Moritz Hardt’s Notes</a></br>
@@ -264,6 +264,8 @@ In the **assignment**, some of the questions will be more theoretical and resemb
 - [Assignment Part 1](https://drive.google.com/file/d/1fnkBBeNn26ILyWj34a2gpZTUBGRMA8wu/view?usp=sharing)  
 - [Assignment Part 2](https://drive.google.com/file/d/1QNKLRE6elssUuypZbOwFO51CMvoeRgbT/view?usp=sharing)  
 - [Assignment Submission Template](https://www.overleaf.com/read/vdpvbjpwrrvb)
+- [Exam Topics](https://docs.google.com/document/d/1EsJpCvdeS1KboidK87LS658wYyaUed3cZIqstWIa-fY/edit?usp=sharing)
+- [Practice Exam](https://drive.google.com/file/d/1Fs0CYuLG-sBLZJwthChU8wqYyzBBOoPi/view?usp=sharing)
 
 <!-- ### Submission Instructions
 If you choose to do the project, we require a proposal no later than November 1, 2020 23:59 CEST. Further, a progress report is due December 11, 2020 23:59 CEST. Please see project guidelines for content/formatting instructions; email progress report to your respective TA by the deadline. 
