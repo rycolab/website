@@ -1,4 +1,3 @@
-
 +++
 title = 'Information Theory in Linguistics: Methods and Applications'
 subtitle = '[ESSLLI 2021](https://esslli2021.unibz.it/): Week 2 (August 2-6)'
@@ -28,31 +27,31 @@ Since Shannon originally proposed his mathematical theory of communication in th
     <tr>
       <th scope="row">Lecture 1</th>
       <td>Introduction and Overview</td>
-      <td><a href="https://drive.google.com/file/d/1ABs4lpZsIqbEcdxf3IdTedggowwp6uiY/view?usp=sharing">Slides</a></td>
+      <td><a href="https://drive.google.com/file/d/1ABs4lpZsIqbEcdxf3IdTedggowwp6uiY/view?usp=sharing" target="_blank">Slides</a></td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">Lecture 2</th>
       <td>Estimating Information-Theoretic Quantities</td>
-      <td><a href="https://drive.google.com/file/d/13ZANGYeC1JC1QQUdzR2B5qAPVmlv2mBI/view?usp=sharing">Slides</a></td>
-      <td><a href="https://colab.research.google.com/drive/1lvBeLfCqpaT8cJlbtnIcpSpMRxPUu84e">iPython Notebook</a></td>
+      <td><a href="https://drive.google.com/file/d/13ZANGYeC1JC1QQUdzR2B5qAPVmlv2mBI/view?usp=sharing" target="_blank">Slides</a></td>
+      <td><a href="https://colab.research.google.com/drive/1lvBeLfCqpaT8cJlbtnIcpSpMRxPUu84e" target="_blank">iPython Notebook</a></td>
     </tr>
     <tr>
       <th scope="row">Lecture 3</th>
       <td>Case Studies in Complexity</td>
-      <td><a href="https://drive.google.com/file/d/1O4ENFD8IVu-6YPLHAbVvquK3WSqYIEvN/view?usp=sharing">Slides</a></td>
+      <td><a href="https://drive.google.com/file/d/1O4ENFD8IVu-6YPLHAbVvquK3WSqYIEvN/view?usp=sharing" target="_blank">Slides</a></td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">Lecture 4</th>
       <td>Case Studies in Correlation</td>
-      <td><a href="https://drive.google.com/file/d/1jlIXy6uJW_5LVdpsaJqVBIGuUODLAge6/view?usp=sharing">Slides</a></td>
+      <td><a href="https://drive.google.com/file/d/1jlIXy6uJW_5LVdpsaJqVBIGuUODLAge6/view?usp=sharing" target="_blank">Slides</a></td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">Lecture 5</th>
       <td>Case Studies in Communication</td>
-      <td><a href="https://drive.google.com/file/d/1wRFbsrP7DeF5YvaZ0WNy5fIMlx9EnzuL/view?usp=sharing">Slides</a></td>
+      <td><a href="https://drive.google.com/file/d/1wRFbsrP7DeF5YvaZ0WNy5fIMlx9EnzuL/view?usp=sharing" target="_blank">Slides</a></td>
       <td></td>
     </tr>
 </tbody>
@@ -84,62 +83,60 @@ Peter J. Bickel and Kjell A. Doksum. [Mathematical Statistics](http://www.mim.ac
   <tbody>
   	<tr>
       <td><strong>Entropy Estimation</strong></td>
-      <td><a href="http://www.nowozin.net/sebastian/blog/estimating-discrete-entropy-part-1.html">Estimating Discrete Entropy Part 1</a></td>
+      <td><a href="http://www.nowozin.net/sebastian/blog/estimating-discrete-entropy-part-1.html" target="_blank">Estimating Discrete Entropy Part 1</a></td>
       <td>Sebastian Nowozin</td>
       <td></td>
     </tr>
     <tr>
       <td></td>
-      <td><a href="http://www.nowozin.net/sebastian/blog/estimating-discrete-entropy-part-2.html">Estimating Discrete Entropy Part 2</a></td>
+      <td><a href="http://www.nowozin.net/sebastian/blog/estimating-discrete-entropy-part-2.html" target="_blank">Estimating Discrete Entropy Part 2</a></td>
       <td>Sebastian Nowozin</td>
       <td></td>
     </tr>
     <tr>
       <td></td>
-      <td><a href="http://www.nowozin.net/sebastian/blog/estimating-discrete-entropy-part-3.html">Estimating Discrete Entropy Part 3</a></td>
+      <td><a href="http://www.nowozin.net/sebastian/blog/estimating-discrete-entropy-part-3.html" target="_blank">Estimating Discrete Entropy Part 3</a></td>
       <td>Sebastian Nowozin</td>
       <td></td>
     </tr>
     <tr>
       <td></td>
-      <td><a href="https://www.jstor.org/stable/1936227?seq=1#metadata_info_tab_contents
-">Jackknifing An Index of Diversity</a></td>
+      <td><a href="https://www.jstor.org/stable/1936227?seq=1#metadata_info_tab_contents" target="_blank">Jackknifing An Index of Diversity</a></td>
       <td>Samuel Zahl</td>
       <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
         data-filename="bibs/jackknife.bib">Cite</button></td>
     </tr>
     <tr>
     <td></td>
-      <td><a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.52.6841">Estimating functions of probability distributions from a finite set of samples</a></td>
+      <td><a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.52.6841" target="_blank">Estimating functions of probability distributions from a finite set of samples</a></td>
       <td>David H. Wolpert and David R. Wolf</td>
       <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
         data-filename="bibs/wolpert95.bib">Cite</button></td>
     </tr>
     <tr>
     <td></td>
-      <td><a href="https://proceedings.neurips.cc/paper/2001/file/fb2e203234df6dee15934e448ee88971-Paper.pdf
-">Distribution of Mutual Information</a></td>
+      <td><a href="https://proceedings.neurips.cc/paper/2001/file/fb2e203234df6dee15934e448ee88971-Paper.pdf" target="_blank">Distribution of Mutual Information</a></td>
       <td>Hutter, Marcus</td>
       <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
         data-filename="bibs/dist_mi.bib">Cite</button></td>
     </tr>
   	<tr>
       <td></td>
-      <td><a href="https://proceedings.neurips.cc/paper/2001/file/d46e1fcf4c07ce4a69ee07e4134bcef1-Paper.pdf">Entropy and Inference, Revisited</a></td>
+      <td><a href="https://proceedings.neurips.cc/paper/2001/file/d46e1fcf4c07ce4a69ee07e4134bcef1-Paper.pdf" target="_blank">Entropy and Inference, Revisited</a></td>
       <td>Nemenman, Ilya and Shafee, F. and Bialek, William</td>
       <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
         data-filename="bibs/ent_inf.bib">Cite</button></td>
     </tr>
     <tr>
       <td></td>
-      <td><a href="https://www.stat.berkeley.edu/~binyu/summer08/L2P2.pdf">Estimation of Entropy and Mutual Information</a></td>
+      <td><a href="https://www.stat.berkeley.edu/~binyu/summer08/L2P2.pdf" target="_blank">Estimation of Entropy and Mutual Information</a></td>
       <td>Paninski, Liam</td>
       <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
         data-filename="bibs/estimation_ent.bib">Cite</button></td>
     </tr>
     <tr>
       <td></td>
-      <td><a href="https://jmlr.org/papers/volume15/archer14a/archer14a.pdf">Bayesian Entropy Estimation for Countable Discrete Distributions</a></td>
+      <td><a href="https://jmlr.org/papers/volume15/archer14a/archer14a.pdf" target="_blank">Bayesian Entropy Estimation for Countable Discrete Distributions</a></td>
       <td>Evan Archer and Il Memming Park and Jonathan W. Pillow</td>
       <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
         data-filename="bibs/archer14.bib">Cite</button></td>
@@ -147,7 +144,7 @@ Peter J. Bickel and Kjell A. Doksum. [Mathematical Statistics](http://www.mim.ac
     
     <tr>
       <td><strong>Arbitrariness of the Sign</strong></td>
-      <td><a href="https://aclanthology.org/P19-1171.pdf">Meaning to Form: Measuring Systematicity as Information</a></td>
+      <td><a href="https://aclanthology.org/P19-1171.pdf" target="_blank">Meaning to Form: Measuring Systematicity as Information</a></td>
       <td>Pimentel, Tiago  and
       McCarthy, Arya D.  and
       Blasi, Damian  and
@@ -158,7 +155,7 @@ Peter J. Bickel and Kjell A. Doksum. [Mathematical Statistics](http://www.mim.ac
     </tr>
     <tr>
       <td></td>
-      <td><a href="https://aclanthology.org/2021.naacl-main.349/">Finding Concept-specific Biases in Form--Meaning Associations</a></td>
+      <td><a href="https://aclanthology.org/2021.naacl-main.349/" target="_blank">Finding Concept-specific Biases in Form--Meaning Associations</a></td>
       <td>Pimentel, Tiago  and
       Roark, Brian  and
       Wichmann, Søren  and
@@ -169,7 +166,7 @@ Peter J. Bickel and Kjell A. Doksum. [Mathematical Statistics](http://www.mim.ac
     </tr>
     <tr>
       <td><strong>Morphology</strong></td>
-      <td><a href="https://aclanthology.org/2020.acl-main.597.pdf">Predicting Declension Class from Form and Meaning</a></td>
+      <td><a href="https://aclanthology.org/2020.acl-main.597.pdf" target="_blank">Predicting Declension Class from Form and Meaning</a></td>
       <td>Williams, Adina  and
       Pimentel, Tiago  and
       Blix, Hagen  and
@@ -181,7 +178,7 @@ Peter J. Bickel and Kjell A. Doksum. [Mathematical Statistics](http://www.mim.ac
     </tr>
     <tr>
       <td></td>
-      <td><a href="https://aclanthology.org/D19-1577.pdf">Quantifying the Semantic Core of Gender Systems</a></td>
+      <td><a href="https://aclanthology.org/D19-1577.pdf" target="_blank">Quantifying the Semantic Core of Gender Systems</a></td>
       <td>Williams, Adina  and
       Blasi, Damián  and
       Wolf-Sonkin, Lawrence  and
@@ -192,7 +189,7 @@ Peter J. Bickel and Kjell A. Doksum. [Mathematical Statistics](http://www.mim.ac
     </tr>
     <tr>
       <td></td>
-      <td><a href="https://aclanthology.org/2020.emnlp-main.456.pdf">Measuring the Similarity of Grammatical Gender Systems by Comparing Partitions</a></td>
+      <td><a href="https://aclanthology.org/2020.emnlp-main.456.pdf" target="_blank">Measuring the Similarity of Grammatical Gender Systems by Comparing Partitions</a></td>
       <td>McCarthy, Arya D.  and
       Williams, Adina  and
       Liu, Shijia  and
@@ -203,7 +200,7 @@ Peter J. Bickel and Kjell A. Doksum. [Mathematical Statistics](http://www.mim.ac
     </tr>
     <tr>
       <td></td>
-      <td><a href="https://aclanthology.org/P19-1505.pdf">Morphological Irregularity Correlates with Frequency</a></td>
+      <td><a href="https://aclanthology.org/P19-1505.pdf" target="_blank">Morphological Irregularity Correlates with Frequency</a></td>
       <td>Wu, Shijie  and
       Cotterell, Ryan  and
       O'Donnell, Timothy</td>
@@ -212,7 +209,7 @@ Peter J. Bickel and Kjell A. Doksum. [Mathematical Statistics](http://www.mim.ac
     </tr>
     <tr>
       <td></td>
-      <td><a href="https://aclanthology.org/Q19-1021.pdf">On the Complexity and Typology of Inflectional Morphological Systems</a></td>
+      <td><a href="https://aclanthology.org/Q19-1021.pdf" target="_blank">On the Complexity and Typology of Inflectional Morphological Systems</a></td>
       <td>Cotterell, Ryan  and
       Kirov, Christo  and
       Hulden, Mans  and
@@ -236,7 +233,7 @@ Peter J. Bickel and Kjell A. Doksum. [Mathematical Statistics](http://www.mim.ac
     </tr>
     <tr>
       <td></td>
-      <td><a href="https://aclanthology.org/2021.acl-long.404.pdf">A Cognitive Regularizer for Language Modeling</a></td>
+      <td><a href="https://aclanthology.org/2021.acl-long.404.pdf" target="_blank">A Cognitive Regularizer for Language Modeling</a></td>
       <td>Wei, Jason and Meister, Clara and 
 	Cotterell, Ryan</td>
       <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
@@ -244,7 +241,7 @@ Peter J. Bickel and Kjell A. Doksum. [Mathematical Statistics](http://www.mim.ac
     </tr>
     <tr>
       <td></td>
-      <td><a href="https://aclanthology.org/2021.acl-long.405">Lower Perplexity is Not Always Human-Like</td>
+      <td><a href="https://aclanthology.org/2021.acl-long.405" target="_blank">Lower Perplexity is Not Always Human-Like</td>
       <td>Kuribayashi, Tatsuki  and
       Oseki, Yohei  and
       Ito, Takumi  and
@@ -256,7 +253,7 @@ Peter J. Bickel and Kjell A. Doksum. [Mathematical Statistics](http://www.mim.ac
     </tr>
     <tr>
       <td></td>
-      <td><a href="https://aclanthology.org/2021.cmcl-1.2">Human Sentence Processing: Recurrence or Attention?</a></td>
+      <td><a href="https://aclanthology.org/2021.cmcl-1.2" target="_blank">Human Sentence Processing: Recurrence or Attention?</a></td>
       <td>Merkx, Danny  and
       Frank, Stefan L.</td>
       <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
@@ -271,7 +268,7 @@ Peter J. Bickel and Kjell A. Doksum. [Mathematical Statistics](http://www.mim.ac
     </tr>
     <tr>
       <td><strong>Lexicon</strong></td>
-      <td><a href="https://psycnet.apa.org/record/1935-04756-000">The Psycho-biology of Language</a></td>
+      <td><a href="https://psycnet.apa.org/record/1935-04756-000" target="_blank">The Psycho-biology of Language</a></td>
       <td>Zipf, G. K</td>
       <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
         data-filename="bibs/zipf35.bib">Cite</button></td>
@@ -292,14 +289,14 @@ Peter J. Bickel and Kjell A. Doksum. [Mathematical Statistics](http://www.mim.ac
     </tr>
     <tr>
       <td></td>
-      <td><a href="https://www.mdpi.com/1099-4300/19/6/275">The Entropy of Words—Learnability and Expressivity across More than 1000 Languages</a></td>
+      <td><a href="https://www.mdpi.com/1099-4300/19/6/275" target="_blank">The Entropy of Words—Learnability and Expressivity across More than 1000 Languages</a></td>
       <td>Bentz, Christian and Alikaniotis, Dimitrios and Cysouw, Michael and Ferrer-i-Cancho, Ramon</td>
       <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
         data-filename="bibs/bentz17.bib">Cite</button></td>
     </tr>
     <tr>
       <td></td>
-      <td><a href="https://aclanthology.org/2021.naacl-main.350.pdf">How (Non-)Optimal is the Lexicon?</a></td>
+      <td><a href="https://aclanthology.org/2021.naacl-main.350.pdf" target="_blank">How (Non-)Optimal is the Lexicon?</a></td>
       <td>Pimentel, Tiago  and
       Nikkarinen, Irene  and
       Mahowald, Kyle  and
@@ -310,7 +307,7 @@ Peter J. Bickel and Kjell A. Doksum. [Mathematical Statistics](http://www.mim.ac
     </tr>
     <tr>
       <td></td>
-      <td><a href="https://aclanthology.org/2021.eacl-main.3.pdf">Disambiguatory Signals are Stronger in Word-initial Positions</a></td>
+      <td><a href="https://aclanthology.org/2021.eacl-main.3.pdf" target="_blank">Disambiguatory Signals are Stronger in Word-initial Positions</a></td>
       <td>Pimentel, Tiago  and
       Cotterell, Ryan  and
       Roark, Brian</td>
@@ -319,7 +316,7 @@ Peter J. Bickel and Kjell A. Doksum. [Mathematical Statistics](http://www.mim.ac
     </tr>
     <tr>
       <td></td>
-      <td><a href="https://aclanthology.org/2020.emnlp-main.328.pdf">Speakers Fill Lexical Semantic Gaps with Context</a></td>
+      <td><a href="https://aclanthology.org/2020.emnlp-main.328.pdf" target="_blank">Speakers Fill Lexical Semantic Gaps with Context</a></td>
       <td>Pimentel, Tiago  and
       Hall Maudslay, Rowan  and
       Blasi, Damián  and
@@ -329,7 +326,7 @@ Peter J. Bickel and Kjell A. Doksum. [Mathematical Statistics](http://www.mim.ac
     </tr>
     <tr>
       <td><strong>Language Generation</strong></td>
-      <td><a href="https://www.aclweb.org/anthology/2020.emnlp-main.170">If Beam Search is the Answer, What was the Question?</a></td>
+      <td><a href="https://www.aclweb.org/anthology/2020.emnlp-main.170" target="_blank">If Beam Search is the Answer, What was the Question?</a></td>
       <td>Meister, Clara and 
 Vieira, Tim and 
 Cotterell, Ryan</td>
@@ -338,7 +335,7 @@ Cotterell, Ryan</td>
     </tr>
     <tr>
       <td></td>
-      <td><a href="https://aclanthology.org/2021.acl-long.414.pdf">Language Model Evaluation Beyond Perplexity</a></td>
+      <td><a href="https://aclanthology.org/2021.acl-long.414.pdf" target="_blank">Language Model Evaluation Beyond Perplexity</a></td>
       <td>Meister, Clara and 
 	Cotterell, Ryan</td>
       <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
@@ -360,7 +357,7 @@ Cotterell, Ryan</td>
     </tr>
     <tr>
       <td><strong>Color Systems</strong></td>
-      <td><a href="https://www.nogsky.com/publication/2018a-pnas/2018a-PNAS.pdf">Efficient compression in color naming and its evolution</a></td>
+      <td><a href="https://www.nogsky.com/publication/2018a-pnas/2018a-PNAS.pdf" target="_blank">Efficient compression in color naming and its evolution</a></td>
       <td>Zaslavsky, Noga and Kemp, Charles and Regier, Terry and Tishby, Naftali</td>
       <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
         data-filename="bibs/Zaslavsky2018a.bib">Cite</button></td>
@@ -381,7 +378,7 @@ Cotterell, Ryan</td>
     </tr>
     <tr>
       <td><strong>Interpretability of Neural Networks</strong></td>
-      <td><a href="https://aclanthology.org/2020.acl-main.420.pdf">Information-Theoretic Probing for Linguistic Structure</a></td>
+      <td><a href="https://aclanthology.org/2020.acl-main.420.pdf" target="_blank">Information-Theoretic Probing for Linguistic Structure</a></td>
       <td>Pimentel, Tiago  and
       Valvoda, Josef  and
       Hall Maudslay, Rowan  and
@@ -393,7 +390,7 @@ Cotterell, Ryan</td>
     </tr>
     <tr>
       <td></td>
-      <td><a href="https://aclanthology.org/2020.emnlp-main.14.pdf">Information-Theoretic Probing with Minimum Description Length</a></td>
+      <td><a href="https://aclanthology.org/2020.emnlp-main.14.pdf" target="_blank">Information-Theoretic Probing with Minimum Description Length</a></td>
       <td>Voita, Elena  and
       Titov, Ivan</td>
       <td><button type="button" class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
