@@ -266,6 +266,7 @@ In the **assignment**, some of the questions will be more theoretical and resemb
 - [Assignment Submission Template](https://www.overleaf.com/read/vdpvbjpwrrvb)
 - [Exam Topics](https://docs.google.com/document/d/1EsJpCvdeS1KboidK87LS658wYyaUed3cZIqstWIa-fY/edit?usp=sharing)
 - [Practice Exam](https://drive.google.com/file/d/1Fs0CYuLG-sBLZJwthChU8wqYyzBBOoPi/view?usp=sharing)
+- [Practice Exam Solutions](https://drive.google.com/file/d/1sv4GoNrAtRzlV5Ddk9JqBxe2IgTX_ttv/view?usp=sharing)
 
 <!-- ### Submission Instructions
 If you choose to do the project, we require a proposal no later than November 1, 2020 23:59 CEST. Further, a progress report is due December 11, 2020 23:59 CEST. Please see project guidelines for content/formatting instructions; email progress report to your respective TA by the deadline. 
