@@ -58,6 +58,7 @@ def parse_headers(headers, bib_attribute_map = BIB_ATTRIBUTE_MAP):
       invalid_columns[i] = header.strip()
 
   if KEY not in valid_columns.values():
+    import ipdb; ipdb.set_trace()
     raise CSVParseError('no key column found')
 
 
@@ -176,7 +177,7 @@ def csv_to_bib(csv_file, delimiter):
 
 def main(argv):
   failure = 0
-  delimiter = '\t'
+  delimiter = ','
 
   try:
     opts, csv_files = getopt.getopt(argv,"-d:")
