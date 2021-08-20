@@ -1,7 +1,7 @@
 ---
 title: "Generalizing Procrustes Analysis for Better Bilingual Dictionary Induction"
 date: 2018-10-01
-publishDate: 2020-03-13T16:20:58.333468Z
+publishDate: 2021-08-20T08:39:31.432673Z
 authors: ["Yova Kementchedjhieva", "Sebastian Ruder", "Ryan Cotterell", "Anders Søgaard"]
 publication_types: ["1"]
 abstract: "Most recent approaches to bilingual dictionary induction find a linear alignment between the word vector spaces of two languages. We show that projecting the two languages onto a third, latent space, rather than directly onto each other, while equivalent in terms of expressivity, makes it easier to learn approximate alignments. Our modified approach also allows for supporting languages to be included in the alignment process, to obtain an even better performance in low resource settings."

@@ -177,7 +177,7 @@ def csv_to_bib(csv_file, delimiter):
 
 def main(argv):
   failure = 0
-  delimiter = ','
+  delimiter = '\t'
 
   try:
     opts, csv_files = getopt.getopt(argv,"-d:")

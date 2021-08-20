@@ -1,7 +1,7 @@
 ---
 title: "A Structured Variational Autoencoder for Contextual Morphological Inflection"
 date: 2018-07-01
-publishDate: 2020-03-13T16:20:56.166730Z
+publishDate: 2021-08-20T08:39:30.994416Z
 authors: ["Lawrence Wolf-Sonkin$^*$", "Jason Naradowsky$^*$", "Sabrina J. Mielke$^*$", "Ryan Cotterell$^*$"]
 publication_types: ["1"]
 abstract: "Statistical morphological inflectors are typically trained on fully supervised, type-level data. One remaining open research question is the following: How can we effectively exploit raw, token-level data to improve their performance? To this end, we introduce a novel generative latent-variable model for the semi-supervised learning of inflection generation. To enable posterior inference over the latent variables, we derive an efficient variational inference procedure based on the wake-sleep algorithm. We experiment on 23 languages, using the Universal Dependencies corpora in a simulated low-resource setting, and find improvements of over 10% absolute accuracy in some cases."

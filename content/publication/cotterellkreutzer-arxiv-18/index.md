@@ -1,14 +1,16 @@
 ---
 title: "Explaining and Generalizing Back-Translation through Wake-Sleep"
 date: 2018-01-01
-publishDate: 2020-03-13T16:20:56.598395Z
+publishDate: 2021-08-20T08:39:31.141017Z
 authors: ["Ryan Cotterell", "Julia Kreutzer"]
-publication_types: ["0"]
+publication_types: ["1"]
 abstract: ""
 featured: false
-publication: ""
+publication: "*arXiv preprint arXiv:1806.04402*"
 publication_short: "arXiv"
 links:
+- name: Anthology
+  url: https://arxiv.org/abs/1806.04402
 - name: arXiv
   url: https://arxiv.org/abs/1806.04402
 url_pdf: papers/cotterell+kreutzer.arxiv18.pdf
