@@ -1,7 +1,7 @@
 ---
 title: "On the Diachronic Stability of Irregularity in Inflectional Morphology"
 date: 2018-01-01
-publishDate: 2021-08-20T08:39:31.286375Z
+publishDate: 2021-08-20T18:07:23.719115Z
 authors: ["Ryan Cotterell", "Christo Kirov", "Mans Hulden", "Jason Eisner"]
 publication_types: ["1"]
 abstract: ""

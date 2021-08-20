@@ -1,7 +1,7 @@
 ---
 title: "SIGMORPHON 2020 Task 0 System Description: ETH Zürich Team"
 date: 2020-01-01
-publishDate: 2021-08-20T08:39:44.207932Z
+publishDate: 2021-08-20T18:07:37.321698Z
 authors: ["Martina Forster", "Clara Meister"]
 publication_types: ["1"]
 abstract: "This paper presents our system for the SIGMORPHON 2020 Shared Task. We build off of the baseline systems, performing exact inference on models trained on language family data. Our systems return the globally best solution under these models. Our two systems achieve 80.9% and 75.6% accuracy on the test set. We ultimately find that, in this setting, exact inference does not seem to help or hinder the performance of morphological inflection generators, which stands in contrast to its affect on Neural Machine Translation (NMT) models."
