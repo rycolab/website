@@ -49,9 +49,26 @@ subtitle = ""
 
 +++
 * **26/8:** 7 papers accepted to EMNLP 2021; 4 papers accepted to Findings of the ACL: EMNLP 2021
-
-* **5/5:** 7 papers accepted to ACL 2021; 2 papers accepted to Findings of the ACL
-
+  - Revisiting the Uniform Information Density Hypothesis
+  - A Bayesian Framework for Information-Theoretic Probing
+  - Efficient Sampling of Dependency Structure
+  - Phone-level Uniform Information Density across and within Languages
+  - On Homophony and Rényi Entropy
+  - Conditional Poisson Stochastic Beams
+  - Text or Topology? Classifying Ally-Enemy Pairs in Militarised Conflict
+  - Equivariant Transduction through Invariant Alignment
+  - Searching for More Efficient Dynamic Programs
+  - Keyword2Text: A Plug-and-Play Method for Controlled Text Generation
+  - Adjusting the Conflict-Cooperation Scale for Armed Conflict Assessment
+* **5/5:** 7 papers accepted at ACL 2021; 1 paper accepted to Findings of the ACL
+  - A cognitive regularizer for language modeling
+  - On Finding the K-best Non-projective Dependency Trees
+  - Determinantal Beam Search
+  - Is Sparse Attention more Interpretable?
+  - Language Model Evaluation Beyond Perplexity
+  - Examining the Inductive Bias of Neural Language Models with Artificial Languages
+  - Higher-order Derivatives of Weighted Finite-state Machines
+  - Modelling the Unigram Distribution
 * **10/3:** 5 papers (3 long, 2 short) accepted to NAACL 2021
   - A Non-Linear Structural Probe 
   - What About the Precedent: An Information-Theoretic Analysis of Common Law 
@@ -61,32 +78,9 @@ subtitle = ""
 * **25/2:** [Ryan](/authors/ryan/) is giving an [invited talk](https://drive.google.com/file/d/1NjVYskNhDAcPnDFxnuSsxyXJDlAmNO9G/view?usp=sharing) at the ELLIS NLP Workshop on [joint work](/publication/meisteral-tacl-20/) with [Clara](authors/clara/) and [Tim](authors/tim/)
 
 * **28/1:** 3 papers accepted to EACL 2021
+  - Disambiguatory signals are stronger in word initial positions
+  - Searching for Search Errors in Neural Morphological Inflection
+  - Applying the Transformer to Character-level Transduction
 
-* **15/12:** [Ryan](/authors/ryan/) is giving an invited talk at the University of Geneva.
 
-* **11/11:** [Ryan](/authors/ryan/) is giving an invited talk at Moscow State University.
-
-* **30/9:** [Paula Czarnowska's](/authors/paula/) paper Morphologically Aware Word-Level Translation was accepted to COLING 2020. Joint work with Ryan, [Sebastian Ruder](https://ruder.io/), and [Ann Copestake](https://www.cl.cam.ac.uk/~aac10/). We are super excited for the release of Paula's follow-up to her well received EMNLP 2019 paper [Don't Forget the Long Tail! A Comprehensive Analysis of Morphological Generalization in Bilingual Lexicon Induction](https://arxiv.org/abs/1909.02855).
-
-* **25/9:** Through ETH Zurich, we are officially part of the [ELLIS PhD program](https://ellis.eu/phd-postdoc), which supports PhDs and Post-Docs by providing access to leading researchers through boot camps, summer schools and workshops of the ELLIS programs.
-
-* **17/9:** [Ryan](/authors/ryan/) is publication chair of NAACL 2021.
-
-* **15/9:** 8 papers (7 long, 1 short) accepted to EMNLP 2020
-  - [If Beam Search is the Answer, What was the Question?](/publication/meisteral-emnlp-20/)
-  - [Pareto Probing: Trading Off Accuracy and Simplicity](/publication/pimentelal-emnlp-20/)
-  - [Intrinsic Probing through Dimension Selection](/publication/hennigenal-emnlp-20/)
-  - [Investigating Cross-Linguistic Adjective Ordering Tendencies with a Latent-Variable Model](/publication/leungal-emnlp-20/)
-  - [Speakers Fill Semantic Gaps with Context](/publication/pimentel-2-al-emnlp-20/)
-  - [Please Mind the Root: Decoding Arborescences for Dependency Parsing](/publication/zmigrodal-emnlp-20/)
-  - [Exploring the Linear Subspace Hypothesis in Gender Bias Mitigation](/publication/palomocotterell-emnlp-20/)
-  - [Measuring the Similarity of Grammatical Gender Systems by Comparing Partitions](/publication/mccarthyal-emnlp-20)
-
-* **14/9:** [Parameter Space Factorization for Zero-Shot Learning across Tasks and Languages](/publication/pontial-tacl-20/) to appear in TACL 2020.
-
-* **9/2:** **[Eleftheria Tsipidi](/authors/eleftheria/)** will start her PhD at ETH Zürich. She will be co-advised by Severin Klinger and Ryan and will be associated with ETH Zurich’s Media Technology Center.
-
-* **29/8:** [Efficient Computation of Expectations under Spanning Tree Distributions](/publication/zmigrodal-tacl-20/) to appear in TACL 2020.
-
-* **7/7:** [Best-First Beam Search](/publication/meisteral-tacl-20/) to appear in TACL 2020.
 
