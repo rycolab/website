@@ -48,7 +48,7 @@ subtitle = ""
   extensions = ["hardLineBreak"]
 
 +++
-* **5/5:** 7 papers accepted to EMNLP 2021; 4 papers accepted to Findings of the ACL: EMNLP 2021
+* **26/8:** 7 papers accepted to EMNLP 2021; 4 papers accepted to Findings of the ACL: EMNLP 2021
 
 * **5/5:** 7 papers accepted to ACL 2021; 2 papers accepted to Findings of the ACL
 
