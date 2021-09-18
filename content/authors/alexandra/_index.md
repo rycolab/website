@@ -37,7 +37,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Teaching Assistants
+- Members
 ---
 
 Alexandra is a second-year MSc. student in Data Science. She is interested in applying data science in a variety of fields (ML for weather forecasts, NLP for social sciences, etc.)

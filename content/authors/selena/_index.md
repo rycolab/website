@@ -42,7 +42,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Members
-- Teaching Assistants
 ---
 Selena is a second -year MSc student in Computer Science at ETH Zurich. Previously, she received her BSc from University of Novi Sad in Serbia. Currently, she is working on a research project with Ryan on cognitively plausible morphological inflection models. Apart from that, she is interested in theoretical computer science and in her spare time enjoys playing bridge. 
 

@@ -65,8 +65,8 @@ subtitle = "[SEE ALL CLASSES](/classes)"
   fractions = false
 +++
 
-## [Natural Language Processing](/classes/intro-nlp-s21) 
-**ETH Zürich** <span class="middot-divider"></span> **Spring 2021**
+## [Natural Language Processing](/classes/intro-nlp-f21) 
+**ETH Zürich** <span class="middot-divider"></span> **Fall 2021**
 This course presents topics in natural language processing with an emphasis on modern techniques, primarily focusing on statistical and deep learning approaches. The course provides an overview of the primary areas of research in language processing as well as a detailed exploration of the models and techniques used both in research and in commercial natural language systems.
 
 ## [ESSLLI 2021: Information Theory in Linguistics](/classes/esslli-21) 
