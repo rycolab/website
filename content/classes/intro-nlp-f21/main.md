@@ -239,8 +239,8 @@ In the **assignment**, some of the questions will be more theoretical and resemb
 ## Materials
 
 - [Project Guidelines](https://drive.google.com/file/d/125XGqBMwGHpFc6pS1JNhmbEXFpt_hGHC/view?usp=sharing) 
-<!-- 
-- [Assignment Part 1](https://drive.google.com/file/d/1fnkBBeNn26ILyWj34a2gpZTUBGRMA8wu/view?usp=sharing)  
+
+<!-- - [Assignment Part 1](https://drive.google.com/file/d/1fnkBBeNn26ILyWj34a2gpZTUBGRMA8wu/view?usp=sharing)  
 - [Assignment Part 2](https://drive.google.com/file/d/1QNKLRE6elssUuypZbOwFO51CMvoeRgbT/view?usp=sharing)  
 - [Assignment Submission Template](https://www.overleaf.com/read/vdpvbjpwrrvb)
 - [Exam Topics](https://docs.google.com/document/d/1EsJpCvdeS1KboidK87LS658wYyaUed3cZIqstWIa-fY/edit?usp=sharing)
