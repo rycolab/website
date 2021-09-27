@@ -57,7 +57,7 @@ user_groups:
 - TAs
 ---
 
-Clara is a second year PhD with Ryan at ETH Zürich. She received her B.S. and M.S. from Stanford University in Computational and Mathematical Engineering. Her research interests include neural machine translation and robustness in AI-based systems. In her free time, she likes to rock climb, trail run, and make snarky comments.
+Clara is a second year PhD with Ryan at ETH Zürich. She received her B.S. and M.S. from Stanford University in Computational and Mathematical Engineering. Her research interests include neural machine translation and robustness in AI-based systems. In her free time, she likes to rock climb, trail run, and make snarky comments (directed predominantly at Ryan).
 
 Native Language: English
 

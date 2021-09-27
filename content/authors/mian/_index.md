@@ -1,10 +1,11 @@
 ---
 # Display name
-title: Alexandra Butoi
+title: Mian Zhong
+secondary: 仲勉
 
 # Username (this should match the folder name)
 authors:
-- alexandra
+- mian
 
 # Is this the primary user of the site?
 superuser: false
@@ -20,11 +21,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-- Neural machine translation
-- information theory
-- algorithms 
-- logic
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -33,7 +29,10 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:abutoi@student.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:mzhong@student.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
+- icon: github
+  icon_pack: fab
+  link: https://github.com/mianzg
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -45,8 +44,3 @@ user_groups:
 - Members
 ---
 
-Alexandra is a MSc Data Science student at ETH Zürich. Prior to joining ETH, she did a bachelor's degree in Software Engineering at The University of Sheffield, United Kingdom, where she focused mostly on theoretical computer science and machine learning. She is currently doing an internship in NLP at IBM Research Zürich, after which she will do her master’s thesis supervised by Clara. She enjoys a variety of topics, including machine translation, algorithms, stats, information theory, logic and is trying to learn more about others as well, in search of a primary research interest. 
-
-Native Language: Romanian
-
-Animal Form: Chipmunk

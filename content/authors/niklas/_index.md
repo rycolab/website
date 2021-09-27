@@ -22,7 +22,7 @@ bio: PhD Student at ETH Zürich
 
 interests:
 - Numbers in NLP
-- Machine Learning for Human Rights 
+- Computational Social Science
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -56,6 +56,6 @@ user_groups:
 - Members
 - Teaching Assistants
 ---
-Niklas is a doctoral student fascinated by interdisciplinary questions in Computational Social Science and Applied NLP. After completing a MSc in Data Science at [UCL](https://www.ucl.ac.uk/computer-science/), he worked at the interface of these fields at the [IBM AI Core Team](https://www.ibm.com/watson), [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) and the [German Federal Foreign Office in Shanghai](https://www.auswaertiges-amt.de/en). During his BSc in Information Management Systems at [TU Berlin](https://www.eecs.tu-berlin.de/menue/about_us/parameter/en/), Niklas spent 6 months at the [University of Oxford](http://www.cs.ox.ac.uk) and 12 months at [Tsinghua University in Beijing](http://www.cs.tsinghua.edu.cn/publish/csen/index.html) funded by the [German Academic Scholarship Foundation / Studienstiftung](https://www.studienstiftung.de/en/).
+Niklas is a doctoral student interested in the role and treatment of numbers in NLP and Computational Social Science, particularly International Relations. After completing a MSc in Data Science at [UCL](https://www.ucl.ac.uk/computer-science/), he worked at the interface of these fields at the [IBM AI Core Team](https://www.ibm.com/watson), [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) and the [German Federal Foreign Office in Shanghai](https://www.auswaertiges-amt.de/en). During his BSc in Information Management Systems at [TU Berlin](https://www.eecs.tu-berlin.de/menue/about_us/parameter/en/), Niklas spent 6 months at the [University of Oxford](http://www.cs.ox.ac.uk) and 12 months at [Tsinghua University in Beijing](http://www.cs.tsinghua.edu.cn/publish/csen/index.html) funded by the [German Academic Scholarship Foundation / Studienstiftung](https://www.studienstiftung.de/en/).
 
 Native Language: German

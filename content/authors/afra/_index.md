@@ -23,6 +23,9 @@ bio:
 
 interests:
 - machine learning for NLP
+- computational social science
+- causal inference
+- interpretability
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -31,7 +34,10 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:aamini@student.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:afra.amini@inf.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/afra_amini
 - icon: portrait
   icon_pack: fas
   link: "https://n.ethz.ch/~aamini/"
@@ -48,6 +54,6 @@ user_groups:
 - Teaching Assistants
 ---
 
-Afra is a second-year MSc student in computer science at ETH Zürich. Before joining ETH, she received her bachelor's in software engineering at Sharif University of Technology. She is working on a research project with Clara and Ryan. Her research interests include using machine learning for NLP tasks. She likes reading, hiking, and playing the piano in her spare time.
+Afra is a first-year doctoral fellow at [ETH AI center](https://ai.ethz.ch/), where she is advised by Ryan and [Elliott Ash](https://elliottash.com/). She is broadly interested in a variety of topics related to machine learning for NLP and social sciences. Before starting her Ph.D., she received her master’s in computer science at ETH Zürich and bachelor's in software engineering at Sharif University of Technology. In her spare time, she enjoys digital painting, reading and playing the piano.
 
 Native Language: Persian

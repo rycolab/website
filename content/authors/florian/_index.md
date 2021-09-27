@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alexandra Butoi
+title: Florian Schottmann
 
 # Username (this should match the folder name)
 authors:
-- alexandra
+- florian
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,10 +21,9 @@ organizations:
 bio: 
 
 interests:
-- Neural machine translation
-- information theory
-- algorithms 
-- logic
+- Bayesian methods in NLP
+- interpretability
+- low-resource NLP
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -33,7 +32,10 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:abutoi@student.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:florian.schottmann@student.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
+- icon: github
+  icon_pack: fab
+  link: https://github.com/schottflo
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -45,8 +47,4 @@ user_groups:
 - Members
 ---
 
-Alexandra is a MSc Data Science student at ETH Zürich. Prior to joining ETH, she did a bachelor's degree in Software Engineering at The University of Sheffield, United Kingdom, where she focused mostly on theoretical computer science and machine learning. She is currently doing an internship in NLP at IBM Research Zürich, after which she will do her master’s thesis supervised by Clara. She enjoys a variety of topics, including machine translation, algorithms, stats, information theory, logic and is trying to learn more about others as well, in search of a primary research interest. 
-
-Native Language: Romanian
-
-Animal Form: Chipmunk
+Florian is in the second year of the M.Sc. Statistics at ETH. He is interested in Bayesian methods for NLP, low-resource NLP and interpretability. At the moment, he is writing his master thesis about reranking dependency parse trees of low-resource languages using Gaussian processes. 

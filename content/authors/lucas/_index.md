@@ -18,9 +18,11 @@ organizations:
   url: "https://www.mit.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: MPhil student at the University of Cambridge
+bio: PhD student at MIT
 
 interests:
+- Bayesian methods
+- uncertainty in NLP
 - interpretability
 
 # Social/Academic Networking
@@ -30,7 +32,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:lft26@cam.ac.uk" 
+  link: "mailto:lucastor@mit.edu" 
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ltorroba1
@@ -59,7 +61,7 @@ user_groups:
 - Members
 - TAs
 ---
-Lucas completed the MPhil in Advanced Computer Science at the [University of Cambridge](https://www.cam.ac.uk/) where he earned a distinction. He wrote his MPhil thesis with Ryan on probing pre-trained neural language models for morpho-syntax. Previously, he was a BSc Artificial Intelligence and Computer Science student at the [University of Edinburgh](https://www.ed.ac.uk/) where he worked with Shay Cohen. Currently, he is [working](https://www.ewor.io/) in the intersection of NLP and education, [thinking](https://www.gooddatainitiative.com/) broadly about AI, and applying to graduate schools to pursue a PhD in NLP!
+Lucas is a PhD student at [MIT](https://www.mit.edu/) supervised by [Yoon Kim](https://people.csail.mit.edu/yoonkim/). Previously, he completed the MPhil in Advanced Computer Science at the [University of Cambridge](https://www.cam.ac.uk/). He wrote his MPhil thesis with Ryan on probing pre-trained neural language models for morpho-syntax. Before then he was a BSc Artificial Intelligence and Computer Science student at the [University of Edinburgh](https://www.ed.ac.uk/).
 
 Native Languages: Spanish and Portuguese
 
