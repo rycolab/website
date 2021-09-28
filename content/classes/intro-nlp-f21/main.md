@@ -72,7 +72,7 @@ Marks for the course will be determined by the following formula:
     </tr>
     <tr>
       <th scope="row">2</th>
-      <td>11.10.21</td>
+      <td>4.10.21</td>
       <td>Backpropagation (last semester)</td>
       <td><a href="https://drive.google.com/file/d/121tTh964DdHfBet-U4DbE-hzwqdnsoJi/view?usp=sharing" target="_blank">Lecture 2 (last semester)</a></td>
       <td>Goodfellow, Bengio and Courville Ch. 6.5</td>
@@ -92,7 +92,7 @@ Marks for the course will be determined by the following formula:
     </tr>
     <tr>
       <th scope="row">3</th>
-      <td>18.10.21</td>
+      <td>11.10.21</td>
       <td>Log-Linear Modeling---Meet the Softmax</td>
       <td><a href="https://drive.google.com/file/d/14gnMqCplpjoVVT0Q5Pt3YI5rOQqL6FMl/view?usp=sharing" target="_blank">Lecture 3 (last semester)</a></td>
       <td>Eisenstein Ch. 2</td>
@@ -102,7 +102,7 @@ Marks for the course will be determined by the following formula:
     </tr>
     <tr>
       <th scope="row">4</th>
-      <td>25.10.21</td>
+      <td>18.10.21</td>
       <td>Sentiment Analysis with Multi-layer Perceptrons</td>
       <td><a href="https://drive.google.com/file/d/1Dinfnb1tnK4zoN4bquh9F5D18bCNkGRs/view?usp=sharing" target="_blank">Lecture 4 (last semester)</a></td>
       <td>Eisenstein Ch. 3 and Ch. 4</br>Goodfellow, Bengio and Courville Ch. 6</td>
@@ -117,7 +117,7 @@ Marks for the course will be determined by the following formula:
     </tr>
     <tr>
       <th scope="row">5</th>
-      <td>01.11.21</td>
+      <td>25.10.21</td>
       <td>Language Modeling with *n*-grams and LSTMs</td>
       <td><a href="https://drive.google.com/file/d/1TmY6psV5pjhKd_6Ur8n35f_TTcRUtyh_/view?usp=sharing" target="_blank">Lecture 5 (last semester)</a></td>
       <td>Eisenstein Ch. 6</br>Goodfellow, Bengio and Courville Ch. 10</td>
@@ -130,7 +130,7 @@ Marks for the course will be determined by the following formula:
     </tr>
     <tr>
       <th scope="row">6</th>
-      <td>08.11.21</td>
+      <td>01.11.21</td>
       <td>Part-of-Speech Tagging with CRFs</td>
       <td><a href="https://drive.google.com/file/d/16jvZdoMmr4SAUKJaN3PeDi-nlWF82_xF/view?usp=sharing" target="_blank">Lecture 6 (last semester)</a></td>
       <td>Eisenstein Ch. 7 and 8</td>
@@ -143,7 +143,7 @@ Marks for the course will be determined by the following formula:
     </tr>
     <tr>
       <th scope="row">7</th>
-      <td>15.11.21</td>
+      <td>08.11.21</td>
       <td>Context-Free Parsing with CKY</td>
       <td><a href="https://drive.google.com/file/d/1RIbjaBSnypeu3gRJGmsGGVUF8J3o2tbZ/view?usp=sharing" target="_blank">Lecture 7 (last semester)</a></td>
       <td>Eisenstein Ch. 10</td>
@@ -156,7 +156,7 @@ Marks for the course will be determined by the following formula:
     </tr>
     <tr>
       <th scope="row">8</th>
-      <td>22.11.21</td>
+      <td>15.11.21</td>
       <td>Dependency Parsing with the Matrix-Tree Theorem</td>
       <td><a href="https://drive.google.com/file/d/1rztIaNxua6J5NkSGTLolqyUT9UDKcsQX/view?usp=sharing" target="_blank">Lecture 8 (last semester)</a></td>
       <td>Eisenstein Ch. 11</td>
@@ -168,7 +168,7 @@ Marks for the course will be determined by the following formula:
     </tr>
     <tr>
       <th scope="row">9</th>
-      <td>29.11.21</td>
+      <td>22.11.21</td>
       <td>Semantic Parsing with CCGs</td>
       <td><a href="https://drive.google.com/file/d/1e7RVwqWpvP7wBmYEtWFM0DWe7brwoETu/view?usp=sharing" target="_blank">Lecture 9 (last semester)</a></td>
       <td>Eisenstein Ch. 9.3 and 12</td>
@@ -179,7 +179,7 @@ Marks for the course will be determined by the following formula:
     </tr>
     <tr>
       <th scope="row">10</th>
-      <td>12.5.21</td>
+      <td>29.11.21</td>
       <td>Transliteration with WFSTs</td>
       <td><a href="https://drive.google.com/file/d/1SBZGZnkRbWrQaBYicocCpG15EcFSHxme/view?usp=sharing" target="_blank">Lecture 10 (last semester)</a></td>
       <td>Eisenstein Ch. 9</td>
@@ -189,7 +189,7 @@ Marks for the course will be determined by the following formula:
     </tr>
     <tr>
       <th scope="row">11</th>
-      <td>6.12.21</td>
+      <td>5.12.21</td>
       <td>Machine Translation with Transformers</td>
       <td><a href="https://drive.google.com/file/d/1008UHRtJPtJIsTBtC1yOa6RrSJaidhke/view?usp=sharing" target="_blank">Lecture 11 (last semester)</a></td>
       <td>Eisenstein Ch. 18</td>
