@@ -25,7 +25,7 @@ Marks for the course will be determined by the following formula:
 * **30%** Course Project *or* Assignment
 
 
-**Lectures:** Mon 12-14h Zoom (recurring link sent at start of semester). Recordings can be found in the (password protected) course Polybox.  
+**Lectures:** Mon 12-14h Zoom (recurring link sent at start of semester). Recordings can be found in the (password protected) course Polybox: https://polybox.ethz.ch/index.php/s/gplfKPSDUHSXDRq. The password can be found on the Moodle home page for the course.    
 
 **Discussion Sections:** Weds 12-14h HG F7; discussion sections will either be in person or via Zoom, depending on the individual preferences of the teaching staff. Regardless, all sections will be recorded. Schedule to be posted at the beginning of the semester
 
