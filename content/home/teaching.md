@@ -69,6 +69,10 @@ subtitle = "[SEE ALL CLASSES](/classes)"
 **ETH Zürich** <span class="middot-divider"></span> **Fall 2021**
 This course presents topics in natural language processing with an emphasis on modern techniques, primarily focusing on statistical and deep learning approaches. The course provides an overview of the primary areas of research in language processing as well as a detailed exploration of the models and techniques used both in research and in commercial natural language systems.
 
+## [Dependency Structures and Lexicalized Grammars](/classes/dep-parsing-sem) 
+**ETH Zürich** <span class="middot-divider"></span> **Fall 2021**
+Dependency parsing is a fundamental task in natural language processing. This seminar explores a variety of algorithms for efficient dependency parsing and their derivatioin in a unified algebraic framework. The core ideas behind the mathematics of dependency parsing are explored.
+
 ## [ESSLLI 2021: Information Theory in Linguistics](/classes/esslli-21) 
 **Virtual** <span class="middot-divider"></span> **Summer 2021**
 The [European Summer School in Logic, Language and Information Summer School (ESSLLI)](https://esslli2021.unibz.it/) provides an interdisciplinary setting in which courses and workshops are offered in logic, linguistics and computer science.  The *Information Theory in Linguistics* course focuses on the application of information-theoretic methods to natural language processing, emphasizing interdisciplinary connections with the field of linguistics.
