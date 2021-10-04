@@ -74,7 +74,7 @@ Marks for the course will be determined by the following formula:
       <th scope="row">2</th>
       <td>4.10.21</td>
       <td>Backpropagation (last semester)</td>
-      <td><a href="https://drive.google.com/file/d/121tTh964DdHfBet-U4DbE-hzwqdnsoJi/view?usp=sharing" target="_blank">Lecture 2 (last semester)</a></td>
+      <td><a href="https://drive.google.com/file/d/125ASMverltb8UUV7w9oVGhbCPhk49Zq_/view?usp=sharing" target="_blank">Lecture 2</a></td>
       <td>Goodfellow, Bengio and Courville Ch. 6.5</td>
       <td>
         <a href="https://colah.github.io/posts/2015-08-Backprop/" target="_blank">Chris Olah's Blog</a></br>
