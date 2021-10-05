@@ -73,7 +73,7 @@ Marks for the course will be determined by the following formula:
     <tr>
       <th scope="row">2</th>
       <td>4.10.21</td>
-      <td>Backpropagation (last semester)</td>
+      <td>Backpropagation</td>
       <td><a href="https://drive.google.com/file/d/125ASMverltb8UUV7w9oVGhbCPhk49Zq_/view?usp=sharing" target="_blank">Lecture 2</a></td>
       <td>Goodfellow, Bengio and Courville Ch. 6.5</td>
       <td>
@@ -88,7 +88,7 @@ Marks for the course will be determined by the following formula:
         <a href="https://drive.google.com/file/d/1W4N_ZKOcs-g7gbQqSLRy6fc-Oc7fmKi7/view?usp=sharing" target="_blank">Backpropagation Proof</a></br>
         <a href="https://drive.google.com/file/d/1XWRz4yMi2A5BZSRSgnnbRJikqz7RYtrN/view?usp=sharing" target="_blank">Computation Graph for MLP</a></br>
         <a href="https://drive.google.com/file/d/1hsYIXXd6cEWocrhI-pQ4Ox8FG49Otu_m/view?usp=sharing" target="_blank">Computation Graph Example</a></td>
-        <td></td>
+        <td><a href="https://drive.google.com/file/d/1Z_2Sjasl0IVjowxs1tkV81SYjP7iPXpb/view?usp=sharing" target="_blank">Exercises</a></td>
     </tr>
     <tr>
       <th scope="row">3</th>
