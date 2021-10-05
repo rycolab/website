@@ -51,8 +51,8 @@ If you are a BSc or MSc student at ETH Zurich interested in writing your thesis 
 &nbsp;
 Please send an email to [ryan.cotterell@inf.ethz.ch](mailto:ryan.cotterell@inf.ethz.ch)  with CC to [clara.meister@inf.ethz.ch](mailto:clara.meister@inf.ethz.ch) and [niklas.stoehr@inf.ethz.ch](mailto:niklas.stoehr@inf.ethz.ch) and state either [bachelor’s thesis] or [master’s thesis] at the start of the subject. For us to get to know you a little, please write a paragraph introducing yourself and why you are interested in working with us. It would help us a lot if you also provided a list of four or five more concrete topics that you are interested in. We will try our best to find a project that suits your interests. We are looking forward to receiving your inquiry!
 
+<!---
 ### Project Announcements
 [Numbers in NLP](https://drive.google.com/file/d/1yYYs4VcP-RS8-7DBhtELWOqlEvY6OsNb/view?usp=sharing) Niklas
-[NLP MSc theses with NZZ](https://docs.google.com/document/d/1TsiB-VSOPzW1Po1vVacfUDJp3VQEwm0NF_MVh8J_uco/edit?usp=sharing) Cristina, one Rycolab member
-
+[NLP MSc theses with NZZ](https://docs.google.com/document/d/1TsiB-VSOPzW1Po1vVacfUDJp3VQEwm0NF_MVh8J_uco/edit?usp=sharing) Cristina, one Rycolab member --->
 
