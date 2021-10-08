@@ -1,7 +1,7 @@
 ---
 title: "Metaphor Detection Using Context and Concreteness"
 date: 2020-07-01
-publishDate: 2021-08-20T18:07:37.608151Z
+publishDate: 2021-10-08T07:56:43.731741Z
 authors: ["Rowan Hall Maudslay", "Tiago Pimentel", "Ryan Cotterell", "Simone Teufel"]
 publication_types: ["1"]
 abstract: "We report the results of our system on the Metaphor Detection Shared Task at the Second Workshop on Figurative Language Processing 2020. Our model is an ensemble, utilising contextualised and static distributional semantic representations, along with word-type concreteness ratings. Using these features, it predicts word metaphoricity with a deep multi-layer perceptron. We are able to best the state-of-the-art from the 2018 Shared Task by an average of 8.0% F1, and finish fourth in both sub-tasks in which we participate."
