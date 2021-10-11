@@ -94,11 +94,11 @@ Marks for the course will be determined by the following formula:
       <th scope="row">3</th>
       <td>11.10.21</td>
       <td>Log-Linear Modeling---Meet the Softmax</td>
-      <td><a href="https://drive.google.com/file/d/14gnMqCplpjoVVT0Q5Pt3YI5rOQqL6FMl/view?usp=sharing" target="_blank">Lecture 3 (last semester)</a></td>
+      <td><a href="https://drive.google.com/file/d/14gnMqCplpjoVVT0Q5Pt3YI5rOQqL6FMl/view?usp=sharing" target="_blank">Lecture 3</a></td>
       <td>Eisenstein Ch. 2</td>
       <td><a href="https://www.cs.jhu.edu/~jason/papers/ferraro+eisner.tnlp13.pdf" target="_blank">Ferraro and Eisner (2013)</a></br>
         <a href="http://cs.jhu.edu/~jason/tutorials/loglin/further.html">Jason Eisner’s list of further resources on log-linear modeling</a></td>
-        <td></td>
+        <td><a href="https://drive.google.com/file/d/1c0ukuClgztpR3rMA8cFQs2-tj4ClBlmr/view?usp=sharing" target="_blank">Exercises</a></td>
     </tr>
     <tr>
       <th scope="row">4</th>
