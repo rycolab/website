@@ -51,14 +51,14 @@ Dependency parsing is a fundamental task in natural language processing. This se
     <tr>
       <th scope="row">Week 3</th>
       <td>Chapter 3: Projective Dependency Structures</td>
-      <td></td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1bPNZ8dxHM9wvzhrjY2JALniO7YCwbiH4/view?usp=sharing">Slides</a></td>
+      <td>Michael Heider, Federico Mantovani, Liva Schaffner, Andrea Raguso</td>
     </tr>
     <tr>
       <th scope="row">Week 4</th>
-      <td>Chapter 4</td>
-      <td></td>
-      <td></td>
+      <td>Chapter 4: Dependency Structures of Bounded Degree</td>
+      <td><a href="https://drive.google.com/file/d/1SJ0XD0v-dvBEAJYkIGHARDG_xzzar7Ym/view?usp=sharing">Slides</a></td>
+      <td>Tilman de Lanversin, Nathan Neike, Rafael Fernandes, David Hofer</td>
     </tr>
     <tr>
       <th scope="row">Week 5</th>

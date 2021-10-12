@@ -39,6 +39,4 @@ email: ""
 user_groups:
 - Teaching Assistants
 ---
-
-<!-- Alexandra is a second-year MSc. student in Data Science. She is interested in applying data science in a variety of fields (ML for weather forecasts, NLP for social sciences, etc.)
- -->
+Philippe is an NLP research engineer at the ETH Media Technology Center (currently working on automatic post-editing of MT). He completed MSc in Computer Science at ETH.

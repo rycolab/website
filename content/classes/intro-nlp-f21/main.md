@@ -25,9 +25,9 @@ Marks for the course will be determined by the following formula:
 * **30%** Course Project *or* Assignment
 
 
-**Lectures:** Mon 12-14h Zoom (recurring link sent at start of semester). Recordings can be found in the (password protected) course Polybox: https://polybox.ethz.ch/index.php/s/gplfKPSDUHSXDRq. The password can be found on the Moodle home page for the course.    
+**Lectures:** Mon 12-14h Zoom (recurring link sent at start of semester). Recordings can be found in the password-protected course Polybox: https://polybox.ethz.ch/index.php/s/gplfKPSDUHSXDRq. The password can be found on the Moodle home page for the course.    
 
-**Discussion Sections:** Weds 12-14h HG F7; discussion sections will either be in person or via Zoom, depending on the individual preferences of the teaching staff. Regardless, all sections will be recorded. Schedule to be posted at the beginning of the semester
+**Discussion Sections:** Weds 12-14h HG F7; discussion sections will either be in person or via Zoom (same link as lecture), depending on the individual preferences of the teaching staff. Regardless, all sections will be recorded. Schedule to be posted at the beginning of the semester.
 
 **Textbooks:** [Introduction to Natural Language Processing (Eisenstein)](https://www.amazon.de/Jacob-Eisenstein/dp/0262042843/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=30OMHV1C018JY&dchild=1&keywords=introduction+to+natural+language+processing&qid=1598878964&sprefix=introduction+to+na%2Caps%2C148&sr=8-1)  
 &emsp;&emsp;&emsp;&emsp;&emsp; [Deep Learning (Goodfellow, Bengio and Courville)](https://www.deeplearningbook.org/)  
@@ -58,6 +58,7 @@ Marks for the course will be determined by the following formula:
       <th scope="col" style='white-space:nowrap'>Readings</th>
       <th scope="col" style='white-space:nowrap'>Supplementary Material</th>
       <th scope="col" style='white-space:nowrap'>Exercises</th>
+      <th scope="col" style='white-space:nowrap'>Discussion Section</th>
     </tr>
   </thead>
   <tbody>
@@ -67,6 +68,7 @@ Marks for the course will be determined by the following formula:
       <td>Introduction to Natural Language</td>
       <td><a href="https://drive.google.com/file/d/10KPQWpaDhfUBosCyc-ngbWvOCmiCJPpg/view?usp=sharing" target="_blank">Lecture 1</a></td>
       <td>Eisenstein Ch. 1</td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -89,6 +91,7 @@ Marks for the course will be determined by the following formula:
         <a href="https://drive.google.com/file/d/1XWRz4yMi2A5BZSRSgnnbRJikqz7RYtrN/view?usp=sharing" target="_blank">Computation Graph for MLP</a></br>
         <a href="https://drive.google.com/file/d/1hsYIXXd6cEWocrhI-pQ4Ox8FG49Otu_m/view?usp=sharing" target="_blank">Computation Graph Example</a></td>
         <td><a href="https://drive.google.com/file/d/1Z_2Sjasl0IVjowxs1tkV81SYjP7iPXpb/view?usp=sharing" target="_blank">Exercises</a></td>
+        <td>13.10.21 (online)</td>
     </tr>
     <tr>
       <th scope="row">3</th>
@@ -99,6 +102,7 @@ Marks for the course will be determined by the following formula:
       <td><a href="https://www.cs.jhu.edu/~jason/papers/ferraro+eisner.tnlp13.pdf" target="_blank">Ferraro and Eisner (2013)</a></br>
         <a href="http://cs.jhu.edu/~jason/tutorials/loglin/further.html">Jason Eisner’s list of further resources on log-linear modeling</a></td>
         <td><a href="https://drive.google.com/file/d/1c0ukuClgztpR3rMA8cFQs2-tj4ClBlmr/view?usp=sharing" target="_blank">Exercises</a></td>
+        <td>20.10.21 (in person)</td>
     </tr>
     <tr>
       <th scope="row">4</th>
@@ -114,6 +118,7 @@ Marks for the course will be determined by the following formula:
       <a href="https://arxiv.org/pdf/1411.2738.pdf" target="_blank">word2vec Parameter Learning Explained</a></br>
     <a href="https://arxiv.org/pdf/1402.3722.pdf" target="_blank">word2vec Explained</a></br></td>
     <td></td>
+    <td>27.10.21 (online)</td>
     </tr>
     <tr>
       <th scope="row">5</th>
@@ -127,6 +132,7 @@ Marks for the course will be determined by the following formula:
         <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf" target="_blank">Bengio et al. (2003)</a></br>
         <a href="https://www.isca-speech.org/archive/archive_papers/interspeech_2010/i10_1045.pdf" target="_blank">Mikolov et al. (2010)</a></td>
         <td></td>
+        <td>3.11.21 (online)</td>
     </tr>
     <tr>
       <th scope="row">6</th>
@@ -140,6 +146,7 @@ Marks for the course will be determined by the following formula:
         <a href="https://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf" target="_blank">Sutton and McCallum (2011)</a></br>
         <a href="https://mitpress.mit.edu/books/probabilistic-graphical-models" target="_blank">Koller and Friedman (2009)</a></td>
         <td></td>
+        <td>10.11.21 (online)</td>
     </tr>
     <tr>
       <th scope="row">7</th>
@@ -153,6 +160,7 @@ Marks for the course will be determined by the following formula:
         <a href="https://www.sciencedirect.com/science/article/pii/S001999586780007X?via%3Dihub" target="_blank">Younger (1967)</a></br>
         <a href="http://www.softwarepreservation.org/projects/FORTRAN/CockeSchwartz_ProgLangCompilers.pdf" target="_blank">Cocke and Schwartz (1970)</a></td>
         <td></td>
+        <td>17.11.21 (online)</td>
     </tr>
     <tr>
       <th scope="row">8</th>
@@ -165,6 +173,7 @@ Marks for the course will be determined by the following formula:
         <a href="https://www.aclweb.org/anthology/W07-2216/" target="_blank">McDonald and Satta (2007)</a></br>
         <a href="https://www.morganclaypool.com/doi/abs/10.2200/S00169ED1V01Y200901HLT002" target="_blank">McDonald, Kübler and Nivre (2009)</a></td>
         <td></td>
+        <td>24.11.21 (online)</td>
     </tr>
     <tr>
       <th scope="row">9</th>
@@ -176,6 +185,7 @@ Marks for the course will be determined by the following formula:
         <a href="https://www.aclweb.org/anthology/Q14-1032/" target="_blank">Kuhlmann and Satta (2014)</a></br>
         <a href="https://homepages.inf.ed.ac.uk/steedman/papers/ccg/ikdoz17.2.pdf" target="_blank">Mark Steedman's CCG slides</a></td>
       <td></td>
+      <td>1.12.21 (in person)</td>
     </tr>
     <tr>
       <th scope="row">10</th>
@@ -186,6 +196,7 @@ Marks for the course will be determined by the following formula:
       <td><a href="https://www.aclweb.org/anthology/J98-4003.pdf" target="_blank">Knight and Graehl (1998)</a></br>
         <a href="https://cs.nyu.edu/~mohri/pub/hbka.pdf" target="_blank">Mohri, Pereira and Riley (2008)</a></td>
       <td></td>
+      <td>8.12.21 (online)</td>
     </tr>
     <tr>
       <th scope="row">11</th>
@@ -197,6 +208,7 @@ Marks for the course will be determined by the following formula:
         <a href="https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf" target="_blank">Vaswani et al. (2017)</a></br>
         <a href="https://www.aclweb.org/anthology/W18-2509/">Rush (2018)</a></td>
       <td></td>
+      <td>15.12.21 (online)</td>
     </tr>
     <tr>
       <th scope="row">12</th>
@@ -206,6 +218,7 @@ Marks for the course will be determined by the following formula:
       <td>Review: Eisenstein Ch. 2</br>Goodfellow, Bengio and Courville Ch. 5 and 11</td>
       <td></td>
       <td></td>
+      <td>22.12.21 (in person)</td>
     </tr>
     <tr>
       <th scope="row">13</th>
