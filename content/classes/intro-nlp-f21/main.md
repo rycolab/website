@@ -108,7 +108,7 @@ Marks for the course will be determined by the following formula:
       <th scope="row">4</th>
       <td>18.10.21</td>
       <td>Sentiment Analysis with Multi-layer Perceptrons</td>
-      <td><a href="https://drive.google.com/file/d/1Dinfnb1tnK4zoN4bquh9F5D18bCNkGRs/view?usp=sharing" target="_blank">Lecture 4 (last semester)</a></td>
+      <td><a href="https://drive.google.com/file/d/1YcmNtg6UcqESmX43Fe9okNOiTScf8Vyj/view?usp=sharing" target="_blank">Lecture 4</a></td>
       <td>Eisenstein Ch. 3 and Ch. 4</br>Goodfellow, Bengio and Courville Ch. 6</td>
       <td><a href="https://en.wikipedia.org/wiki/Universal_approximation_theorem" target="_blank">Wikipedia</a></br>
         <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.441.7873&rep=rep1&type=pdf" target="_blank">Cybenko (1989)</a></br>

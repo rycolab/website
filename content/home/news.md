@@ -48,6 +48,8 @@ subtitle = ""
   extensions = ["hardLineBreak"]
 
 +++
+* **Fall 2021:** [Ryan](/authors/ryan/) is giving invited talks at EPFL, University of Melbourne, University of Notre Dame, Gothenburg University and MIT.
+
 * **26/8:** 7 papers accepted to EMNLP 2021; 4 papers accepted to Findings of the ACL: EMNLP 2021
   - Revisiting the Uniform Information Density Hypothesis
   - A Bayesian Framework for Information-Theoretic Probing
