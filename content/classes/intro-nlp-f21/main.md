@@ -39,9 +39,9 @@ Marks for the course will be determined by the following formula:
 **18.09** &emsp; We are using Moodle as our discussion forum.  
 **27.09** &emsp; First lecture.  
 **13.10** &emsp; First discussion section.  
-<!-- **03.03** &emsp; [Project guidelines](https://drive.google.com/file/d/125XGqBMwGHpFc6pS1JNhmbEXFpt_hGHC/view?usp=sharing) released.    
-**31.03** &emsp; Project proposals due.  
-**01.04** &emsp; [Assignment Part 1](https://drive.google.com/file/d/1fnkBBeNn26ILyWj34a2gpZTUBGRMA8wu/view?usp=sharing) released.  
+**03.10** &emsp; [Project guidelines](https://drive.google.com/file/d/125XGqBMwGHpFc6pS1JNhmbEXFpt_hGHC/view?usp=sharing) released.    
+**31.10** &emsp; Project proposals due.  
+<!-- **01.04** &emsp; [Assignment Part 1](https://drive.google.com/file/d/1fnkBBeNn26ILyWj34a2gpZTUBGRMA8wu/view?usp=sharing) released.  
 **21.05** &emsp; [Assignment Part 2](https://drive.google.com/file/d/1QNKLRE6elssUuypZbOwFO51CMvoeRgbT/view?usp=sharing) released.  -->
 
 ## Syllabus
@@ -117,7 +117,7 @@ Marks for the course will be determined by the following formula:
         <a href="https://www.aclweb.org/anthology/P15-1162/" target="_blank">Iyyer et al. (2015)</a></br>
       <a href="https://arxiv.org/pdf/1411.2738.pdf" target="_blank">word2vec Parameter Learning Explained</a></br>
     <a href="https://arxiv.org/pdf/1402.3722.pdf" target="_blank">word2vec Explained</a></br></td>
-    <td><a href="https://colab.research.google.com/drive/1gngt93hfpf4CAhJr5Kk9xH4evtLfwdcb?usp=sharing" target="_blank">Exercises</a></td>
+    <td><a href="https://drive.google.com/file/d/1-gAvUCK2Sqee4THo_4LwUCICfwtZgX-r/view?usp=sharing" target="_blank">Exercises</a></br><a href="https://colab.research.google.com/drive/1gngt93hfpf4CAhJr5Kk9xH4evtLfwdcb?usp=sharing" target="_blank">Coding Exercises</a></td>
     <td>27.10.21 (online)</td>
     </tr>
     <tr>
