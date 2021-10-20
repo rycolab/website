@@ -102,7 +102,7 @@ Marks for the course will be determined by the following formula:
       <td><a href="https://www.cs.jhu.edu/~jason/papers/ferraro+eisner.tnlp13.pdf" target="_blank">Ferraro and Eisner (2013)</a></br>
         <a href="http://cs.jhu.edu/~jason/tutorials/loglin/further.html">Jason Eisner’s list of further resources on log-linear modeling</a></td>
         <td><a href="https://drive.google.com/file/d/1c0ukuClgztpR3rMA8cFQs2-tj4ClBlmr/view?usp=sharing" target="_blank">Exercises</a></td>
-        <td>20.10.21 (in person)</td>
+        <td>20.10.21 (in person)</br><a href="https://drive.google.com/file/d/1SkyIuFbxmjHJ2mDod0j77mYTRd5GyVWA/view?usp=sharing" target="_blank">Notes</a></td>
     </tr>
     <tr>
       <th scope="row">4</th>
