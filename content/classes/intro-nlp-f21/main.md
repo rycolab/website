@@ -90,7 +90,7 @@ Marks for the course will be determined by the following formula:
         <a href="https://drive.google.com/file/d/1W4N_ZKOcs-g7gbQqSLRy6fc-Oc7fmKi7/view?usp=sharing" target="_blank">Backpropagation Proof</a></br>
         <a href="https://drive.google.com/file/d/1XWRz4yMi2A5BZSRSgnnbRJikqz7RYtrN/view?usp=sharing" target="_blank">Computation Graph for MLP</a></br>
         <a href="https://drive.google.com/file/d/1hsYIXXd6cEWocrhI-pQ4Ox8FG49Otu_m/view?usp=sharing" target="_blank">Computation Graph Example</a></td>
-        <td><a href="https://drive.google.com/file/d/1Z_2Sjasl0IVjowxs1tkV81SYjP7iPXpb/view?usp=sharing" target="_blank">Exercises</a></br><a href="https://drive.google.com/file/d/1IKObOq3QApeRDsEqKdkKI7CwjJ0ggkJF/view?usp=sharing" target="_blank">Solutions</a></td>
+        <td><a href="https://drive.google.com/file/d/1Z_2Sjasl0IVjowxs1tkV81SYjP7iPXpb/view?usp=sharing" target="_blank">Exercises</a></br><a href="https://drive.google.com/file/d/1IKObOq3QApeRDsEqKdkKI7CwjJ0ggkJF/view?usp=sharing" target="_blank">(<em>Solutions</em>)</a></td>
         <td>13.10.21 (online)</td>
     </tr>
     <tr>
@@ -101,7 +101,7 @@ Marks for the course will be determined by the following formula:
       <td>Eisenstein Ch. 2</td>
       <td><a href="https://www.cs.jhu.edu/~jason/papers/ferraro+eisner.tnlp13.pdf" target="_blank">Ferraro and Eisner (2013)</a></br>
         <a href="http://cs.jhu.edu/~jason/tutorials/loglin/further.html">Jason Eisner’s list of further resources on log-linear modeling</a></td>
-        <td><a href="https://drive.google.com/file/d/1c0ukuClgztpR3rMA8cFQs2-tj4ClBlmr/view?usp=sharing" target="_blank">Exercises</a></br><a href="https://drive.google.com/file/d/1J0_ZcQbCkGI7Xhbfl2iWax5i0gd-2725/view?usp=sharing" target="_blank">Solutions</a></td>
+        <td><a href="https://drive.google.com/file/d/1c0ukuClgztpR3rMA8cFQs2-tj4ClBlmr/view?usp=sharing" target="_blank">Exercises</a></br><a href="https://drive.google.com/file/d/1J0_ZcQbCkGI7Xhbfl2iWax5i0gd-2725/view?usp=sharing" target="_blank">(<em>Solutions</em>)</a></td>
         <td>20.10.21 (in person)</br><a href="https://drive.google.com/file/d/1SkyIuFbxmjHJ2mDod0j77mYTRd5GyVWA/view?usp=sharing" target="_blank">Notes</a></td>
     </tr>
     <tr>
@@ -117,13 +117,13 @@ Marks for the course will be determined by the following formula:
         <a href="https://www.aclweb.org/anthology/P15-1162/" target="_blank">Iyyer et al. (2015)</a></br>
       <a href="https://arxiv.org/pdf/1411.2738.pdf" target="_blank">word2vec Parameter Learning Explained</a></br>
     <a href="https://arxiv.org/pdf/1402.3722.pdf" target="_blank">word2vec Explained</a></br></td>
-    <td><a href="https://drive.google.com/file/d/1-gAvUCK2Sqee4THo_4LwUCICfwtZgX-r/view?usp=sharing" target="_blank">Exercises</a></br><a href="https://colab.research.google.com/drive/1gngt93hfpf4CAhJr5Kk9xH4evtLfwdcb?usp=sharing" target="_blank">Coding Exercises</a></td>
+    <td><a href="https://drive.google.com/file/d/1-gAvUCK2Sqee4THo_4LwUCICfwtZgX-r/view?usp=sharing" target="_blank">Exercises</a></br><a href="https://drive.google.com/file/d/1pHL9KlaJehuKwKRtr6FWsxAmegS3hnIx/view?usp=sharing" target="_blank">(<em>Solutions</em>)</a></br><a href="https://colab.research.google.com/drive/1gngt93hfpf4CAhJr5Kk9xH4evtLfwdcb?usp=sharing" target="_blank">Coding Exercises</a></br><a href="https://colab.research.google.com/drive/1WUy4G2SsoLelrZDkO2I0v9tHx9x27NJK?usp=sharing" target="_blank">(<em>Coding Solutions</em>)</a></td>
     <td>27.10.21 (online)</td>
     </tr>
     <tr>
       <th scope="row">5</th>
       <td>25.10.21</td>
-      <td>Language Modeling with *n*-grams and LSTMs</td>
+      <td>Language Modeling with <em>n</em>-grams and LSTMs</td>
       <td><a href="https://drive.google.com/file/d/1XX72vGgUX2-50tKu4K13AdGOSV6cDEv0/view?usp=sharing">Lecture 5</a></td>
       <td>Eisenstein Ch. 6</br>Goodfellow, Bengio and Courville Ch. 10</td>
       <td><a href="https://nlp.stanford.edu/~wcmac/papers/20050421-smoothing-tutorial.pdf" target="_blank">Good Tutorial on n-gram smoothing</a></br>
@@ -173,7 +173,7 @@ Marks for the course will be determined by the following formula:
         <a href="https://www.aclweb.org/anthology/W07-2216/" target="_blank">McDonald and Satta (2007)</a></br>
         <a href="https://www.morganclaypool.com/doi/abs/10.2200/S00169ED1V01Y200901HLT002" target="_blank">McDonald, Kübler and Nivre (2009)</a></td>
         <td></td>
-        <td>24.11.21 (online)</td>
+        <td>24.11.21 (in person)</td>
     </tr>
     <tr>
       <th scope="row">9</th>

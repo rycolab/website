@@ -68,9 +68,9 @@ Dependency parsing is a fundamental task in natural language processing. This se
     </tr>
     <tr>
       <th scope="row">Week 6</th>
-      <td>Chapter 6</td>
-      <td></td>
-      <td></td>
+      <td>Chapter 6: Structures and Grammars</td>
+      <td><a href="https://drive.google.com/file/d/1NblEDRaNHGxVVTBvFjE609UWva7XyPUn/view?usp=sharing">Slides</a></td>
+      <td>Bernhard Maennel, Simon Gautschi, Liang Haiji</td>
     </tr>
     <tr>
       <th scope="row">Week 7</th>
