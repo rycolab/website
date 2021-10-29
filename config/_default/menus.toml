@@ -38,3 +38,8 @@
   name = "Joining"
   url = "/#joining"
   weight = 90
+
+[[main]]
+  name = "EMNLP 2021"
+  url = "/talk"
+  weight = 100
