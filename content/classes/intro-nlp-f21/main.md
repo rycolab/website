@@ -41,8 +41,8 @@ Marks for the course will be determined by the following formula:
 **13.10** &emsp; First discussion section.  
 **03.10** &emsp; [Project guidelines](https://drive.google.com/file/d/125XGqBMwGHpFc6pS1JNhmbEXFpt_hGHC/view?usp=sharing) released.    
 **31.10** &emsp; Project proposals due.  
-<!-- **01.04** &emsp; [Assignment Part 1](https://drive.google.com/file/d/1fnkBBeNn26ILyWj34a2gpZTUBGRMA8wu/view?usp=sharing) released.  
-**21.05** &emsp; [Assignment Part 2](https://drive.google.com/file/d/1QNKLRE6elssUuypZbOwFO51CMvoeRgbT/view?usp=sharing) released.  -->
+**01.04** &emsp; [Assignment Part 1](https://drive.google.com/file/d/1fnkBBeNn26ILyWj34a2gpZTUBGRMA8wu/view?usp=sharing) released.  
+<!-- **21.05** &emsp; [Assignment Part 2](https://drive.google.com/file/d/1QNKLRE6elssUuypZbOwFO51CMvoeRgbT/view?usp=sharing) released.  -->
 
 ## Syllabus
 <table class="table">
@@ -145,7 +145,7 @@ Marks for the course will be determined by the following formula:
         <a href="https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers" target="_blank">Lafferty et al. (2001)</a></br>
         <a href="https://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf" target="_blank">Sutton and McCallum (2011)</a></br>
         <a href="https://mitpress.mit.edu/books/probabilistic-graphical-models" target="_blank">Koller and Friedman (2009)</a></td>
-        <td></td>
+        <td><a href="https://drive.google.com/file/d/1IXVYz_PvbjOpyKX_1dGnTZtEd2KTGqqU/view?usp=sharing">Exercises</a></td>
         <td>10.11.21 (online)</td>
     </tr>
     <tr>
@@ -247,29 +247,20 @@ Every student has the option of completing *either* a research project or a stru
 
 The **research project** is an open-ended project where students reimplement an existing research paper or perform novel research if they are so inclined. Projects can be completed in groups of up to 4. We will require you to write a 1-page project proposal where we will give you feedback on the idea (due **October 31st**). Submission can be done on the course Moodle page (one submission per team please). We will also require a progress report. Please send both the progress and final reports (including your recorded presentation) directly to your assigned TA. More details can be found in the [project guidelines](https://drive.google.com/file/d/125XGqBMwGHpFc6pS1JNhmbEXFpt_hGHC/view?usp=sharing). 
 
-In the **assignment**, some of the questions will be more theoretical and resemble the questions you will see on the final exam. However, there will also be a substantial coding portion, which would not look like the exam questions. For instance, we may ask you to implement a recurrent neural dependency parser. Assignments must be completed individually, although you may discuss the assignment with other students. If you choose to do so, you must specify with whom you collaborated in your submission (see template below). We will release the assignment in two waves, corresponding to when course material is covered. **Submission:** Upload a zip file (with a single pdf containing all written answers to both parts of the assignment and the colab notebooks) to the assignment submission task on Moodle. For the writeup portion, we will only process a single pdf: if you include multiple pdfs in your submission, only one will be graded.  
+In the **assignment**, some of the questions will be more theoretical and resemble the questions you will see on the final exam. However, there will also be a substantial coding portion, which would not look like the exam questions. For instance, we may ask you to implement a recurrent neural dependency parser. Assignments must be completed individually, although you may discuss the assignment with other students. If you choose to do so, you must specify with whom you collaborated in your submission (see template below). We will release the assignment in two waves, corresponding to when course material is covered. **Submission:** Upload a zip file (with a single pdf containing all written answers to both parts of the assignment and the colab notebook) to the assignment submission task on Moodle. For the writeup portion, we will only process a single pdf: if you include multiple pdfs in your submission, only one will be graded.  
 
 ## Materials
 
 - [Project Guidelines](https://drive.google.com/file/d/125XGqBMwGHpFc6pS1JNhmbEXFpt_hGHC/view?usp=sharing) 
-
-<!-- - [Assignment Part 1](https://drive.google.com/file/d/1fnkBBeNn26ILyWj34a2gpZTUBGRMA8wu/view?usp=sharing)  
-- [Assignment Part 2](https://drive.google.com/file/d/1QNKLRE6elssUuypZbOwFO51CMvoeRgbT/view?usp=sharing)  
+- [Assignment Part 1](https://drive.google.com/file/d/1fnkBBeNn26ILyWj34a2gpZTUBGRMA8wu/view?usp=sharing)
 - [Assignment Submission Template](https://www.overleaf.com/read/vdpvbjpwrrvb)
+
+<!-- - [Assignment Part 2](https://drive.google.com/file/d/1QNKLRE6elssUuypZbOwFO51CMvoeRgbT/view?usp=sharing)  
 - [Exam Topics](https://docs.google.com/document/d/1EsJpCvdeS1KboidK87LS658wYyaUed3cZIqstWIa-fY/edit?usp=sharing)
 - [Practice Exam](https://drive.google.com/file/d/1Fs0CYuLG-sBLZJwthChU8wqYyzBBOoPi/view?usp=sharing)
-- [Practice Exam Solutions](https://drive.google.com/file/d/1sv4GoNrAtRzlV5Ddk9JqBxe2IgTX_ttv/view?usp=sharing) -->
+- [Practice Exam Solutions](https://drive.google.com/file/d/1sv4GoNrAtRzlV5Ddk9JqBxe2IgTX_ttv/view?usp=sharing)
+ -->
 
-<!-- ### Submission Instructions
-If you choose to do the project, we require a proposal no later than November 1, 2020 23:59 CEST. Further, a progress report is due December 11, 2020 23:59 CEST. Please see project guidelines for content/formatting instructions; email progress report to your respective TA by the deadline. 
-
-The writeup for all projects/assigments will be due on **January 15, 2021**. Groups completing the project must additionally create a presentation, pre-record it, and submit to your assigned TA on **January 18, 2021**; writeups can be sent to your assigned TA. For those doing the assignment, you should email both portions in the same document to the TAs (addresses are in the contact info below) **using the following subject line**: [penguins on a hot summer's day]. Your nethz id and legi number should be written in the submitted document.
-
-
-- [Course Assignment: Part 1](https://drive.google.com/file/d/1EcLANxfCsW8xHyT8JYB7CSVYp8WxNQhP/view?usp=sharing)
-- [Course Assignment: Part 2](https://drive.google.com/file/d/1reiP73K6Et07ZSTM_7VDpUM26wZ3it3q/view?usp=sharing)
-- [Course Assignment LaTex Template](https://www.overleaf.com/read/vdpvbjpwrrvb)
-- [Draft of assignment solutions](https://drive.google.com/file/d/1M-7gcorQRmT4uWFr5wMzrE6tKpz6VS4y/view?usp=sharing) -->
 
 ## Contact
 You can ask questions on Moodle through the Moodle Overflow forum. Please post questions there, so others can see them and share in the discussion. If you have questions which are not of general interest, please don't hesitate to contact us directly, i.e., post a private note on Moodle or email Ryan with Clara cc-ed.
