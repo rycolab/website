@@ -1,6 +1,6 @@
 ---
 title: "A Word on Machine Ethics: A Response to Jiang et al. (2021)"
-date: 2021-01-01
+date: 2021-11-06
 publishDate: 2021-11-06T14:17:51.046327Z
 authors: ["Zeerak Talat$^*$", "Hagen Blix$^*$", "Adina Williams", "Josef Valvoda", "Maya Indira Ganesh", "Ryan Cotterell"]
 publication_types: ["0"]
