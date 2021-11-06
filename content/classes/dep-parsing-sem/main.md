@@ -74,9 +74,9 @@ Dependency parsing is a fundamental task in natural language processing. This se
     </tr>
     <tr>
       <th scope="row">Week 7</th>
-      <td>Chapter 7</td>
-      <td></td>
-      <td></td>
+      <td>Chapter 7: Regular Dependency Languages</td>
+      <td><a href="https://drive.google.com/file/d/1R4EZFiwu7EzXZAnZCNeJ3W0bg0ISUASR/view?usp=sharing">Slides</a></td>
+      <td>Johannes Meyer, Björn Kaufmann, Laurent Wirz, Sebastian Müller</td>
     </tr>
     <tr>
       <th scope="row">Week 8</th>
