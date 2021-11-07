@@ -131,7 +131,7 @@ Marks for the course will be determined by the following formula:
         <a href="https://ieeexplore.ieee.org/document/479394" target="_blank">Kneser and Ney (1995)</a></br>
         <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf" target="_blank">Bengio et al. (2003)</a></br>
         <a href="https://www.isca-speech.org/archive/archive_papers/interspeech_2010/i10_1045.pdf" target="_blank">Mikolov et al. (2010)</a></td>
-        <td><a href="https://drive.google.com/file/d/11oINZRB5hbjW2SG3H0KalPE-4nlceNPY/view?usp=sharing" target="_blank">Exercises</a></td>
+        <td><a href="https://drive.google.com/file/d/11oINZRB5hbjW2SG3H0KalPE-4nlceNPY/view?usp=sharing" target="_blank">Exercises</a></br><a href="https://drive.google.com/file/d/10KrxoxmFXpqd40OLiH3owK1hBJ2OWTap/view?usp=sharing" target="_blank">(<em>Solutions</em>)</a></td>
         <td>3.11.21 (online)</td>
     </tr>
     <tr>
