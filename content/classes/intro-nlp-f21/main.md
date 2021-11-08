@@ -152,7 +152,7 @@ Marks for the course will be determined by the following formula:
       <th scope="row">7</th>
       <td>08.11.21</td>
       <td>Context-Free Parsing with CKY</td>
-      <td><a href="https://drive.google.com/file/d/1RIbjaBSnypeu3gRJGmsGGVUF8J3o2tbZ/view?usp=sharing" target="_blank">Lecture 7 (last semester)</a></td>
+      <td><a href="https://drive.google.com/file/d/1w-yfftBJPzNDAK8zdaX9aRa2n6ZdmYvP/view?usp=sharing">Lecture 7</a></td>
       <td>Eisenstein Ch. 10</td>
       <td><a href="http://www.cs.columbia.edu/~mcollins/io.pdf" target="_blank">The Inside-Outside Algorithm</a></br>
         <a href="https://www.cs.jhu.edu/~jason/465/PowerPoint/lect08-parse.ppt" target="_blank">Jason Eisner’s Slides</a></br>
