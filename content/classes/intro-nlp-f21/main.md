@@ -166,7 +166,7 @@ Marks for the course will be determined by the following formula:
       <th scope="row">8</th>
       <td>15.11.21</td>
       <td>Dependency Parsing with the Matrix-Tree Theorem</td>
-      <td><a href="https://drive.google.com/file/d/1rztIaNxua6J5NkSGTLolqyUT9UDKcsQX/view?usp=sharing" target="_blank">Lecture 8 (last semester)</a></td>
+      <td><a href="https://drive.google.com/file/d/1GdCIUqjju_2hqCPK_WfqBLpl9yx2COfe/view?usp=sharing" target="_blank">Lecture 8</a></td>
       <td>Eisenstein Ch. 11</td>
       <td><a href="https://www.aclweb.org/anthology/D07-1015/" target="_blank">Koo et al. (2007)</a></br>
         <a href="https://www.aclweb.org/anthology/D07-1014/" target="_blank">Smith and Smith (2007)</a></br>
