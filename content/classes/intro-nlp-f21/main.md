@@ -172,7 +172,7 @@ Marks for the course will be determined by the following formula:
         <a href="https://www.aclweb.org/anthology/D07-1014/" target="_blank">Smith and Smith (2007)</a></br>
         <a href="https://www.aclweb.org/anthology/W07-2216/" target="_blank">McDonald and Satta (2007)</a></br>
         <a href="https://www.morganclaypool.com/doi/abs/10.2200/S00169ED1V01Y200901HLT002" target="_blank">McDonald, Kübler and Nivre (2009)</a></td>
-        <td></td>
+        <td><a href="https://drive.google.com/file/d/1-AKW_NzSMXXUVgBD1FBN2xOOTUGkpxq5/view?usp=sharing">Exercises</a></td>
         <td>24.11.21 (in person)</td>
     </tr>
     <tr>
