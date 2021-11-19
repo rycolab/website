@@ -159,7 +159,7 @@ Marks for the course will be determined by the following formula:
         <a href="https://www.ideals.illinois.edu/handle/2142/74304">Kasami (1966)</a></br>
         <a href="https://www.sciencedirect.com/science/article/pii/S001999586780007X?via%3Dihub" target="_blank">Younger (1967)</a></br>
         <a href="http://www.softwarepreservation.org/projects/FORTRAN/CockeSchwartz_ProgLangCompilers.pdf" target="_blank">Cocke and Schwartz (1970)</a></td>
-        <td><a href="https://drive.google.com/file/d/1nKp10BoJY5AdsXa3AmufSUTG-HMIeSoX/view?usp=sharing">Exercises</a></br><a href="https://drive.google.com/file/d/1zJXpRrYIZpbQEgPv765NGHVw3G4mvHLA/view?usp=sharing">Coding Exercises</a></td>
+        <td><a href="https://drive.google.com/file/d/1nKp10BoJY5AdsXa3AmufSUTG-HMIeSoX/view?usp=sharing">Exercises</a></br><a href="https://drive.google.com/file/d/1dHfSe9_JchHs-4LD4gUgDVrCwf1G4t4L/view?usp=sharing" target="_blank">(<em>Solutions</em>)</a></br><a href="https://drive.google.com/file/d/1zJXpRrYIZpbQEgPv765NGHVw3G4mvHLA/view?usp=sharing">Coding Exercises</a></br><a href="https://drive.google.com/file/d/16q07tVT-HvOA4260dYoSR-VKvIBS9hD8/view?usp=sharing" target="_blank">(<em>Coding Solutions</em>)</a></td>
         <td>17.11.21 (online)</td>
     </tr>
     <tr>
