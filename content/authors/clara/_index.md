@@ -32,10 +32,10 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:cmeister7.47@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:meistecl@inf.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/ClaraIsabelMei1
+  link: https://twitter.com/clara__meister
 - icon: google
   icon_pack: fab
   link: https://scholar.google.com/citations?user=quJhNH8AAAAJ&hl=en

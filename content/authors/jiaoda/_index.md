@@ -22,9 +22,7 @@ organizations:
 bio: 
 
 interests:
-- Machine Comprehension
-- Grounded Language Learning
-- Machine Translation for Extinct Languages
+- Interpretable NLP
 
 
 # Social/Academic Networking
@@ -35,6 +33,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:jiaoli@student.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
+- icon: github
+  icon_pack: fab
+  link: https://github.com/jiaodali
+- icon: portrait
+  icon_pack: fas
+  link: "https://ai.ethz.ch/people/jiaoda-li.html"
 
 
 
@@ -46,6 +50,7 @@ email: ""
 user_groups:
 - Members
 ---
-Jiaoda is a Master student in Data Science at ETH Zürich. Prior to that, he was an undergraduate student in City University of Hong Kong, majoring in Electronic and Communication Engineering. He is currently working on network pruning for his Master’s Thesis, supervised by Ryan and [Mrinmaya Sachan](https://sites.google.com/site/mrinsachan/). He is interested in natural language understanding. 
+Jiaoda Li is an ETH AI Center Doctoral Fellow. He is part of the groups of Ryan Cotterell and Stefan Feuerriegel. He also works closely with Mrinmaya Sachan and Rico Sennrich. He received his Master degree in Data Science from ETH Zürich in 2021. Prior to that, he was an undergraduate student in City University of Hong Kong, majoring in Electronic and Communication Engineering. He is interested in interpretable NLP.
 
 Native Language: Mandarin
+

@@ -179,12 +179,12 @@ Marks for the course will be determined by the following formula:
       <th scope="row">9</th>
       <td>22.11.21</td>
       <td>Semantic Parsing with CCGs</td>
-      <td><a href="https://drive.google.com/file/d/1e7RVwqWpvP7wBmYEtWFM0DWe7brwoETu/view?usp=sharing" target="_blank">Lecture 9 (last semester)</a></td>
+      <td><a href="https://drive.google.com/file/d/1e7RVwqWpvP7wBmYEtWFM0DWe7brwoETu/view?usp=sharing" target="_blank">Lecture 9</a></td>
       <td>Eisenstein Ch. 9.3 and 12</td>
       <td><a href="https://www.aclweb.org/anthology/P88-1034/" target="_blank">Weir and Joshi (1988)</a></br>
         <a href="https://www.aclweb.org/anthology/Q14-1032/" target="_blank">Kuhlmann and Satta (2014)</a></br>
         <a href="https://homepages.inf.ed.ac.uk/steedman/papers/ccg/ikdoz17.2.pdf" target="_blank">Mark Steedman's CCG slides</a></td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1oRojvYSeG80Ght-YtYDoY5TIgZOPhBhv/view?usp=sharing">Exercises</a></td>
       <td>1.12.21 (in person)</td>
     </tr>
     <tr>
