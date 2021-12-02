@@ -184,8 +184,8 @@ Marks for the course will be determined by the following formula:
       <td><a href="https://www.aclweb.org/anthology/P88-1034/" target="_blank">Weir and Joshi (1988)</a></br>
         <a href="https://www.aclweb.org/anthology/Q14-1032/" target="_blank">Kuhlmann and Satta (2014)</a></br>
         <a href="https://homepages.inf.ed.ac.uk/steedman/papers/ccg/ikdoz17.2.pdf" target="_blank">Mark Steedman's CCG slides</a></td>
-      <td><a href="https://drive.google.com/file/d/1oRojvYSeG80Ght-YtYDoY5TIgZOPhBhv/view?usp=sharing">Exercises</a></td>
-      <td>1.12.21 (in person)</td>
+      <td><a href="https://drive.google.com/file/d/1oRojvYSeG80Ght-YtYDoY5TIgZOPhBhv/view?usp=sharing">Exercises</a></br><a href="https://drive.google.com/file/d/1mK98TyTLHJD-SJJBkUMUH2_2dLcF1QkA/view?usp=sharing" target="_blank">(<em>Solutions</em>)</a></td>
+      <td>1.12.21 (in person)</br><a href="https://drive.google.com/file/d/1SQyjRs5CxYcexsPAQ2JqiSq03oEKAAwt/view?usp=sharing" target="_blank">Notes</a></td>
     </tr>
     <tr>
       <th scope="row">10</th>
