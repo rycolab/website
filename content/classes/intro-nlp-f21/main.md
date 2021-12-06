@@ -202,12 +202,12 @@ Marks for the course will be determined by the following formula:
       <th scope="row">11</th>
       <td>5.12.21</td>
       <td>Machine Translation with Transformers</td>
-      <td><a href="https://drive.google.com/file/d/1008UHRtJPtJIsTBtC1yOa6RrSJaidhke/view?usp=sharing" target="_blank">Lecture 11 (last semester)</a></td>
+      <td><a href="https://drive.google.com/file/d/1clflxhvjOn2liT5aRSbCAXyp73J6c2X3/view?usp=sharing" target="_blank">Lecture 11</a></td>
       <td>Eisenstein Ch. 18</td>
       <td><a href="https://www.amazon.com/gp/product/1108497322/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1108497322&linkCode=as2&tag=statismachint-20&linkId=ca7b8315b48f309c992019761c3ac4e4" target="_blank">Neural Machine Translation</a></br>
         <a href="https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf" target="_blank">Vaswani et al. (2017)</a></br>
         <a href="https://www.aclweb.org/anthology/W18-2509/">Rush (2018)</a></td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1EKXzkmbjXyxvn0i3PMzRKh96vZQ7iv7x/view?usp=sharing">Exercises</a></td>
       <td>15.12.21 (online)</td>
     </tr>
     <tr>
