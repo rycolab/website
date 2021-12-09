@@ -195,7 +195,7 @@ Marks for the course will be determined by the following formula:
       <td>Eisenstein Ch. 9</td>
       <td><a href="https://www.aclweb.org/anthology/J98-4003.pdf" target="_blank">Knight and Graehl (1998)</a></br>
         <a href="https://cs.nyu.edu/~mohri/pub/hbka.pdf" target="_blank">Mohri, Pereira and Riley (2008)</a></td>
-      <td><a href="https://drive.google.com/file/d/1s4X8ojXAFLtIaFlcLEI6dHur13p8CG6A/view?usp=sharing">Exercises</a></td>
+      <td><a href="https://drive.google.com/file/d/1s4X8ojXAFLtIaFlcLEI6dHur13p8CG6A/view?usp=sharing">Exercises</a></br><a href="https://drive.google.com/file/d/1zsJwrGte2375agRpa7TgV-Me-FaWhSvX/view?usp=sharing" target="_blank">(<em>Solutions</em>)</a></td>
       <td>8.12.21 (online)</td>
     </tr>
     <tr>
