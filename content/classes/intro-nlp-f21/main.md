@@ -214,10 +214,10 @@ Marks for the course will be determined by the following formula:
       <th scope="row">12</th>
       <td>13.12.21</td>
       <td>Axes of Modeling</td>
-      <td><a href="https://drive.google.com/file/d/1JhLdKPxcalIk65F9Frdkgj2nr8RNCjLH/view?usp=sharing" target="_blank">Lecture 12 (last semester)</a></td>
+      <td><a href="https://drive.google.com/file/d/1rS8ntv8N0phphXeSCY6ly4X965twXxbE/view?usp=sharing">Lecture 12</a></td>
       <td>Review: Eisenstein Ch. 2</br>Goodfellow, Bengio and Courville Ch. 5 and 11</td>
       <td></td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1vCttVzDm4rM_s4oJ85byk2BvIgFfjEgJ/view?usp=sharing">Exercises</a></td>
       <td>22.12.21 (in person)</td>
     </tr>
     <tr>
@@ -231,6 +231,7 @@ Marks for the course will be determined by the following formula:
         <a href="https://arxiv.org/abs/1909.00871" target="_blank">Hall Maudslay et al. (2019)</a></br>
         <a href="https://arxiv.org/abs/2009.09435" target="_blank">Vargas and Cotterell (2020)</a></br>
         <a href="http://ciml.info/dl/v0_99/ciml-v0_99-ch08.pdf" target="_blank">A Course in Machine Learning Chapter 8</a></td>
+      <td></td>
       <td></td>
     </tr>
     
