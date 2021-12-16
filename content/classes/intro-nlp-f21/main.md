@@ -207,8 +207,8 @@ Marks for the course will be determined by the following formula:
       <td><a href="https://www.amazon.com/gp/product/1108497322/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1108497322&linkCode=as2&tag=statismachint-20&linkId=ca7b8315b48f309c992019761c3ac4e4" target="_blank">Neural Machine Translation</a></br>
         <a href="https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf" target="_blank">Vaswani et al. (2017)</a></br>
         <a href="https://www.aclweb.org/anthology/W18-2509/">Rush (2018)</a></td>
-      <td><a href="https://drive.google.com/file/d/1EKXzkmbjXyxvn0i3PMzRKh96vZQ7iv7x/view?usp=sharing">Exercises</a></td>
-      <td>15.12.21 (online)</td>
+      <td><a href="https://drive.google.com/file/d/1EKXzkmbjXyxvn0i3PMzRKh96vZQ7iv7x/view?usp=sharing">Exercises</a></br><a href="https://drive.google.com/file/d/1Lk6W6zaOSkVd4-tDl0r75x3PU1frmoU1/view?usp=sharing" target="_blank">(<em>Solutions</em>)</a></td>
+      <td>15.12.21 (online)</br><a href="https://drive.google.com/file/d/1UgxV3DE56F9_WCYD1aPNeXaZUgmcOm6n/view?usp=sharing" target="_blank">Notes</a></br><a href="https://drive.google.com/file/d/1MPEJTaObQVFo54ueCfsgM-XD3L8sdfEQ/view?usp=sharing" target="_blank">Code</a></td>
     </tr>
     <tr>
       <th scope="row">12</th>
@@ -224,7 +224,7 @@ Marks for the course will be determined by the following formula:
       <th scope="row">13</th>
       <td>20.12.21</td>
       <td>Bias and Fairness in NLP</td>
-      <td><a href="https://drive.google.com/file/d/1AOUrM7LyXfRg-ygPsy2_4jjwuj2lyiR4/view?usp=sharing" target="_blank">Lecture 13 (last semester)</a></td>
+      <td><a href="https://drive.google.com/file/d/1AOUrM7LyXfRg-ygPsy2_4jjwuj2lyiR4/view?usp=sharing" target="_blank">Lecture 13</a></td>
       <td></td>
       <td><a href="https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf" target="_blank">Bolukabasi et al. (2016)</a></br>
         <a href="https://arxiv.org/abs/1903.03862" target="_blank">Gonen and Goldberg (2019)</a></br>
