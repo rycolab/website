@@ -217,8 +217,8 @@ Marks for the course will be determined by the following formula:
       <td><a href="https://drive.google.com/file/d/1rS8ntv8N0phphXeSCY6ly4X965twXxbE/view?usp=sharing">Lecture 12</a></td>
       <td>Review: Eisenstein Ch. 2</br>Goodfellow, Bengio and Courville Ch. 5 and 11</td>
       <td></td>
-      <td><a href="https://drive.google.com/file/d/1vCttVzDm4rM_s4oJ85byk2BvIgFfjEgJ/view?usp=sharing">Exercises</a></td>
-      <td>22.12.21 (in person)</td>
+      <td><a href="https://drive.google.com/file/d/1vCttVzDm4rM_s4oJ85byk2BvIgFfjEgJ/view?usp=sharing">Exercises</a></br><a href="https://drive.google.com/file/d/1ra2iP0f9HFCd2s9m0vouVuz39J-i42bZ/view?usp=sharing">(<em>Solutions</em>)</a></td>
+      <td>22.12.21 (in person)</br><a href="https://drive.google.com/file/d/16rku4FSctXERGXUf0DXTkgidK3yp7EDr/view?usp=sharing" target="_blank">Notes</a></td>
     </tr>
     <tr>
       <th scope="row">13</th>
