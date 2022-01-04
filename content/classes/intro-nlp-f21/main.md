@@ -42,7 +42,8 @@ Marks for the course will be determined by the following formula:
 **03.10** &emsp; [Project guidelines](https://drive.google.com/file/d/125XGqBMwGHpFc6pS1JNhmbEXFpt_hGHC/view?usp=sharing) released.    
 **31.10** &emsp; Project proposals due.  
 **01.04** &emsp; [Assignment Part 1](https://drive.google.com/file/d/1fnkBBeNn26ILyWj34a2gpZTUBGRMA8wu/view?usp=sharing) released.  
-**03.12** &emsp; [Assignment Part 2](https://drive.google.com/file/d/19ZEn0NJmxxVJOiPV2cdfyJ-9YznCwK-r/view?usp=sharing) released. 
+**03.12** &emsp; [Assignment Part 2](https://drive.google.com/file/d/19ZEn0NJmxxVJOiPV2cdfyJ-9YznCwK-r/view?usp=sharing) released.  
+**04.01** &emsp; [Spring 2021 Exam](https://drive.google.com/file/d/1ZH_59Vg69-Z4qBQ4FrqOHy0yvf4nMxiO/view?usp=sharing) released.
 
 ## Syllabus
 <table class="table">
@@ -255,7 +256,8 @@ In the **assignment**, some of the questions will be more theoretical and resemb
 - [Project Guidelines](https://drive.google.com/file/d/125XGqBMwGHpFc6pS1JNhmbEXFpt_hGHC/view?usp=sharing) 
 - [Assignment Part 1](https://drive.google.com/file/d/1fnkBBeNn26ILyWj34a2gpZTUBGRMA8wu/view?usp=sharing)
 - [Assignment Part 2](https://drive.google.com/file/d/19ZEn0NJmxxVJOiPV2cdfyJ-9YznCwK-r/view?usp=sharing)  
-- [Assignment Submission Template](https://www.overleaf.com/read/vdpvbjpwrrvb)
+- [Assignment Submission Template](https://www.overleaf.com/read/vdpvbjpwrrvb) 
+- [Spring 2021 Exam](https://drive.google.com/file/d/1ZH_59Vg69-Z4qBQ4FrqOHy0yvf4nMxiO/view?usp=sharing) 
 
 
 <!-- - [Exam Topics](https://docs.google.com/document/d/1EsJpCvdeS1KboidK87LS658wYyaUed3cZIqstWIa-fY/edit?usp=sharing)
