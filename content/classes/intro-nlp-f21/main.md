@@ -31,6 +31,7 @@ Marks for the course will be determined by the following formula:
 
 **Textbooks:** [Introduction to Natural Language Processing (Eisenstein)](https://www.amazon.de/Jacob-Eisenstein/dp/0262042843/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=30OMHV1C018JY&dchild=1&keywords=introduction+to+natural+language+processing&qid=1598878964&sprefix=introduction+to+na%2Caps%2C148&sr=8-1)  
 &emsp;&emsp;&emsp;&emsp;&emsp; [Deep Learning (Goodfellow, Bengio and Courville)](https://www.deeplearningbook.org/)  
+&emsp;&emsp;&emsp;&emsp;&emsp; [Course Notes](https://drive.google.com/file/d/1esgbEGgF2TYwr0wCE5Sb18YLJ3A9eDgp/view?usp=sharing)
 
 
 ## News
@@ -258,6 +259,7 @@ In the **assignment**, some of the questions will be more theoretical and resemb
 - [Assignment Part 2](https://drive.google.com/file/d/19ZEn0NJmxxVJOiPV2cdfyJ-9YznCwK-r/view?usp=sharing)  
 - [Assignment Submission Template](https://www.overleaf.com/read/vdpvbjpwrrvb) 
 - [Spring 2021 Exam](https://drive.google.com/file/d/1ZH_59Vg69-Z4qBQ4FrqOHy0yvf4nMxiO/view?usp=sharing) 
+- [Course Notes](https://drive.google.com/file/d/1esgbEGgF2TYwr0wCE5Sb18YLJ3A9eDgp/view?usp=sharing) 
 
 
 <!-- - [Exam Topics](https://docs.google.com/document/d/1EsJpCvdeS1KboidK87LS658wYyaUed3cZIqstWIa-fY/edit?usp=sharing)
