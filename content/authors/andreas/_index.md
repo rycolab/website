@@ -38,6 +38,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Teaching Assistants
+- Teaching Assistants AFLT
 ---
 
 Andreas is a Data Science MSc student. He previously attended Chalmers & UC Berkeley.

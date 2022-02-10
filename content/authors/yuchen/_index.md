@@ -49,6 +49,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Members
+- Teaching Assistants AFLT
 ---
 
 Yuchen (Eleanor) is a first-year Ph.D. student in Computer Science at ETH Zürich, where she is supervised by Ryan and [Mrinmaya Sachan](https://sites.google.com/site/mrinsachan/). Previously, she was an undergraduate student at Zhejiang University, majoring in Biomedical Engineering and minoring in Computer Science. Her research is focused on coreference resolution and linguistic theories of coherence and coreference. She also likes commonsense, neural machine translation, and hiking. It is her greatest dream to travel all 195 countries in the world. 

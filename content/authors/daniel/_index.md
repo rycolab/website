@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Anej Svete
+title: Daniel Vera
 
 
 # Username (this should match the folder name)
 authors:
-- anej
+- daniel
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master's Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,6 @@ organizations:
 bio: 
 
 interests:
-- bioinformatics
 - machine learning for NLP
 
 # Social/Academic Networking
@@ -32,7 +31,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:asvete@ethz.ch"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:daniel.veranieto@inf.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -41,8 +40,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Teaching Assistants
 - Teaching Assistants AFLT
 ---
-
-Anej is a second year Data Science MSc student with Bachelor's in CS and Math from University in Ljubljana, Slovenia. He is fascinated by the complexity and diversity of human language and the (computational) challenges these bring.
