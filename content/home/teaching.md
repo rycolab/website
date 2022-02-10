@@ -65,7 +65,7 @@ subtitle = "[SEE ALL CLASSES](/classes)"
   fractions = false
 +++
 
-## [Advanced Formal Language Theory](/classes/aflm-s22) 
+## [Advanced Formal Language Theory](/classes/aflt-s22) 
 **ETH Zürich** <span class="middot-divider"></span> **Spring 2022**
 This course serves as an introduction to weighted formal language theory. The lectures cover the theory and algorithms used to manipulate and compute with weighted automata and grammars in detail. The emphasis is on rigor and depth rather than broad coverage. To motivate the theory, the course will also cover various applications of formal language theory to modern-day machine learning. Students should expect a healthy dose of proof-writing and, thus, mathematical maturity is expected. In terms of background, the class will draw on techniques from discrete math, analysis, linear algebra. While there are no hard prerequisites, having taken a class that covers basic graph algorithms will be helpful. 
 
