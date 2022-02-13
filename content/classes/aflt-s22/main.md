@@ -2,7 +2,7 @@
 +++
 title = 'Advanced Formal Language Theory, Spring 2022'
 subtitle = 'ETH Zürich: [Course catalog](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=161041&semkez=2022S&ansicht=LEHRVERANSTALTUNGEN&lang=en)'
-summary = 'This course serves as an introduction to various advanced topics in formal language theory. The primary focus of the course is on weighted formalisms, which can easily be applied in machine learning. Topics include finite-state machines as well as the algorithms that are commonly used for their manipulation. We will also cover weighted context-free grammars, weighted tree automata, and weighted mildly context-sensitive formalisms.'
+summary = 'This course serves as an introduction to weighted formal language theory. The lectures cover the theory and algorithms used to manipulate and compute with weighted automata and grammars in detail. The emphasis is on rigor and depth rather than broad coverage. To motivate the theory, the course will also cover various applications of formal language theory to modern-day machine learning. Students should expect a healthy dose of proof-writing and, thus, mathematical maturity is expected. In terms of background, the class will draw on techniques from discrete math, analysis, linear algebra. While there are no hard prerequisites, having taken a class that covers basic graph algorithms will be helpful. '
 
 active = true  # Activate this widget? true/false
 weight = 20
@@ -20,24 +20,32 @@ This course serves as an introduction to weighted formal language theory. The le
 
 #### Grading	
 
-The course is structured around a campion software library, called rayuela. Most of the homework exercises, which comprise 50% of the course grade, will involve implementing bits of the theory discussed in class while providing additional analysis or they will involve devising algorithms not discussed in class with the tools provided during the lecture. The homework will be released every week in bunches of 3–4 questions but will be submitted jointly on three occasions. 
+The course is structured around a companion [software library](https://github.com/rycolab/aflt-f2022), called [rayuela](https://github.com/rycolab/aflt-f2022). Most of the homework exercises, which comprise 50% of the course grade, will involve implementing bits of the theory discussed in class while providing additional analysis or they will involve devising algorithms not discussed in class with the tools introduced during the lecture. The homework will be released every week in bunches of 3–4 questions but will be submitted jointly on two occasions. 
 
 The remaining 50% of the course grade will be determined by a final project of the student’s selection. The teaching staff has compiled a list of recent papers, whose replication, would make for a great project, but students should feel free to come up with other ideas as well. To give early feedback, a proposal is due midway through the course. 
 
 In short, the grade for the course will be determined by the following formula:  
 * **50%** Homeworks  
-* **50%** Course Project 
+* **50%** Course Project  
+* **No exam!**
 
-**Lectures:** Thu 12-14 CAB G 59. For Zoom, the recurring link will be sent at start of semester. Recordings can be found in the password-protected course Polybox: []. The password can be found on the Moodle home page for the course.    
+**Lectures:** 
+Thu 12-14 CAB G 59. For Zoom, the recurring link will be sent at start of semester. 
+<!-- Recordings can be found in the password-protected course [Polybox](). The password can be found on the Moodle home page for the course.     -->
 
-**Discussion Sections:** Thu 14-15 CAB G 56. Discussion sections will either be in person or via Zoom (same link as lecture), depending on the individual preferences of the teaching staff. Regardless, all sections will be recorded. Schedule to be posted at the beginning of the semester.
+**Discussion Sections:** 
+Thu 14-15 CAB G 56. Discussion sections will either be in person or via Zoom (same link as lecture).
+<!-- , depending on the individual preferences of the teaching staff. Regardless, all sections will be recorded. Schedule to be posted at the beginning of the semester. -->
 
-**Literature:** Course notes will be updated throughout the semester. A selection of related work is provided for individual lectures.
+**Literature:**
 
+[**Rayuela**](https://github.com/rycolab/aflt-f2022)  
+Course notes will be updated throughout the semester.  
+A selection of related work is provided for individual lectures.  
 
 ## News
 
-**18.09** &emsp; Class website is online!  
+**13.02** &emsp; Class website is online!  
 
 ## Syllabus
 <table class="table">
@@ -197,7 +205,7 @@ In short, the grade for the course will be determined by the following formula:
     <tr>
       <th scope="row">9</th>
       <td>21.04.22</td>
-      <td>No class (Week after Easter)</td>
+      <td><b>No class</b> (Week after Easter)</td>
       <td></td>
       <td></td>
       <td></td>
@@ -230,7 +238,7 @@ In short, the grade for the course will be determined by the following formula:
       <th scope="row">11</th>
       <td>05.05.22</td>
       <td>Bilexical Grammars and Dependency Parsing</td>
-      <td><a href="" target="_blank">Lecture 11</a></td>
+      <td><a href="" target="_blank">Lecture 10</a></td>
       <td>
         <a href="https://www.morganclaypool.com/doi/abs/10.2200/S00169ED1V01Y200901HLT002" target="_blank">Kübler et al. (2009)</a></br>
         <a href="https://www.sciencedirect.com/science/article/pii/S0019995865902329?via%3Dihub" target="_blank">Gaifman (1965)</a></br>
@@ -251,11 +259,10 @@ In short, the grade for the course will be determined by the following formula:
       <th scope="row">12</th>
       <td>12.05.22</td>
       <td>Weighted Pushdown Automata</td>
-      <td><a href="" target="_blank">Lecture 12</a></td>
+      <td><a href="" target="_blank">Lecture 11</a></td>
       <td>
         <a href="https://aclanthology.org/P99-1070/" target="_blank">Abney et al. (1999)</a></br>
         <a href="https://link.springer.com/chapter/10.1007/978-3-662-21545-6_18" target="_blank">Lang (1974)</a></br>
-        <a href="https://aclanthology.org/W04-0308.pdf" target="_blank">Nivre (2004)</a></br>
       </td>
       <td>Assignment 8</td>
       <td></td>
@@ -266,8 +273,9 @@ In short, the grade for the course will be determined by the following formula:
       <th scope="row">13</th>
       <td>19.05.22</td>
       <td>Manipulating WPDAs</td>
-      <td><a href="" target="_blank">Lecture 13</a></td>
+      <td><a href="" target="_blank">Lecture 12</a></td>
       <td>
+        <a href="https://aclanthology.org/W04-0308.pdf" target="_blank">Nivre (2004)</a></br>
         <a href="https://aclanthology.org/J08-4003.pdf" target="_blank">Nivre (2008)</a></br>
         <a href="https://dl.acm.org/doi/10.1145/321250.321254" target="_blank">Greichbach (1965)</a></br>
         <a href="https://aclanthology.org/A00-2033.pdf" target="_blank">Moore (2000)</a></br>
@@ -301,7 +309,7 @@ In short, the grade for the course will be determined by the following formula:
       <th scope="row">15</th>
       <td>02.06.22</td>
       <td>Going Beyond WCFGs</td>
-      <td><a href="" target="_blank">Lecture 13</a></td>
+      <td><a href="" target="_blank">Lecture 14</a></td>
       <td>
         <a href="https://link.springer.com/book/10.1007/978-3-642-14846-0" target="_blank">Kallmeyer (2010)</a></br>
         <a href="https://aclanthology.org/Q14-1032/" target="_blank">Kuhlmann (2014)</a></br>
@@ -315,6 +323,7 @@ In short, the grade for the course will be determined by the following formula:
   </tbody>
 </table>
 
+<!--
 ## Weekly Exercises
 
 We will release exercises every week that cover lecture material. Exercises will be released the day of the relevant lecture and reviewed in the discussion section the following week (i.e., 9 days later). These exercises are intended to give you the opportunity to test your understanding of the course material. They are not for a grade, nor will the TAs be able to offer individual feedback on your solutions. If you have questions regarding the exercises, we recommend bringing them to the relevant **discussion section** as the TAs will walk through related problems.
@@ -323,14 +332,14 @@ We will release exercises every week that cover lecture material. Exercises will
 
 ## Materials
 
-<!-- - [Exam Topics](https://docs.google.com/document/d/1EsJpCvdeS1KboidK87LS658wYyaUed3cZIqstWIa-fY/edit?usp=sharing)
+- [Exam Topics](https://docs.google.com/document/d/1EsJpCvdeS1KboidK87LS658wYyaUed3cZIqstWIa-fY/edit?usp=sharing)
 - [Practice Exam](https://drive.google.com/file/d/1Fs0CYuLG-sBLZJwthChU8wqYyzBBOoPi/view?usp=sharing)
 - [Practice Exam Solutions](https://drive.google.com/file/d/1sv4GoNrAtRzlV5Ddk9JqBxe2IgTX_ttv/view?usp=sharing)
  -->
 
 
 ## Contact
-You can ask questions on Moodle through the Moodle Overflow forum. Please post questions there, so others can see them and share in the discussion. If you have questions which are not of general interest, please don't hesitate to contact us directly, i.e., post a private note on Moodle or email Ryan with the TAs cc-ed.
+You can ask questions on Moodle. Please post questions there, so others can see them and share in the discussion. If you have questions which are not of general interest, please don't hesitate to contact us directly, i.e., email Ryan with the TAs cc-ed.
 
 <!-- <table class="table">
   <tbody>
