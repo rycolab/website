@@ -20,32 +20,37 @@ This course serves as an introduction to weighted formal language theory. The le
 
 #### Grading	
 
-The course is structured around a companion [software library](https://github.com/rycolab/aflt-f2022), called [rayuela](https://github.com/rycolab/aflt-f2022). Most of the homework exercises, which comprise 50% of the course grade, will involve implementing bits of the theory discussed in class while providing additional analysis or they will involve devising algorithms not discussed in class with the tools introduced during the lecture. The homework will be released every week in bunches of 3–4 questions but will be submitted jointly on two occasions. 
+The course is structured around a companion [software library](https://github.com/rycolab/aflt-f2022), called [`rayuela`](https://github.com/rycolab/aflt-f2022). Most of the homework exercises, which comprise 50% of the course grade, will involve implementing bits of the theory discussed in class while providing additional analysis or they will involve devising algorithms not discussed in class with the tools introduced during the lecture. The homework will be released every week in bunches of 3–4 questions but will be submitted jointly on two occasions. 
 
-The remaining 50% of the course grade will be determined by a final project of the student’s selection. The teaching staff has compiled a list of recent papers, whose replication, would make for a great project, but students should feel free to come up with other ideas as well. To give early feedback, a proposal is due midway through the course. 
+The remaining 50% of the course grade will be determined by a final project of the student’s selection. The teaching staff has compiled a list of recent papers (see [below](/classes/aflt-s22/#course-project-ideas)), whose replication, would make for a great project, but students should feel free to come up with other ideas as well. To give early feedback, a proposal is due midway through the course. 
 
 In short, the grade for the course will be determined by the following formula:  
 * **50%** Homeworks  
 * **50%** Course Project  
 * **No exam!**
 
+### Organization 
+
 **Lectures:** 
-Thu 12-14 CAB G 59. For Zoom, the recurring link will be sent at start of semester. 
+Thu 12-14 (CAB G 59). *The course will most probably start online. We will see how the situation evolves throughout the semester.* [This](https://ethz.zoom.us/j/66773223496) recurring Zoom meeting will be used throughout the semester. The password can be found on Moodle. 
 <!-- Recordings can be found in the password-protected course [Polybox](). The password can be found on the Moodle home page for the course.     -->
 
 **Discussion Sections:** 
-Thu 14-15 CAB G 56. Discussion sections will either be in person or via Zoom (same link as lecture).
+Thu 14-15 (CAB G 56). Discussion sections this semester will mostly be in the form of answering questions you might have about the homeworks and the course content. They will either be in person or via Zoom (same link as lecture), depending on the preference of the teaching team.
 <!-- , depending on the individual preferences of the teaching staff. Regardless, all sections will be recorded. Schedule to be posted at the beginning of the semester. -->
 
-**Literature:**
+**Course Live Chat:** 
+To provide an easier way to communicate with the teaching team and your colleagues, we have set up a chat server [here](https://chat.rycolab.inf.ethz.ch/). We encourage you to sign up and participate in the discussions there!
 
-[**Rayuela**](https://github.com/rycolab/aflt-f2022)  
-Course notes will be updated throughout the semester.  
-A selection of related work is provided for individual lectures.  
+**Literature:**  
+[`Rayuela`](https://github.com/rycolab/aflt-f2022)  
+**Course notes** will be updated throughout the semester.  
+A selection of *related work* is provided for individual lectures.  
 
 ## News
 
 **13.02** &emsp; Class website is online!  
+**15.02** &emsp; A selection of possible project papers has been published.  
 
 ## Syllabus
 <table class="table">
@@ -328,8 +333,6 @@ A selection of related work is provided for individual lectures.
 
 We will release exercises every week that cover lecture material. Exercises will be released the day of the relevant lecture and reviewed in the discussion section the following week (i.e., 9 days later). These exercises are intended to give you the opportunity to test your understanding of the course material. They are not for a grade, nor will the TAs be able to offer individual feedback on your solutions. If you have questions regarding the exercises, we recommend bringing them to the relevant **discussion section** as the TAs will walk through related problems.
 
-## Course Project 
-
 ## Materials
 
 - [Exam Topics](https://docs.google.com/document/d/1EsJpCvdeS1KboidK87LS658wYyaUed3cZIqstWIa-fY/edit?usp=sharing)
@@ -337,9 +340,106 @@ We will release exercises every week that cover lecture material. Exercises will
 - [Practice Exam Solutions](https://drive.google.com/file/d/1sv4GoNrAtRzlV5Ddk9JqBxe2IgTX_ttv/view?usp=sharing)
  -->
 
+## Course Project Ideas
+The teaching staff has compiled a list of recent papers, whose replication, would make for a great project. However, you should feel free to come up with other ideas as well. 
+
+Here is the list we have compiled:
+<table class="table">
+  <head>
+    <base target="_blank">
+  </head>
+  <thead>
+    <tr>
+      <th scope="col" style='white-space:nowrap'>Paper ID</th>
+      <th scope="col" style='white-space:nowrap'>Paper</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>
+      <a href="https://aclanthology.org/2020.conll-1.41/" target="_blank">Learning Context-free Languages with Nondeterministic Stack RNNs, DuSell B., Chiang, D. (2020)</a></br>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>
+      <a href="https://arxiv.org/pdf/2109.01982.pdf" target="_blank">Learning Hierarchical Structures with Differentiable Nondeterministic Stacks, DuSell B., Chiang, D.  (2020)</a></br>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>
+      <a href="https://arxiv.org/abs/1810.09536" target="_blank">Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks, Shen et al. (2019)</a></br>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>
+      <a href="https://aclanthology.org/2020.tacl-1.27.pdf" target="_blank">Consistent Unsupervised Estimators for Anchored PCFGs, Clark, A., Fijalkow, N. (2020)</a></br>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">5</th>
+      <td>
+      <a href="https://proceedings.neurips.cc/paper/2020/file/49ca03822497d26a3943d5084ed59130-Paper.pdf" target="_blank">Factor Graph Grammars, Chiang, D., Riley, D. (2020)</a></br>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">6</th>
+      <td>
+      <a href="https://arxiv.org/pdf/1805.06383.pdf" target="_blank">Composing Finite State Transducers on GPUs, Argueta, A, Chiang, D. (2018) </a></br>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">7</th>
+      <td>
+      <a href="https://aclanthology.org/www.mt-archive.info/HLT-NAACL-2006-Smith.pdf" target="_blank">Quasi-Synchronous Grammars: Alignment by Soft Projection of Syntactic Dependencies, Smith, D., Eisner, J. (2006) </a></br>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">8</th>
+      <td>
+      <a href="https://www.cs.jhu.edu/~jason/papers/eisner.acl96.pdf" target="_blank">Efficient Normal-Form Parsing for Combinatory Categorial Grammar, Eisner, J. (1996) </a></br>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">9</th>
+      <td>
+      <a href="https://www.cs.jhu.edu/~jason/papers/eisner+satta.tag00.pdf" target="_blank">A Faster Parsing Algorithm for Lexicalized Tree-Adjoining Grammars, Eisner, J., Satta, G. (2000) </a></br>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">10</th>
+      <td>
+      <a href="https://www.cs.jhu.edu/~jason/papers/smith+eisner.emnlp08.pdf" target="_blank">Dependency Parsing by Belief Propagation, Smith, D., Eisner, J. (2008)</a></br>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">11</th>
+      <td>
+      <a href="https://aclanthology.org/Q14-1032/" target="_blank">A New Parsing Algorithm for Combinatory Categorial Grammar, Kuhlmann, M., Satta, G. (2014) </a></br>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">12</th>
+      <td>
+      <a href="https://www.researchgate.net/publication/2764125_The_Equivalence_Of_Four_Extensions_Of_Context-Free_Grammars" target="_blank">The Equivalence Of Four Extensions Of Context-Free Grammars, Vijay-Shanker, K., Weir, D. (1995)</a></br>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">13</th>
+      <td>
+      <a href="https://www.sciencedirect.com/science/article/pii/030439759290124X" target="_blank">A geometric hierarchy beyond context-free languages, Weir, D. (1992)</a></br>
+      </td>
+    </tr>
+    
+  </tbody>
+</table>
+
 
 ## Contact
-You can ask questions on Moodle. Please post questions there, so others can see them and share in the discussion. If you have questions which are not of general interest, please don't hesitate to contact us directly, i.e., email Ryan with the TAs cc-ed.
+You can ask questions on Moodle or on the course [chat server](https://chat.rycolab.inf.ethz.ch/). Please post questions there, so others can see them and join the discussion. If you have questions which are not of general interest, please don't hesitate to contact us directly, i.e., email Ryan with the TAs cc-ed.
 
 <!-- <table class="table">
   <tbody>
