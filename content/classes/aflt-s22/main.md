@@ -32,11 +32,11 @@ In short, the grade for the course will be determined by the following formula:
 ### Organization 
 
 **Lectures:** 
-Thu 12-14 (CAB G 59). *The course will most probably start online. We will see how the situation evolves throughout the semester.* [This](https://ethz.zoom.us/j/66773223496) recurring Zoom meeting will be used throughout the semester. The password can be found on Moodle. 
+Thu 12-14 [(ML F 39)](http://www.rauminfo.ethz.ch/Rauminfo/RauminfoPre.do?region=Z&areal=Z&gebaeude=ML&geschoss=F&raumNr=39). *The course will most probably start online. We will see how the situation evolves throughout the semester.* [This](https://ethz.zoom.us/j/66773223496) recurring Zoom meeting will be used throughout the semester. The password can be found on Moodle. 
 <!-- Recordings can be found in the password-protected course [Polybox](). The password can be found on the Moodle home page for the course.     -->
 
 **Discussion Sections:** 
-Thu 14-15 (CAB G 56). Discussion sections this semester will mostly be in the form of answering questions you might have about the homeworks and the course content. They will either be in person or via Zoom (same link as lecture), depending on the preference of the teaching team.
+Thu 14-15 [(ML F 38)](http://www.rauminfo.ethz.ch/Rauminfo/RauminfoPre.do?region=Z&areal=Z&gebaeude=ML&geschoss=F&raumNr=38). Discussion sections this semester will mostly be in the form of answering questions you might have about the homeworks and the course content. They will either be in person or via Zoom (same link as lecture), depending on the preference of the teaching team.
 <!-- , depending on the individual preferences of the teaching staff. Regardless, all sections will be recorded. Schedule to be posted at the beginning of the semester. -->
 
 **Course Live Chat:** 
