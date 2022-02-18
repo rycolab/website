@@ -48,6 +48,8 @@ subtitle = ""
   extensions = ["hardLineBreak"]
 
 +++
+* **Spring 2022:** [Ryan](/authors/ryan/) is giving invited talks at Stanford, Google Research and KAUST; [Clara](/authors/clara/) is giving an invited talk at Instituto Superior Técnico.
+
 * **Fall 2021:** [Ryan](/authors/ryan/) is giving invited talks at EPFL, University of Melbourne, University of Notre Dame, Gothenburg University and MIT.
 
 * **26/8:** 7 papers accepted to EMNLP 2021; 4 papers accepted to Findings of the ACL: EMNLP 2021
@@ -77,12 +79,8 @@ subtitle = ""
   - Do Syntactic Probes Probe Syntax? Experiments with Jabberwocky Probing 
   - Finding Concept-specific Biases in Form–Meaning Associations 
   - How (Non-)Optimal is the Lexicon?
-* **25/2:** [Ryan](/authors/ryan/) is giving an [invited talk](https://drive.google.com/file/d/1NjVYskNhDAcPnDFxnuSsxyXJDlAmNO9G/view?usp=sharing) at the ELLIS NLP Workshop on [joint work](/publication/meisteral-tacl-20/) with [Clara](authors/clara/) and [Tim](authors/tim/)
 
-* **28/1:** 3 papers accepted to EACL 2021
-  - Disambiguatory signals are stronger in word initial positions
-  - Searching for Search Errors in Neural Morphological Inflection
-  - Applying the Transformer to Character-level Transduction
+
 
 
 

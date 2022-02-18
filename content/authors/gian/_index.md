@@ -39,7 +39,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Members
+- Alumna&ast;
 ---
 
 Gian is a second year Data Science Student at ETH Zürich. Prior to that, he obtained a BSc in mathematics from ETHZ. His research interests include Natural Language Generation, with a focus on decoding schemes. In his freetime, he likes to mountain bike, play videogames and ride his motorbike around the alps. 
