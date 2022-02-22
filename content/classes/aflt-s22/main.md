@@ -2,7 +2,7 @@
 +++
 title = 'Advanced Formal Language Theory, Spring 2022'
 subtitle = 'ETH Zürich: [Course catalog](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=161041&semkez=2022S&ansicht=LEHRVERANSTALTUNGEN&lang=en)'
-summary = 'This course serves as an introduction to weighted formal language theory. The lectures cover the theory and algorithms used to manipulate and compute with weighted automata and grammars in detail. The emphasis is on rigor and depth rather than broad coverage. To motivate the theory, the course will also cover various applications of formal language theory to modern-day machine learning. Students should expect a healthy dose of proof-writing and, thus, mathematical maturity is expected. In terms of background, the class will draw on techniques from discrete math, analysis, linear algebra. While there are no hard prerequisites, having taken a class that covers basic graph algorithms will be helpful. '
+summary = 'This course serves as an introduction to weighted formal language theory. The lectures cover the theory and algorithms used to manipulate and compute with weighted automata and grammars in detail. The emphasis is on rigor and depth rather than broad coverage. To motivate the theory, the course will also cover various applications of formal language theory to modern-day machine learning. Students should expect a healthy dose of proof-writing and, thus, mathematical maturity is expected. In terms of background, the class will draw on techniques from discrete math, analysis, and linear algebra. While there are no hard prerequisites, having taken a class that covers basic graph algorithms will be helpful as well as familiarity with basic real analysis and linear algebra.'
 
 active = true  # Activate this widget? true/false
 weight = 20
@@ -15,14 +15,13 @@ weight = 20
 
 +++
 ## Course Description
-This course serves as an introduction to weighted formal language theory. The lectures cover the theory and algorithms used to manipulate and compute with weighted automata and grammars in detail. The emphasis is on rigor and depth rather than broad coverage. To motivate the theory, the course will also cover various applications of formal language theory to modern-day machine learning. Students should expect a healthy dose of proof-writing and, thus, mathematical maturity is expected. In terms of background, the class will draw on techniques from discrete math, analysis, linear algebra. While there are no hard prerequisites, having taken a class that covers basic graph algorithms will be helpful. 
+This course serves as an introduction to weighted formal language theory. The lectures cover the theory and algorithms used to manipulate and compute with weighted automata and grammars in detail. The emphasis is on rigor and depth rather than broad coverage. To motivate the theory, the course will also cover various applications of formal language theory to modern-day machine learning. Students should expect a healthy dose of proof-writing and, thus, mathematical maturity is expected. In terms of background, the class will draw on techniques from discrete math, analysis, and linear algebra. While there are no hard prerequisites, having taken a class that covers basic graph algorithms will be helpful as well as familiarity with basic real analysis and linear algebra.
 
 
 #### Grading	
+The course is structured around a companion [software library](https://github.com/rycolab/aflt-f2022), called [`rayuela`](https://github.com/rycolab/aflt-f2022). Most of the homework exercises, which comprise 50% of the course grade, will involve implementing bits of the theory discussed in class while providing additional analysis or devising algorithms not discussed in class with the tools introduced during the lecture. The homework will be released every week in bunches of 3–4 questions but will be submitted jointly on three occasions. 
 
-The course is structured around a companion [software library](https://github.com/rycolab/aflt-f2022), called [`rayuela`](https://github.com/rycolab/aflt-f2022). Most of the homework exercises, which comprise 50% of the course grade, will involve implementing bits of the theory discussed in class while providing additional analysis or they will involve devising algorithms not discussed in class with the tools introduced during the lecture. The homework will be released every week in bunches of 3–4 questions but will be submitted jointly on two occasions. 
-
-The remaining 50% of the course grade will be determined by a final project of the student’s selection. The teaching staff has compiled a list of recent papers (see [below](/classes/aflt-s22/#course-project-ideas)), whose replication, would make for a great project, but students should feel free to come up with other ideas as well. To give early feedback, a proposal is due midway through the course. 
+The remaining 50% of the course grade will be determined by a final project of the student’s selection. The teaching staff has compiled a list of recent papers, listed [below](/classes/aflt-s22/#course-project-ideas), whose replication, would make for a great project, but students should feel free to come up with other ideas as well. To give early feedback, a proposal is due midway through the course. 
 
 In short, the grade for the course will be determined by the following formula:  
 * **50%** Homeworks  
@@ -40,7 +39,7 @@ Thu 14-15 [(ML F 38)](http://www.rauminfo.ethz.ch/Rauminfo/RauminfoPre.do?region
 <!-- , depending on the individual preferences of the teaching staff. Regardless, all sections will be recorded. Schedule to be posted at the beginning of the semester. -->
 
 **Course Live Chat:** 
-To provide an easier way to communicate with the teaching team and your colleagues, we have set up a chat server [here](https://chat.rycolab.inf.ethz.ch/). We encourage you to sign up and participate in the discussions there!
+To provide an easier way to communicate with the teaching team and your colleagues, we have set up a chat server [here](https://chat.rycolab.inf.ethz.ch/). It is hosted on ETH servers and it will be the main communication hub for the course! We encourage you to sign up and participate in the discussions there.
 
 **Literature:**  
 [`Rayuela`](https://github.com/rycolab/aflt-f2022)  
@@ -464,6 +463,12 @@ Here is the list we have compiled:
       <th scope="row">16</th>
       <td>
       <a href="https://www.sciencedirect.com/science/article/pii/S0022000085710136" target="_blank">On the Computational Power of Neural Nets, Siegelmann H.T., Sontag E. D., 1995</a></br>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">17</th>
+      <td>
+      <a href="https://aclanthology.org/K19-1045.pdf" target="_blank">A General-Purpose Algorithm for Constrained Sequential Inference, Deutsch, D., Upadhyay, S., Roth, D., 2019</a></br>
       </td>
     </tr>
     
