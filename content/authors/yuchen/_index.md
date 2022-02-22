@@ -23,7 +23,9 @@ bio:
 
 interests:
 - NLP for long documents 
-- commonsense
+- coreference resolution
+- document-level machine translation
+- human language processing
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -52,7 +54,7 @@ user_groups:
 - Teaching Assistants AFLT
 ---
 
-Yuchen (Eleanor) is a first-year Ph.D. student in Computer Science at ETH Zürich, where she is supervised by Ryan and [Mrinmaya Sachan](https://sites.google.com/site/mrinsachan/). Previously, she was an undergraduate student at Zhejiang University, majoring in Biomedical Engineering and minoring in Computer Science. Her research is focused on coreference resolution and linguistic theories of coherence and coreference. She also likes commonsense, neural machine translation, and hiking. It is her greatest dream to travel all 195 countries in the world. 
+Eleanor is a second-year Ph.D. student in Computer Science at ETH Zürich, where she is supervised by Ryan and [Mrinmaya Sachan](https://sites.google.com/site/mrinsachan/). Previously, Eleanor was an undergraduate student at Zhejiang University and also spent some time at UCLA, supervised by Kai-Wei Chang. Her research is focused on coreference resolution and linguistic theories of coherence and coreference. She also likes neural machine translation, human language processing, hiking and skiing. It is her greatest dream to travel to all 195 countries in the world. 
 
 Native Language: Mandarin
 
