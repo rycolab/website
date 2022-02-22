@@ -165,7 +165,7 @@ A selection of *related work* is provided for individual lectures.
     <tr>
       <th scope="row">6</th>
       <td>31.03.22</td>
-      <td>WFSAs in Machine Learning</td>
+      <td>Catch-Up, WFSAs in Machine Learning</td>
       <td><a href="" target="_blank">Lecture 6</a></td>
       <td></td>
       <td>
