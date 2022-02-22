@@ -19,7 +19,7 @@ This course serves as an introduction to weighted formal language theory. The le
 
 
 #### Grading	
-The course is structured around a companion [software library](https://github.com/rycolab/aflt-f2022), called [`rayuela`](https://github.com/rycolab/aflt-f2022). Most of the homework exercises, which comprise 50% of the course grade, will involve implementing bits of the theory discussed in class while providing additional analysis or devising algorithms not discussed in class with the tools introduced during the lecture. The homework will be released every week in bunches of 3–4 questions but will be submitted jointly on three occasions. 
+The course is structured around a companion [software library](https://github.com/rycolab/aflt-f2022), called [`rayuela`](https://github.com/rycolab/aflt-f2022). Most of the homework exercises, which comprise 50% of the course grade, will involve implementing bits of the theory discussed in class while providing additional analysis or devising algorithms not discussed in class with the tools introduced during the lecture. The homework will be released every week in bunches of 3–4 questions but will be submitted jointly on two occasions. 
 
 The remaining 50% of the course grade will be determined by a final project of the student’s selection. The teaching staff has compiled a list of recent papers, listed [below](/classes/aflt-s22/#course-project-ideas), whose replication, would make for a great project, but students should feel free to come up with other ideas as well. To give early feedback, a proposal is due midway through the course. 
 
