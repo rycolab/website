@@ -98,7 +98,7 @@ A selection of *related work* is provided for individual lectures.
         <a href="https://link.springer.com/content/pdf/10.1007/978-3-642-01492-5_6.pdf" target="_blank">Mohri (2009; §3)</a></br>
         <a href="https://mitpress.mit.edu/books/introduction-algorithms-third-edition" target="_blank">Cormen et al. (2009; §22.3)</a></br>
       </td>
-      <td>Assignment 1</td>
+      <td><a href="https://drive.google.com/file/d/1FUOFn6GOMrKI1UqtW-esnN2165U7Wwt7/view?usp=sharing" target="_blank"> Assignment 1</a></td>
       <td></td>
       <td></td>
       <td></td>
