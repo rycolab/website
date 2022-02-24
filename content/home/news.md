@@ -48,6 +48,19 @@ subtitle = ""
   extensions = ["hardLineBreak"]
 
 +++
+* **24/2:** 6 papers accepted to ACL 2022
+  - A Functionalist Account of Vowel System Typology 
+  &emsp;**<sup>Ryan Cotterell and Jason Eisner</sup>**
+  - High probability or low information? The probability–quality paradox in language generation 
+  &emsp;**<sup>Clara Isabel Meister, Gian Wiher, Tiago Pimentel, and Ryan Cotterell</sup>**
+  - Analyzing Wrap-Up Effects through an Information-Theoretic Lens 
+  &emsp;**<sup>Clara Meister, Tiago Pimentel, Thomas Hikaru Clark, Ryan Cotterell, and Roger P. Levy</sup>**
+  - Probing as Quantifying the Inductive Bias of Pre-trained Representations 
+  &emsp;**<sup>Alexander Immer, Lucas Torroba Hennigen, Vincent Fortuin, and Ryan Cotterell</sup>**
+  - Estimating the Entropy of Linguistic Distributions 
+  &emsp;**<sup>Aryaman Arora, Clara Isabel Meister, and Ryan Cotterell</sup>**
+  - Causal Probing for Grammatical Number: From Encoding to Usage 
+  &emsp;**<sup>Karim Lasri, Tiago Pimentel, Alessandro Lenci, Thierry Poibeau, and Ryan Cotterell</sup>**
 * **Spring 2022:** [Ryan](/authors/ryan/) is giving invited talks at Stanford, Google Research and KAUST; [Clara](/authors/clara/) is giving an invited talk at Instituto Superior Técnico.
 
 * **Fall 2021:** [Ryan](/authors/ryan/) is giving invited talks at EPFL, University of Melbourne, University of Notre Dame, Gothenburg University and MIT.
