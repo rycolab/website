@@ -32,7 +32,7 @@ In short, the grade for the course will be determined by the following formula:
 
 **Lectures:** 
 Thu 12-14 [(ML F 39)](http://www.rauminfo.ethz.ch/Rauminfo/RauminfoPre.do?region=Z&areal=Z&gebaeude=ML&geschoss=F&raumNr=39). The lectures will be given in person. [This](https://ethz.zoom.us/j/66773223496) recurring Zoom meeting will be used throughout the semester for people who want to tune in remotely. The password can be found on Moodle. 
-<!-- Recordings can be found in the password-protected course [Polybox](). The password can be found on the Moodle home page for the course.     -->
+Recordings can be found on the password-protected [Polybox](https://polybox.ethz.ch/index.php/s/2UQs9myPEg9MidI). The password is the same as the one for the Zoom meeting.    
 
 **Discussion Sections:** 
 Thu 14-15 [(ML F 38)](http://www.rauminfo.ethz.ch/Rauminfo/RauminfoPre.do?region=Z&areal=Z&gebaeude=ML&geschoss=F&raumNr=38). Discussion sections this semester will mostly be in the form of answering questions you might have about the homeworks and the course content. They will either be in person or via Zoom (same link as lecture), depending on the preference of the teaching team.
