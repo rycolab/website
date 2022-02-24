@@ -75,7 +75,7 @@ A selection of *related work* is provided for individual lectures.
       <th scope="row">1</th>
       <td>24.02.22</td>
       <td>Weighted Finite-State Acceptors</td>
-      <td><a href="" target="_blank">Lecture 1</a></td>
+      <td><a href="https://drive.google.com/file/d/1mJNh_hEJ9J0qpPX3ZbO7ROWQoUf4B_-R/view?usp=sharing" target="_blank">Lecture 1</a></td>
       <td></td>
       <td>
         <a href="https://link.springer.com/chapter/10.1007/978-3-642-59136-5_9" target="_blank">Kuich (2003)</a></br>
