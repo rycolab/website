@@ -76,7 +76,7 @@ A selection of *related work* is provided for individual lectures.
       <td>24.02.22</td>
       <td>Weighted Finite-State Acceptors</td>
       <td><a href="https://drive.google.com/file/d/1mJNh_hEJ9J0qpPX3ZbO7ROWQoUf4B_-R/view?usp=sharing" target="_blank">Lecture 1</a></td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1qdyQMChkPDqVpnC4PlDu9-lCVwaqSMtJ/view?usp=sharing" target="_blank">Introductory Slides</a></td>
       <td>
         <a href="https://link.springer.com/chapter/10.1007/978-3-642-59136-5_9" target="_blank">Kuich (2003)</a></br>
         <a href="https://link.springer.com/content/pdf/10.1007/978-3-642-01492-5_6.pdf" target="_blank">Mohri (2009; §6.2)</a></br>
