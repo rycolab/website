@@ -332,7 +332,7 @@ A selection of *related work* is provided for individual lectures.
       <td></td>
       <td>
         <a href="https://link.springer.com/book/10.1007/978-3-642-14846-0" target="_blank">Kallmeyer (2010)</a></br>
-        <a href="https://aclanthology.org/Q14-1032/" target="_blank">Kuhlmann (2014)</a></br>
+        <a href="https://aclanthology.org/Q14-1032/" target="_blank">Kuhlmann, Satta (2014)</a></br>
       </td>
       <td></td>
       <td>Assignments 6-10 (25% of course grade)</td>
