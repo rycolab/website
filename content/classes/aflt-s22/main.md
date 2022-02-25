@@ -472,6 +472,24 @@ Here is the list we have compiled:
       <a href="https://aclanthology.org/K19-1045.pdf" target="_blank">A General-Purpose Algorithm for Constrained Sequential Inference, Deutsch, D., Upadhyay, S., Roth, D., 2019</a></br>
       </td>
     </tr>
+    <tr>
+      <th scope="row">18</th>
+      <td>
+      <a href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00306/43545" target="_blank">Theoretical Limitations of Self-Attention in Neural Sequence Models, Hahn, M., 2020</a></br>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">19</th>
+      <td>
+      <a href="https://arxiv.org/pdf/2202.12172.pdf" target="_blank">Overcoming a Theoretical Limitation of Self-Attention, Chiang, D., Cholak, P., 2022</a></br>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">20</th>
+      <td>
+      <a href="https://arxiv.org/pdf/2010.07515.pdf" target="_blank">RNNs can generate bounded hierarchical languages with optimal memory, Hewitt, J., Hahn, M., Ganguli, S., Liang, P., Manning, C. D., 2020</a></br>
+      </td>
+    </tr>
     
   </tbody>
 </table>
