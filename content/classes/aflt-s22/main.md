@@ -116,7 +116,7 @@ A selection of *related work* is provided for individual lectures.
         <a href="https://dl.acm.org/doi/abs/10.5555/873977.873979" target="_blank">Allauzen and Mohri (2003)</a></br>
         <a href="https://link.springer.com/content/pdf/10.1007/978-3-642-01492-5_6.pdf" target="_blank">Mohri (2009; §7.2)</a></br>
       </td>
-      <td>Assignment 2</td>
+      <td><a href="https://drive.google.com/file/d/14bnsoxjXMLBlxVtv-kzTu-5cSNg1tIH5/view?usp=sharing" target="_blank">Assignment 2</a></td>
       <td></td>
       <td></td>
       <td></td>
