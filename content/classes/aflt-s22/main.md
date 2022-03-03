@@ -91,7 +91,7 @@ A selection of *related work* is provided for individual lectures.
       <th scope="row">2</th>
       <td>03.03.22</td>
       <td>The Algebraic Path Problem</td>
-      <td><a href="" target="_blank">Lecture 2</a></td>
+      <td><a href="https://drive.google.com/file/d/19NkbBpbK2M65eXUIYE7tvO-1XvpMQ2Oh/view?usp=sharing" target="_blank">Lecture 2</a></td>
       <td></td>
       <td>
         <a href="https://cs.nyu.edu/~mohri/pub/jalc.pdf" target="_blank">Conway (1971)</a></br>
@@ -108,7 +108,7 @@ A selection of *related work* is provided for individual lectures.
       <th scope="row">3</th>
       <td>10.03.22</td>
       <td>Transducers and Determinization</td>
-      <td><a href="" target="_blank">Lecture 3</a></td>
+      <td></td>
       <td></td>
       <td>
         <a href="https://aclanthology.org/J97-2003/" target="_blank">Mohri (1997)</a></br>
@@ -125,7 +125,7 @@ A selection of *related work* is provided for individual lectures.
       <th scope="row">4</th>
       <td>17.03.22</td>
       <td>Weight Pushing and Minimization</td>
-      <td><a href="" target="_blank">Lecture 4</a></td>
+      <td></td>
       <td></td>
       <td>
         <a href="https://www.sciencedirect.com/science/article/pii/0304397592901423" target="_blank">Revuz (1992)</a></br>
@@ -145,7 +145,7 @@ A selection of *related work* is provided for individual lectures.
       <th scope="row">5</th>
       <td>24.03.22</td>
       <td>Cute Applications of Semirings</td>
-      <td><a href="" target="_blank">Lecture 5</a></td>
+      <td></td>
       <td></td>
       <td>
         <a href="https://en.wikipedia.org/wiki/Thompson%27s_construction" target="_blank">Wikipedia</a></br>
@@ -167,7 +167,7 @@ A selection of *related work* is provided for individual lectures.
       <th scope="row">6</th>
       <td>31.03.22</td>
       <td>Catch-Up, WFSAs in Machine Learning</td>
-      <td><a href="" target="_blank">Lecture 6</a></td>
+      <td></td>
       <td></td>
       <td>
         <a href="https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-41/issue-1/A-Maximization-Technique-Occurring-in-the-Statistical-Analysis-of-Probabilistic/10.1214/aoms/1177697196.full" target="_blank">Baum et al. (1970)</a></br>
@@ -185,7 +185,7 @@ A selection of *related work* is provided for individual lectures.
       <th scope="row">7</th>
       <td>07.04.22</td>
       <td>Weighted Context-Free Grammars</td>
-      <td><a href="" target="_blank">Lecture 7</a></td>
+      <td></td>
       <td></td>
       <td>
         <a href="https://link.springer.com/article/10.1007/s11168-008-9052-8" target="_blank">Nederhof and Satta (2008)</a></br>
@@ -199,7 +199,7 @@ A selection of *related work* is provided for individual lectures.
       <th scope="row">8</th>
       <td>14.04.22</td>
       <td>Grammar Transformations</td>
-      <td><a href="" target="_blank">Lecture 8</a></td>
+      <td></td>
       <td></td>
       <td>
         <a href="https://www.cs.jhu.edu/~jason/papers/eisner+blatz.fg06.pdf" target="_blank">Eisner and Blatz (2006; §6.3)</a></br>
@@ -231,7 +231,7 @@ A selection of *related work* is provided for individual lectures.
       <th scope="row">10</th>
       <td>28.04.22</td>
       <td>Context-free Parsing</td>
-      <td><a href="" target="_blank">Lecture 9</a></td>
+      <td></td>
       <td></td>
       <td>
         <a href="https://www.ideals.illinois.edu/handle/2142/74304" target="_blank">Kasami (1966)</a></br>
@@ -253,7 +253,7 @@ A selection of *related work* is provided for individual lectures.
       <th scope="row">11</th>
       <td>05.05.22</td>
       <td>Bilexical Grammars and Dependency Parsing</td>
-      <td><a href="" target="_blank">Lecture 10</a></td>
+      <td></td>
       <td></td>
       <td>
         <a href="https://www.morganclaypool.com/doi/abs/10.2200/S00169ED1V01Y200901HLT002" target="_blank">Kübler et al. (2009)</a></br>
@@ -275,7 +275,7 @@ A selection of *related work* is provided for individual lectures.
       <th scope="row">12</th>
       <td>12.05.22</td>
       <td>Weighted Pushdown Automata</td>
-      <td><a href="" target="_blank">Lecture 11</a></td>
+      <td></td>
       <td></td>
       <td>
         <a href="https://aclanthology.org/P99-1070/" target="_blank">Abney et al. (1999)</a></br>
@@ -290,7 +290,7 @@ A selection of *related work* is provided for individual lectures.
       <th scope="row">13</th>
       <td>19.05.22</td>
       <td>Manipulating WPDAs</td>
-      <td><a href="" target="_blank">Lecture 12</a></td>
+      <td></td>
       <td></td>
       <td>
         <a href="https://aclanthology.org/W04-0308.pdf" target="_blank">Nivre (2004)</a></br>
@@ -308,7 +308,7 @@ A selection of *related work* is provided for individual lectures.
       <th scope="row">14</th>
       <td>26.05.22</td>
       <td>Weighted Tree Automata</td>
-      <td><a href="" target="_blank">Lecture 13</a></td>
+      <td></td>
       <td></td>
       <td>
         <a href="https://www.amazon.co.uk/Automata-Computability-Dexter-C-Kozen/dp/0387949070" target="_blank">Kozen (1997)</a></br>
@@ -328,7 +328,7 @@ A selection of *related work* is provided for individual lectures.
       <th scope="row">15</th>
       <td>02.06.22</td>
       <td>Going Beyond WCFGs</td>
-      <td><a href="" target="_blank">Lecture 14</a></td>
+      <td></td>
       <td></td>
       <td>
         <a href="https://link.springer.com/book/10.1007/978-3-642-14846-0" target="_blank">Kallmeyer (2010)</a></br>
