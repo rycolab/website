@@ -50,6 +50,7 @@ A selection of *related work* is provided for individual lectures.
 
 **13.02** &emsp; Class website is online!  
 **15.02** &emsp; A selection of possible project papers has been published.  
+**08.03** &emsp; The [Course Project Guidelines](https://drive.google.com/file/d/1sGsF2UWIaVYFNTiqB3HUexRaf8b3zucs/view?usp=sharing) have been published.
 
 ## Syllabus
 <table class="table">
@@ -354,6 +355,9 @@ We will release exercises every week that cover lecture material. Exercises will
 - [Practice Exam](https://drive.google.com/file/d/1Fs0CYuLG-sBLZJwthChU8wqYyzBBOoPi/view?usp=sharing)
 - [Practice Exam Solutions](https://drive.google.com/file/d/1sv4GoNrAtRzlV5Ddk9JqBxe2IgTX_ttv/view?usp=sharing)
  -->
+
+## Course Project
+You can find more information on the course project and the detialed instructions for it [here](https://drive.google.com/file/d/1sGsF2UWIaVYFNTiqB3HUexRaf8b3zucs/view?usp=sharing).
 
 ## Course Project Ideas
 The teaching staff has compiled a list of recent papers, whose replication, would make for a great project. However, you should feel free to come up with other ideas as well. 
