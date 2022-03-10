@@ -137,7 +137,7 @@ A selection of *related work* is provided for individual lectures.
         <a href="https://link.springer.com/content/pdf/10.1007/978-3-642-01492-5_6.pdf" target="_blank">Mohri (2009; §7.3)</a></br>
         <a href="https://aclanthology.org/N03-1009.pdf" target="_blank">Eisner (2003)</a></br>
       </td>
-      <td>Assignment 3</td>
+      <td><a href="https://drive.google.com/file/d/1TABFwv6wct1USo8P-G9-HWGMl5taVHsx/view?usp=sharing" target="_blank">Assignment 3</a></td>
       <td></td>
       <td></td>
       <td></td>
