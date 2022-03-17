@@ -109,7 +109,7 @@ A selection of *related work* is provided for individual lectures.
       <th scope="row">3</th>
       <td>10.03.22</td>
       <td>Transducers and Determinization</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1YbAmJqTwhgllTZOgCY4OoWv2v29gMxnu/view?usp=sharing" target="_blank">Lecture 3</a></td>
       <td></td>
       <td>
         <a href="https://aclanthology.org/J97-2003/" target="_blank">Mohri (1997)</a></br>
