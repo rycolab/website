@@ -159,7 +159,7 @@ A selection of *related work* is provided for individual lectures.
         <a href="https://aclanthology.org/D09-1005/" target="_blank">Li and Eisner (2009)</a></br>
         <a href="https://www.cs.jhu.edu/~jason/papers/eisner.spnlp16.pdf" target="_blank">Eisner (2016)</a></br>
       </td>
-      <td>Assignment 4</td>
+      <td><a href="https://drive.google.com/file/d/1-Yoe0mS_dE0zON5PlTPP7XDLvOixfxgL/view?usp=sharing" target="_blank">Assignment 4</a></td>
       <td></td>
       <td></td>
       <td></td>
