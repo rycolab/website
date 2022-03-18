@@ -319,6 +319,7 @@ A selection of *related work* is provided for individual lectures.
         <a href="https://www.inf.tu-dresden.de/content/institutes/thi/gdp/pubs/2009/determ2.pdf" target="_blank">Büchse et al. (2010)</a></br>
         <a href="https://dl.acm.org/doi/10.5555/2034006.2034050" target="_blank">Maletti and Quernheim (2011)</a></br>
         <a href="https://kevincrawfordknight.github.io/papers/p5.pdf" target="_blank">Knight and Graehl (2005)</a></br>
+        <a href="https://link.springer.com/content/pdf/10.1007/978-3-540-88282-4_33.pdf" target="_blank">Maletti (2008)</a></br>
       </td>
       <td>Assignment 10</td>
       <td></td>
