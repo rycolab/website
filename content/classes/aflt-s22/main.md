@@ -126,7 +126,7 @@ A selection of *related work* is provided for individual lectures.
       <th scope="row">4</th>
       <td>17.03.22</td>
       <td>Weight Pushing and Minimization</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1MJUGapyRQjKjPhFd7wcXY8P44QkMTkAD/view?usp=sharing" target="_blank">Lecture 4</a></td>
       <td></td>
       <td>
         <a href="https://www.sciencedirect.com/science/article/pii/0304397592901423" target="_blank">Revuz (1992)</a></br>
