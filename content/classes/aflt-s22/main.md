@@ -177,7 +177,7 @@ A selection of *related work* is provided for individual lectures.
         <a href="http://www.inference.org.uk/hmw26/papers/crf_intro.pdf" target="_blank">Wallach (2004)</a></br>
         <a href="https://proceedings.neurips.cc/paper/2004/file/eb06b9db06012a7a4179b8f3cb5384d3-Paper.pdf" target="_blank">Sarawagi and Cohen (2004)</a></br>
       </td>
-      <td>Assignment 5</td>
+      <td><a href="https://drive.google.com/file/d/1miwXKbuvUt2Bm9Kw9R68UvoYI61ysAzH/view?usp=sharing" target="_blank">Assignment 5</a></td>
       <td></td>
       <td></td>
       <td></td>
