@@ -146,7 +146,7 @@ A selection of *related work* is provided for individual lectures.
       <th scope="row">5</th>
       <td>24.03.22</td>
       <td>Cute Applications of Semirings</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1Z5tF7KO5Y2EM_cYPFkBWiD4l4-SK2NFH/view?usp=sharing" target="_blank">Lecture 5</a></td>
       <td></td>
       <td>
         <a href="https://en.wikipedia.org/wiki/Thompson%27s_construction" target="_blank">Wikipedia</a></br>
