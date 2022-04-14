@@ -199,7 +199,7 @@ A selection of *related work* is provided for individual lectures.
       <th scope="row">8</th>
       <td>14.04.22</td>
       <td>Context-Free Grammars</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1y_ulTl2IccZWFgJqYVNuh4zeKTjLL1IG/view?usp=sharing" target="_blank">Chapter 6</a></td>
       <td></td>
       <td>
         <a href="https://link.springer.com/article/10.1007/s11168-008-9052-8" target="_blank">Nederhof and Satta (2008)</a></br>
