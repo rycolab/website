@@ -224,7 +224,7 @@ A selection of *related work* is provided for individual lectures.
       <th scope="row">10</th>
       <td>28.04.22</td>
       <td>Grammar Transformations</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/16kzFC7sjhH4TW1tXhd-h8YDoJPkBx_mp/view?usp=sharing" target="_blank">Chapter 7</a></td>
       <td></td>
       <td>
         <a href="https://www.cs.jhu.edu/~jason/papers/eisner+blatz.fg06.pdf" target="_blank">Eisner and Blatz (2006; §6.3)</a></br>
