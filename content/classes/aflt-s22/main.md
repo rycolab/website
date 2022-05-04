@@ -259,7 +259,7 @@ A selection of *related work* is provided for individual lectures.
         <a href="https://aclanthology.org/J95-2002/" target="_blank">Stolcke (1995)</a></br>
       </td>
       <td>Assignment 6</td>
-      <td>Assignments 1-5 (25% of course grade)</td>
+      <td>Assignments 1-2 (10% of course grade)</td>
       <td></td>
       <td></td>
     </tr>
@@ -296,7 +296,7 @@ A selection of *related work* is provided for individual lectures.
         <a href="https://link.springer.com/chapter/10.1007/978-3-662-21545-6_18" target="_blank">Lang (1974)</a></br>
       </td>
       <td>Assignment 8</td>
-      <td></td>
+      <td>Assignments 3-5 (15% of course grade)</td>
       <td></td>
       <td></td>
     </tr>
