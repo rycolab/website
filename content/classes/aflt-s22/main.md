@@ -245,7 +245,7 @@ A selection of *related work* is provided for individual lectures.
       <th scope="row">11</th>
       <td>05.05.22</td>
       <td>Context-free parsing</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1P0oxGhhGSn1aMk0Slgkfxtg_qrtabBR4/view?usp=sharing" target="_blank">Chapter 8</a></td>
       <td></td>
       <td>
         <a href="https://www.ideals.illinois.edu/handle/2142/74304" target="_blank">Kasami (1966)</a></br>
