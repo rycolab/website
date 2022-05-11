@@ -281,7 +281,7 @@ A selection of *related work* is provided for individual lectures.
         <a href="https://www.cs.jhu.edu/~jason/papers/eisner.iwptbook00.pdf" target="_blank">Eisner (2000)</a></br>
       </td>
       <td>Assignment 7</td>
-      <td>Course Project Proposal</td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -296,7 +296,7 @@ A selection of *related work* is provided for individual lectures.
         <a href="https://link.springer.com/chapter/10.1007/978-3-662-21545-6_18" target="_blank">Lang (1974)</a></br>
       </td>
       <td>Assignment 8</td>
-      <td>Assignments 3-5 (15% of course grade)</td>
+      <td>Assignments 3-5 (15% of course grade) [19.05] Course Project Proposal [21.05]</td>
       <td></td>
       <td></td>
     </tr>
