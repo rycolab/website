@@ -258,7 +258,7 @@ A selection of *related work* is provided for individual lectures.
         <a href="https://dl.acm.org/doi/10.1145/362007.362035" target="_blank">Earley (1970)</a></br>
         <a href="https://aclanthology.org/J95-2002/" target="_blank">Stolcke (1995)</a></br>
       </td>
-      <td>Assignment 6</td>
+      <td><a href="https://drive.google.com/file/d/1cdpN4wsFr45zEcJb75y94utBfxqBuKmZ/view?usp=sharing" target="_blank">Assignment 6</a></td>
       <td>Assignments 1-2 (10% of course grade)</td>
       <td></td>
       <td></td>
