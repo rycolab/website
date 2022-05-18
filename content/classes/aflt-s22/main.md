@@ -280,7 +280,7 @@ A selection of *related work* is provided for individual lectures.
         <a href="https://aclanthology.org/P99-1059/" target="_blank">Eisner and Satta (1999)</a></br>
         <a href="https://www.cs.jhu.edu/~jason/papers/eisner.iwptbook00.pdf" target="_blank">Eisner (2000)</a></br>
       </td>
-      <td>Assignment 7</td>
+      <td><a href="https://drive.google.com/file/d/1Y1jleaP6ZXVFzp9KDAZvhCAAnQWzErcx/view?usp=sharing" target="_blank">Assignment 7</a></td>
       <td></td>
       <td></td>
       <td></td>
