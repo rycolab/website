@@ -202,7 +202,7 @@ def main(argv):
         file_name = os.path.join(BIB_DIR, key + '.bib')
         with open(file_name, 'w') as f:
           f.write(bib)
-        command = ['academic', 'import', '--bibtex', file_name, '--overwrite']
+        command = ['academic', 'import','--overwrite', '--bibtex', file_name ]
         if featured:
           command.append('--featured')
         subprocess.run(command)

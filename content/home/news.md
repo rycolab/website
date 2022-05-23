@@ -48,6 +48,22 @@ subtitle = ""
   extensions = ["hardLineBreak"]
 
 +++
+* **23/5**  [Ryan](/authors/ryan/) gives STIRS [Keynote](media/ACL2022-final.pdf) at ACL 2022
+
+
+* **24/2:** 6 papers accepted to NAACL 2022
+  - Same Neurons, Different Languages: Probing Morphosyntax in Multilingual Pre-trained Models
+  &emsp;**<sup>Karolina Stańczak, Edoardo Ponti, Lucas Torroba Hennigen, Ryan Cotterell, Isabelle Augenstein</sup>**
+  - A Structured Span Selector 
+  &emsp;**<sup>Tianyu Liu, Yuchen Eleanor Jiang, Ryan Cotterell, Mrinmaya Sachan</sup>**
+  - {BlonDe}: An Automatic Evaluation Metric for Document-level Machine Translation 
+  &emsp;**<sup>Yuchen Eleanor Jiang, Tianyu Liu, Shuming Ma, Dongdong Zhang, Jian Yang, Haoyang Huang, Rico Sennrich, Ryan Cotterell, Mrinmaya Sachan, Ming Zhou</sup>**
+  - Exact Paired-Permutation Testing for Structured Test Statistics 
+  &emsp;**<sup>Ran Zmigrod, Tim Vieira, Ryan Cotterell</sup>**
+  - Probing via Prompting 
+  &emsp;**<sup>Jiaoda Li, Ryan Cotterell, Mrinmaya Sachan</sup>**
+  - A Word on Machine Ethics: {A} Response to {Jiang et al. (2021)} 
+  &emsp;**<sup>Zeerak Talat, Hagen Blix, Josef Valvoda, Maya Indira Ganesh, Ryan Cotterell, Adina Williams</sup>**
 * **24/2:** 6 papers accepted to ACL 2022
   - A Functionalist Account of Vowel System Typology 
   &emsp;**<sup>Ryan Cotterell and Jason Eisner</sup>**
