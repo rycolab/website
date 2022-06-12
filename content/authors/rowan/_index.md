@@ -20,10 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: MEng student at the University of Cambridge
 
-interests:
-- metaphor
-- interpretability
-- bias and fairness in NLP
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -36,8 +32,8 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/rowhallmauds
-- icon: google-scholar
-  icon_pack: ai
+- icon: google
+  icon_pack: fab
   link: https://scholar.google.com/citations?user=TEOyDoMAAAAJ&hl=en
 
   
@@ -55,7 +51,7 @@ email: ""
 user_groups:
 - Members
 ---
-Rowan is a first-year PhD at the [University of Cambridge](https://www.cam.ac.uk/). He previously completed his BA and MEng, both in Computer Science, jointly supervised by Ryan and Simone Teufel. He previously worked on gender-bias mitigation from machine-learnt semantic models, and is currently working on conceptual metaphor. He, too, has things he does in his free time.
+Please refer to his [bio](https://www.cst.cam.ac.uk/people/rh635) on the University of Cambridge website.
 
 Native Language: English
 
