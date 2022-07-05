@@ -48,6 +48,10 @@ subtitle = ""
   extensions = ["hardLineBreak"]
 
 +++
+* **19/7**  David Mortensen (CMU) is giving an invited talk
+* **4/7**  Noga Zaslavsky (MIT) is giving an invited talk
+* **10/6**  Aaron Schein (University of Columbia) is giving an invited talk
+
 * **23/5**  [Ryan](/authors/ryan/) gives STIRS [Keynote](media/ACL2022-final.pdf) at ACL 2022
 
 
