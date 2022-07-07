@@ -295,7 +295,7 @@ A selection of *related work* is provided for individual lectures.
         <a href="https://aclanthology.org/P99-1070/" target="_blank">Abney et al. (1999)</a></br>
         <a href="https://link.springer.com/chapter/10.1007/978-3-662-21545-6_18" target="_blank">Lang (1974)</a></br>
       </td>
-      <td>Assignment 8</td>
+      <td><a href="https://drive.google.com/file/d/162n-T-u5nsVbvE-3rUSxZXc57uYVaPp_/view?usp=sharing">Assignment 8</td>
       <td>Assignments 3-5 (15% of course grade) [19.05] Course Project Proposal [21.05]</td>
       <td></td>
       <td></td>
@@ -313,7 +313,7 @@ A selection of *related work* is provided for individual lectures.
         <a href="https://aclanthology.org/A00-2033.pdf" target="_blank">Moore (2000)</a></br>
         <a href="https://aclanthology.org/P04-1069.pdf" target="_blank">Nederhof and Satta (2004)</a></br>
       </td>
-      <td>Assignment 9</td>
+      <td><a href="https://drive.google.com/file/d/1tbynLDFAPh8CSWQyzfNtn_XU_NflY3QG/view?usp=sharing">Assignment 9</td>
       <td></td>
       <td></td>
       <td></td>
@@ -337,7 +337,7 @@ A selection of *related work* is provided for individual lectures.
         <a href="https://link.springer.com/book/10.1007/978-3-642-14846-0" target="_blank">Kallmeyer (2010)</a></br>
         <a href="https://aclanthology.org/Q14-1032/" target="_blank">Kuhlmann, Satta (2014)</a></br>
       </td>
-      <td>Assignment 10</td>
+      <td><a href="https://drive.google.com/file/d/1YsYFXMZhv_o0LD6JF36MaheA29MSbxH6/view?usp=sharing">Assignment 10</td>
       <td></td>
       <td></td>
       <td></td>
