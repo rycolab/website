@@ -14,7 +14,7 @@ profile = false
 
 +++
 
-**Time:** Fri 15-16h via Zoom
+**Time:** Wed 12-13h Hybrid
 
 
 ## Reading List

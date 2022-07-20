@@ -1,7 +1,7 @@
 ---
-title: Naturalistic Causal Probing for Morpho-Syntax
-date: '2022-01-01'
-publishDate: '2022-05-23T14:37:54.411418Z'
+title: "Naturalistic Causal Probing for Morpho-Syntax"
+date: 2022-01-01
+publishDate: 2022-05-23T14:37:54.411418Z
 authors:
 - Afra Amini
 - Tiago Pimentel

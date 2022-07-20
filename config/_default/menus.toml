@@ -9,6 +9,11 @@
   weight = 10
 
 [[main]]
+  name = "News"
+  url = "/#news"
+  weight = 30
+
+[[main]]
   name = "People"
   url = "/#people"
   weight = 40
@@ -31,15 +36,16 @@
 
 [[main]]
   name = "Reading Group"
-  url = "/#readinggroup"
+  url = "/readinggroup"
   weight = 80
+
+
+[[main]]
+  name = "Talks"
+  url = "/talk"
+  weight = 90
 
 [[main]]
   name = "Joining"
   url = "/#joining"
-  weight = 90
-
-[[main]]
-  name = "EMNLP 2021"
-  url = "/talk"
   weight = 100

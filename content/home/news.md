@@ -48,14 +48,14 @@ subtitle = ""
   extensions = ["hardLineBreak"]
 
 +++
-* **19/7**  David Mortensen (CMU) is giving an invited talk
-* **4/7**  Noga Zaslavsky (MIT) is giving an invited talk
-* **10/6**  Aaron Schein (University of Columbia) is giving an invited talk
+* **19/07/22**  David Mortensen (CMU) is giving an invited [talk](/talk/mortensen-jul-19-22)
+* **04/07/22**  Noga Zaslavsky (MIT) is giving an invited [talk](/talk/zaslavsky-jul-4-22)
+* **10/06/22**  Aaron Schein (University of Columbia) is giving an invited [talk](/talk/schein-jun-10-22)
 
-* **23/5**  [Ryan](/authors/ryan/) gives STIRS [Keynote](media/ACL2022-final.pdf) at ACL 2022
+* **23/05/22**  [Ryan](/authors/ryan/) gives STIRS [Keynote](media/ACL2022-final.pdf) at ACL 2022
 
 
-* **24/2:** 6 papers accepted to NAACL 2022
+* **24/02/22:** 6 papers accepted to NAACL 2022
   - Same Neurons, Different Languages: Probing Morphosyntax in Multilingual Pre-trained Models
   &emsp;**<sup>Karolina Stańczak, Edoardo Ponti, Lucas Torroba Hennigen, Ryan Cotterell, Isabelle Augenstein</sup>**
   - A Structured Span Selector 
@@ -68,7 +68,7 @@ subtitle = ""
   &emsp;**<sup>Jiaoda Li, Ryan Cotterell, Mrinmaya Sachan</sup>**
   - A Word on Machine Ethics: A Response to Jiang et al. (2021) 
   &emsp;**<sup>Zeerak Talat, Hagen Blix, Josef Valvoda, Maya Indira Ganesh, Ryan Cotterell, Adina Williams</sup>**
-* **24/2:** 6 papers accepted to ACL 2022
+* **24/02/22:** 6 papers accepted to ACL 2022
   - A Functionalist Account of Vowel System Typology 
   &emsp;**<sup>Ryan Cotterell and Jason Eisner</sup>**
   - High probability or low information? The probability–quality paradox in language generation 
@@ -85,7 +85,7 @@ subtitle = ""
 
 * **Fall 2021:** [Ryan](/authors/ryan/) is giving invited talks at EPFL, University of Melbourne, University of Notre Dame, Gothenburg University and MIT.
 
-* **26/8:** 7 papers accepted to EMNLP 2021; 4 papers accepted to Findings of the ACL: EMNLP 2021
+* **26/08/21:** 7 papers accepted to EMNLP 2021; 4 papers accepted to Findings of the ACL: EMNLP 2021
   - Revisiting the Uniform Information Density Hypothesis
   - A Bayesian Framework for Information-Theoretic Probing
   - Efficient Sampling of Dependency Structure
@@ -97,7 +97,7 @@ subtitle = ""
   - Searching for More Efficient Dynamic Programs
   - Keyword2Text: A Plug-and-Play Method for Controlled Text Generation
   - Adjusting the Conflict-Cooperation Scale for Armed Conflict Assessment
-* **5/5:** 7 papers accepted at ACL 2021; 1 paper accepted to Findings of the ACL
+* **05/05/21:** 7 papers accepted at ACL 2021; 1 paper accepted to Findings of the ACL
   - A cognitive regularizer for language modeling
   - On Finding the K-best Non-projective Dependency Trees
   - Determinantal Beam Search
@@ -106,7 +106,7 @@ subtitle = ""
   - Examining the Inductive Bias of Neural Language Models with Artificial Languages
   - Higher-order Derivatives of Weighted Finite-state Machines
   - Modelling the Unigram Distribution
-* **10/3:** 5 papers (3 long, 2 short) accepted to NAACL 2021
+* **10/03/21:** 5 papers (3 long, 2 short) accepted to NAACL 2021
   - A Non-Linear Structural Probe 
   - What About the Precedent: An Information-Theoretic Analysis of Common Law 
   - Do Syntactic Probes Probe Syntax? Experiments with Jabberwocky Probing 

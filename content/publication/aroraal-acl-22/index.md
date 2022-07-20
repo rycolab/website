@@ -9,7 +9,7 @@ authors:
 publication_types:
 - '1'
 abstract: ''
-featured: false
+featured: true
 publication: '*Proceedings of the 60th Annual Meeting of the Association for Computational
   Linguistics (Volume 1: Long Papers)*'
 ---
