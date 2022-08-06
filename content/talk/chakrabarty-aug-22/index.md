@@ -46,7 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides: ""
+url_slides: "/talk/chakrabarty-aug-22/talk_chakrabarty_22.pdf"
 
 url_code:
 url_pdf: 
