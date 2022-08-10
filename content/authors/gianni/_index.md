@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Philosopher and historian 
+role: MSCA Fellow in Philosophy of Science 
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
 bio: Philosopher and historian at ETH Zürich
 
 # Short bio (displayed in user profile at end of posts)
-bio: Gianni is a philosopher and historian of science, specialized in philosophy and history of formal knowledge (mathematics, logic and informatics), from the beginning of the 19th century to our days.
+bio: Juan Luis Gastaldi (Gianni) is currently a Marie Skłodowska-Curie Fellow at the chair of History and Philosophy of Mathematical Sciences (ETH D-GESS). He is a philosopher and historian of science, specialized in philosophy and history of formal knowledge (mathematics, logic and computer science), from the beginning of the 19th century to our days. He is also the managing director of the ETH Turing Centre Zürich.
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -32,4 +32,4 @@ user_groups:
 - Philosophy of Language and Computation Lecturers
 ---
 
-Juan Luis Gastaldi is currently the managing director of the Turing Centre Zürich. He is a philosopher and historian of science, specialized in philosophy and history of formal knowledge (mathematics, logic and informatics), from the beginning of the 19th century to our days. 
+Juan Luis Gastaldi (Gianni) is currently a Marie Skłodowska-Curie Fellow at the chair of History and Philosophy of Mathematical Sciences (ETH D-GESS). He is a philosopher and historian of science, specialized in philosophy and history of formal knowledge (mathematics, logic and computer science), from the beginning of the 19th century to our days. He is also the managing director of the ETH Turing Centre Zürich.
