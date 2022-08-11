@@ -16,8 +16,6 @@ role: Assistant Professor of Computer Science
 organizations:
 - name: ETH Zürich
   url: "https://inf.ethz.ch"
-- name: University of Cambridge
-  url: "https://www.cam.ac.uk/"
 
 
 # Short bio (displayed in user profile at end of posts)
