@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master's Student
+role: (incoming) PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -45,6 +45,7 @@ user_groups:
 - Teaching Assistants AFLT
 - Members
 - Philosophy of Language and Computation Teaching Assistants
+- Current
 ---
 
 Anej is a second year Data Science MSc student with Bachelor's in CS and Math from University in Ljubljana, Slovenia. He is fascinated by the complexity and diversity of human language and the (computational) challenges these bring.

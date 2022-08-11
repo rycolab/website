@@ -1,28 +1,28 @@
 ---
 # Display name
-title: Josef Valvoda
+title: Yufei Liu
 
 # Username (this should match the folder name)
 authors:
-- tiago
+- yufei
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Bachelor Student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Cambridge
-  url: "https://www.cam.ac.uk/"
+- name: École Polytechnique
+  url: "https://portail.polytechnique.edu/informatique"
 
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interest:
-- argumentation in law
+# interests: 
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -31,21 +31,15 @@ interest:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:jv406@cam.ac.uk"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:yufei.liu@polytechnique.edu"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/ValvodaJosef
-- icon: google
-  icon_pack: fab
-  link: https://scholar.google.com/citations?hl=en&user=vLgjEhQAAAAJ
+  link: https://twitter.com/liuyufei118
 - icon: github
   icon_pack: fab
-  link: https://github.com/valvoda
-- icon: portrait
-  icon_pack: fas
-  link: "https://valvoda.github.io"
+  link: https://github.com/yufei118liu
 
-
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -61,6 +55,7 @@ user_groups:
 - Members
 - Current
 ---
-Josef is a second-year PhD student at the University of Cambridge supervised by Simone Teufel and Ryan. Before joining Rycolab, he completed the MPhil in Advanced Computer Science at the University of Cambridge. Before that, he obtained a Bachelor of Law at the University of Exeter. He is interested in legal document information retrieval. In his spare time he likes to boulder.
+Yufei is a third-year undergraduate student in the École Polytechnique, France, double-majoring in mathematics and computer science. She is supervised by Ryan for the ETH Zürich Summer Student Research Fellowship. She is currently working on removing gender bias from contextual word representations.
 
-Native Language: Czech
+<!-- <img  class="avatar-small" src="seaa-turtle.jpg" style="float: center" />
+ -->

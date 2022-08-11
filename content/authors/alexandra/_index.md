@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master's Student
+role: (incoming) PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -44,6 +44,7 @@ email: ""
 user_groups:
 - Members
 - Teaching Assistants AFLT
+- Current
 ---
 
 Alexandra is a MSc Data Science student at ETH Zürich. Prior to joining ETH, she did a bachelor's degree in Software Engineering at The University of Sheffield, United Kingdom, where she focused mostly on theoretical computer science and machine learning. She is currently doing an internship in NLP at IBM Research Zürich, after which she will do her master’s thesis supervised by Clara. She enjoys a variety of topics, including machine translation, algorithms, stats, information theory, logic and is trying to learn more about others as well, in search of a primary research interest. 

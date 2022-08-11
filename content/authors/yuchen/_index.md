@@ -59,6 +59,7 @@ email: ""
 user_groups:
 - Members
 - Teaching Assistants AFLT
+- Current
 ---
 
 Eleanor is a second-year Ph.D. in the Institute of Machine Learning at ETH Zürich, where she is supervised by Ryan Cotterell and [Mrinmaya Sachan](https://sites.google.com/site/mrinsachan/). She also obtained her Master’s in Computer Science at ETH Zürich. Previously, she did her undergraduate studies at Zhejiang University and also spent some time at UCLA, supervised by Kai-Wei Chang. Her research is focused on generating and understanding long texts. To this end, she has recently been dabbling into document-level machine translation, coreference resolution, and coherence modeling. She also likes fun applications of natural language generation (news generation, lyrics generation, etc.). ​In her spare time, Eleanor enjoys learning languages, skiing and hiking. She also plays the piano. It is her greatest dream to travel to all 195 countries in the world. 

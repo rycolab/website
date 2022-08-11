@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Tianyu Liu
-secondary: 刘天宇
+title: Vésteinn Snæbjarnarson
+secondary: 
 
 # Username (this should match the folder name)
 authors:
-- tianyu
+- vesteinn
 
 # Is this the primary user of the site?
 superuser: false
@@ -15,16 +15,17 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: ETH Zürich
-  url: "https://inf.ethz.ch"
+- name: University of Copenhagen
+  url: "https://www.ku.dk/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-- structured prediction
-- parsing
-- natural language generation
+- multimodal NLP
+- machine translation
+- low-resource settings
+- information extraction
 
 
 # Social/Academic Networking
@@ -34,16 +35,19 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:tianyu.liu@inf.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto: "  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/t_y_liu
+  link: https://twitter.com/vesteinns
 - icon: google
   icon_pack: fab
-  link: https://scholar.google.com/citations?user=tDQ2E0UAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=cp283P4AAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/lyutyuh
+  link: https://github.com/vesteinn/
+- icon: portrait
+  icon_pack: fas
+  link: "https://vesteinn.is/"
 
 
 
@@ -56,4 +60,4 @@ user_groups:
 - Members
 - Current
 ---
-Tianyu is a first-year PhD student at ETH Zurich. He is advised by Ryan and [Mrinmaya Sachan](mrinmaya.io). He received his BSc in computer science from Peking University. He is currently interested in structured prediction, parsing, and natural language generation. 
+
