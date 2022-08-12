@@ -22,9 +22,9 @@ bio: PhD student at the University of Cambridge
 
 interests:
 - computational morphology
-- argument structure
-- multilingual NLP
 - computational typology
+- multilingual NLP
+- argument structure
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

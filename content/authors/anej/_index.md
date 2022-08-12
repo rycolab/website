@@ -33,6 +33,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:asvete@ethz.ch"  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/anejsvete
+- icon: github
+  icon_pack: fab
+  link: https://github.com/AnejSvete/
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)

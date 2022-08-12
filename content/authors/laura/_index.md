@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Josef Valvoda
+title: Laura Mascarell
 
 # Username (this should match the folder name)
 authors:
-- josef
+- laura
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-- name: University of Cambridge
-  url: "https://www.cam.ac.uk/"
+- name: ETH Zürich
+  url: "https://inf.ethz.ch"
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -31,19 +31,13 @@ interest:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:jv406@cam.ac.uk"  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/ValvodaJosef
+  link: "mailto:laura.mascarellespuny@inf.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
 - icon: google
   icon_pack: fab
-  link: https://scholar.google.com/citations?hl=en&user=vLgjEhQAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/valvoda
+  link: https://scholar.google.ch/citations?user=lXCoOOsAAAAJ&hl=en
 - icon: portrait
   icon_pack: fas
-  link: "https://valvoda.github.io"
+  link: "https://lauramascarell.com"
 
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -60,7 +54,8 @@ email: ""
 user_groups:
 - Members
 - Current
+- Postdocs
 ---
-Josef is a second-year PhD student at the University of Cambridge supervised by Simone Teufel and Ryan. Before joining Rycolab, he completed the MPhil in Advanced Computer Science at the University of Cambridge. Before that, he obtained a Bachelor of Law at the University of Exeter. He is interested in legal document information retrieval. In his spare time he likes to boulder.
+Laura is a Postdoctoral Researcher at the ETH Media Technology Center, where she is currently doing research on abstractive Summarization. She is also interested in low-resource settings. She has a Computer Science background and holds a Ph.D. in Computational Linguistics from the University of Zürich. Her dissertation was on improving lexical choice in Statistical Machine Translation with discourse-aware approaches.
 
-Native Language: Czech
+Native Language: Catalan

@@ -35,7 +35,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:etsipidi@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:eleftheria.tsipidi@inf.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
 
 
 
