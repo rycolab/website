@@ -21,7 +21,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interest:
+interests:
 - argumentation in law
 
 # Social/Academic Networking
