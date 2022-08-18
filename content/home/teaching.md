@@ -66,21 +66,13 @@ subtitle = "[SEE ALL CLASSES](/classes)"
 +++
 
 ## [Philosophy of Language and Computation](/classes/phil-f22) 
-**ETH Zürich** <span class="middot-divider"></span> **Autumn 2022**
+**ETH Zürich** <span class="middot-divider"></span> **Fall 2022**
 This graduate class, taught like a seminar, is designed to help you understand the philosophical underpinnings of modern work in natural language processing (NLP), most of which centered around statistical machine learning applied to natural language data.
+
+## [Natural Language Processing](/classes/intro-nlp-f22) 
+**ETH Zürich** <span class="middot-divider"></span> **Fall 2022**
+This course presents topics in natural language processing with an emphasis on modern techniques, primarily focusing on statistical and deep learning approaches. The course provides an overview of the primary areas of research in language processing as well as a detailed exploration of the models and techniques used both in research and in commercial natural language systems.
 
 ## [Advanced Formal Language Theory](/classes/aflt-s22) 
 **ETH Zürich** <span class="middot-divider"></span> **Spring 2022**
 This course serves as an introduction to weighted formal language theory. The lectures cover the theory and algorithms used to manipulate and compute with weighted automata and grammars in detail. The emphasis is on rigor and depth rather than broad coverage. To motivate the theory, the course will also cover various applications of formal language theory to modern-day machine learning. Students should expect a healthy dose of proof-writing and, thus, mathematical maturity is expected. In terms of background, the class will draw on techniques from discrete math, analysis, and linear algebra. While there are no hard prerequisites, having taken a class that covers basic graph algorithms will be helpful as well as familiarity with basic real analysis and linear algebra.
-
-## [Natural Language Processing](/classes/intro-nlp-f21) 
-**ETH Zürich** <span class="middot-divider"></span> **Fall 2021**
-This course presents topics in natural language processing with an emphasis on modern techniques, primarily focusing on statistical and deep learning approaches. The course provides an overview of the primary areas of research in language processing as well as a detailed exploration of the models and techniques used both in research and in commercial natural language systems.
-
-## [Dependency Structures and Lexicalized Grammars](/classes/dep-parsing-sem) 
-**ETH Zürich** <span class="middot-divider"></span> **Fall 2021**
-Dependency parsing is a fundamental task in natural language processing. This seminar explores a variety of algorithms for efficient dependency parsing and their derivatioin in a unified algebraic framework. The core ideas behind the mathematics of dependency parsing are explored.
-
-## [ESSLLI 2021: Information Theory in Linguistics](/classes/esslli-21) 
-**Virtual** <span class="middot-divider"></span> **Summer 2021**
-The [European Summer School in Logic, Language and Information Summer School (ESSLLI)](https://esslli2021.unibz.it/) provides an interdisciplinary setting in which courses and workshops are offered in logic, linguistics and computer science.  The *Information Theory in Linguistics* course focuses on the application of information-theoretic methods to natural language processing, emphasizing interdisciplinary connections with the field of linguistics.
