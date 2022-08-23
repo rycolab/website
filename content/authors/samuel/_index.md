@@ -20,6 +20,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Samuel is a Ph.D. student at Roy Wagner's Chair for the History and Philosophy of Mathematics. He works on the history of type theory and its relation to programming errors.
 
+social:
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:samuel.hunziker@gess.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
+
 interests:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
