@@ -17,9 +17,8 @@ weight = 20
 ## Course Description
 This graduate class, taught like a seminar, is designed to help you understand the philosophical underpinnings of modern work in natural language processing (NLP), most of which is centered around deep learning applied to natural language data. The course is a year-long journey, but the second half (Spring 2023) does not depend on the first (Fall 2022) and thus either half may be taken independently. In each semester, we divide the class time into three modules. Each module focuses on a philosophical topic. In the first semester we will discuss logic and language, structuralism, and recursive structure. And, in the second semester we will focus on language games, information theory, and pragmatics. The modules will be four weeks long. During the first two weeks of a module, we will read and discuss original texts and supplementary criticism. During the second two weeks, we will read recent NLP papers and discuss how the authors of those works are building on philosophical insights into our conception of language—perhaps implicitly or unwittingly. 
 
-The course will require a weekly reading of around 20 pages (with relatively high variance at times) and a weekly task related to the reading, which is to be completed online. The weekly tasks are short and not graded, but, in order to pass the class, at least 70% of the tasks must be completed. The final grade will be based, in equal parts, on three term papers (each around 5-10 pages) which are to be turned in throughout the semester. Each term paper corresponds to one of the three modules and the students will be expected to explore the relation of the topics discussed in class to work not presented in the class. For example, discussing how three recent NLP papers implicitly assumed a structuralist perspective on language would be a good topic.
-
 #### Grading	
+The course will require a weekly reading of around 20 pages (with relatively high variance at times) and a weekly free-form responses to the reading, which is to be completed online. The mandatory readings for every week are bolded in the Syllabus below. The weekly tasks are short and not graded, but, in order to pass the class, at least 70% of the tasks must be completed. The final grade will be based, in equal parts, on one class presentation and two term papers (each around 5-10 pages) which are to be turned in throughout the semester (one week after the end of each module). Students must write term papers on the modules other than the one for which they have made a presentation. They will be expected to explore the relation of the topics discussed in class to work not presented in the class, focusing on the connection between the philosophy of language and NLP. For example, discussing how three recent NLP papers implicitly assumed a structuralist perspective on language would be a good topic.
 
 ### Organization 
 
@@ -70,8 +69,14 @@ We encourage you to sign up and participate in the discussions there.
       <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Language and Logic: Formal Representations of Meaning</b></td>
       <td>Meaning: Between Sense and Denotation</td>
       <td>
-        <a href="https://drive.google.com/file/d/1BU3dlFUepcXWFf1jNfjiJ0EObN0N6GaB/view?usp=sharing" target="_blank">Frege (1892)</a>, 
-        <a href="https://drive.google.com/file/d/1W6dRnFaiot2Y-PJ5x-tUV9-UYSVXeVga/view?usp=sharing" target="_blank">Russell (1905)</a> 
+        <a href="https://drive.google.com/file/d/1BU3dlFUepcXWFf1jNfjiJ0EObN0N6GaB/view?usp=sharing" target="_blank"><b>Frege (1892)</b></a>, 
+        <a href="https://drive.google.com/file/d/1IacrQkytVlx6VOChN2BeIBnB1uWCvJUh/view?usp=sharing" target="_blank">Frege (1892) in German</a>, 
+        <a href="https://drive.google.com/file/d/1W6dRnFaiot2Y-PJ5x-tUV9-UYSVXeVga/view?usp=sharing" target="_blank"><b>Russell (1905)</b></a>, 
+        <a href="https://drive.google.com/file/d/1Mx5ue6RsajlMual7L3OfSGECbxx0Qzwq/view?usp=sharing" target="_blank"><b>Ajdukiewicz (1936)</b></a>, 
+        <a href="https://drive.google.com/file/d/1CsT6qzW4QwYVl_8uKLqSWc4Yy1QA2OtG/view?usp=sharing" target="_blank">Carnap (1947)</a>, 
+        <a href="https://drive.google.com/file/d/1JvDkWoJd8gCb53klrOLtcM8WbfQ2xKfa/view?usp=sharing" target="_blank">Lambek (1958)</a>, 
+        <a href="https://drive.google.com/file/d/1bn8TNPz5a7gM9IjL9xPQtwnaiM04D1I7/view?usp=sharing" target="_blank">Davidson (1967)</a>, 
+        <a href="https://drive.google.com/file/d/13mSSy0YdUVmhPNvy2G0g0HAYGpnJQMKw/view?usp=sharing" target="_blank">Lewis (1970)</a> 
       </td>
     </tr>  
     <tr>
@@ -79,7 +84,7 @@ We encourage you to sign up and participate in the discussions there.
       <td>04.10.22</td>
       <td>Formal and Natural Language</td>
       <td>
-        <a href="https://drive.google.com/file/d/1jBMNJNtxXJTT3mWnG102YYJEX44C_vgW/view?usp=sharing" target="_blank">Montague (1970)</a> 
+        <a href="https://drive.google.com/file/d/1jBMNJNtxXJTT3mWnG102YYJEX44C_vgW/view?usp=sharing" target="_blank"><b>Montague (1970)</b></a> 
       </td>
     </tr>   
     <tr>
@@ -110,8 +115,10 @@ We encourage you to sign up and participate in the discussions there.
       <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Structuralism: The Search for the Right Units</b></td>
       <td>Structural Dualities</td>
       <td>
-        <a href="https://drive.google.com/file/d/1adLFTigLCJumeEi7D8gDzPprgP1eA_Uu/view?usp=sharing" target="_blank">Saussure (1916)</a>, 
-        <a href="https://drive.google.com/file/d/1nlOT3JAqTYRdN0z1yKVI2YcfTdx21Z28/view?usp=sharing" target="_blank">Hocket (1960)</a> 
+        <a href="https://drive.google.com/file/d/1adLFTigLCJumeEi7D8gDzPprgP1eA_Uu/view?usp=sharing" target="_blank"><b>Saussure (1916)</b></a>, 
+        <a href="https://drive.google.com/file/d/1Dp-AQVrZ5JBZNQW0sIqp-ANrnhldBpIr/view?usp=sharing" target="_blank">Saussure (1916) in French</a>, 
+        <a href="https://drive.google.com/file/d/1ymIuj8WsWFwr9rP-v3dFA-MC8TrrhVfg/view?usp=sharing" target="_blank">Harris (1951)</a>,
+        <a href="https://drive.google.com/file/d/1nlOT3JAqTYRdN0z1yKVI2YcfTdx21Z28/view?usp=sharing" target="_blank"><b>Hocket (1960)</b></a> 
       </td>
     </tr>    
     <tr>
@@ -120,7 +127,10 @@ We encourage you to sign up and participate in the discussions there.
       <td>Linguistic Units</td>
       <td>
         <a href="https://drive.google.com/file/d/1HGu3-ttI0TfJyOwW8e47BPqOrd7mir-0/view?usp=sharing" target="_blank">Hjelmslev (1943)</a>, 
-        <a href="https://drive.google.com/file/d/1__98RMeryoF9zrNdcThf98rIC7dk_g9t/view?usp=sharing" target="_blank">Greimas (1966)</a> 
+        <a href="https://drive.google.com/file/d/1fhWpIoLyEVKxKnXh04EYhgqTZ6vlp1yl/view?usp=sharing" target="_blank"><b>Harris (1954)</b></a>, 
+        <a href="https://drive.google.com/file/d/1Hwlv-KdYOgedGiK1JT5-gaUFxLTE_jJp/view?usp=sharing" target="_blank">Firth (1957)</a>, 
+        <a href="https://drive.google.com/file/d/1__98RMeryoF9zrNdcThf98rIC7dk_g9t/view?usp=sharing" target="_blank"><b>Greimas (1966)</b></a>,
+        <a href="https://drive.google.com/file/d/1Dp-AQVrZ5JBZNQW0sIqp-ANrnhldBpIr/view?usp=sharing" target="_blank">Greimas (1966) in French</a> 
       </td>
     </tr>    
     <tr>
@@ -152,8 +162,8 @@ We encourage you to sign up and participate in the discussions there.
       <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Recursive Structure: The Escherian Nature of Language</b></td>
       <td>Syntax and Computation</td>
       <td>
-        <a href="https://drive.google.com/file/d/1fp4e3d5aZRhjT0Vmc3MTNJmTVJaVatrV/view?usp=sharing" target="_blank">Chomsky (1953)</a>, 
-        <a href="https://drive.google.com/file/d/194dcoT3yT-lz6yH1aoN2k43ICIu1XVE7/view?usp=sharing" target="_blank">Chomsky (1955)</a> 
+        <a href="https://drive.google.com/file/d/1fp4e3d5aZRhjT0Vmc3MTNJmTVJaVatrV/view?usp=sharing" target="_blank"><b>Chomsky (1953)</b></a>, 
+        <a href="https://drive.google.com/file/d/194dcoT3yT-lz6yH1aoN2k43ICIu1XVE7/view?usp=sharing" target="_blank"><b>Chomsky (1955)</b></a> 
       </td>
     </tr>    
     <tr>
@@ -161,7 +171,7 @@ We encourage you to sign up and participate in the discussions there.
       <td>29.11.22</td>
       <td>Syntax and Cognition</td>
       <td>
-        <a href="https://drive.google.com/file/d/1bLC898DAJhYsBl6HsEJQOZBfWOp1y9QC/view?usp=sharing" target="_blank">Chomsky (1957)</a>, 
+        <a href="https://drive.google.com/file/d/1bLC898DAJhYsBl6HsEJQOZBfWOp1y9QC/view?usp=sharing" target="_blank"><b>Chomsky (1957)</b></a>, 
         <a href="https://drive.google.com/file/d/1FOjOv66b_RC1F_oCTR7IDUfbV3aOFfeu/view?usp=sharing" target="_blank">Chomsky (1956)</a>, 
         <a href="https://drive.google.com/file/d/1DOGtoO1dSWD59zEYQ6_RCCw7759sY_8M/view?usp=sharing" target="_blank">Chomsky (1959)</a> 
       </td>
