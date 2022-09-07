@@ -19,6 +19,7 @@ This graduate class, taught like a seminar, is designed to help you understand t
 
 #### Grading	
 The course will require a weekly reading of around 20 pages (with relatively high variance at times) and a weekly free-form responses to the reading, which is to be completed online. The mandatory readings for every week are bolded in the Syllabus below. The weekly tasks are short and not graded, but, in order to pass the class, at least 70% of the tasks must be completed. The final grade will be based, in equal parts, on one class presentation and two term papers (each around 5-10 pages) which are to be turned in throughout the semester (one week after the end of each module). Students must write term papers on the modules other than the one for which they have made a presentation. They will be expected to explore the relation of the topics discussed in class to work not presented in the class, focusing on the connection between the philosophy of language and NLP. For example, discussing how three recent NLP papers implicitly assumed a structuralist perspective on language would be a good topic.
+More detailed instructions about the paper and presentation requirements can be found in the [Paper grading rubric](https://drive.google.com/file/d/1kkrkGKBGxiI7Y4KmChZZQbwW70kbfrs7/view?usp=sharing) and the [Presentation grading rubric](https://drive.google.com/file/d/1G3dwv8bs8oTVtCiCXLqIJF2GmXFs2Ac3/view?usp=sharing).
 
 ### Organization 
 
@@ -36,6 +37,10 @@ To provide an easier way to communicate with the teaching team and your colleagu
 We use RocketChat and the server is hosted on ETH servers.
 It will be the main communication hub for the course! 
 We encourage you to sign up and participate in the discussions there.
+
+### Class Materials
+- [Paper grading rubric](https://drive.google.com/file/d/1kkrkGKBGxiI7Y4KmChZZQbwW70kbfrs7/view?usp=sharing)
+- [Presentation grading rubric](https://drive.google.com/file/d/1G3dwv8bs8oTVtCiCXLqIJF2GmXFs2Ac3/view?usp=sharing)
 
 ## News
 
