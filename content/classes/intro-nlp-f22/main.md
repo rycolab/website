@@ -22,7 +22,7 @@ The objective of the course is to learn the basic concepts in the statistical pr
 #### Grading
 Marks for the course will be determined by the following formula:  
 * **70%** Final Exam  
-* **30%** Assignment
+* **30%** Assignment or Class Project
 
 ## Organisation
 **Lectures:** **Mon 12-14** and **Tue 13-14** in **HG F5** and on Zoom.
@@ -277,21 +277,26 @@ We encourage you to sign up and participate in the discussions there. -->
 
 We will release exercises every week that cover lecture material. Exercises will be released the day of the relevant lecture and reviewed in the discussion section the following week (i.e., 9 days later). These exercises are intended to give you the opportunity to test your understanding of the course material. They are not for a grade, nor will the TAs be able to offer individual feedback on your solutions. If you have questions regarding the exercises, we recommend bringing them to the relevant **discussion section** as the TAs will walk through related problems. Solutions will be released in the following week.
 
-<!-- 
 ## Course Project/Assignment
 
-Every student has the option of completing *either* a research project or a structured assignment. This work will be worth 30% of your final mark. Both will be due on **January 15th, 2022.**
+Every student has the option of completing *either* a research project or a structured assignment. This work will be worth 30% of your final mark. Both will be due on **January 15th, 2023.**
 
 The **research project** is an open-ended project where students reimplement an existing research paper or perform novel research if they are so inclined. Projects can be completed in groups of up to 4. We will require you to write a 1-page project proposal where we will give you feedback on the idea (due **October 31st**). Submission can be done on the course Moodle page (one submission per team please). We will also require a progress report. Please send both the progress and final reports (including your recorded presentation) directly to your assigned TA. More details can be found in the [project guidelines](https://drive.google.com/file/d/125XGqBMwGHpFc6pS1JNhmbEXFpt_hGHC/view?usp=sharing). 
 
-In the **assignment**, some of the questions will be more theoretical and resemble the questions you will see on the final exam. However, there will also be a substantial coding portion, which would not look like the exam questions. For instance, we may ask you to implement a recurrent neural dependency parser. Assignments must be completed individually, although you may discuss the assignment with other students. If you choose to do so, you must specify with whom you collaborated in your submission (see template below). We will release the assignment in two waves, corresponding to when course material is covered. **Submission:** Upload a zip file (with a single pdf containing all written answers to both parts of the assignment and the colab notebook) to the assignment submission task on Moodle. For the writeup portion, we will only process a single pdf: if you include multiple pdfs in your submission, only one will be graded.   
--->
+In the **assignment**, some of the questions will be more theoretical and resemble the questions you will see on the final exam. 
+However, there will also be substantial coding portions, which would not look like the exam questions. 
+For instance, we may ask you to implement a recurrent neural dependency parser. Assignments must be completed individually, although you may discuss the assignment with other students. 
+If you choose to do so, you must specify with whom you collaborated in your submission (see template below). 
+We plan to release *6* assignments, each covering a specific topic from the course.
+The solutions have to be typeset.
+Further submission instructions will be provided in the assignment instructions themselves.
+<!-- **Submission:** Upload a zip file (with a single pdf containing all written answers to both parts of the assignment and the colab notebook) to the assignment submission task on Moodle. For the writeup portion, we will only process a single pdf: if you include multiple pdfs in your submission, only one will be graded.    -->
 
 ## Materials
 - [Course Notes](https://drive.google.com/file/d/1esgbEGgF2TYwr0wCE5Sb18YLJ3A9eDgp/view?usp=sharing)  
+- [Last Year's Project Guidelines](https://drive.google.com/file/d/125XGqBMwGHpFc6pS1JNhmbEXFpt_hGHC/view?usp=sharing) (subject to change)
 
-<!-- - [Project Guidelines](https://drive.google.com/file/d/125XGqBMwGHpFc6pS1JNhmbEXFpt_hGHC/view?usp=sharing) 
-- [Assignment Part 1](https://drive.google.com/file/d/1fnkBBeNn26ILyWj34a2gpZTUBGRMA8wu/view?usp=sharing)
+<!-- - [Assignment Part 1](https://drive.google.com/file/d/1fnkBBeNn26ILyWj34a2gpZTUBGRMA8wu/view?usp=sharing)
 - [Assignment Part 2](https://drive.google.com/file/d/19ZEn0NJmxxVJOiPV2cdfyJ-9YznCwK-r/view?usp=sharing)  
 - [Assignment Submission Template](https://www.overleaf.com/read/vdpvbjpwrrvb) 
 - [Spring 2021 Exam](https://drive.google.com/file/d/1ZH_59Vg69-Z4qBQ4FrqOHy0yvf4nMxiO/view?usp=sharing)
