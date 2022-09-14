@@ -120,8 +120,6 @@ The submission links are:
       <th scope="col" style='white-space:nowrap'>Slides&emsp;&emsp;</th>
       <th scope="col" style='white-space:nowrap'>Readings</th>
       <th scope="col" style='white-space:nowrap'>Supplementary Material</th>
-      <th scope="col" style='white-space:nowrap'>Exercises</th>
-      <th scope="col" style='white-space:nowrap'>Discussion Section</th>
     </tr>
   </thead>
   <tbody>
@@ -132,14 +130,10 @@ The submission links are:
       <td><a href="https://drive.google.com/file/d/10KPQWpaDhfUBosCyc-ngbWvOCmiCJPpg/view?usp=sharing" target="_blank">Lecture 1 (last year)</a></td>
       <td>Eisenstein Ch. 1</td>
       <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>27.09.22</td>
       <td>Introduction to Natural Language</td>
-      <td></td>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -173,8 +167,6 @@ The submission links are:
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <th rowspan=2 scope="row">3</th>
@@ -196,8 +188,6 @@ The submission links are:
       <td>Log-Linear Modeling---Meet the Softmax</td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <th rowspan=2 scope="row">4</th>
@@ -214,8 +204,6 @@ The submission links are:
     <tr>
       <td>18.10.22</td>
       <td>Sentiment Analysis with Multi-layer Perceptrons</td>
-      <td></td>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -241,8 +229,6 @@ The submission links are:
       <td>Language Modeling with <em>n</em>-grams and LSTMs</td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <th rowspan=2 scope="row">6</th>
@@ -263,8 +249,6 @@ The submission links are:
     <tr>
       <td>01.11.22</td>
       <td>Part-of-Speech Tagging with CRFs</td>
-      <td></td>
-      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -289,8 +273,6 @@ The submission links are:
       <td>Context-Free Parsing with CKY</td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <th rowspan=2 scope="row">8</th>
@@ -299,14 +281,10 @@ The submission links are:
       <td><a href="https://drive.google.com/file/d/1GdCIUqjju_2hqCPK_WfqBLpl9yx2COfe/view?usp=sharing" target="_blank">Lecture 8 (last year)</a></td>
       <td>Eisenstein Ch. 11</td>
       <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>15.11.22</td>
       <td>Dependency Parsing with the Matrix-Tree Theorem</td>
-      <td></td>
-      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -329,8 +307,6 @@ The submission links are:
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <th rowspan=2 scope="row">10</th>
@@ -348,8 +324,6 @@ The submission links are:
     <tr>
       <td>29.11.22</td>
       <td>Transliteration with WFSTs</td>
-      <td></td>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -374,8 +348,6 @@ The submission links are:
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <th rowspan=2 scope="row">12</th>
@@ -395,8 +367,6 @@ The submission links are:
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <th rowspan=2 scope="row">13</th>
@@ -409,14 +379,10 @@ The submission links are:
         <a href="https://arxiv.org/abs/1909.00871" target="_blank">Hall Maudslay et al. (2019)</a></br>
         <a href="https://arxiv.org/abs/2009.09435" target="_blank">Vargas and Cotterell (2020)</a></br>
         <a href="http://ciml.info/dl/v0_99/ciml-v0_99-ch08.pdf" target="_blank">A Course in Machine Learning Chapter 8</a></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>20.12.22</td>
       <td>Bias and Fairness in NLP</td>
-      <td></td>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>
