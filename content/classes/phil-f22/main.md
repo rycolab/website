@@ -17,9 +17,19 @@ weight = 20
 ## Course Description
 This graduate class, taught like a seminar, is designed to help you understand the philosophical underpinnings of modern work in natural language processing (NLP), most of which is centered around deep learning applied to natural language data. The course is a year-long journey, but the second half (Spring 2023) does not depend on the first (Fall 2022) and thus either half may be taken independently. In each semester, we divide the class time into three modules. Each module focuses on a philosophical topic. In the first semester we will discuss logic and language, structuralism, and recursive structure. And, in the second semester we will focus on language games, information theory, and pragmatics. The modules will be four weeks long. During the first two weeks of a module, we will read and discuss original texts and supplementary criticism. During the second two weeks, we will read recent NLP papers and discuss how the authors of those works are building on philosophical insights into our conception of language—perhaps implicitly or unwittingly. 
 
+The course will require a weekly reading of around 20 pages (with relatively high variance at times) and a weekly free-form responses to the reading, which is to be completed online. The mandatory readings for every week are bolded in the syllabus below. The weekly tasks are short and not graded, but, in order to pass the class, at least 70% of the tasks must be completed. The final grade will be based, in equal parts, on one class presentation and two term papers (each around 5-10 pages) which are to be turned in at the latest **one week before the start of the exam period**, that is, on **Sunday, January 15th**, at midnight. Students must write term papers on the modules other than the one for which they have made a presentation. They will be expected to explore the relation of the topics discussed in class to work not presented in the class, focusing on the connection between the philosophy of language and NLP. For example, discussing how three recent NLP papers implicitly assumed a structuralist perspective on language would be a good topic.
+
 #### Grading	
-The course will require a weekly reading of around 20 pages (with relatively high variance at times) and a weekly free-form responses to the reading, which is to be completed online. The mandatory readings for every week are bolded in the Syllabus below. The weekly tasks are short and not graded, but, in order to pass the class, at least 70% of the tasks must be completed. The final grade will be based, in equal parts, on one class presentation and two term papers (each around 5-10 pages) which are to be turned in throughout the semester (one week after the end of each module). Students must write term papers on the modules other than the one for which they have made a presentation. They will be expected to explore the relation of the topics discussed in class to work not presented in the class, focusing on the connection between the philosophy of language and NLP. For example, discussing how three recent NLP papers implicitly assumed a structuralist perspective on language would be a good topic.
-More detailed instructions about the paper and presentation requirements can be found in the [Paper grading rubric](https://drive.google.com/file/d/1kkrkGKBGxiI7Y4KmChZZQbwW70kbfrs7/view?usp=sharing) and the [Presentation grading rubric](https://drive.google.com/file/d/1G3dwv8bs8oTVtCiCXLqIJF2GmXFs2Ac3/view?usp=sharing).
+
+Marks for the course will be determined by the following formula:  
+
+- **50%** Class presentation
+- **50%** Two term papers
+
+More detailed instructions about the paper and presentation requirements can be found here:
+
+- [Paper grading rubric](https://drive.google.com/file/d/1kkrkGKBGxiI7Y4KmChZZQbwW70kbfrs7/view?usp=sharing)
+- [Presentation grading rubric](https://drive.google.com/file/d/1G3dwv8bs8oTVtCiCXLqIJF2GmXFs2Ac3/view?usp=sharing)
 
 ### Organization 
 
@@ -66,7 +76,14 @@ We encourage you to sign up and participate in the discussions there.
       <td>20.09.22</td>
       <td></td>
       <td>Introduction</td>
-      <td></td>
+      <td>
+        <a href="https://drive.google.com/file/d/1e5EXN7zvN6ZXSO2lWZLaafQxlDUQfceb/view?usp=sharing" target="_blank">Borges (1940a)</a>, 
+        <a href="https://drive.google.com/file/d/13044an4v0wCuLGpoYlWrP7SnY4Bwwnh6/view?usp=sharing" target="_blank">Borges (1940a) in Spanish</a>, 
+        <a href="https://drive.google.com/file/d/17itHpu77Yfh9YfnFO8iluQTq3a3KAx-l/view?usp=sharing" target="_blank">Borges (1940b)</a>, 
+        <a href="https://drive.google.com/file/d/1QMklZ446JhEAtXiWQXolOU0EjHKZYvda/view?usp=sharing" target="_blank">Borges (1940b) in Spanish</a>, 
+        <a href="https://drive.google.com/file/d/1nal8Fka9ZmtHno9gdHrlhP5D3SwrlmVW/view?usp=sharing" target="_blank">Borges (1942)</a> 
+        <a href="https://drive.google.com/file/d/1GyY5XqhM6TkEUowEmFnmDmXsa1g54oTU/view?usp=sharing" target="_blank">Borges (1942) in Spanish</a> 
+      </td>
     </tr>    
     <tr>
       <th scope="row">2</th>
@@ -76,12 +93,7 @@ We encourage you to sign up and participate in the discussions there.
       <td>
         <a href="https://drive.google.com/file/d/1BU3dlFUepcXWFf1jNfjiJ0EObN0N6GaB/view?usp=sharing" target="_blank"><b>Frege (1892)</b></a>, 
         <a href="https://drive.google.com/file/d/1IacrQkytVlx6VOChN2BeIBnB1uWCvJUh/view?usp=sharing" target="_blank">Frege (1892) in German</a>, 
-        <a href="https://drive.google.com/file/d/1W6dRnFaiot2Y-PJ5x-tUV9-UYSVXeVga/view?usp=sharing" target="_blank"><b>Russell (1905)</b></a>, 
-        <a href="https://drive.google.com/file/d/1Mx5ue6RsajlMual7L3OfSGECbxx0Qzwq/view?usp=sharing" target="_blank"><b>Ajdukiewicz (1936)</b></a>, 
-        <a href="https://drive.google.com/file/d/1CsT6qzW4QwYVl_8uKLqSWc4Yy1QA2OtG/view?usp=sharing" target="_blank">Carnap (1947)</a>, 
-        <a href="https://drive.google.com/file/d/1JvDkWoJd8gCb53klrOLtcM8WbfQ2xKfa/view?usp=sharing" target="_blank">Lambek (1958)</a>, 
-        <a href="https://drive.google.com/file/d/1bn8TNPz5a7gM9IjL9xPQtwnaiM04D1I7/view?usp=sharing" target="_blank">Davidson (1967)</a>, 
-        <a href="https://drive.google.com/file/d/13mSSy0YdUVmhPNvy2G0g0HAYGpnJQMKw/view?usp=sharing" target="_blank">Lewis (1970)</a> 
+        <a href="https://drive.google.com/file/d/1W6dRnFaiot2Y-PJ5x-tUV9-UYSVXeVga/view?usp=sharing" target="_blank"><b>Russell (1905)</b></a>
       </td>
     </tr>  
     <tr>
@@ -89,6 +101,11 @@ We encourage you to sign up and participate in the discussions there.
       <td>04.10.22</td>
       <td>Formal and Natural Language</td>
       <td>
+        <a href="https://drive.google.com/file/d/1Mx5ue6RsajlMual7L3OfSGECbxx0Qzwq/view?usp=sharing" target="_blank"><b>Ajdukiewicz (1936)</b></a>, 
+        <a href="https://drive.google.com/file/d/1CsT6qzW4QwYVl_8uKLqSWc4Yy1QA2OtG/view?usp=sharing" target="_blank">Carnap (1947)</a>, 
+        <a href="https://drive.google.com/file/d/1JvDkWoJd8gCb53klrOLtcM8WbfQ2xKfa/view?usp=sharing" target="_blank">Lambek (1958)</a>, 
+        <a href="https://drive.google.com/file/d/1bn8TNPz5a7gM9IjL9xPQtwnaiM04D1I7/view?usp=sharing" target="_blank">Davidson (1967)</a>, 
+        <a href="https://drive.google.com/file/d/13mSSy0YdUVmhPNvy2G0g0HAYGpnJQMKw/view?usp=sharing" target="_blank">Lewis (1970)</a>,
         <a href="https://drive.google.com/file/d/1jBMNJNtxXJTT3mWnG102YYJEX44C_vgW/view?usp=sharing" target="_blank"><b>Montague (1970)</b></a> 
       </td>
     </tr>   
