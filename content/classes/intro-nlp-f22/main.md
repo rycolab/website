@@ -2,7 +2,7 @@
 +++
 title = 'Natural Language Processing'
 subtitle = 'ETH Zürich, Fall 2022: [Course catalog](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=163664&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en)'
-summary = 'This course presents topics in natural language processing with an emphasis on modern techniques, primarily focusing on statistical and deep learning approaches. The course provides an overview of the primary areas of research in language processing as well as a detailed exploration of the models and techniques used both in research and in commercial natural language systems.'
+summary = 'The course constitutes an introduction to modern techniques in the field of natural language processing (NLP). Our primary focus is on the algorithmic aspects of structured NLP models. The course is self-contained and designed to complement other machine learning courses at ETH Zürich, e.g., Deep Learning and Advanced Machine Learning. The course also has a strong focus on algebraic methods, e.g., semiring theory. In addition to machine learning, we also cover the linguistic background necessary for reading the NLP literature.'
 
 active = true  # Activate this widget? true/false
 weight = 20
@@ -15,44 +15,96 @@ weight = 20
 
 +++
 ## Course Description
-This course presents topics in natural language processing with an emphasis on modern techniques, primarily focusing on statistical and deep learning approaches. The course provides an overview of the primary areas of research in language processing as well as a detailed exploration of the models and techniques used both in research and in commercial natural language processing systems.
-
-The objective of the course is to learn the basic concepts in the statistical processing of natural languages. The course will be project-oriented so that the students can also gain hands-on experience with state-of-the-art tools and techniques.
-
-#### Grading
-Marks for the course will be determined by the following formula:  
-* **70%** Final Exam  
-* **30%** Assignment or Class Project
-
-## Organisation
-**Lectures:** **Mon 12-14** and **Tue 13-14** in **HG F5** and on Zoom.
-Recordings can be found in the password-protected course Polybox.
-The passwords for the Zoom meeting and the Polybox folder can be found on the Moodle home page for the course.
-
-**Discussion Sections:** 
-**Wed 16-19** **HG F7** and on Zoom (same link as lecture).
-All sections will be recorded. 
-Schedule to be posted at the beginning of the semester, but the general plan is to have a 1 week delay between the content of the discussion sections and the lectures.
-
-
-<!-- 
-**Course Live Chat:** 
-To provide an easier way to communicate with the teaching team and your colleagues, we have set up a [course chat server](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2F42TBCY). 
-We use RocketChat and the server is hosted on ETH servers.
-It will be the main communication hub for the course! 
-We encourage you to sign up and participate in the discussions there. -->
-
-### Literature:
-
-- [Introduction to Natural Language Processing (Eisenstein)](https://www.amazon.de/Jacob-Eisenstein/dp/0262042843/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=30OMHV1C018JY&dchild=1&keywords=introduction+to+natural+language+processing&qid=1598878964&sprefix=introduction+to+na%2Caps%2C148&sr=8-1)  
-- [Deep Learning (Goodfellow, Bengio and Courville)](https://www.deeplearningbook.org/)  
-- [NLP Course Notes](https://drive.google.com/file/d/1esgbEGgF2TYwr0wCE5Sb18YLJ3A9eDgp/view?usp=sharing)
-- [AFLT Course Notes](https://rycolab.io/classes/aflt-s22/)
-
+The course constitutes an introduction to modern techniques in the field of natural language processing (NLP). Our primary focus is on the algorithmic aspects of structured NLP models. The course is self-contained and designed to complement other machine learning courses at ETH Zürich, e.g., [Deep Learning (263-3210-00L)](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162634&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en) and [Advanced Machine Learning (252-0535-00L)](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2022W&ansicht=ALLE&lerneinheitId=162317&lang=en). At some points in the course, familiarity with advanced algorithms, e.g., the contents of [Algorithms Lab (263-0006-00L)](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162371&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en), and mathematical statistics, e.g., the contents of [Fundamentals of Mathematical Statistics (401-3621-00L)](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162678&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en), will be useful. However, the necessary background knowledge can certainly be picked up in the context of the course, i.e., neither of the above-listed courses is a hard prerequisite. The course also has a strong focus on algebraic methods, e.g., semiring theory. In addition to machine learning, we also cover the linguistic background necessary for reading the NLP literature.
 
 ## News
 
-**18.09** &emsp; Class website is online!  
+**14. 9. 2022** &emsp; Class website is online!  
+
+## Organisation
+
+### On the Use of Class Time
+There are two lecture slots for NLP. The first slot is on Monday from 12h to 14h. During this time, the main lecture will be given. The second slot is on Tuesday from 13h to 14h and will be used as a spill-over time if we did not get through all of the lecture material on Monday (this ensures that the class stays on track) and, time-permitting, the professor will work examples and hold an open-ended ask-me-anything-about-NLP session.
+
+Both lectures will be given in the lecture hall HG F5 and live broadcast on Zoom; the password is available on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=18471) or in the live chat.
+
+**Important**: The ETH semester starts on Tuesday, September 20th, but the first lecture will take place on Monday, September 26th.
+
+<!-- Schedule to be posted at the beginning of the semester, but the general plan is to have a 1 week delay between the content of the discussion sections and the lectures. -->
+
+### Live Chat
+In addition to class time, there will also be a RocketChat-based live chat hosted on ETH’s servers. Students are free to ask questions of the teaching staff and teach others in public or private (direct message). There are specific channels for each of the 6 assignments as well for reporting errata in the course notes. All data from the chat will be deleted from ETH servers at the course’s conclusion. The chat supports LaTeX for easier discussion of technical material.
+
+**Important**: You are responsible for receiving all messages broadcast in the Rocketchat.
+
+**Link** to the main channel: https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2Fqqg5FK
+
+To make the moderation of the chat more easily manageable, we have created a number of other channels on RocketChat.
+The full list is:
+
+- [NLP General Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2Fqqg5FK)
+- [NLP Errata](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FrK63Wa)
+- [Assignment 1](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2F7S99rC)
+- [Assignment 2](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FhxeHg4)
+- [Assignment 3](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2F5nMtTW)
+- [Assignment 4](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FyTyGbc)
+- [Assignment 5](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FssCnrB)
+- [Assignment 6](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FRPu28t)
+
+If you feel like you would benefit from any other channel, feel free to suggest it to the teaching team!
+
+### Course Notes
+We are currently working on turning out class content into a book! The current draft of the book, i.e., the course notes, can be found [here](https://drive.google.com/file/d/1esgbEGgF2TYwr0wCE5Sb18YLJ3A9eDgp/view?usp=sharing). Please report all errata to the teaching staff; we created an [errata channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FrK63Wa) in RocketChat.
+
+
+Other useful literature:
+
+- [Introduction to Natural Language Processing (Eisenstein)](https://www.amazon.de/Jacob-Eisenstein/dp/0262042843/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=30OMHV1C018JY&dchild=1&keywords=introduction+to+natural+language+processing&qid=1598878964&sprefix=introduction+to+na%2Caps%2C148&sr=8-1)  
+- [Deep Learning (Goodfellow, Bengio and Courville)](https://www.deeplearningbook.org/)  
+- [AFLT Course Notes](https://rycolab.io/classes/aflt-s22/)
+
+## Grading
+
+Marks for the course will be determined by the following formula:  
+* **70%** Final Exam  
+* **30%** Assignment or Class Project
+ 
+### On the Final Exam
+The final exam is comprehensive and should be assumed to cover all the materials in the slides and class notes. About 50% of exam questions will be very similar (or even identical) to the theory portion of the class assignments. Thus, it behooves you to at least look at all the assignment questions while preparing for the final exam even if you do not turn them all in for a grade.
+
+### On the Class Assignments 
+
+There will be **6** assignments which will be released roughly every two weeks. We impose three firm deadlines for handing in your solutions:
+
+- Assignment 1 and 2: **November 15th**
+- Assignment 3 and 4: **December 15th**
+- Assignment 5 and 6: **January 15th**
+
+Only your highest-scoring 4 assignments will count towards your grade; each will be weighted equally. So, in principle, you may opt to not turn in 2 out of the 6 assignments without any effect on your grade. Note: Even though we plan to grade your submissions within one month, we advise you not to wait for your grades to be returned before you decide to tackle the next assignments. In essence, do not base your submission strategy on our grading estimates!
+
+The class assignments were crafted to dovetail nicely with the lecture contents and, moreover, to complement the lectures through a more hands-on approach to the material. Each assignment has a theory portion, which will generally involve derivations or proofs related to the material, and a coding portion where you will implement a working model for one of the NLP tasks discussed in the lecture. The theory and the coding halves of the assignments will be weighed equally.
+
+Assignment submission will be done on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=18471). 
+The submission links are:
+
+- [Assignment 1](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=792710)
+- [Assignment 2](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=792716)
+- [Assignment 3](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=792717)
+- [Assignment 4](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=792718)
+- [Assignment 5](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=792719)
+- [Assignment 6](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=792720)
+
+### On the Class Project
+It is highly recommended that you do the class assignments. However, a student (in groups of up to 4 people) may choose to do a course project in lieu of the class assignments. This option is only recommended for academically oriented students who are interested in using this course to get into NLP research. If you choose to do a class project, you must submit a project proposal by October 31, 2022, on Moodle. The proposal is ungraded and will be inspected by the teaching assistants to ensure that the project is doable and you will pass the course should you execute the project as proposed. The write-up and code for the final project are due January 15, 2023; it is to be submitted through Moodle.
+General guidelines for the class project are given here. 
+
+Project work submission will be done on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=18471). 
+The submission links are:
+
+- [Project proposal](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=792721)
+- [Project report](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=792722)
+
+
 
 
 ## Syllabus
@@ -74,8 +126,8 @@ We encourage you to sign up and participate in the discussions there. -->
   </thead>
   <tbody>
     <tr>
-      <th scope="row">1</th>
-      <td>27.09.21</td>
+      <th rowspan=2 scope="row">1</th>
+      <td>26.09.22</td>
       <td>Introduction to Natural Language</td>
       <td><a href="https://drive.google.com/file/d/10KPQWpaDhfUBosCyc-ngbWvOCmiCJPpg/view?usp=sharing" target="_blank">Lecture 1 (last year)</a></td>
       <td>Eisenstein Ch. 1</td>
@@ -84,8 +136,17 @@ We encourage you to sign up and participate in the discussions there. -->
       <td></td>
     </tr>
     <tr>
-      <th scope="row">2</th>
-      <td>4.10.21</td>
+      <td>27.09.22</td>
+      <td>Introduction to Natural Language</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan=2 scope="row">2</th>
+      <td>03.10.22</td>
       <td>Backpropagation</td>
       <td><a href="https://drive.google.com/file/d/125ASMverltb8UUV7w9oVGhbCPhk49Zq_/view?usp=sharing" target="_blank">Lecture 2 (last year)</a></td>
       <td>Goodfellow, Bengio and Courville Ch. 6.5</td>
@@ -107,8 +168,17 @@ We encourage you to sign up and participate in the discussions there. -->
         <td></td>
     </tr>
     <tr>
-      <th scope="row">3</th>
-      <td>11.10.21</td>
+      <td>04.10.22</td>
+      <td>Backpropagation</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan=2 scope="row">3</th>
+      <td>10.10.22</td>
       <td>Log-Linear Modeling---Meet the Softmax</td>
       <td><a href="https://drive.google.com/file/d/1-zDjQ36vWuNpYMd-S_xIi3YSncLaVImp/view?usp=sharing" target="_blank">Lecture 3 (last year)</a></td>
       <td>Eisenstein Ch. 2</td>
@@ -122,26 +192,37 @@ We encourage you to sign up and participate in the discussions there. -->
         <td></td>
     </tr>
     <tr>
-      <th scope="row">4</th>
-      <td>18.10.21</td>
+      <td>11.10.22</td>
+      <td>Log-Linear Modeling---Meet the Softmax</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan=2 scope="row">4</th>
+      <td>17.10.22</td>
       <td>Sentiment Analysis with Multi-layer Perceptrons</td>
       <td><a href="https://drive.google.com/file/d/1YcmNtg6UcqESmX43Fe9okNOiTScf8Vyj/view?usp=sharing" target="_blank">Lecture 4 (last year)</a></td>
       <td>Eisenstein Ch. 3 and Ch. 4</br>Goodfellow, Bengio and Courville Ch. 6</td>
-      <td><a href="https://en.wikipedia.org/wiki/Universal_approximation_theorem" target="_blank">Wikipedia</a></br>
-        <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.441.7873&rep=rep1&type=pdf" target="_blank">Cybenko (1989)</a></br>
-        <a href="https://arxiv.org/pdf/1710.11278.pdf" target="_blank">Hanin and Selke (2018)</a></br>
-        <a href="https://www.cs.cornell.edu/home/llee/omsa/omsa.pdf" target="_blank">Pang and Lee (2008)</a></br>
-        <a href="https://www.aclweb.org/anthology/P15-1162/" target="_blank">Iyyer et al. (2015)</a></br>
-      <a href="https://arxiv.org/pdf/1411.2738.pdf" target="_blank">word2vec Parameter Learning Explained</a></br>
-    <a href="https://arxiv.org/pdf/1402.3722.pdf" target="_blank">word2vec Explained</a></br></td>
+      <td></td>
     <td>
     <!-- <a href="https://drive.google.com/file/d/1-gAvUCK2Sqee4THo_4LwUCICfwtZgX-r/view?usp=sharing" target="_blank">Exercises</a></br><a href="https://drive.google.com/file/d/1pHL9KlaJehuKwKRtr6FWsxAmegS3hnIx/view?usp=sharing" target="_blank">(<em>Solutions</em>)</a></br><a href="https://colab.research.google.com/drive/1gngt93hfpf4CAhJr5Kk9xH4evtLfwdcb?usp=sharing" target="_blank">Coding Exercises</a></br><a href="https://colab.research.google.com/drive/1WUy4G2SsoLelrZDkO2I0v9tHx9x27NJK?usp=sharing" target="_blank">(<em>Coding Solutions</em>)</a> -->
     </td>
     <td></td>
     </tr>
     <tr>
-      <th scope="row">5</th>
-      <td>25.10.21</td>
+      <td>18.10.22</td>
+      <td>Sentiment Analysis with Multi-layer Perceptrons</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan=2 scope="row">5</th>
+      <td>24.10.22</td>
       <td>Language Modeling with <em>n</em>-grams and LSTMs</td>
       <td><a href="https://drive.google.com/file/d/1XX72vGgUX2-50tKu4K13AdGOSV6cDEv0/view?usp=sharing">Lecture 5 (last year)</a></td>
       <td>Eisenstein Ch. 6</br>Goodfellow, Bengio and Courville Ch. 10</td>
@@ -156,8 +237,16 @@ We encourage you to sign up and participate in the discussions there. -->
         <td></td>
     </tr>
     <tr>
-      <th scope="row">6</th>
-      <td>01.11.21</td>
+      <td>25.10.22</td>
+      <td>Language Modeling with <em>n</em>-grams and LSTMs</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan=2 scope="row">6</th>
+      <td>31.10.22</td>
       <td>Part-of-Speech Tagging with CRFs</td>
       <td><a href="https://drive.google.com/file/d/1RleLx-bnQzByyVVKH5enaipNBEqnADcM/view?usp=sharing" target="_blank">Lecture 6 (last year)</a></td>
       <td>Eisenstein Ch. 7 and 8</td>
@@ -172,8 +261,16 @@ We encourage you to sign up and participate in the discussions there. -->
         <td></td>
     </tr>
     <tr>
-      <th scope="row">7</th>
-      <td>08.11.21</td>
+      <td>01.11.22</td>
+      <td>Part-of-Speech Tagging with CRFs</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan=2 scope="row">7</th>
+      <td>07.11.22</td>
       <td>Context-Free Parsing with CKY</td>
       <td><a href="https://drive.google.com/file/d/1w-yfftBJPzNDAK8zdaX9aRa2n6ZdmYvP/view?usp=sharing">Lecture 7 (last year)</a></td>
       <td>Eisenstein Ch. 10</td>
@@ -188,23 +285,34 @@ We encourage you to sign up and participate in the discussions there. -->
         <td></td>
     </tr>
     <tr>
-      <th scope="row">8</th>
-      <td>15.11.21</td>
+      <td>08.11.22</td>
+      <td>Context-Free Parsing with CKY</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan=2 scope="row">8</th>
+      <td>14.11.22</td>
       <td>Dependency Parsing with the Matrix-Tree Theorem</td>
       <td><a href="https://drive.google.com/file/d/1GdCIUqjju_2hqCPK_WfqBLpl9yx2COfe/view?usp=sharing" target="_blank">Lecture 8 (last year)</a></td>
       <td>Eisenstein Ch. 11</td>
-      <td><a href="https://www.aclweb.org/anthology/D07-1015/" target="_blank">Koo et al. (2007)</a></br>
-        <a href="https://www.aclweb.org/anthology/D07-1014/" target="_blank">Smith and Smith (2007)</a></br>
-        <a href="https://www.aclweb.org/anthology/W07-2216/" target="_blank">McDonald and Satta (2007)</a></br>
-        <a href="https://www.morganclaypool.com/doi/abs/10.2200/S00169ED1V01Y200901HLT002" target="_blank">McDonald, Kübler and Nivre (2009)</a></td>
-        <td>
-        <!-- <a href="https://drive.google.com/file/d/1-AKW_NzSMXXUVgBD1FBN2xOOTUGkpxq5/view?usp=sharing">Exercises</a></br><a href="https://drive.google.com/file/d/1jd3FNdPrDkLQ7TB75svham8WDPqNmpxo/view?usp=sharing" target="_blank">(<em>Solutions</em>)</a> -->
-        </td>
-        <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <th scope="row">9</th>
-      <td>22.11.21</td>
+      <td>15.11.22</td>
+      <td>Dependency Parsing with the Matrix-Tree Theorem</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan=2 scope="row">9</th>
+      <td>21.11.22</td>
       <td>Semantic Parsing with CCGs</td>
       <td><a href="https://drive.google.com/file/d/1e7RVwqWpvP7wBmYEtWFM0DWe7brwoETu/view?usp=sharing" target="_blank">Lecture 9 (last year)</a></td>
       <td>Eisenstein Ch. 9.3 and 12</td>
@@ -215,10 +323,18 @@ We encourage you to sign up and participate in the discussions there. -->
       <!-- <a href="https://drive.google.com/file/d/1oRojvYSeG80Ght-YtYDoY5TIgZOPhBhv/view?usp=sharing">Exercises</a></br><a href="https://drive.google.com/file/d/1mK98TyTLHJD-SJJBkUMUH2_2dLcF1QkA/view?usp=sharing" target="_blank">(<em>Solutions</em>)</a> -->
       </td>
       <td></td>
+    <tr>
+      <td>22.11.22</td>
+      <td>Semantic Parsing with CCGs</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <th scope="row">10</th>
-      <td>29.11.21</td>
+      <th rowspan=2 scope="row">10</th>
+      <td>28.11.22</td>
       <td>Transliteration with WFSTs</td>
       <td><a href="https://drive.google.com/file/d/1SBZGZnkRbWrQaBYicocCpG15EcFSHxme/view?usp=sharing" target="_blank">Lecture 10 (last year)</a></td>
       <td>Eisenstein Ch. 9</td>
@@ -230,8 +346,17 @@ We encourage you to sign up and participate in the discussions there. -->
       <td></td>
     </tr>
     <tr>
-      <th scope="row">11</th>
-      <td>5.12.21</td>
+      <td>29.11.22</td>
+      <td>Transliteration with WFSTs</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan=2 scope="row">11</th>
+      <td>4.12.22</td>
       <td>Machine Translation with Transformers</td>
       <td><a href="https://drive.google.com/file/d/1clflxhvjOn2liT5aRSbCAXyp73J6c2X3/view?usp=sharing" target="_blank">Lecture 11 (last year)</a></td>
       <td>Eisenstein Ch. 18</td>
@@ -244,8 +369,17 @@ We encourage you to sign up and participate in the discussions there. -->
       <td></td>
     </tr>
     <tr>
-      <th scope="row">12</th>
-      <td>13.12.21</td>
+      <td>5.12.22</td>
+      <td>Machine Translation with Transformers</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan=2 scope="row">12</th>
+      <td>12.12.22</td>
       <td>Axes of Modeling</td>
       <td><a href="https://drive.google.com/file/d/1rS8ntv8N0phphXeSCY6ly4X965twXxbE/view?usp=sharing">Lecture 12 (last year)</a></td>
       <td>Review: Eisenstein Ch. 2</br>Goodfellow, Bengio and Courville Ch. 5 and 11</td>
@@ -256,8 +390,17 @@ We encourage you to sign up and participate in the discussions there. -->
       <td></td>
     </tr>
     <tr>
-      <th scope="row">13</th>
-      <td>20.12.21</td>
+      <td>13.12.22</td>
+      <td>Axes of Modeling</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan=2 scope="row">13</th>
+      <td>19.12.22</td>
       <td>Bias and Fairness in NLP</td>
       <td><a href="https://drive.google.com/file/d/1AOUrM7LyXfRg-ygPsy2_4jjwuj2lyiR4/view?usp=sharing" target="_blank">Lecture 13 (last year)</a></td>
       <td></td>
@@ -269,64 +412,15 @@ We encourage you to sign up and participate in the discussions there. -->
       <td></td>
       <td></td>
     </tr>
+    <tr>
+      <td>20.12.22</td>
+      <td>Bias and Fairness in NLP</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
     
   </tbody>
 </table>
-
-## Weekly Exercises
-
-We will release exercises every week that cover lecture material. Exercises will be released the day of the relevant lecture and reviewed in the discussion section the following week (i.e., 9 days later). These exercises are intended to give you the opportunity to test your understanding of the course material. They are not for a grade, nor will the TAs be able to offer individual feedback on your solutions. If you have questions regarding the exercises, we recommend bringing them to the relevant **discussion section** as the TAs will walk through related problems. Solutions will be released in the following week.
-
-## Course Project/Assignment
-
-Every student has the option of completing *either* a research project or a structured assignment. This work will be worth 30% of your final mark. Both will be due on **January 15th, 2023.**
-
-The **research project** is an open-ended project where students reimplement an existing research paper or perform novel research if they are so inclined. Projects can be completed in groups of up to 4. We will require you to write a 1-page project proposal where we will give you feedback on the idea (due **October 31st**). Submission can be done on the course Moodle page (one submission per team please). We will also require a progress report. Please send both the progress and final reports (including your recorded presentation) directly to your assigned TA. More details can be found in the [project guidelines](https://drive.google.com/file/d/125XGqBMwGHpFc6pS1JNhmbEXFpt_hGHC/view?usp=sharing). 
-
-In the **assignment**, some of the questions will be more theoretical and resemble the questions you will see on the final exam. 
-However, there will also be substantial coding portions, which would not look like the exam questions. 
-For instance, we may ask you to implement a recurrent neural dependency parser. Assignments must be completed individually, although you may discuss the assignment with other students. 
-If you choose to do so, you must specify with whom you collaborated in your submission (see template below). 
-We plan to release *6* assignments, each covering a specific topic from the course.
-The solutions have to be typeset.
-Further submission instructions will be provided in the assignment instructions themselves.
-<!-- **Submission:** Upload a zip file (with a single pdf containing all written answers to both parts of the assignment and the colab notebook) to the assignment submission task on Moodle. For the writeup portion, we will only process a single pdf: if you include multiple pdfs in your submission, only one will be graded.    -->
-
-## Materials
-- [Course Notes](https://drive.google.com/file/d/1esgbEGgF2TYwr0wCE5Sb18YLJ3A9eDgp/view?usp=sharing)  
-- [Last Year's Project Guidelines](https://drive.google.com/file/d/125XGqBMwGHpFc6pS1JNhmbEXFpt_hGHC/view?usp=sharing) (subject to change)
-
-<!-- - [Assignment Part 1](https://drive.google.com/file/d/1fnkBBeNn26ILyWj34a2gpZTUBGRMA8wu/view?usp=sharing)
-- [Assignment Part 2](https://drive.google.com/file/d/19ZEn0NJmxxVJOiPV2cdfyJ-9YznCwK-r/view?usp=sharing)  
-- [Assignment Submission Template](https://www.overleaf.com/read/vdpvbjpwrrvb) 
-- [Spring 2021 Exam](https://drive.google.com/file/d/1ZH_59Vg69-Z4qBQ4FrqOHy0yvf4nMxiO/view?usp=sharing)
-- [Spring 2021 Exam Solutions](https://drive.google.com/file/d/1VOkgodGoRn_j1IDEhUP0W1iS__5LgIfc/view?usp=sharing)
-- [Fall 2021 Practice Exam](https://drive.google.com/file/d/1JBIgAL5VXXY2Lo8UZQtRx6NYLzExH1Mt/view?usp=sharing) 
-- [Fall 2021 Practice Exam Solutions](https://drive.google.com/file/d/1S_-keHXTNQBDFw3-KHxrJ-EVnmVGbSJQ/view?usp=sharing) 
--->
-
-
-<!-- - [Exam Topics](https://docs.google.com/document/d/1EsJpCvdeS1KboidK87LS658wYyaUed3cZIqstWIa-fY/edit?usp=sharing)
-- [Practice Exam](https://drive.google.com/file/d/1Fs0CYuLG-sBLZJwthChU8wqYyzBBOoPi/view?usp=sharing)
-- [Practice Exam Solutions](https://drive.google.com/file/d/1sv4GoNrAtRzlV5Ddk9JqBxe2IgTX_ttv/view?usp=sharing)
- -->
-
-
-## Contact
-You can ask questions on Moodle through the Moodle Overflow forum. Please post questions there, so others can see them and share in the discussion. If you have questions which are not of general interest, please don't hesitate to contact us directly, i.e., post a private note on Moodle or email Ryan with Clara cc-ed.
-
-<!-- <table class="table">
-  <tbody>
-    <tr>
-      <td>Lecturer</td>
-      <td><a href="mailto:ryan.cotterell@inf.ethz.ch">Ryan Cotterell</a></td>
-    </tr>
-    <tr>
-      <td>Teaching Assistants</td>
-      <td><a href="mailto:meistecl@inf.ethz.ch">Clara Meister</a>, <a href="mailto:niklas.stoehr@inf.ethz.ch">Niklas Stoehr</a>, <a href="mailto:selena.pepic@inf.ethz.ch">Selena Pepic</a>, <a href="mailto:mkuznetsova@inf.ethz.ch">Rita Kuznetsova</a>, <a href="mailto:asvete@student.ethz.ch">Anej Svete</a>, <a href="mailto:abutoi@student.ethz.ch">Alexandra Butoi</a>, <a href="mailto:anrael@ethz.ch">Anton Rael</a>, <a href="mailto:dwissel@student.ethz.ch">David Wissel</a>, <a href="mailto:rajai.nasser@inf.ethz.ch">Rajai Nasser</a>, <a href="mailto:aamini@student.ethz.ch">Afra Amini</a>, <a href="mailto:alberto.pennino@inf.ethz.ch">Alberto Pennino</a>, <a href="mailto:alexander.immer@inf.ethz.ch
-">Alexander Immer</a></td>
-    </tr>
-
-    
-  </tbody>
-</table> -->

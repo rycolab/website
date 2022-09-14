@@ -38,6 +38,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Teaching Assistants
+- Teaching Assistants NLP F22
 ---
 
 Luca is a second-year CS MSc. student. He received his BSc in CSEng from PoliMi, Italy.
