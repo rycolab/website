@@ -26,7 +26,7 @@ The course constitutes an introduction to modern techniques in the field of natu
 ### On the Use of Class Time
 There are two lecture slots for NLP. The first slot is on Monday from 12h to 14h. During this time, the main lecture will be given. The second slot is on Tuesday from 13h to 14h and will be used as a spill-over time if we did not get through all of the lecture material on Monday (this ensures that the class stays on track) and, time-permitting, the professor will work examples and hold an open-ended ask-me-anything-about-NLP session.
 
-Both lectures will be given in the lecture hall HG F5 and live broadcast on Zoom; the password is available on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=18471) or in the live chat.
+Both lectures will be given in the lecture hall HG F5 and live broadcast on [Zoom](https://ethz.zoom.us/j/62312028967); the password is available on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=18471) or in the live chat.
 
 **Important**: The ETH semester starts on Tuesday, September 20th, but the first lecture will take place on Monday, September 26th.
 
@@ -84,7 +84,7 @@ Only your highest-scoring 4 assignments will count towards your grade; each will
 
 The class assignments were crafted to dovetail nicely with the lecture contents and, moreover, to complement the lectures through a more hands-on approach to the material. Each assignment has a theory portion, which will generally involve derivations or proofs related to the material, and a coding portion where you will implement a working model for one of the NLP tasks discussed in the lecture. The theory and the coding halves of the assignments will be weighed equally.
 
-Assignment submission will be done on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=18471). 
+The assignments will be published on the [public github repository](https://github.com/rycolab/intro-nlp-f22). You should fork the repository and pull the incoming changes whenever they are released. The detailed instructions for the submission will be given in each assignment separately, but the submissions will always be through the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=18471). 
 The submission links are:  
 
 - [Assignment 1](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=792710)  
@@ -93,6 +93,15 @@ The submission links are:
 - [Assignment 4](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=792718)  
 - [Assignment 5](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=792719)  
 - [Assignment 6](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=792720)  
+
+### On the Discussion Sections
+Discussion sections (tutorials) will take place Wednesdays 16:15-19:00 in HG F7 and on Zoom ([same link](https://ethz.zoom.us/j/62312028967) as the lectures).
+Their main purpose will be to help you with the assignment problems.
+We plan to devote 2 discussion sessions (two weeks) to each of the assignments.
+In them, TAs will introduce the problems, solve related exercises, and answer your questions about them.
+We therefore strongly encourage you to look at the problems in due time and come to the discussions sessions with your questions.
+We want the sessions to be useful for you!
+
 
 ### On the Class Project
 It is highly recommended that you do the class assignments. However, a student (in groups of up to 4 people) may choose to do a course project in lieu of the class assignments. This option is only recommended for academically oriented students who are interested in using this course to get into NLP research. If you choose to do a class project, you <ins>***must***</ins> submit a project proposal by October 31, 2022, on Moodle. The proposal is <ins>***ungraded***</ins> and will be inspected by the teaching assistants to ensure that the project is doable and you will pass the course should you execute the project as proposed. The write-up and code for the final project are due January 15, 2023; it is to be submitted through Moodle.
