@@ -47,6 +47,7 @@ email: ""
 user_groups:
 - Members
 - Teaching Assistants AFLT
+- Teaching Assistants NLP F22
 - Current
 ---
 

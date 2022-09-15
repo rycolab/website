@@ -33,9 +33,9 @@ Both lectures will be given in the lecture hall HG F5 and live broadcast on Zoom
 <!-- Schedule to be posted at the beginning of the semester, but the general plan is to have a 1 week delay between the content of the discussion sections and the lectures. -->
 
 ### Live Chat
-In addition to class time, there will also be a RocketChat-based live chat hosted on ETH’s servers. Students are free to ask questions of the teaching staff and teach others in public or private (direct message). There are specific channels for each of the 6 assignments as well for reporting errata in the course notes. All data from the chat will be deleted from ETH servers at the course’s conclusion. The chat supports LaTeX for easier discussion of technical material.
+In addition to class time, there will also be a RocketChat-based live chat hosted on ETH’s servers. Students are free to ask questions of the teaching staff and of others in public or private (direct message). There are specific channels for each of the 6 assignments as well as for reporting errata in the course notes. All data from the chat will be deleted from ETH servers at the course’s conclusion. The chat supports LaTeX for easier discussion of technical material.
 
-**Important**: You are responsible for receiving all messages broadcast in the Rocketchat.
+**Important**: You are responsible for receiving all messages broadcast in the RocketChat.
 
 **Link** to the main channel: https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2Fqqg5FK
 
@@ -57,8 +57,7 @@ If you feel like you would benefit from any other channel, feel free to suggest 
 We are currently working on turning out class content into a book! The current draft of the book, i.e., the course notes, can be found [here](https://drive.google.com/file/d/1esgbEGgF2TYwr0wCE5Sb18YLJ3A9eDgp/view?usp=sharing). Please report all errata to the teaching staff; we created an [errata channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FrK63Wa) in RocketChat.
 
 
-Other useful literature:
-
+Other useful literature:  
 - [Introduction to Natural Language Processing (Eisenstein)](https://www.amazon.de/Jacob-Eisenstein/dp/0262042843/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=30OMHV1C018JY&dchild=1&keywords=introduction+to+natural+language+processing&qid=1598878964&sprefix=introduction+to+na%2Caps%2C148&sr=8-1)  
 - [Deep Learning (Goodfellow, Bengio and Courville)](https://www.deeplearningbook.org/)  
 - [AFLT Course Notes](https://rycolab.io/classes/aflt-s22/)
@@ -66,8 +65,8 @@ Other useful literature:
 ## Grading
 
 Marks for the course will be determined by the following formula:  
-* **70%** Final Exam  
-* **30%** Assignment or Class Project
+- **70%** Final Exam  
+- **30%** Assignment or Class Project
  
 ### On the Final Exam
 The final exam is comprehensive and should be assumed to cover all the materials in the slides and class notes. About 50% of exam questions will be very similar (or even identical) to the theory portion of the class assignments. Thus, it behooves you to at least look at all the assignment questions while preparing for the final exam even if you do not turn them all in for a grade.
@@ -85,21 +84,21 @@ Only your highest-scoring 4 assignments will count towards your grade; each will
 The class assignments were crafted to dovetail nicely with the lecture contents and, moreover, to complement the lectures through a more hands-on approach to the material. Each assignment has a theory portion, which will generally involve derivations or proofs related to the material, and a coding portion where you will implement a working model for one of the NLP tasks discussed in the lecture. The theory and the coding halves of the assignments will be weighed equally.
 
 Assignment submission will be done on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=18471). 
-The submission links are:
+The submission links are:  
 
-- [Assignment 1](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=792710)
-- [Assignment 2](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=792716)
-- [Assignment 3](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=792717)
-- [Assignment 4](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=792718)
-- [Assignment 5](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=792719)
-- [Assignment 6](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=792720)
+- [Assignment 1](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=792710)  
+- [Assignment 2](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=792716)  
+- [Assignment 3](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=792717)  
+- [Assignment 4](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=792718)  
+- [Assignment 5](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=792719)  
+- [Assignment 6](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=792720)  
 
 ### On the Class Project
 It is highly recommended that you do the class assignments. However, a student (in groups of up to 4 people) may choose to do a course project in lieu of the class assignments. This option is only recommended for academically oriented students who are interested in using this course to get into NLP research. If you choose to do a class project, you must submit a project proposal by October 31, 2022, on Moodle. The proposal is ungraded and will be inspected by the teaching assistants to ensure that the project is doable and you will pass the course should you execute the project as proposed. The write-up and code for the final project are due January 15, 2023; it is to be submitted through Moodle.
 General guidelines for the class project are given here. 
 
 Project work submission will be done on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=18471). 
-The submission links are:
+The submission links are:  
 
 - [Project proposal](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=792721)
 - [Project report](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=792722)
