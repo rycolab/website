@@ -44,6 +44,5 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Teaching Assistants NLP F22
-- Current
 ---
 Franz is a MSc Computer Science student at ETH Zürich, majoring in Machine Intelligence. Before joining ETH, he did a bachelor's degree in Computer Science at Cambridge, doing his final project on machine learning applied to database indexing. His hobbies include jazz piano, chess, and free diving.
