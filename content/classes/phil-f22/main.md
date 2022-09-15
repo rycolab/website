@@ -43,7 +43,7 @@ The password can be found on [the course Moodle page](https://moodle-app2.let.et
 Tue	18-19	HG E 1.1. 
 
 **Course Live Chat:** 
-To provide an easier way to communicate with the teaching team and your colleagues, we have set up a [course chat server](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2F42TBCY). 
+To provide an easier way to communicate with the teaching team and your colleagues, we have set up a [course chat server](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FhWhMHi). 
 We use RocketChat and the server is hosted on ETH servers.
 It will be the main communication hub for the course! 
 We encourage you to sign up and participate in the discussions there.
