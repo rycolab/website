@@ -69,17 +69,18 @@ Marks for the course will be determined by the following formula:
 - **30%** Assignment or Class Project
  
 ### On the Final Exam
-The final exam is comprehensive and should be assumed to cover all the materials in the slides and class notes. About 50% of exam questions will be very similar (or even identical) to the theory portion of the class assignments. Thus, it behooves you to at least look at all the assignment questions while preparing for the final exam even if you do not turn them all in for a grade.
+The final exam is comprehensive and should be assumed to cover all the material in the slides and class notes. About 50% of exam questions will be very similar (or even identical) to the theory portion of the class assignments. Thus, it behooves you to at least look at all the assignment questions while preparing for the final exam even if you do not turn them all in for a grade.
+Solutions for the assignments will <ins>***not***</ins> be provided (they will be re-used every year), but the teaching staff can answer questions if you solve the problems ahead of time.
 
 ### On the Class Assignments 
 
 There will be **6** assignments which will be released roughly every two weeks. We impose three firm deadlines for handing in your solutions:
 
-- Assignment 1 and 2: **November 15th**
-- Assignment 3 and 4: **December 15th**
-- Assignment 5 and 6: **January 15th**
+- **Assignment 1**: November 15th
+- **Assignment 2, 3, and 4**: December 15th
+- **Assignment 5 and 6**: January 15th
 
-Only your highest-scoring 4 assignments will count towards your grade; each will be weighted equally. So, in principle, you may opt to not turn in 2 out of the 6 assignments without any effect on your grade. Note: Even though we plan to grade your submissions within one month, we advise you not to wait for your grades to be returned before you decide to tackle the next assignments. In essence, do not base your submission strategy on our grading estimates!
+Only your highest-scoring 4 assignments will count towards your grade; each will be weighted equally. So, in principle, you may opt to not turn in 2 out of the 6 assignments without any effect on your grade. <ins>***Note***</ins>: Even though we plan to grade your submissions within one month, we advise you not to wait for your grades to be returned before you decide to tackle the next assignments. In essence, do not base your submission strategy on our grading estimates!
 
 The class assignments were crafted to dovetail nicely with the lecture contents and, moreover, to complement the lectures through a more hands-on approach to the material. Each assignment has a theory portion, which will generally involve derivations or proofs related to the material, and a coding portion where you will implement a working model for one of the NLP tasks discussed in the lecture. The theory and the coding halves of the assignments will be weighed equally.
 
@@ -94,8 +95,8 @@ The submission links are:
 - [Assignment 6](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=792720)  
 
 ### On the Class Project
-It is highly recommended that you do the class assignments. However, a student (in groups of up to 4 people) may choose to do a course project in lieu of the class assignments. This option is only recommended for academically oriented students who are interested in using this course to get into NLP research. If you choose to do a class project, you must submit a project proposal by October 31, 2022, on Moodle. The proposal is ungraded and will be inspected by the teaching assistants to ensure that the project is doable and you will pass the course should you execute the project as proposed. The write-up and code for the final project are due January 15, 2023; it is to be submitted through Moodle.
-General guidelines for the class project are given here. 
+It is highly recommended that you do the class assignments. However, a student (in groups of up to 4 people) may choose to do a course project in lieu of the class assignments. This option is only recommended for academically oriented students who are interested in using this course to get into NLP research. If you choose to do a class project, you <ins>***must***</ins> submit a project proposal by October 31, 2022, on Moodle. The proposal is <ins>***ungraded***</ins> and will be inspected by the teaching assistants to ensure that the project is doable and you will pass the course should you execute the project as proposed. The write-up and code for the final project are due January 15, 2023; it is to be submitted through Moodle.
+General guidelines for the class project are given [here](https://drive.google.com/file/d/1_0eZdRzxSxdtbwzG3Jn-t0GjVzGxuOW7/view?usp=sharing). 
 
 Project work submission will be done on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=18471). 
 The submission links are:  

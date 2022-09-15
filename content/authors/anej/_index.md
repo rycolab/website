@@ -22,8 +22,11 @@ organizations:
 bio: 
 
 interests:
-- bioinformatics
 - machine learning for NLP
+- representation learning
+- variational inference
+- interpretability
+- bioinformatics
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -55,4 +58,8 @@ user_groups:
 - Current
 ---
 
-Anej is a second year Data Science MSc student with Bachelor's in CS and Math from University in Ljubljana, Slovenia. He is fascinated by the complexity and diversity of human language and the (computational) challenges these bring.
+Anej is a second-year Data Science Masters student at ETH, on track to start a PhD under Ryan's supervision in January 2023.
+He completed his Bachelor's degree in Computer Science and Mathematics in Ljubljana, Slovenia, and is currently finishing his Master's thesis on understanding latent representations under the supervision of [prof. Valentina Boeva](http://boevalab.inf.ethz.ch/index.html).
+While he is as open to different research directions as any early PhD student, his main interest currently lies in understanding and manipulating learned representation spaces (be it of text or anything else), variational inference, and interpretability.
+If you ask him about his hobbies you will find out he likes to read (you may also learn a lot about [John Kennedy Toole](https://en.wikipedia.org/wiki/John_Kennedy_Toole) and [Christopher Moore](https://en.wikipedia.org/wiki/Christopher_Moore_(author))), run, hike, and [aquascape](https://aquascapinglove.com/learn-aquascaping/what-is-aquascaping/).
+As a true Slovene, he can also bake [potica](https://www.youtube.com/watch?v=qN_Oy0D0GLY).
