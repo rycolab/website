@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Talk by Aaron"
+title: "Assessing the Effects of Friend-to-Friend Texting on Turnout in the 2018 US Midterm Elections"
 event: 
 event_url:
 location: CAB H53
