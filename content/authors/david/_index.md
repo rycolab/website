@@ -30,9 +30,9 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-# - icon: envelope
-  # icon_pack: fas
-  # link: "mailto:asvete@ethz.ch"  # For a direct email link, use "mailto:test@example.org".
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:david.wissel@inf.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -43,3 +43,5 @@ email: ""
 user_groups:
 - Teaching Assistants NLP F22
 ---
+
+David is a PhD student shared between the BoevaLab at ETH and the Robinson Group at UZH. He is interested broadly in survival analysis and the analysis of long-read sequencing data.
