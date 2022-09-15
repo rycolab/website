@@ -68,4 +68,4 @@ projects: []
 ---
 
 ### Bio
-Aaron Schein is a postdoc at Columbia University and will start his professorship at the University of Chicago in fall. He develops statistical models to analyse large-scale data in political science, economics, and genetics, among other fields.
+Aaron Schein is an Assistant Professor in the Department of Statistics and the Data Science Institute at the University of Chicago. His research develops statistical models and computational methods to analyze modern large-scale data in political science, economics, and genetics, among other fields in the social and natural sciences.
