@@ -29,6 +29,8 @@ There are two lecture slots for NLP. The first slot is on Monday from 12h to 14h
 
 Both lectures will be given in the lecture hall HG F5 and live broadcast on [Zoom](https://ethz.zoom.us/j/62312028967); the password is available on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=18471) or in the live chat.
 
+Lectures will be recorded. Recording will be uploaded to the course Polybox folder, whose password you can find on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=18471) as well.
+
 **Important**: The ETH semester starts on Tuesday, September 20th, but the first lecture will take place on Monday, September 26th.
 
 <!-- Schedule to be posted at the beginning of the semester, but the general plan is to have a 1 week delay between the content of the discussion sections and the lectures. -->
