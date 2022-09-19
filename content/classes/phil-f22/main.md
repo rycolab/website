@@ -17,7 +17,7 @@ weight = 20
 ## Course Description
 This graduate class, taught like a seminar, is designed to help you understand the philosophical underpinnings of modern work in natural language processing (NLP), most of which is centered around deep learning applied to natural language data. The course is a year-long journey, but the second half (Spring 2023) does not depend on the first (Fall 2022) and thus either half may be taken independently. In each semester, we divide the class time into three modules. Each module focuses on a philosophical topic. In the first semester we will discuss logic and language, structuralism, and recursive structure. And, in the second semester we will focus on language games, information theory, and pragmatics. The modules will be four weeks long. During the first two weeks of a module, we will read and discuss original texts and supplementary criticism. During the second two weeks, we will read recent NLP papers and discuss how the authors of those works are building on philosophical insights into our conception of language—perhaps implicitly or unwittingly. 
 
-The course will require a weekly reading of around 20 pages (with relatively high variance at times) and a weekly free-form responses to the reading, which is to be completed online. The mandatory readings for every week are bolded in the syllabus below. The weekly tasks are short and not graded, but, in order to pass the class, at least 70% of the tasks must be completed. The final grade will be based, in equal parts, on one class presentation and two term papers (each around 5-10 pages) which are to be turned in at the latest **one week before the start of the exam period**, that is, on **Sunday, January 15th**, at midnight. Students must write term papers on the modules other than the one for which they have made a presentation. They will be expected to explore the relation of the topics discussed in class to work not presented in the class, focusing on the connection between the philosophy of language and NLP. For example, discussing how three recent NLP papers implicitly assumed a structuralist perspective on language would be a good topic.
+The course will require a weekly reading of around 20 pages (with relatively high variance at times) and a weekly free-form responses to the reading, which is to be completed online. The mandatory readings for every week are bolded in the syllabus below. The weekly tasks are short and not graded, but, in order to pass the class, at least 70% of the tasks must be completed. See [this document](https://moodle-app2.let.ethz.ch/mod/resource/view.php?id=792791) for the guidelines on the free-form responses. The final grade will be based, in equal parts, on one class presentation and two term papers (each around 5-10 pages) which are to be turned in at the latest **one week before the start of the exam period**, that is, on **Sunday, January 15th**, at midnight. Students must write term papers on the modules other than the one for which they have made a presentation. They will be expected to explore the relation of the topics discussed in class to work not presented in the class, focusing on the connection between the philosophy of language and NLP. For example, discussing how three recent NLP papers implicitly assumed a structuralist perspective on language would be a good topic.
 
 #### Grading	
 
@@ -45,12 +45,18 @@ Tue	18-19	HG E 1.1.
 **Course Live Chat:** 
 To provide an easier way to communicate with the teaching team and your colleagues, we have set up a [course chat server](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FhWhMHi). 
 We use RocketChat and the server is hosted on ETH servers.
-It will be the main communication hub for the course! 
 We encourage you to sign up and participate in the discussions there.
+
+**Important**: There are three important points you should keep in mind about the course live chat:  
+
+1. RocketChat will be the main communications hub for the course. You are responsible for receiving all messages broadcast in the RocketChat.  
+2. Your username should be `firstname.lastname`. This is required as we will only allow enrolled students to participate in the chat and we will remove users which we can not validate.  
+3. We highly recommend you download the desktop app [here](https://www.rocket.chat/).  
 
 ### Class Materials
 - [Paper grading rubric](https://drive.google.com/file/d/1kkrkGKBGxiI7Y4KmChZZQbwW70kbfrs7/view?usp=sharing)
 - [Presentation grading rubric](https://drive.google.com/file/d/1G3dwv8bs8oTVtCiCXLqIJF2GmXFs2Ac3/view?usp=sharing)
+- [Guidelines for Free-Form Responses](https://moodle-app2.let.ethz.ch/mod/resource/view.php?id=792791)
 
 ## News
 
@@ -195,7 +201,7 @@ We encourage you to sign up and participate in the discussions there.
       <td>
         <a href="https://drive.google.com/file/d/1bLC898DAJhYsBl6HsEJQOZBfWOp1y9QC/view?usp=sharing" target="_blank"><b>Chomsky (1957)</b></a>, 
         <a href="https://drive.google.com/file/d/1FOjOv66b_RC1F_oCTR7IDUfbV3aOFfeu/view?usp=sharing" target="_blank">Chomsky (1956)</a>, 
-        <a href="https://drive.google.com/file/d/1DOGtoO1dSWD59zEYQ6_RCCw7759sY_8M/view?usp=sharing" target="_blank">Chomsky (1959)</a> 
+        <a href="https://drive.google.com/file/d/1DOGtoO1dSWD59zEYQ6_RCCw7759sY_8M/view?usp=sharing" target="_blank"><b>Chomsky (1959)</b></a> 
       </td>
     </tr>   
     <tr>
