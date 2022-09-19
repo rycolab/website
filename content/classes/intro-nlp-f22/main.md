@@ -20,6 +20,7 @@ The course constitutes an introduction to modern techniques in the field of natu
 ## News
 
 **14. 9. 2022** &emsp; Class website is online!  
+**19. 9. 2022** &emsp; [Assignment 1](https://drive.google.com/file/d/1DYHnHOWfVgPIfz0YhcfH_dMvNpN7ES8M/view?usp=sharing) has been released! See the [public github repository](https://github.com/rycolab/intro-nlp-f22) for the accompanying code.
 
 ## Organisation
 
@@ -87,7 +88,18 @@ Only your highest-scoring 4 assignments will count towards your grade; each will
 
 The class assignments were crafted to dovetail nicely with the lecture contents and, moreover, to complement the lectures through a more hands-on approach to the material. Each assignment has a theory portion, which will generally involve derivations or proofs related to the material, and a coding portion where you will implement a working model for one of the NLP tasks discussed in the lecture. The theory and the coding halves of the assignments will be weighed equally.
 
-The assignments will be published on the [public github repository](https://github.com/rycolab/intro-nlp-f22). You should fork the repository and pull the incoming changes whenever they are released. The detailed instructions for the submission will be given in each assignment separately, but the submissions will always be through the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=18471). 
+Assignment **sheets**:
+
+- [Assignment 1](https://drive.google.com/file/d/1DYHnHOWfVgPIfz0YhcfH_dMvNpN7ES8M/view?usp=sharing)  
+- Assignment 2  
+- Assignment 3  
+- Assignment 4  
+- Assignment 5  
+- Assignment 6  
+
+The **code** relating to the assignments will be published on the [public github repository](https://github.com/rycolab/intro-nlp-f22). You should fork the repository and pull the incoming changes whenever they are released. 
+
+The detailed instructions for the submission will be given in each assignment separately, but the submissions will always be through the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=18471). 
 The submission links are:  
 
 - [Assignment 1](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=792710)  
