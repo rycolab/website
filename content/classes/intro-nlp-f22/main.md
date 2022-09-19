@@ -35,10 +35,13 @@ Both lectures will be given in the lecture hall HG F5 and live broadcast on [Zoo
 ### Live Chat
 In addition to class time, there will also be a RocketChat-based live chat hosted on ETH’s servers. Students are free to ask questions of the teaching staff and of others in public or private (direct message). There are specific channels for each of the 6 assignments as well as for reporting errata in the course notes. All data from the chat will be deleted from ETH servers at the course’s conclusion. The chat supports LaTeX for easier discussion of technical material.
 
-**Important**: You are responsible for receiving all messages broadcast in the RocketChat.
+**Important**: There are three important points you should keep in mind about the course live chat:  
 
-**Link** to the main channel: https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2Fqqg5FK
+1. RocketChat will be the main communications hub for the course. You are responsible for receiving all messages broadcast in the RocketChat.  
+2. Your username should be `firstname.lastname`. This is required as we will only allow enrolled students to participate in the chat and we will remove users which we can not validate.  
+3. We highly recommend you download the desktop app [here](https://www.rocket.chat/).  
 
+[**This is the link**](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2Fqqg5FK) to the main channel.
 To make the moderation of the chat more easily manageable, we have created a number of other channels on RocketChat.
 The full list is:
 
