@@ -50,7 +50,7 @@ We encourage you to sign up and participate in the discussions there.
 **Important**: There are three important points you should keep in mind about the course live chat:  
 
 1. RocketChat will be the main communications hub for the course. You are responsible for receiving all messages broadcast in the RocketChat.  
-2. Your username should be `firstname.lastname`. This is required as we will only allow enrolled students to participate in the chat and we will remove users which we can not validate.  
+2. Your username should be `firstname.lastname`. This is required as we will only allow enrolled students to participate in the chat and we will remove users which we cannot validate.  
 3. We highly recommend you download the desktop app [here](https://www.rocket.chat/).  
 
 ### Class Materials
