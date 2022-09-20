@@ -23,8 +23,9 @@ The course will require a weekly reading of around 20 pages (with relatively hig
 
 Marks for the course will be determined by the following formula:  
 
-- **50%** Class presentation
-- **50%** Two term papers
+- **1 / 3** Class presentation
+- **1 / 3** Term paper 1
+- **1 / 3** Term paper 2
 
 More detailed instructions about the paper and presentation requirements can be found here:
 
