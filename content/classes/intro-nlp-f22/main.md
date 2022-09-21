@@ -56,6 +56,8 @@ The full list is:
 - [Assignment 4](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FyTyGbc)
 - [Assignment 5](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FssCnrB)
 - [Assignment 6](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FRPu28t)
+- [Course Project](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FWyvHap)
+- [Find Project Partners](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FqhGqzq)
 
 If you feel like you would benefit from any other channel, feel free to suggest it to the teaching team!
 
