@@ -74,6 +74,7 @@ We encourage you to sign up and participate in the discussions there.
       <th scope="col" style='white-space:nowrap'>Date</th>
       <th scope="col" style='white-space:nowrap'>Module</th>
       <th scope="col" style='white-space:nowrap'>Topic</th>
+      <th scope="col" style='white-space:nowrap'>Material</th>
       <th scope="col" style='white-space:nowrap'>Reading</th>
     </tr>
   </thead>
@@ -83,6 +84,9 @@ We encourage you to sign up and participate in the discussions there.
       <td>20.09.22</td>
       <td></td>
       <td>Introduction</td>
+      <td>
+        <a href="https://drive.google.com/file/d/1ZE1kE5JpE37VGue-udAevARFczdrN29v/view?usp=sharing" target="_blank">Introduction Slides</a>
+      </td>
       <td>
         <a href="https://drive.google.com/file/d/1e5EXN7zvN6ZXSO2lWZLaafQxlDUQfceb/view?usp=sharing" target="_blank">Borges (1940a)</a>, 
         <a href="https://drive.google.com/file/d/13044an4v0wCuLGpoYlWrP7SnY4Bwwnh6/view?usp=sharing" target="_blank">Borges (1940a) in Spanish</a>, 
@@ -97,6 +101,7 @@ We encourage you to sign up and participate in the discussions there.
       <td>27.09.22</td>
       <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Language and Logic: Formal Representations of Meaning</b></td>
       <td>Meaning: Between Sense and Denotation</td>
+      <td></td>
       <td>
         <a href="https://drive.google.com/file/d/1BU3dlFUepcXWFf1jNfjiJ0EObN0N6GaB/view?usp=sharing" target="_blank"><b>Frege (1892)</b></a>, 
         <a href="https://drive.google.com/file/d/1IacrQkytVlx6VOChN2BeIBnB1uWCvJUh/view?usp=sharing" target="_blank">Frege (1892) in German</a>, 
@@ -107,6 +112,7 @@ We encourage you to sign up and participate in the discussions there.
       <th scope="row">3</th>
       <td>04.10.22</td>
       <td>Formal and Natural Language</td>
+      <td></td>
       <td>
         <a href="https://drive.google.com/file/d/1Mx5ue6RsajlMual7L3OfSGECbxx0Qzwq/view?usp=sharing" target="_blank"><b>Ajdukiewicz (1936)</b></a>, 
         <a href="https://drive.google.com/file/d/1CsT6qzW4QwYVl_8uKLqSWc4Yy1QA2OtG/view?usp=sharing" target="_blank">Carnap (1947)</a>, 
@@ -120,6 +126,7 @@ We encourage you to sign up and participate in the discussions there.
       <th scope="row">4</th>
       <td>11.10.22</td>
       <td>Artificial Language Learning</td>
+      <td></td>
       <td>
         <a href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00113/43379/The-Galactic-Dependencies-Treebanks-Getting-More" target="_blank">Wang and Eisner (2016)</a>, 
         <a href="https://aclanthology.org/N19-1356/" target="_blank">Ravfogel et al. (2019)</a>, 
@@ -131,6 +138,7 @@ We encourage you to sign up and participate in the discussions there.
       <th scope="row">5</th>
       <td>18.10.22</td>
       <td>Compositionality and Combinatory Categorial Grammar</td>
+      <td></td>
       <td>
         <a href="https://www.inf.ed.ac.uk/teaching/courses/nlg/readings/ccgintro.pdf" target="_blank">Steedman (1996)</a>, 
         <a href="https://homes.cs.washington.edu/~lsz/papers/zc-uai05.pdf" target="_blank">Zettlemoyer and Collins (2005)</a>, 
@@ -143,6 +151,7 @@ We encourage you to sign up and participate in the discussions there.
       <td>25.10.22</td>
       <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Structuralism: The Search for the Right Units</b></td>
       <td>Structural Dualities</td>
+      <td></td>
       <td>
         <a href="https://drive.google.com/file/d/1adLFTigLCJumeEi7D8gDzPprgP1eA_Uu/view?usp=sharing" target="_blank"><b>Saussure (1916)</b></a>, 
         <a href="https://drive.google.com/file/d/1Dp-AQVrZ5JBZNQW0sIqp-ANrnhldBpIr/view?usp=sharing" target="_blank">Saussure (1916) in French</a>, 
@@ -154,6 +163,7 @@ We encourage you to sign up and participate in the discussions there.
       <th scope="row">7</th>
       <td>01.11.22</td>
       <td>Linguistic Units</td>
+      <td></td>
       <td>
         <a href="https://drive.google.com/file/d/1HGu3-ttI0TfJyOwW8e47BPqOrd7mir-0/view?usp=sharing" target="_blank">Hjelmslev (1943)</a>, 
         <a href="https://drive.google.com/file/d/1fhWpIoLyEVKxKnXh04EYhgqTZ6vlp1yl/view?usp=sharing" target="_blank"><b>Harris (1954)</b></a>, 
@@ -166,6 +176,7 @@ We encourage you to sign up and participate in the discussions there.
       <th scope="row">8</th>
       <td>08.11.22</td>
       <td>Meaning and Form</td>
+      <td></td>
       <td>
         <a href="https://www.mit.edu/~rplevy/papers/gutierrez-levy-bergen-2016-acl.pdf" target="_blank">Gutiérrez et al. (2016)</a>, 
         <a href="https://aclanthology.org/P19-1171.pdf" target="_blank">Pimentel et al. (2019)</a>, 
@@ -178,6 +189,7 @@ We encourage you to sign up and participate in the discussions there.
       <th scope="row">9</th>
       <td>15.11.22</td>
       <td>Words, Characters, or Something In Between</td>
+      <td></td>
       <td>
         <a href="https://arxiv.org/abs/1508.06615" target="_blank">Kim et al. (2015)</a>, 
         <a href="https://aclanthology.org/P16-1162/" target="_blank">Sennrich et al. (2016)</a>, 
@@ -190,6 +202,7 @@ We encourage you to sign up and participate in the discussions there.
       <td>22.11.22</td>
       <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Recursive Structure: The Escherian Nature of Language</b></td>
       <td>Syntax and Computation</td>
+      <td></td>
       <td>
         <a href="https://drive.google.com/file/d/1fp4e3d5aZRhjT0Vmc3MTNJmTVJaVatrV/view?usp=sharing" target="_blank"><b>Chomsky (1953)</b></a>, 
         <a href="https://drive.google.com/file/d/194dcoT3yT-lz6yH1aoN2k43ICIu1XVE7/view?usp=sharing" target="_blank"><b>Chomsky (1955)</b></a> 
@@ -199,6 +212,7 @@ We encourage you to sign up and participate in the discussions there.
       <th scope="row">11</th>
       <td>29.11.22</td>
       <td>Syntax and Cognition</td>
+      <td></td>
       <td>
         <a href="https://drive.google.com/file/d/1bLC898DAJhYsBl6HsEJQOZBfWOp1y9QC/view?usp=sharing" target="_blank"><b>Chomsky (1957)</b></a>, 
         <a href="https://drive.google.com/file/d/1FOjOv66b_RC1F_oCTR7IDUfbV3aOFfeu/view?usp=sharing" target="_blank">Chomsky (1956)</a>, 
@@ -209,6 +223,7 @@ We encourage you to sign up and participate in the discussions there.
       <th scope="row">12</th>
       <td>06.12.22</td>
       <td>Parsing—NLP’s Original Leaderboard</td>
+      <td></td>
       <td>
         <a href="https://aclanthology.org/A00-2018.pdf" target="_blank">Charniak (2000)</a>, 
         <a href="https://aclanthology.org/P03-1054/" target="_blank">Klein and Manning (2003)</a>, 
@@ -222,6 +237,7 @@ We encourage you to sign up and participate in the discussions there.
       <th scope="row">13</th>
       <td>13.12.22</td>
       <td>Computational Approaches to Human Syntactic Processing</td>
+      <td></td>
       <td>
         <a href="https://aclanthology.org/N01-1021/" target="_blank">Hale (2001)</a>, 
         <a href="http://www.mit.edu/~rplevy/papers/levy-jaeger-2007.pdf" target="_blank">Levy and Jaeger (2007)</a>, 
