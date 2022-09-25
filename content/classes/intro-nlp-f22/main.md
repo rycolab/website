@@ -20,7 +20,8 @@ The course constitutes an introduction to modern techniques in the field of natu
 ## News
 
 **14. 9. 2022** &emsp; Class website is online!  
-**19. 9. 2022** &emsp; [Assignment 1](https://drive.google.com/file/d/1DYHnHOWfVgPIfz0YhcfH_dMvNpN7ES8M/view?usp=sharing) has been released! See the [public github repository](https://github.com/rycolab/intro-nlp-f22) for the accompanying code.
+**19. 9. 2022** &emsp; [Assignment 1](https://drive.google.com/file/d/1DYHnHOWfVgPIfz0YhcfH_dMvNpN7ES8M/view?usp=sharing) has been released! See the [public github repository](https://github.com/rycolab/intro-nlp-f22) for the accompanying code.  
+**25. 9. 2022** &emsp; [Assignment 2](https://drive.google.com/file/d/1MLIRq5FTfCPcipY5ShQDWH5NzQlSlMHu/view?usp=sharing) has been released!  
 
 ## Organisation
 
@@ -95,7 +96,7 @@ The class assignments were crafted to dovetail nicely with the lecture contents 
 Assignment **sheets**:
 
 - [Assignment 1](https://drive.google.com/file/d/1DYHnHOWfVgPIfz0YhcfH_dMvNpN7ES8M/view?usp=sharing)  
-- Assignment 2  
+- [Assignment 2](https://drive.google.com/file/d/1MLIRq5FTfCPcipY5ShQDWH5NzQlSlMHu/view?usp=sharing)
 - Assignment 3  
 - Assignment 4  
 - Assignment 5  
