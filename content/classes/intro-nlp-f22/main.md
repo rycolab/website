@@ -521,7 +521,7 @@ The submission links are:
       <td></td>
     </tr>
     <tr>
-      <th scope="row">12</th>
+      <th scope="row">13</th>
       <td>21.12.22</td>
       <td>Assignment 6</td>
       <td>Luca Malagutti</td>
