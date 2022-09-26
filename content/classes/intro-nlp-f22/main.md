@@ -419,3 +419,114 @@ The submission links are:
     
   </tbody>
 </table>
+
+
+## Tutorial Schedule
+<table class="table">
+  <head>
+    <base target="_blank">
+  </head>
+  <thead>
+    <tr>
+      <th scope="col" style='white-space:nowrap'>Week</th>
+      <th scope="col" style='white-space:nowrap'>Date&emsp;&emsp;</th>
+      <th scope="col" style='white-space:nowrap'>Topic</th>
+      <th scope="col" style='white-space:nowrap'>Teaching Assistant</th>
+      <th scope="col" style='white-space:nowrap'>Material</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>28.09.22</td>
+      <td>Course Logistics and Introduction of the TA Team</td>
+      <td>All TAs</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>05.10.22</td>
+      <td>Assignment 1</td>
+      <td>Niklas Stoehr</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>12.10.22</td>
+      <td>Assignment 1</td>
+      <td>Niklas Stoehr</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>19.10.22</td>
+      <td>Assignment 2</td>
+      <td>David Wissel</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">5</th>
+      <td>26.10.22</td>
+      <td>Assignment 2</td>
+      <td>David Wissel</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">6</th>
+      <td>02.11.22</td>
+      <td>Assignment 3</td>
+      <td>Alexandra Butoi and Anej Svete</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">7</th>
+      <td>09.11.22</td>
+      <td>Assignment 3</td>
+      <td>Alexandra Butoi and Anej Svete</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">8</th>
+      <td>16.11.22</td>
+      <td>Assignment 4</td>
+      <td>Franz Nowak</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">9</th>
+      <td>23.11.22</td>
+      <td>Assignment 4</td>
+      <td>Franz Nowak</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">10</th>
+      <td>30.11.22</td>
+      <td>Assignment 5</td>
+      <td>Benjamin Dayan</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">11</th>
+      <td>07.12.22</td>
+      <td>Assignment 6</td>
+      <td>Luca Malagutti</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">12</th>
+      <td>14.12.22</td>
+      <td>Assignment 5</td>
+      <td>Benjamin Dayan</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">12</th>
+      <td>21.12.22</td>
+      <td>Assignment 6</td>
+      <td>Luca Malagutti</td>
+      <td></td>
+    </tr>
+    
+  </tbody>
+</table>
