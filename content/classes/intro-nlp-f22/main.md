@@ -156,7 +156,7 @@ The submission links are:
       <th rowspan=2 scope="row">1</th>
       <td>26.09.22</td>
       <td>Introduction to Natural Language</td>
-      <td><a href="https://drive.google.com/file/d/10KPQWpaDhfUBosCyc-ngbWvOCmiCJPpg/view?usp=sharing" target="_blank">Lecture 1 (last year)</a></td>
+      <td><a href="https://drive.google.com/file/d/1u-pHD5wXsLZws750_rhm2iR_Pph1jqML/view?usp=sharing" target="_blank">Lecture 1</a></td>
       <td>Eisenstein Ch. 1</td>
       <td></td>
     </tr>
