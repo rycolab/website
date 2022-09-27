@@ -37,7 +37,7 @@ More detailed instructions about the paper and presentation requirements can be 
 **Lectures:** 	
 Tue	16-18, HG E 1.1. 
 The lectures will be given in person. 
-[This](https://ethz.zoom.us/j/65437442808) recurring Zoom meeting will be used throughout the semester for people who want to tune in remotely.
+[This](https://ethz.zoom.us/j/68353906745) recurring Zoom meeting will be used throughout the semester for people who want to tune in remotely.
 The password can be found on [the course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=17937). 
 
 **Discussion Sections:** 
