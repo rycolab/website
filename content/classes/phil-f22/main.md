@@ -62,6 +62,8 @@ We encourage you to sign up and participate in the discussions there.
 ## News
 
 **07.08** &emsp; Class website is online!  
+**28.09** &emsp; [Presentation assignments](https://polybox.ethz.ch/index.php/apps/richdocuments/index?fileId=2988059881&dir=%2FShared) have been published.  
+
 
 ## Syllabus and Schedule
 <table class="table">
@@ -101,7 +103,9 @@ We encourage you to sign up and participate in the discussions there.
       <td>27.09.22</td>
       <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Language and Logic: Formal Representations of Meaning</b></td>
       <td>Meaning: Between Sense and Denotation</td>
-      <td></td>
+      <td>
+        <a href="https://drive.google.com/file/d/11XczrgPyj6FIrUEjP13a83u1HqocbcEL/view?usp=sharing" target="_blank">Frege Presentation Slides</a> 
+      </td>
       <td>
         <a href="https://drive.google.com/file/d/1BU3dlFUepcXWFf1jNfjiJ0EObN0N6GaB/view?usp=sharing" target="_blank"><b>Frege (1892)</b></a>, 
         <a href="https://drive.google.com/file/d/1IacrQkytVlx6VOChN2BeIBnB1uWCvJUh/view?usp=sharing" target="_blank">Frege (1892) in German</a>, 
