@@ -150,6 +150,7 @@ The submission links are:
       <th scope="col" style='white-space:nowrap'>Slides&emsp;&emsp;</th>
       <th scope="col" style='white-space:nowrap'>Readings</th>
       <th scope="col" style='white-space:nowrap'>Supplementary Material</th>
+      <th scope="col" style='white-space:nowrap'>Material Exercise Sheets</th>
     </tr>
   </thead>
   <tbody>
@@ -160,10 +161,12 @@ The submission links are:
       <td><a href="https://drive.google.com/file/d/1u-pHD5wXsLZws750_rhm2iR_Pph1jqML/view?usp=sharing" target="_blank">Lecture 1</a></td>
       <td>Eisenstein Ch. 1</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>27.09.22</td>
       <td>Introduction to Natural Language</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -187,13 +190,13 @@ The submission links are:
         <a href="https://drive.google.com/file/d/1XWRz4yMi2A5BZSRSgnnbRJikqz7RYtrN/view?usp=sharing" target="_blank">Computation Graph for MLP</a></br>
         <a href="https://drive.google.com/file/d/1hsYIXXd6cEWocrhI-pQ4Ox8FG49Otu_m/view?usp=sharing" target="_blank">Computation Graph Example</a></td>
         <td>
-        <!-- <a href="https://drive.google.com/file/d/1Z_2Sjasl0IVjowxs1tkV81SYjP7iPXpb/view?usp=sharing" target="_blank">Exercises</a></br><a href="https://drive.google.com/file/d/1IKObOq3QApeRDsEqKdkKI7CwjJ0ggkJF/view?usp=sharing" target="_blank">(<em>Solutions</em>)</a> -->
+        <!-- <a href="https://drive.google.com/file/d/1IKObOq3QApeRDsEqKdkKI7CwjJ0ggkJF/view?usp=sharing" target="_blank">Exercises</a> -->
         </td>
-        <td></td>
     </tr>
     <tr>
       <td>04.10.22</td>
       <td>Backpropagation</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -205,17 +208,16 @@ The submission links are:
       <td><a href="https://drive.google.com/file/d/1-zDjQ36vWuNpYMd-S_xIi3YSncLaVImp/view?usp=sharing" target="_blank">Lecture 3 (last year)</a></td>
       <td>Eisenstein Ch. 2</td>
       <td><a href="https://www.cs.jhu.edu/~jason/papers/ferraro+eisner.tnlp13.pdf" target="_blank">Ferraro and Eisner (2013)</a></br>
-        <a href="http://cs.jhu.edu/~jason/tutorials/loglin/further.html">Jason Eisner’s list of further resources on log-linear modeling</a></td>
-        <td>
-        <!-- <a href="https://drive.google.com/file/d/1c0ukuClgztpR3rMA8cFQs2-tj4ClBlmr/view?usp=sharing" target="_blank">Exercises</a>
-        </br>
-        <a href="https://drive.google.com/file/d/1J0_ZcQbCkGI7Xhbfl2iWax5i0gd-2725/view?usp=sharing" target="_blank">(<em>Solutions</em>)</a> -->
-        </td>
-        <td></td>
+      <a href="http://cs.jhu.edu/~jason/tutorials/loglin/further.html">Jason Eisner’s list of further resources on log-linear modeling</a></td>
+      <td>
+      <!-- <a href="https://drive.google.com/file/d/1J0_ZcQbCkGI7Xhbfl2iWax5i0gd-2725/view?usp=sharing" target="_blank">Exercises</a> -->
+      </td>
     </tr>
     <tr>
       <td>11.10.22</td>
       <td>Log-Linear Modeling---Meet the Softmax</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -226,14 +228,14 @@ The submission links are:
       <td><a href="https://drive.google.com/file/d/1YcmNtg6UcqESmX43Fe9okNOiTScf8Vyj/view?usp=sharing" target="_blank">Lecture 4 (last year)</a></td>
       <td>Eisenstein Ch. 3 and Ch. 4</br>Goodfellow, Bengio and Courville Ch. 6</td>
       <td></td>
-    <td>
-    <!-- <a href="https://drive.google.com/file/d/1-gAvUCK2Sqee4THo_4LwUCICfwtZgX-r/view?usp=sharing" target="_blank">Exercises</a></br><a href="https://drive.google.com/file/d/1pHL9KlaJehuKwKRtr6FWsxAmegS3hnIx/view?usp=sharing" target="_blank">(<em>Solutions</em>)</a></br><a href="https://colab.research.google.com/drive/1gngt93hfpf4CAhJr5Kk9xH4evtLfwdcb?usp=sharing" target="_blank">Coding Exercises</a></br><a href="https://colab.research.google.com/drive/1WUy4G2SsoLelrZDkO2I0v9tHx9x27NJK?usp=sharing" target="_blank">(<em>Coding Solutions</em>)</a> -->
-    </td>
-    <td></td>
+      <td>
+      <!-- <a href="https://drive.google.com/file/d/1pHL9KlaJehuKwKRtr6FWsxAmegS3hnIx/view?usp=sharing" target="_blank">Exercises</a></br> -->
+      </td>
     </tr>
     <tr>
       <td>18.10.22</td>
       <td>Sentiment Analysis with Multi-layer Perceptrons</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -249,14 +251,14 @@ The submission links are:
         <a href="https://ieeexplore.ieee.org/document/479394" target="_blank">Kneser and Ney (1995)</a></br>
         <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf" target="_blank">Bengio et al. (2003)</a></br>
         <a href="https://www.isca-speech.org/archive/archive_papers/interspeech_2010/i10_1045.pdf" target="_blank">Mikolov et al. (2010)</a></td>
-        <td>
-        <!-- <a href="https://drive.google.com/file/d/11oINZRB5hbjW2SG3H0KalPE-4nlceNPY/view?usp=sharing" target="_blank">Exercises</a></br><a href="https://drive.google.com/file/d/10KrxoxmFXpqd40OLiH3owK1hBJ2OWTap/view?usp=sharing" target="_blank">(<em>Solutions</em>)</a> -->
-        </td>
-        <td></td>
+      <td>
+      <!-- <a href="https://drive.google.com/file/d/10KrxoxmFXpqd40OLiH3owK1hBJ2OWTap/view?usp=sharing" target="_blank">Exercises</a> -->
+      </td>
     </tr>
     <tr>
       <td>25.10.22</td>
       <td>Language Modeling with <em>n</em>-grams and LSTMs</td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -272,13 +274,14 @@ The submission links are:
         <a href="https://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf" target="_blank">Sutton and McCallum (2011)</a></br>
         <a href="https://mitpress.mit.edu/books/probabilistic-graphical-models" target="_blank">Koller and Friedman (2009)</a></td>
         <td>
-        <!-- <a href="https://drive.google.com/file/d/1IXVYz_PvbjOpyKX_1dGnTZtEd2KTGqqU/view?usp=sharing">Exercises</a></br><a href="https://drive.google.com/file/d/1-q7bz1kx89j2a8_8Yq--qXSVDzsy4YJb/view?usp=sharing" target="_blank">(<em>Solutions</em>)</a> -->
+        <!-- <a href="https://drive.google.com/file/d/1-q7bz1kx89j2a8_8Yq--qXSVDzsy4YJb/view?usp=sharing" target="_blank">Exercises</a> -->
         </td>
-        <td></td>
     </tr>
     <tr>
       <td>01.11.22</td>
       <td>Part-of-Speech Tagging with CRFs</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -293,14 +296,15 @@ The submission links are:
         <a href="https://www.ideals.illinois.edu/handle/2142/74304">Kasami (1966)</a></br>
         <a href="https://www.sciencedirect.com/science/article/pii/S001999586780007X?via%3Dihub" target="_blank">Younger (1967)</a></br>
         <a href="http://www.softwarepreservation.org/projects/FORTRAN/CockeSchwartz_ProgLangCompilers.pdf" target="_blank">Cocke and Schwartz (1970)</a></td>
-        <td>
-        <!-- <a href="https://drive.google.com/file/d/1nKp10BoJY5AdsXa3AmufSUTG-HMIeSoX/view?usp=sharing">Exercises</a></br><a href="https://drive.google.com/file/d/1dHfSe9_JchHs-4LD4gUgDVrCwf1G4t4L/view?usp=sharing" target="_blank">(<em>Solutions</em>)</a></br><a href="https://drive.google.com/file/d/1zJXpRrYIZpbQEgPv765NGHVw3G4mvHLA/view?usp=sharing">Coding Exercises</a></br><a href="https://drive.google.com/file/d/16q07tVT-HvOA4260dYoSR-VKvIBS9hD8/view?usp=sharing" target="_blank">(<em>Coding Solutions</em>)</a> -->
-        </td>
-        <td></td>
+      <td>
+      <!-- <a href="https://drive.google.com/file/d/1dHfSe9_JchHs-4LD4gUgDVrCwf1G4t4L/view?usp=sharing" target="_blank">Exercises</a> -->
+      </td>
     </tr>
     <tr>
       <td>08.11.22</td>
       <td>Context-Free Parsing with CKY</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -310,11 +314,19 @@ The submission links are:
       <td>Dependency Parsing with the Matrix-Tree Theorem</td>
       <td><a href="https://drive.google.com/file/d/1GdCIUqjju_2hqCPK_WfqBLpl9yx2COfe/view?usp=sharing" target="_blank">Lecture 8 (last year)</a></td>
       <td>Eisenstein Ch. 11</td>
-      <td></td>
+      <td><a href="https://www.aclweb.org/anthology/D07-1015/" target="_blank">Koo et al. (2007)</a></br>
+        <a href="https://www.aclweb.org/anthology/D07-1014/" target="_blank">Smith and Smith (2007)</a></br>
+        <a href="https://www.aclweb.org/anthology/W07-2216/" target="_blank">McDonald and Satta (2007)</a></br>
+        <a href="https://www.morganclaypool.com/doi/abs/10.2200/S00169ED1V01Y200901HLT002" target="_blank">McDonald, Kübler and Nivre (2009)</a></td>
+      <td>
+      <!-- <a href="https://drive.google.com/file/d/1jd3FNdPrDkLQ7TB75svham8WDPqNmpxo/view?usp=sharing" target="_blank">Exercises</a> -->
+      </td>
     </tr>
     <tr>
       <td>15.11.22</td>
       <td>Dependency Parsing with the Matrix-Tree Theorem</td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -328,12 +340,12 @@ The submission links are:
         <a href="https://www.aclweb.org/anthology/Q14-1032/" target="_blank">Kuhlmann and Satta (2014)</a></br>
         <a href="https://homepages.inf.ed.ac.uk/steedman/papers/ccg/ikdoz17.2.pdf" target="_blank">Mark Steedman's CCG slides</a></td>
       <td>
-      <!-- <a href="https://drive.google.com/file/d/1oRojvYSeG80Ght-YtYDoY5TIgZOPhBhv/view?usp=sharing">Exercises</a></br><a href="https://drive.google.com/file/d/1mK98TyTLHJD-SJJBkUMUH2_2dLcF1QkA/view?usp=sharing" target="_blank">(<em>Solutions</em>)</a> -->
+      <!-- <a href="https://drive.google.com/file/d/1mK98TyTLHJD-SJJBkUMUH2_2dLcF1QkA/view?usp=sharing" target="_blank">Exercises</a> -->
       </td>
-      <td></td>
     <tr>
       <td>22.11.22</td>
       <td>Semantic Parsing with CCGs</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -347,13 +359,13 @@ The submission links are:
       <td><a href="https://www.aclweb.org/anthology/J98-4003.pdf" target="_blank">Knight and Graehl (1998)</a></br>
         <a href="https://cs.nyu.edu/~mohri/pub/hbka.pdf" target="_blank">Mohri, Pereira and Riley (2008)</a></td>
       <td>
-      <!-- <a href="https://drive.google.com/file/d/1s4X8ojXAFLtIaFlcLEI6dHur13p8CG6A/view?usp=sharing">Exercises</a></br><a href="https://drive.google.com/file/d/1zsJwrGte2375agRpa7TgV-Me-FaWhSvX/view?usp=sharing" target="_blank">(<em>Solutions</em>)</a> -->
+      <!-- <a href="https://drive.google.com/file/d/1zsJwrGte2375agRpa7TgV-Me-FaWhSvX/view?usp=sharing" target="_blank">Exercises</a> -->
       </td>
-      <td></td>
     </tr>
     <tr>
       <td>29.11.22</td>
       <td>Transliteration with WFSTs</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -368,13 +380,13 @@ The submission links are:
         <a href="https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf" target="_blank">Vaswani et al. (2017)</a></br>
         <a href="https://www.aclweb.org/anthology/W18-2509/">Rush (2018)</a></td>
       <td>
-      <!-- <a href="https://drive.google.com/file/d/1EKXzkmbjXyxvn0i3PMzRKh96vZQ7iv7x/view?usp=sharing">Exercises</a></br><a href="https://drive.google.com/file/d/1Lk6W6zaOSkVd4-tDl0r75x3PU1frmoU1/view?usp=sharing" target="_blank">(<em>Solutions</em>)</a> -->
+      <!-- <a href="https://drive.google.com/file/d/1Lk6W6zaOSkVd4-tDl0r75x3PU1frmoU1/view?usp=sharing" target="_blank">Exercises</a> -->
       </td>
-      <td></td>
     </tr>
     <tr>
       <td>5.12.22</td>
       <td>Machine Translation with Transformers</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -387,13 +399,13 @@ The submission links are:
       <td>Review: Eisenstein Ch. 2</br>Goodfellow, Bengio and Courville Ch. 5 and 11</td>
       <td></td>
       <td>
-      <!-- <a href="https://drive.google.com/file/d/1vCttVzDm4rM_s4oJ85byk2BvIgFfjEgJ/view?usp=sharing">Exercises</a></br><a href="https://drive.google.com/file/d/1ra2iP0f9HFCd2s9m0vouVuz39J-i42bZ/view?usp=sharing">(<em>Solutions</em>)</a> -->
+      <!-- <a href="https://drive.google.com/file/d/1ra2iP0f9HFCd2s9m0vouVuz39J-i42bZ/view?usp=sharing">Exercises</a> -->
       </td>
-      <td></td>
     </tr>
     <tr>
       <td>13.12.22</td>
       <td>Axes of Modeling</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -409,10 +421,12 @@ The submission links are:
         <a href="https://arxiv.org/abs/1909.00871" target="_blank">Hall Maudslay et al. (2019)</a></br>
         <a href="https://arxiv.org/abs/2009.09435" target="_blank">Vargas and Cotterell (2020)</a></br>
         <a href="http://ciml.info/dl/v0_99/ciml-v0_99-ch08.pdf" target="_blank">A Course in Machine Learning Chapter 8</a></td>
+      <td></td>
     </tr>
     <tr>
       <td>20.12.22</td>
       <td>Bias and Fairness in NLP</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -442,7 +456,7 @@ The submission links are:
       <td>28.09.22</td>
       <td>Course Logistics and Introduction of the TA Team</td>
       <td>All TAs</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1dGaClf-2FVsDoIzyyxYueQEvUZNy48yn/view?usp=sharing" target="_blank">Introduction Slides</a></td>
     </tr>
     <tr>
       <th scope="row">2</th>
