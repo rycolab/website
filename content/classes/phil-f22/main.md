@@ -105,6 +105,7 @@ We encourage you to sign up and participate in the discussions there.
       <td>Meaning: Between Sense and Denotation</td>
       <td>
         <a href="https://drive.google.com/file/d/11XczrgPyj6FIrUEjP13a83u1HqocbcEL/view?usp=sharing" target="_blank">Frege Presentation Slides</a> 
+        <a href="https://drive.google.com/file/d/1_5l7JosB2klXYNKFg7XQl1m25LJmqa0E/view?usp=sharing" target="_blank">Russell Presentation Slides</a> 
       </td>
       <td>
         <a href="https://drive.google.com/file/d/1BU3dlFUepcXWFf1jNfjiJ0EObN0N6GaB/view?usp=sharing" target="_blank"><b>Frege (1892)</b></a>, 

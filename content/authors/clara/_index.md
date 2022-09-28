@@ -54,7 +54,6 @@ email: ""
 user_groups:
 - Members
 - Teaching Assistants
-- Teaching Assistants NLP F22
 - TAs
 - Current
 ---
