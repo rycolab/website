@@ -115,6 +115,10 @@ The submission links are:
 - [Assignment 5](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=792719)  
 - [Assignment 6](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=792720)  
 
+We require the solutions to be properly typeset.
+We recommend using LaTeX (with [Overleaf](https://www.overleaf.com)), but markdown files with MathJax for the mathematical expressions are also fine.
+We provide a template for the writeups [here](https://www.overleaf.com/read/wqfbmrmwrvzr); however, feel free to use your own.
+
 ### On the Discussion Sections
 Discussion sections (tutorials) will take place Wednesdays 16:15-19:00 in HG F7 and on Zoom ([same link](https://ethz.zoom.us/j/62312028967) as the lectures).
 Their main purpose will be to help you with the assignment problems.
