@@ -39,6 +39,7 @@ Tue	16-18, HG E 1.1.
 The lectures will be given in person. 
 [This](https://ethz.zoom.us/j/68353906745) recurring Zoom meeting will be used throughout the semester for people who want to tune in remotely.
 The password can be found on [the course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=17937). 
+The recordings of the lectures can be found on the [course Polybox](https://polybox.ethz.ch/index.php/s/s9f5SXoceorC0sA) and the password can be found on [the course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=17937) as well.
 
 **Discussion Sections:** 
 Tue	18-19	HG E 1.1. 
@@ -63,6 +64,7 @@ We encourage you to sign up and participate in the discussions there.
 
 **07.08** &emsp; Class website is online!  
 **28.09** &emsp; [Presentation assignments](https://polybox.ethz.ch/index.php/apps/richdocuments/index?fileId=2988059881&dir=%2FShared) have been published.  
+**29.09** &emsp; The [course Polybox](https://polybox.ethz.ch/index.php/s/s9f5SXoceorC0sA) has been published. You can find the password on the course Moodle page.
 
 
 ## Syllabus and Schedule
