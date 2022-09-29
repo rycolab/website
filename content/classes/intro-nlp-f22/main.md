@@ -22,7 +22,7 @@ The course constitutes an introduction to modern techniques in the field of natu
 **14. 9. 2022** &emsp; Class website is online!  
 **19. 9. 2022** &emsp; [Assignment 1](https://drive.google.com/file/d/1DYHnHOWfVgPIfz0YhcfH_dMvNpN7ES8M/view?usp=sharing) has been released! See the [public github repository](https://github.com/rycolab/intro-nlp-f22) for the accompanying code.  
 **25. 9. 2022** &emsp; [Assignment 2](https://drive.google.com/file/d/1MLIRq5FTfCPcipY5ShQDWH5NzQlSlMHu/view?usp=sharing) has been released!  
-**25. 9. 2022** &emsp; [Recordings Polybox](https://polybox.ethz.ch/index.php/s/3CECKqpIKtHJ40c) has been created. The password can be found on Moodle.
+**25. 9. 2022** &emsp; [Recordings Polybox](https://polybox.ethz.ch/index.php/s/yuxFy1MWOHB6aGc?) has been created. The password can be found on Moodle.
 
 ## Organisation
 
@@ -31,7 +31,7 @@ There are two lecture slots for NLP. The first slot is on Monday from 12h to 14h
 
 Both lectures will be given in the lecture hall HG F5 and live broadcast on [Zoom](https://ethz.zoom.us/j/62312028967); the password is available on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=18471) or in the live chat.
 
-Lectures will be recorded. Recording will be uploaded to the course [Polybox folder](https://polybox.ethz.ch/index.php/s/3CECKqpIKtHJ40c), whose password you can find on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=18471) as well.
+Lectures will be recorded. Recording will be uploaded to the course [Polybox folder](https://polybox.ethz.ch/index.php/s/yuxFy1MWOHB6aGc?), whose password you can find on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=18471) as well.
 
 **Important**: The ETH semester starts on Tuesday, September 20th, but the first lecture will take place on Monday, September 26th.
 
