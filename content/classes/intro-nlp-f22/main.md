@@ -29,7 +29,7 @@ The course constitutes an introduction to modern techniques in the field of natu
 ### On the Use of Class Time
 There are two lecture slots for NLP. The first slot is on Monday from 12h to 14h. During this time, the main lecture will be given. The second slot is on Tuesday from 13h to 14h and will be used as a spill-over time if we did not get through all of the lecture material on Monday (this ensures that the class stays on track) and, time-permitting, the professor will work examples and hold an open-ended ask-me-anything-about-NLP session.
 
-Both lectures will be given in the lecture hall HG F5 and live broadcast on [Zoom](https://ethz.zoom.us/j/62312028967); the password is available on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=18471) or in the live chat.
+Both lectures will be given in the lecture hall HG F5 and live broadcast on [Zoom](https://ethz.zoom.us/j/62666771947); the password is available on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=18471) or in the live chat.
 
 Lectures will be recorded. Recording will be uploaded to the course [Polybox folder](https://polybox.ethz.ch/index.php/s/yuxFy1MWOHB6aGc?), whose password you can find on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=18471) as well.
 
@@ -120,7 +120,7 @@ We recommend using LaTeX (with [Overleaf](https://www.overleaf.com)), but markdo
 We provide a template for the writeups [here](https://www.overleaf.com/read/wqfbmrmwrvzr); however, feel free to use your own.
 
 ### On the Discussion Sections
-Discussion sections (tutorials) will take place Wednesdays 16:15-19:00 in HG F7 and on Zoom ([same link](https://ethz.zoom.us/j/62312028967) as the lectures).
+Discussion sections (tutorials) will take place Wednesdays 16:15-19:00 in HG F7 and on Zoom ([same link](https://ethz.zoom.us/j/62666771947) as the lectures).
 Their main purpose will be to help you with the assignment problems.
 We plan to devote 2 discussion sessions (two weeks) to each of the assignments.
 In them, TAs will introduce the problems, solve related exercises, and answer your questions about them.
