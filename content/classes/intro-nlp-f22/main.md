@@ -29,7 +29,7 @@ The course constitutes an introduction to modern techniques in the field of natu
 ### On the Use of Class Time
 There are two lecture slots for NLP. The first slot is on Monday from 12h to 14h. During this time, the main lecture will be given. The second slot is on Tuesday from 13h to 14h and will be used as a spill-over time if we did not get through all of the lecture material on Monday (this ensures that the class stays on track) and, time-permitting, the professor will work examples and hold an open-ended ask-me-anything-about-NLP session.
 
-Both lectures will be given in the lecture hall HG F5 and live broadcast on [Zoom](https://ethz.zoom.us/j/62666771947); the password is available on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=18471) or in the live chat.
+Both lectures will be given in the lecture hall HG F1 and live broadcast on [Zoom](https://ethz.zoom.us/j/62666771947); the password is available on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=18471) or in the live chat.
 
 Lectures will be recorded. Recording will be uploaded to the course [Polybox folder](https://polybox.ethz.ch/index.php/s/yuxFy1MWOHB6aGc?), whose password you can find on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=18471) as well.
 
