@@ -137,8 +137,8 @@ We encourage you to sign up and participate in the discussions there.
       <td>
         <a href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00113/43379/The-Galactic-Dependencies-Treebanks-Getting-More" target="_blank">Wang and Eisner (2016)</a>, 
         <a href="https://aclanthology.org/N19-1356/" target="_blank">Ravfogel et al. (2019)</a>, 
-        <a href="https://aclanthology.org/2021.acl-long.38.pdf" target="_blank">White and Cotterell (2021)</a> 
-        <a href="https://arxiv.org/pdf/2207.02098.pdf" target="_blank">Delétang et al. (2022)</a> 
+        <a href="https://aclanthology.org/2021.acl-long.38.pdf" target="_blank"><b>White and Cotterell (2021)</b></a>, 
+        <a href="https://arxiv.org/pdf/2207.02098.pdf" target="_blank"><b>Delétang et al. (2022)</b></a> 
       </td>
     </tr>    
     <tr>
