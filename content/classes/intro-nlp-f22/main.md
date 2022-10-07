@@ -479,29 +479,29 @@ The submission links are:
     <tr>
       <th scope="row">4</th>
       <td>19.10.22</td>
-      <td>Assignment 2</td>
-      <td>David Wissel</td>
+      <td><b>No tutorials</b></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">5</th>
       <td>26.10.22</td>
-      <td>Assignment 2</td>
-      <td>David Wissel</td>
+      <td><b>No tutorials</b></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">6</th>
       <td>02.11.22</td>
-      <td>Assignment 3</td>
-      <td>Alexandra Butoi and Anej Svete</td>
+      <td>Assignment 2 and Assignment 3</td>
+      <td>David Wissel, Alexandra Butoi, and Anej Svete</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">7</th>
       <td>09.11.22</td>
-      <td>Assignment 3</td>
-      <td>Alexandra Butoi and Anej Svete</td>
+      <td>Assignment 2 and Assignment 3</td>
+      <td>David Wissel, Alexandra Butoi, and Anej Svete</td>
       <td></td>
     </tr>
     <tr>
