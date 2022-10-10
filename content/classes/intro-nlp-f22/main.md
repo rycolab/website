@@ -219,7 +219,7 @@ The submission links are:
     </tr>
     <tr>
       <td>11.10.22</td>
-      <td>Log-Linear Modeling---Meet the Softmax</td>
+      <td><b>Lecture Cancelled</b></td>
       <td></td>
       <td></td>
       <td></td>
