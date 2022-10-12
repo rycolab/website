@@ -148,8 +148,8 @@ We encourage you to sign up and participate in the discussions there.
       <td></td>
       <td>
         <a href="https://www.inf.ed.ac.uk/teaching/courses/nlg/readings/ccgintro.pdf" target="_blank">Steedman (1996)</a>, 
-        <a href="https://homes.cs.washington.edu/~lsz/papers/zc-uai05.pdf" target="_blank">Zettlemoyer and Collins (2005)</a>, 
-        <a href="https://arxiv.org/abs/1711.00350" target="_blank">Lake and Baroni (2018)</a>, 
+        <a href="https://homes.cs.washington.edu/~lsz/papers/zc-uai05.pdf" target="_blank"><b>Zettlemoyer and Collins (2005)</b></a>, 
+        <a href="https://arxiv.org/abs/1711.00350" target="_blank"><b>Lake and Baroni (2018)</b></a>, 
         <a href="https://arxiv.org/abs/1902.07181" target="_blank">Andreas (2019)</a> 
       </td>
     </tr>  
