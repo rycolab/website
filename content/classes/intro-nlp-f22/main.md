@@ -22,7 +22,8 @@ The course constitutes an introduction to modern techniques in the field of natu
 **14. 9. 2022** &emsp; Class website is online!  
 **19. 9. 2022** &emsp; [Assignment 1](https://drive.google.com/file/d/1DYHnHOWfVgPIfz0YhcfH_dMvNpN7ES8M/view?usp=sharing) has been released! See the [public github repository](https://github.com/rycolab/intro-nlp-f22) for the accompanying code.  
 **25. 9. 2022** &emsp; [Assignment 2](https://drive.google.com/file/d/1MLIRq5FTfCPcipY5ShQDWH5NzQlSlMHu/view?usp=sharing) has been released!  
-**25. 9. 2022** &emsp; [Recordings Polybox](https://polybox.ethz.ch/index.php/s/yuxFy1MWOHB6aGc?) has been created. The password can be found on Moodle.
+**25. 9. 2022** &emsp; [Recordings Polybox](https://polybox.ethz.ch/index.php/s/yuxFy1MWOHB6aGc?) has been created. The password can be found on Moodle.  
+**12. 10. 2022** &emsp; [Assignment 3](https://drive.google.com/file/d/1D6MRZd__YdkSu-WnMnPYcbU4FkP6Ci0U/view?usp=sharing) has been released!  
 
 ## Organisation
 
@@ -98,7 +99,7 @@ Assignment **sheets**:
 
 - [Assignment 1](https://drive.google.com/file/d/1DYHnHOWfVgPIfz0YhcfH_dMvNpN7ES8M/view?usp=sharing)  
 - [Assignment 2](https://drive.google.com/file/d/1MLIRq5FTfCPcipY5ShQDWH5NzQlSlMHu/view?usp=sharing)
-- Assignment 3  
+- [Assignment 3](https://drive.google.com/file/d/1D6MRZd__YdkSu-WnMnPYcbU4FkP6Ci0U/view?usp=sharing)  
 - Assignment 4  
 - Assignment 5  
 - Assignment 6  
