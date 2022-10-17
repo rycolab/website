@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Richard Futrell
+title: Kyle Mahowald
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: University of California, Irvine
-  url: "https://uci.edu/"
+- name: University of Texas, Austin
+  url: "https://www.utexas.edu/"
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,15 +27,9 @@ bio:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:rfutrell@uci.edu"  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/rljfutrell
 - icon: portrait
   icon_pack: fas
-  link: "http://socsci.uci.edu/~rfutrell/"
+  link: "https://mahowak.github.io/"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -52,7 +46,3 @@ user_groups:
 - Tutorial Leaders
 ---
 
-Richard Futrell is an Assistant Professor in the Department of Language Science at the University of California, Irvine. His research focuses on language processing in humans and machines.
-
-<!-- <img  class="avatar-small" src="kinkajou.jpg" style="float: center" />
- -->

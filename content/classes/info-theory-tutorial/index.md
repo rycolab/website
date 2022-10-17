@@ -1,6 +1,6 @@
 
 +++
-title = 'ESSLLI 2021'
+title = 'COLING 2022'
 summary = 'The *Information Theory in Linguistics* course focuses on the application of information-theoretic methods to natural language processing, emphasizing interdisciplinary connections with the field of linguistics.'
 
 type = "widget_page"
