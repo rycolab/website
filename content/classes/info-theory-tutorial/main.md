@@ -1,5 +1,5 @@
 +++
-title = 'Information Theory in Linguistics: Methods and Applications (COLING)'
+title = 'Information Theory in Linguistics: Methods and Applications (COLING 2022)'
 subtitle = '[COLING 2022](https://coling2022.org/Tutorial): October 12-17, 2022'
 
 
