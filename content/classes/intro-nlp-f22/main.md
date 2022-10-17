@@ -230,7 +230,7 @@ The submission links are:
       <th rowspan=2 scope="row">4</th>
       <td>17.10.22</td>
       <td>Sentiment Analysis with Multi-layer Perceptrons</td>
-      <td><a href="https://drive.google.com/file/d/1YcmNtg6UcqESmX43Fe9okNOiTScf8Vyj/view?usp=sharing" target="_blank">Lecture 4 (last year)</a></td>
+      <td><a href="https://drive.google.com/file/d/1C3y8f4bn6lwBbb8OgqIP1TUyszYGOCRS/view?usp=sharing" target="_blank">Lecture 4</a></td>
       <td>Eisenstein Ch. 3 and Ch. 4</br>Goodfellow, Bengio and Courville Ch. 6</td>
       <td></td>
       <td>
