@@ -58,7 +58,7 @@ email: ""
 user_groups:
 - Members
 - Lecturer
-- Lecturers
+- Tutorial Leaders
 - Current
 - Philosophy of Language and Computation Lecturers
 ---

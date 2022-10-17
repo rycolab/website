@@ -49,7 +49,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Lecturers
+- Tutorial Leaders
 ---
 
 Richard Futrell is an Assistant Professor in the Department of Language Science at the University of California, Irvine. His research focuses on language processing in humans and machines.

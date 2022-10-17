@@ -72,3 +72,7 @@ This graduate class, taught like a seminar, is designed to help you understand t
 ## [Natural Language Processing](/classes/intro-nlp-f22) 
 **ETH Zürich** <span class="middot-divider"></span> **Fall 2022**
 The course constitutes an introduction to modern techniques in the field of natural language processing (NLP). Our primary focus is on the algorithmic aspects of structured NLP models. The course is self-contained and designed to complement other machine learning courses at ETH Zürich, e.g., Deep Learning and Advanced Machine Learning. The course also has a strong focus on algebraic methods, e.g., semiring theory. In addition to machine learning, we also cover the linguistic background necessary for reading the NLP literature.
+
+## [Information Theory in Linguistics: Methods and Applications](/classes/info-theory-tutorial) 
+**COLING** <span class="middot-divider"></span> **2022**
+This tutorial focuses on the application of information-theoretic methods to natural language processing, emphasizing interdisciplinary connections with the field of linguistics.
