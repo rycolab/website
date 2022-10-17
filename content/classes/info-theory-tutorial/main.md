@@ -18,9 +18,6 @@ Since Shannon originally proposed his mathematical theory of communication in th
 
 <br/>
 
-<!-- ## [Slides](https://drive.google.com/file/d/1d_wBMO407mVoKT_HcpBq3ruZlrqS57ed/view?usp=sharing)
-
-<br/> -->
 
 ## Syllabus 
 
@@ -51,6 +48,12 @@ Since Shannon originally proposed his mathematical theory of communication in th
       <th scope="row">Module 4</th>
       <td>Case Studies in Communication</td>
       <td><a href="https://drive.google.com/file/d/12mfq8Fai5_a_qzbheqirflbDDULxlQbh/view?usp=sharing" target="_blank">Slides</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">Conclusion</th>
+      <td>Concluding Remarks</td>
+      <td><a href="https://drive.google.com/file/d/1ShQY1FMbssDP5i3Hl5E3_F6hQffeQhm8/view?usp=sharing" target="_blank">Slides</a></td>
       <td></td>
     </tr>
 </tbody>
