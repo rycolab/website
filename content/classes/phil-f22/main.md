@@ -106,7 +106,7 @@ We encourage you to sign up and participate in the discussions there.
       <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Language and Logic: Formal Representations of Meaning</b></td>
       <td>Meaning: Between Sense and Denotation</td>
       <td>
-        <a href="https://drive.google.com/file/d/11XczrgPyj6FIrUEjP13a83u1HqocbcEL/view?usp=sharing" target="_blank">Frege Presentation Slides</a> 
+        <a href="https://drive.google.com/file/d/11XczrgPyj6FIrUEjP13a83u1HqocbcEL/view?usp=sharing" target="_blank">Frege Presentation Slides</a>, 
         <a href="https://drive.google.com/file/d/1_5l7JosB2klXYNKFg7XQl1m25LJmqa0E/view?usp=sharing" target="_blank">Russell Presentation Slides</a> 
       </td>
       <td>
@@ -119,7 +119,7 @@ We encourage you to sign up and participate in the discussions there.
       <th scope="row">3</th>
       <td>04.10.22</td>
       <td>Formal and Natural Language</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1XE3jPBGyoMfyGAhvV3eBdxlJqCoG89f4/view?usp=sharing" target="_blank">Ajdukiewicz Presentation Slides</a></td>
       <td>
         <a href="https://drive.google.com/file/d/1Mx5ue6RsajlMual7L3OfSGECbxx0Qzwq/view?usp=sharing" target="_blank"><b>Ajdukiewicz (1936)</b></a>, 
         <a href="https://drive.google.com/file/d/1CsT6qzW4QwYVl_8uKLqSWc4Yy1QA2OtG/view?usp=sharing" target="_blank">Carnap (1947)</a>, 
