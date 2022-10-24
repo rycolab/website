@@ -187,6 +187,7 @@ We encourage you to sign up and participate in the discussions there.
       <td>Meaning and Form</td>
       <td></td>
       <td>
+        <a href="https://aclanthology.org/J01-2001.pdf" target="_blank"><b>Goldsmith et al. (2001)</b></a>, 
         <a href="https://www.mit.edu/~rplevy/papers/gutierrez-levy-bergen-2016-acl.pdf" target="_blank">Gutiérrez et al. (2016)</a>, 
         <a href="https://aclanthology.org/P19-1171.pdf" target="_blank">Pimentel et al. (2019)</a>, 
         <a href="https://ojs.aaai.org//index.php/AAAI/article/view/4660" target="_blank">Mielke and Eisner (2019)</a>, 
