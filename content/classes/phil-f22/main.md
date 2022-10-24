@@ -145,7 +145,9 @@ We encourage you to sign up and participate in the discussions there.
       <th scope="row">5</th>
       <td>18.10.22</td>
       <td>Compositionality and Combinatory Categorial Grammar</td>
-      <td></td>
+      <td>
+        <a href="https://drive.google.com/file/d/1JZqqMI31pOtcEZC2fGbUYCeI1dkGFRtR/view?usp=sharing" target="_blank">CCG Presentation Slides</a>
+      </td>
       <td>
         <a href="https://www.inf.ed.ac.uk/teaching/courses/nlg/readings/ccgintro.pdf" target="_blank">Steedman (1996)</a>, 
         <a href="https://homes.cs.washington.edu/~lsz/papers/zc-uai05.pdf" target="_blank"><b>Zettlemoyer and Collins (2005)</b></a>, 
