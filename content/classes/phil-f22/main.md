@@ -119,7 +119,8 @@ We encourage you to sign up and participate in the discussions there.
       <th scope="row">3</th>
       <td>04.10.22</td>
       <td>Formal and Natural Language</td>
-      <td><a href="https://drive.google.com/file/d/1XE3jPBGyoMfyGAhvV3eBdxlJqCoG89f4/view?usp=sharing" target="_blank">Ajdukiewicz Presentation Slides</a></td>
+      <td><a href="https://drive.google.com/file/d/1XE3jPBGyoMfyGAhvV3eBdxlJqCoG89f4/view?usp=sharing" target="_blank">Ajdukiewicz Presentation Slides</a>,
+      <a href="https://drive.google.com/file/d/18uYUOAOrmpoZ1d2B9qmdp5FrvX02nw9J/view?usp=sharing" target="_blank">Montague Presentation Slides</a></td>
       <td>
         <a href="https://drive.google.com/file/d/1Mx5ue6RsajlMual7L3OfSGECbxx0Qzwq/view?usp=sharing" target="_blank"><b>Ajdukiewicz (1936)</b></a>, 
         <a href="https://drive.google.com/file/d/1CsT6qzW4QwYVl_8uKLqSWc4Yy1QA2OtG/view?usp=sharing" target="_blank">Carnap (1947)</a>, 
@@ -160,7 +161,10 @@ We encourage you to sign up and participate in the discussions there.
       <td>25.10.22</td>
       <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Structuralism: The Search for the Right Units</b></td>
       <td>Structural Dualities</td>
-      <td></td>
+      <td>
+      <a href="https://drive.google.com/file/d/1peLSUTtcPFB9htOaRT-1euZ4S4oNy3Oz/view?usp=sharing" target="_blank">Saussure Presentation Slides</a>,
+      <a href="https://drive.google.com/file/d/19qx9A9w3pjBVHHIt785lMEicGqYGaoeF/view?usp=sharing" target="_blank">Origin of Language Presentation Slides</a>
+      </td>
       <td>
         <a href="https://drive.google.com/file/d/1adLFTigLCJumeEi7D8gDzPprgP1eA_Uu/view?usp=sharing" target="_blank"><b>Saussure (1916)</b></a>, 
         <a href="https://drive.google.com/file/d/1Dp-AQVrZ5JBZNQW0sIqp-ANrnhldBpIr/view?usp=sharing" target="_blank">Saussure (1916) in French</a>, 
