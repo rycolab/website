@@ -163,7 +163,7 @@ We encourage you to sign up and participate in the discussions there.
       <td>Structural Dualities</td>
       <td>
       <a href="https://drive.google.com/file/d/1peLSUTtcPFB9htOaRT-1euZ4S4oNy3Oz/view?usp=sharing" target="_blank">Saussure Presentation Slides</a>,
-      <a href="https://drive.google.com/file/d/19qx9A9w3pjBVHHIt785lMEicGqYGaoeF/view?usp=sharing" target="_blank">Origin of Language Presentation Slides</a>
+      <a href="https://drive.google.com/file/d/19qx9A9w3pjBVHHIt785lMEicGqYGaoeF/view?usp=sharing" target="_blank">Origin of Speech Presentation Slides</a>
       </td>
       <td>
         <a href="https://drive.google.com/file/d/1adLFTigLCJumeEi7D8gDzPprgP1eA_Uu/view?usp=sharing" target="_blank"><b>Saussure (1916)</b></a>, 
