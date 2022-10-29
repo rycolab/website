@@ -134,7 +134,7 @@ We encourage you to sign up and participate in the discussions there.
       <th scope="row">4</th>
       <td>11.10.22</td>
       <td>Artificial Language Learning</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1Y7oop5qD42EZqvGPGWcB92dymWgb5bR2/view?usp=share_link" target="_blank">Modelling Artificial and Natural Languages Presentation Slides</a></td>
       <td>
         <a href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00113/43379/The-Galactic-Dependencies-Treebanks-Getting-More" target="_blank">Wang and Eisner (2016)</a>, 
         <a href="https://aclanthology.org/N19-1356/" target="_blank">Ravfogel et al. (2019)</a>, 
