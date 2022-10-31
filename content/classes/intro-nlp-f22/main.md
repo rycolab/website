@@ -24,6 +24,8 @@ The course constitutes an introduction to modern techniques in the field of natu
 **25. 9. 2022** &emsp; [Assignment 2](https://drive.google.com/file/d/1MLIRq5FTfCPcipY5ShQDWH5NzQlSlMHu/view?usp=sharing) has been released!  
 **25. 9. 2022** &emsp; [Recordings Polybox](https://polybox.ethz.ch/index.php/s/yuxFy1MWOHB6aGc?) has been created. The password can be found on Moodle.  
 **12. 10. 2022** &emsp; [Assignment 3](https://drive.google.com/file/d/1D6MRZd__YdkSu-WnMnPYcbU4FkP6Ci0U/view?usp=sharing) has been released!  
+**31. 10. 2022** &emsp; [Assignment 4](https://drive.google.com/file/d/1oSwLHYinFf24QK8a3EKSjUuBDh1I2mce/view?usp=share_link) has been released!  
+**31. 10. 2022** &emsp; [Assignment grading rubric](https://drive.google.com/file/d/1LGy0TL7Y4yUSK4n5zySg4PtlnXYZrgVF/view?usp=share_link) has been released!  
 
 ## Organisation
 
@@ -92,6 +94,7 @@ There will be **6** assignments which will be released roughly every two weeks. 
 - **Assignment 5 and 6**: January 15th
 
 Only your highest-scoring 4 assignments will count towards your grade; each will be weighted equally. So, in principle, you may opt to not turn in 2 out of the 6 assignments without any effect on your grade. <ins>***Note***</ins>: Even though we plan to grade your submissions within one month, we advise you not to wait for your grades to be returned before you decide to tackle the next assignments. In essence, do not base your submission strategy on our grading estimates!
+The assignments will be graded according to the pre-determined [Assignment grading rubric](https://drive.google.com/file/d/1LGy0TL7Y4yUSK4n5zySg4PtlnXYZrgVF/view?usp=share_link).
 
 The class assignments were crafted to dovetail nicely with the lecture contents and, moreover, to complement the lectures through a more hands-on approach to the material. Each assignment has a theory portion, which will generally involve derivations or proofs related to the material, and a coding portion where you will implement a working model for one of the NLP tasks discussed in the lecture. The theory and the coding halves of the assignments will be weighed equally.
 
@@ -100,7 +103,7 @@ Assignment **sheets**:
 - [Assignment 1](https://drive.google.com/file/d/1DYHnHOWfVgPIfz0YhcfH_dMvNpN7ES8M/view?usp=sharing)  
 - [Assignment 2](https://drive.google.com/file/d/1MLIRq5FTfCPcipY5ShQDWH5NzQlSlMHu/view?usp=sharing)
 - [Assignment 3](https://drive.google.com/file/d/1D6MRZd__YdkSu-WnMnPYcbU4FkP6Ci0U/view?usp=sharing)  
-- Assignment 4  
+- [Assignment 4](https://drive.google.com/file/d/1oSwLHYinFf24QK8a3EKSjUuBDh1I2mce/view?usp=share_link)  
 - Assignment 5  
 - Assignment 6  
 
