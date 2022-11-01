@@ -286,7 +286,7 @@ The submission links are:
         </td>
     </tr>
     <tr>
-      <td>01.11.22</td>
+      <td>01.11.22 <b>ONLINE ONLY</b></td>
       <td>Part-of-Speech Tagging with CRFs</td>
       <td></td>
       <td></td>
