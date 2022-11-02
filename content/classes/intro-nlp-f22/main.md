@@ -294,8 +294,28 @@ The submission links are:
       <td></td>
     </tr>
     <tr>
-      <th rowspan=2 scope="row">7</th>
+      <th rowspan=2 scope="row">10</th>
       <td>07.11.22</td>
+      <td>Transliteration with WFSTs</td>
+      <td><a href="https://drive.google.com/file/d/1SBZGZnkRbWrQaBYicocCpG15EcFSHxme/view?usp=sharing" target="_blank">Lecture 10 (last year)</a></td>
+      <td>Eisenstein Ch. 9</td>
+      <td><a href="https://www.aclweb.org/anthology/J98-4003.pdf" target="_blank">Knight and Graehl (1998)</a></br>
+        <a href="https://cs.nyu.edu/~mohri/pub/hbka.pdf" target="_blank">Mohri, Pereira and Riley (2008)</a></td>
+      <td>
+      <!-- <a href="https://drive.google.com/file/d/1zsJwrGte2375agRpa7TgV-Me-FaWhSvX/view?usp=sharing" target="_blank">Exercises</a> -->
+      </td>
+    </tr>
+    <tr>
+      <td>08.11.22</td>
+      <td>Transliteration with WFSTs</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan=2 scope="row">7</th>
+      <td>14.11.22</td>
       <td>Context-Free Parsing with CKY</td>
       <td><a href="https://drive.google.com/file/d/1w-yfftBJPzNDAK8zdaX9aRa2n6ZdmYvP/view?usp=sharing">Lecture 7 (last year)</a></td>
       <td>Eisenstein Ch. 10</td>
@@ -309,7 +329,7 @@ The submission links are:
       </td>
     </tr>
     <tr>
-      <td>08.11.22</td>
+      <td>15.11.22</td>
       <td>Context-Free Parsing with CKY</td>
       <td></td>
       <td></td>
@@ -318,7 +338,7 @@ The submission links are:
     </tr>
     <tr>
       <th rowspan=2 scope="row">8</th>
-      <td>14.11.22</td>
+      <td>21.11.22</td>
       <td>Dependency Parsing with the Matrix-Tree Theorem</td>
       <td><a href="https://drive.google.com/file/d/1GdCIUqjju_2hqCPK_WfqBLpl9yx2COfe/view?usp=sharing" target="_blank">Lecture 8 (last year)</a></td>
       <td>Eisenstein Ch. 11</td>
@@ -331,7 +351,7 @@ The submission links are:
       </td>
     </tr>
     <tr>
-      <td>15.11.22</td>
+      <td>21.11.22</td>
       <td>Dependency Parsing with the Matrix-Tree Theorem</td>
       <td></td>
       <td></td>
@@ -340,7 +360,7 @@ The submission links are:
     </tr>
     <tr>
       <th rowspan=2 scope="row">9</th>
-      <td>21.11.22</td>
+      <td>28.11.22</td>
       <td>Semantic Parsing with CCGs</td>
       <td><a href="https://drive.google.com/file/d/1e7RVwqWpvP7wBmYEtWFM0DWe7brwoETu/view?usp=sharing" target="_blank">Lecture 9 (last year)</a></td>
       <td>Eisenstein Ch. 9.3 and 12</td>
@@ -351,28 +371,8 @@ The submission links are:
       <!-- <a href="https://drive.google.com/file/d/1mK98TyTLHJD-SJJBkUMUH2_2dLcF1QkA/view?usp=sharing" target="_blank">Exercises</a> -->
       </td>
     <tr>
-      <td>22.11.22</td>
-      <td>Semantic Parsing with CCGs</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th rowspan=2 scope="row">10</th>
-      <td>28.11.22</td>
-      <td>Transliteration with WFSTs</td>
-      <td><a href="https://drive.google.com/file/d/1SBZGZnkRbWrQaBYicocCpG15EcFSHxme/view?usp=sharing" target="_blank">Lecture 10 (last year)</a></td>
-      <td>Eisenstein Ch. 9</td>
-      <td><a href="https://www.aclweb.org/anthology/J98-4003.pdf" target="_blank">Knight and Graehl (1998)</a></br>
-        <a href="https://cs.nyu.edu/~mohri/pub/hbka.pdf" target="_blank">Mohri, Pereira and Riley (2008)</a></td>
-      <td>
-      <!-- <a href="https://drive.google.com/file/d/1zsJwrGte2375agRpa7TgV-Me-FaWhSvX/view?usp=sharing" target="_blank">Exercises</a> -->
-      </td>
-    </tr>
-    <tr>
       <td>29.11.22</td>
-      <td>Transliteration with WFSTs</td>
+      <td>Semantic Parsing with CCGs</td>
       <td></td>
       <td></td>
       <td></td>
