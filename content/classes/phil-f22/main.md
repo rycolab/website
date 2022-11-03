@@ -195,7 +195,7 @@ We encourage you to sign up and participate in the discussions there.
         <a href="https://www.mit.edu/~rplevy/papers/gutierrez-levy-bergen-2016-acl.pdf" target="_blank">Gutiérrez et al. (2016)</a>, 
         <a href="https://aclanthology.org/P19-1171.pdf" target="_blank">Pimentel et al. (2019)</a>, 
         <a href="https://ojs.aaai.org//index.php/AAAI/article/view/4660" target="_blank">Mielke and Eisner (2019)</a>, 
-        <a href="https://aclanthology.org/2021.naacl-main.349/" target="_blank">Pimentel et al. (2021)</a>, 
+        <a href="https://aclanthology.org/2021.naacl-main.349/" target="_blank"><b>Pimentel et al. (2021)</b></a>, 
         <a href="https://aclanthology.org/2021.findings-acl.326.pdf" target="_blank">Nikkarinen et al. (2021)</a> 
       </td>
     </tr>  
@@ -206,7 +206,7 @@ We encourage you to sign up and participate in the discussions there.
       <td></td>
       <td>
         <a href="https://arxiv.org/abs/1508.06615" target="_blank">Kim et al. (2015)</a>, 
-        <a href="https://aclanthology.org/P16-1162/" target="_blank">Sennrich et al. (2016)</a>, 
+        <a href="https://aclanthology.org/P16-1162/" target="_blank"><b>Sennrich et al. (2016)</b></a>, 
         <a href="https://aclanthology.org/D18-1278.pdf" target="_blank">Vania et al. (2018)</a>, 
         <a href="https://arxiv.org/abs/2112.10508" target="_blank">Mielke et al. (2021)</a> 
       </td>
