@@ -205,9 +205,9 @@ We encourage you to sign up and participate in the discussions there.
       <td>Words, Characters, or Something In Between</td>
       <td></td>
       <td>
-        <a href="https://arxiv.org/abs/1508.06615" target="_blank">Kim et al. (2015)</a>, 
+        <a href="https://arxiv.org/abs/1508.06615" target="_blank"><b>Kim et al. (2015)</b></a>, 
         <a href="https://aclanthology.org/P16-1162/" target="_blank"><b>Sennrich et al. (2016)</b></a>, 
-        <a href="https://aclanthology.org/D18-1278.pdf" target="_blank">Vania et al. (2018)</a>, 
+        <a href="https://aclanthology.org/D18-1278.pdf" target="_blank"><b>Vania et al. (2018)</b></a>, 
         <a href="https://arxiv.org/abs/2112.10508" target="_blank">Mielke et al. (2021)</a> 
       </td>
     </tr>   
