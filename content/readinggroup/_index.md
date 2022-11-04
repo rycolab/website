@@ -14,12 +14,25 @@ profile = false
 
 +++
 
-**Time:** Wed 12-13h Hybrid
+**Time:** Friday 9-10h Hybrid
 
+## Reading List 2022
 
-## Reading List
+<style>
+    table {
+        width: 100%;
+    }
+</style>
 
+| Date      | Presenter | Topic | Title | Slides |
+| ----------- | ----------- | ----------- |----------- |--------- |
+| <nobr> November 4 </nobr> | Alex | Pragmatics / RSA | [Pragmatic Language Interpretation as Probabilistic Inference](https://doi.org/10.1016/j.tics.2016.08.005) <br> [Pragmatically Informative Text Generation](https://arxiv.org/pdf/1904.01301.pdf) | |
+| October 28 | <nobr> Eleanor / Eric Malmi </nobr> | Generation / Decoding | [Text Generation with Text-Editing Models](https://text-editing.github.io/) | |
+| October 21 | Afra | Generation / Decoding | [Diffusion-LM Improves Controllable Text Generation](https://arxiv.org/pdf/2205.14217.pdf) |  |
+| October 14 | Clara | Generation / Decoding | [Structured Denoising Diffusion Models in Discrete State-Spaces](https://openreview.net/forum?id=h7-XixPCAL) | |
+| October 7 | Vésteinn | <nobr> Generation / Decoding </nobr> | [CoNT: Contrastive Neural Text Generation](https://arxiv.org/abs/2205.14690) |  |
 
+<!-- 
 <table class="table" style='word-wrap:break-word'>
   <thead>
     <tr>
@@ -199,4 +212,4 @@ profile = false
       <td></td>
     </tr>
   </tbody>
-</table>
+</table> -->
