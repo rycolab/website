@@ -499,7 +499,7 @@ The submission links are:
       <td>02.11.22</td>
       <td>Assignment 2 and Assignment 3</td>
       <td>David Wissel, Alexandra Butoi, and Anej Svete</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1Xv5pmNVhZUQmO_BehWn6DCpMwQWZOOPm/view?usp=share_link" target="_blank">Assignment 2 Slides</a></td>
     </tr>
     <tr>
       <th scope="row">7</th>
