@@ -36,6 +36,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:asvete@ethz.ch"  # For a direct email link, use "mailto:test@example.org".
+- icon: portrait
+  icon_pack: fas
+  link: https://anejsvete.github.io/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/anejsvete
