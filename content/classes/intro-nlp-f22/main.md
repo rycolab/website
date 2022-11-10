@@ -507,7 +507,7 @@ The submission links are:
       <td>09.11.22</td>
       <td>Assignment 2 and Assignment 3</td>
       <td>David Wissel, Alexandra Butoi, and Anej Svete</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/12o9AwmW9wwzreday7kLs-7F63WwnFoTC/view?usp=share_link" target="_blank">Transliteration Slides</a></td>
     </tr>
     <tr>
       <th scope="row">8</th>
