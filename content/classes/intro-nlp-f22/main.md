@@ -318,7 +318,7 @@ The submission links are:
       <th rowspan=2 scope="row">8</th>
       <td>14.11.22</td>
       <td>Context-Free Parsing with CKY</td>
-      <td><a href="https://drive.google.com/file/d/1w-yfftBJPzNDAK8zdaX9aRa2n6ZdmYvP/view?usp=sharing">Lecture 7 (last year)</a></td>
+      <td><a href="https://drive.google.com/file/d/1qhLuWMK6nEWO7Xubajx8WTpUZzZv2uQo/view?usp=share_link">Lecture 8</a></td>
       <td>Eisenstein Ch. 10</td>
       <td><a href="http://www.cs.columbia.edu/~mcollins/io.pdf" target="_blank">The Inside-Outside Algorithm</a></br>
         <a href="https://www.cs.jhu.edu/~jason/465/PowerPoint/lect08-parse.ppt" target="_blank">Jason Eisner’s Slides</a></br>
