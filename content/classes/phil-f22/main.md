@@ -176,7 +176,8 @@ We encourage you to sign up and participate in the discussions there.
       <th scope="row">7</th>
       <td>01.11.22</td>
       <td>Linguistic Units</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1OXI1GGidvmn7_7sxgpuXhLOh_D_N_zsq/view?usp=share_link" target="_blank">Linguistic Units Presentation Slides</a>
+      </td>
       <td>
         <a href="https://drive.google.com/file/d/1HGu3-ttI0TfJyOwW8e47BPqOrd7mir-0/view?usp=sharing" target="_blank">Hjelmslev (1943)</a>, 
         <a href="https://drive.google.com/file/d/1fhWpIoLyEVKxKnXh04EYhgqTZ6vlp1yl/view?usp=sharing" target="_blank"><b>Harris (1954)</b></a>, 
@@ -204,7 +205,8 @@ We encourage you to sign up and participate in the discussions there.
       <th scope="row">9</th>
       <td>15.11.22</td>
       <td>Words, Characters, or Something In Between</td>
-      <td></td>
+      <td>
+      </td>
       <td>
         <a href="https://arxiv.org/abs/1508.06615" target="_blank"><b>Kim et al. (2015)</b></a>, 
         <a href="https://aclanthology.org/P16-1162/" target="_blank"><b>Sennrich et al. (2016)</b></a>, 
