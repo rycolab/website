@@ -90,8 +90,8 @@ Solutions for the assignments will <ins>***not***</ins> be provided (they will b
 There will be **6** assignments which will be released roughly every two weeks. We impose three firm deadlines for handing in your solutions:
 
 - **Assignment 1**: November 15th
-- **Assignment 2, 3, and 4**: December 15th
-- **Assignment 5 and 6**: January 15th
+- **Assignments 2 and 3**: December 15th
+- **Assignments 4, 5, and 6**: January 15th
 
 Only your highest-scoring 4 assignments will count towards your grade; each will be weighted equally. So, in principle, you may opt to not turn in 2 out of the 6 assignments without any effect on your grade. <ins>***Note***</ins>: Even though we plan to grade your submissions within one month, we advise you not to wait for your grades to be returned before you decide to tackle the next assignments. In essence, do not base your submission strategy on our grading estimates!
 The assignments will be graded according to the pre-determined [Assignment grading rubric](https://drive.google.com/file/d/1LGy0TL7Y4yUSK4n5zySg4PtlnXYZrgVF/view?usp=share_link).
@@ -303,7 +303,7 @@ The submission links are:
       <a href="https://www.aclweb.org/anthology/J98-4003.pdf" target="_blank">Knight and Graehl (1998)</a></br>
         <a href="https://cs.nyu.edu/~mohri/pub/hbka.pdf" target="_blank">Mohri, Pereira and Riley (2008)</a></td>
       <td>
-      <!-- <a href="https://drive.google.com/file/d/1zsJwrGte2375agRpa7TgV-Me-FaWhSvX/view?usp=sharing" target="_blank">Exercises</a> -->
+      <a href="https://drive.google.com/file/d/1zsJwrGte2375agRpa7TgV-Me-FaWhSvX/view?usp=sharing" target="_blank">Exercises</a>
       </td>
     </tr>
     <tr>
@@ -326,15 +326,15 @@ The submission links are:
         <a href="https://www.sciencedirect.com/science/article/pii/S001999586780007X?via%3Dihub" target="_blank">Younger (1967)</a></br>
         <a href="http://www.softwarepreservation.org/projects/FORTRAN/CockeSchwartz_ProgLangCompilers.pdf" target="_blank">Cocke and Schwartz (1970)</a></td>
       <td>
-      <!-- <a href="https://drive.google.com/file/d/1dHfSe9_JchHs-4LD4gUgDVrCwf1G4t4L/view?usp=sharing" target="_blank">Exercises</a> -->
+      <a href="https://drive.google.com/file/d/1dHfSe9_JchHs-4LD4gUgDVrCwf1G4t4L/view?usp=sharing" target="_blank">Exercises</a>
       </td>
     </tr>
     <tr>
       <td>15.11.22</td>
-      <td>Context-Free Parsing with CKY</td>
+      <td>Pytorch Tutorial</td>
       <td></td>
       <td></td>
-      <td></td>
+      <td><a href="https://colab.research.google.com/drive/1FhFKkWPia6DhY6Qw0QtHEWE8Ts7FgNtS?usp=sharing" target="_blank">Notebook</a></td>
       <td></td>
     </tr>
     <tr>
@@ -348,7 +348,7 @@ The submission links are:
         <a href="https://www.aclweb.org/anthology/W07-2216/" target="_blank">McDonald and Satta (2007)</a></br>
         <a href="https://www.morganclaypool.com/doi/abs/10.2200/S00169ED1V01Y200901HLT002" target="_blank">McDonald, Kübler and Nivre (2009)</a></td>
       <td>
-      <!-- <a href="https://drive.google.com/file/d/1jd3FNdPrDkLQ7TB75svham8WDPqNmpxo/view?usp=sharing" target="_blank">Exercises</a> -->
+      <a href="https://drive.google.com/file/d/1jd3FNdPrDkLQ7TB75svham8WDPqNmpxo/view?usp=sharing" target="_blank">Exercises</a>
       </td>
     </tr>
     <tr>
