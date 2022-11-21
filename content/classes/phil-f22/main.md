@@ -191,7 +191,8 @@ We encourage you to sign up and participate in the discussions there.
       <td>08.11.22</td>
       <td>Meaning and Form</td>
       <td>
-      <a href="https://drive.google.com/file/d/1X9H8Kf3FgQR5WsNPVYukbvMPidLJZDdZ/view?usp=share_link" target="_blank">Goldsmith Presentation Slides</a></td>
+      <a href="https://drive.google.com/file/d/1X9H8Kf3FgQR5WsNPVYukbvMPidLJZDdZ/view?usp=share_link" target="_blank">Goldsmith Presentation Slides</a>
+      <a href="https://drive.google.com/file/d/1brPADXb77KwWNx0C_WxW0Xo4gtmklWHe/view?usp=share_link" target="_blank">Pimentel et al. (2021) Presentation Slides</a></td>
       <td>
         <a href="https://aclanthology.org/J01-2001.pdf" target="_blank"><b>Goldsmith (2001)</b></a>, 
         <a href="https://www.mit.edu/~rplevy/papers/gutierrez-levy-bergen-2016-acl.pdf" target="_blank">Gutiérrez et al. (2016)</a>, 
