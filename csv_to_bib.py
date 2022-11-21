@@ -85,6 +85,7 @@ def parse_reference(row, attributes_order):
 
 
 def guess_ref_type(ref):
+  print(ref)
   if ref.get('booktitle'):
     if "transactions" in ref.get('booktitle').lower():
       return 'article'
@@ -127,7 +128,7 @@ def to_bib(ref):
       continue
 
     if attr == "author":
-      all_authors = attr_value.replace('and ', ',').split(",") 
+      all_authors = attr_value.replace('and ', ',').split(",")
       bib_ref += '  %s = {' % attr
       for i, author in enumerate(all_authors):
         # in case of empty string
@@ -158,7 +159,7 @@ def csv_to_bib(csv_file, delimiter):
     for row in csv_reader:
       if len(''.join(row)) == 0: # skip leading empty lines
         continue
-      
+
       if not columns_found:
         # We assume all refs in a CSV are the same type (book, article, ...)
         columns = parse_headers(row)

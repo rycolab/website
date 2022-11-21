@@ -1,11 +1,21 @@
-@misc{ravfogel+al.icml22, 
-  title = {Linear Relaxed Adversarial Concept Erasure},
+@inproceedings{ravfogel+al.icml22, 
+  title = {Linear Adversarial Concept Erasure},
   venue = {ICML},
   year = {2022},
-  arXiv = {https://arxiv.org/pdf/2201.12091.pdf},
+  slides = {https://docs.google.com/presentation/d/15dwWs3X6NC_3OIE7j6-Yq1-JE9fQDVgvql0WN0EErU0/edit?usp=sharing},
+  video = {https://www.youtube.com/watch?v=S9QK2wvXLq0&feature=youtu.be},
+  code = {https://github.com/shauli-ravfogel/rlace-icml},
+  arXiv = {https://arxiv.org/abs/2201.12091},
   author = {Ravfogel, Shauli and 
 	Twiton, Michael and 
 	Goldberg, Yoav and 
 	Cotterell, Ryan},
-  url = {https://arxiv.org/pdf/2201.12091.pdf},
+  booktitle = {Proceedings of the 39th International Conference on Machine Learning},
+  month = {July},
+  publisher = {Proceedings of Machine Learning Research},
+  address = {Baltimore, United States},
+  volume = {162},
+  pages = {18400--18421},
+  abstract = {Modern neural models trained on textual data rely on pre-trained representations that emerge without direct supervision. As these representations are increasingly being used in real-world applications, the inability to \emph{control} their content becomes an increasingly important problem. We formulate the problem of identifying and erasing a linear subspace that corresponds to a given concept, in order to prevent linear predictors from recovering the concept. We model this problem as a constrained, linear minimax game, and show that existing solutions are generally not optimal for this task. We derive a closed-form solution for certain objectives, and propose a convex relaxation, R-LACE, that works well for others. When evaluated in the context of binary gender removal, the method recovers a low-dimensional subspace whose removal mitigates bias by intrinsic and extrinsic evaluation. We show that the method -- despite being linear -- is highly expressive, effectively mitigating bias in deep nonlinear classifiers while maintaining tractability and interpretability.},
+  url = {https://arxiv.org/abs/2201.12091},
 }

@@ -1,7 +1,7 @@
 ---
-title: 'A Word on Machine Ethics: A Response to Jiang et al. (2021)'
+title: On the Machine Learning of Ethical Judgments from Natural Language
 date: '2022-07-01'
-publishDate: '2022-05-23T14:37:55.390860Z'
+publishDate: '2022-11-20T23:29:30.997031Z'
 authors:
 - Zeerak Talat
 - Hagen Blix
@@ -11,12 +11,23 @@ authors:
 - Adina Williams
 publication_types:
 - '1'
-abstract: ''
+abstract: Ethics is one of the longest standing intellectual endeavors of humanity.
+  In recent years, the fields of AI and NLP have attempted to address issues of harmful
+  outcomes in machine learning systems that are made to interface with humans. One
+  recent approach in this vein is the construction of NLP morality models that can
+  take in arbitrary text and output a moral judgment about the situation described.
+  In this work, we offer a critique of such NLP methods for automating ethical decision-making.
+  Through an audit of recent work on computational approaches for predicting morality,
+  we examine the broader issues that arise from such efforts. We conclude with a discussion
+  of how machine ethics could usefully proceed in NLP, by focusing on current and
+  near-future uses of technology, in a way that centers around transparency, democratic
+  values, and allows for straightforward accountability.
 featured: false
 publication: '*Proceedings of the 2022 Conference of the North American Chapter of
   the Association for Computational Linguistics: Human Language Technologies*'
 links:
 - name: URL
   url: https://arxiv.org/abs/2111.04158
+url_pdf: https://arxiv.org/pdf/2111.04158.pdf
 ---
 

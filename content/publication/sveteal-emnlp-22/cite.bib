@@ -1,0 +1,17 @@
+@inproceedings{svete+al.emnlp22,
+ abstract = {Weighted finite-state automata (WSFAs) are commonly used in NLP. Failure transitions are a useful extension for compactly representing backoffs or interpolation in n-gram models and CRFs, which are special cases of WFSAs. The pathsum in ordinary acyclic WFSAs is efficiently computed by the backward algorithm in time O(∣E∣), where E is the set of transitions. However, this does not allow failure transitions, and preprocessing the WFSA to eliminate failure transitions could greatly increase ∣E∣. We extend the backward algorithm to handle failure transitions directly. Our approach is efficient when the average state has outgoing arcs for only a small fraction s ≪ 1 of the alphabet Σ. We propose an algorithm for general acyclic WFSAs which runs in O(∣E∣ + s∣Σ∣∣Q∣∣Tmax∣ log ∣Σ∣), where Q is the set of states and ∣Tmax∣ is the size of the largest connected component of failure transitions. When the failure transition topology satisfies a condition exemplified by CRFs, the ∣Tmax∣ factor can be dropped, and when the weight semiring is a ring, the log ∣Σ∣ factor can be dropped. In the latter case (ring-weighted acyclic WFSAs), we also give an alternative algorithm with complexity O(∣E∣ + ∣Σ∣∣Q∣ min(1, s∣πmax∣)), where ∣πmax∣ is the size of the longest failure path.},
+ address = {Abu Dhabi, United Arab Emirates},
+ author = {Svete, Anej and 
+Dayan, Benjamin and 
+Vieira, Tim and 
+Cotterell, Ryan and 
+Eisner, Jason},
+ booktitle = {Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing},
+ code = {https://github.com/rycolab/failure-backward/},
+ month = {December},
+ publisher = {Association for Computational Linguistics},
+ title = {Algorithms for Weighted Finite-State Automata with Failure Arcs},
+ venue = {EMNLP},
+ year = {2022}
+}
+
