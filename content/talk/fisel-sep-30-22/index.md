@@ -1,27 +1,28 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Talk by Miloš"
+title: "Encoder-decoder manipulations at TartuNLP"
 event: 
-event_url: TBA 
+event_url:
+location: OAS J33
 address: 
   street:
   city:
   region:
   postcode:
   country:
-summary: 
-abstract: TBA
+summary:
+abstract: "Overview of a couple of projects that involved transformer encoder and decoder recombination, analysis and exploitation. This includes modular and partially-shared encoders for machine translation, multilinguality analysis of BERT and GPT-like models as well as experiments on porting success of English large LMs to Estonian."
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-02-31T14:00:00+02:00
-date_end: 2022-01-31T15:00:00+02:00
+date: 2022-09-30T10:10:00+02:00
+date_end: 2022-09-30T10:40:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2022-07-19T23:46:48+02:00
+publishDate: 2022-11-21T19:00:00+02:00
 
-authors: ["Miloš Stanojević"]
+authors: ["Mark Fišel"]
 tags: []
 
 # Is this a featured event? (true/false)
@@ -44,10 +45,10 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides:
+url_slides: 
 
 url_code:
-url_pdf:
+url_pdf: 
 url_video:
 
 # Markdown Slides (optional).
@@ -55,7 +56,7 @@ url_video:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides:
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -66,3 +67,4 @@ projects: []
 ---
 
 ### Bio
+ Mark Fišel is head of NLP at University of Tartu (Estonia) with focus on machine translation, speech synthesis, large language model usage, tuning and analysis, etc

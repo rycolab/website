@@ -22,11 +22,12 @@ organizations:
 bio: PhD Student at ETH Zurich
 
 interests:
-- machine translation
-- natural language understanding
-- emotion classification
+- parsing
 - computational narratology
 - cultural economics
+- emotion classification
+- natural language understanding
+- machine translation
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -36,6 +37,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:eleftheria.tsipidi@inf.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
+- icon: google
+  icon_pack: fab
+  link: https://scholar.google.com/citations?user=QIthqREAAAAJ&hl=en
 
 
 
