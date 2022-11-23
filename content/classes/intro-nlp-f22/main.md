@@ -514,14 +514,14 @@ The submission links are:
       <td>16.11.22</td>
       <td>Assignment 4</td>
       <td>Franz Nowak</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1wxabDwwzZWnzSXBaOmRmrYEzqh1lEbxa/view?usp=share_link" target="_blank">Assignment 4 Slides Part 1</a></td>
     </tr>
     <tr>
       <th scope="row">9</th>
       <td>23.11.22</td>
       <td>Assignment 4</td>
       <td>Franz Nowak</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1bvzApvwQ7N-Xrrs1oQ6XEPOLFG3bZE86/view?usp=share_link" target="_blank">Assignment 4 Slides Part 2</a></td>
     </tr>
     <tr>
       <th scope="row">10</th>
