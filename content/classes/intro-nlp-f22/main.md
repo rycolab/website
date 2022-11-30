@@ -91,8 +91,8 @@ Solutions for the assignments will <ins>***not***</ins> be provided (they will b
 There will be **6** assignments which will be released roughly every two weeks. We impose three firm deadlines for handing in your solutions:
 
 - **Assignment 1**: November 15th
-- **Assignments 2 and 3**: December 15th
-- **Assignments 4, 5, and 6**: January 15th
+- **Assignment 2**: December 15th
+- **Assignments 3, 4, 5, and 6**: January 15th
 
 Only your highest-scoring 4 assignments will count towards your grade; each will be weighted equally. So, in principle, you may opt to not turn in 2 out of the 6 assignments without any effect on your grade. <ins>***Note***</ins>: Even though we plan to grade your submissions within one month, we advise you not to wait for your grades to be returned before you decide to tackle the next assignments. In essence, do not base your submission strategy on our grading estimates!
 The assignments will be graded according to the pre-determined [Assignment grading rubric](https://drive.google.com/file/d/1LGy0TL7Y4yUSK4n5zySg4PtlnXYZrgVF/view?usp=share_link).

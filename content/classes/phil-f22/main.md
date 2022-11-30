@@ -243,8 +243,8 @@ We encourage you to sign up and participate in the discussions there.
       <td>Parsing—NLP’s Original Leaderboard</td>
       <td></td>
       <td>
-        <a href="https://aclanthology.org/A00-2018.pdf" target="_blank">Charniak (2000)</a>, 
-        <a href="https://aclanthology.org/P03-1054/" target="_blank">Klein and Manning (2003)</a>, 
+        <a href="https://aclanthology.org/A00-2018.pdf" target="_blank"><b>Charniak (2000)</b></a>, 
+        <a href="https://aclanthology.org/P03-1054/" target="_blank"><b>Klein and Manning (2003)</b></a>, 
         <a href="https://aclanthology.org/P14-1022.pdf" target="_blank">Hall et al. (2014)</a>, 
         <a href="https://arxiv.org/abs/1412.7449" target="_blank"><b>Vinyals et al. (2014)</b></a>, 
         <a href="https://arxiv.org/abs/1602.07776" target="_blank"><b>Dyer et al. (2016)</b></a>, 
