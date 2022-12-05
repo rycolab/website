@@ -27,6 +27,7 @@ The course constitutes an introduction to modern techniques in the field of natu
 **31. 10. 2022** &emsp; [Assignment 4](https://drive.google.com/file/d/1oSwLHYinFf24QK8a3EKSjUuBDh1I2mce/view?usp=share_link) has been released!  
 **31. 10. 2022** &emsp; [Assignment grading rubric](https://drive.google.com/file/d/1LGy0TL7Y4yUSK4n5zySg4PtlnXYZrgVF/view?usp=share_link) has been released!  
 **26. 11. 2022** &emsp; [Assignment 5](https://drive.google.com/file/d/1_3sBvw6tTQ31Gvvhbed1x7Y67XFPexWA/view?usp=share_link) has been released!  
+**05. 12. 2022** &emsp; [Assignment 6](https://drive.google.com/file/d/1GRxEHIsJtZxbOa-V9hyG1RXKKtiaHnD6/view?usp=share_link) has been released!  
 
 ## Organisation
 
@@ -106,7 +107,7 @@ Assignment **sheets**:
 - [Assignment 3](https://drive.google.com/file/d/1D6MRZd__YdkSu-WnMnPYcbU4FkP6Ci0U/view?usp=sharing)  
 - [Assignment 4](https://drive.google.com/file/d/1oSwLHYinFf24QK8a3EKSjUuBDh1I2mce/view?usp=share_link)  
 - [Assignment 5](https://drive.google.com/file/d/1_3sBvw6tTQ31Gvvhbed1x7Y67XFPexWA/view?usp=share_link)  
-- Assignment 6  
+- [Assignment 6](https://drive.google.com/file/d/1GRxEHIsJtZxbOa-V9hyG1RXKKtiaHnD6/view?usp=share_link)  
 
 The **code** relating to the assignments will be published on the [public github repository](https://github.com/rycolab/intro-nlp-f22). You should fork the repository and pull the incoming changes whenever they are released. 
 
@@ -382,9 +383,9 @@ The submission links are:
     </tr>
     <tr>
       <th rowspan=2 scope="row">11</th>
-      <td>4.12.22</td>
+      <td>5.12.22</td>
       <td>Machine Translation with Transformers</td>
-      <td><a href="https://drive.google.com/file/d/1clflxhvjOn2liT5aRSbCAXyp73J6c2X3/view?usp=sharing" target="_blank">Lecture 11 (last year)</a></td>
+      <td><a href="https://drive.google.com/file/d/1C3sETXzMNKJxIJs9DDOUe5tl1TCyrOdB/view?usp=share_link" target="_blank">Lecture 11</a></td>
       <td>Eisenstein Ch. 18</td>
       <td><a href="https://www.amazon.com/gp/product/1108497322/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1108497322&linkCode=as2&tag=statismachint-20&linkId=ca7b8315b48f309c992019761c3ac4e4" target="_blank">Neural Machine Translation</a></br>
         <a href="https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf" target="_blank">Vaswani et al. (2017)</a></br>
@@ -394,7 +395,7 @@ The submission links are:
       </td>
     </tr>
     <tr>
-      <td>5.12.22</td>
+      <td>6.12.22</td>
       <td>Machine Translation with Transformers</td>
       <td></td>
       <td></td>
