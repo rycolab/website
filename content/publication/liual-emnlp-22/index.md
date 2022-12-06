@@ -46,7 +46,7 @@ abstract: In recent years, NLP has moved towards the application of language mod
   that makes it easier for the model to pick up on intra-structure dependencies.     Our
   method sets the new state of the art on named entity recognition, end-to-end relation
   extraction, and coreference resolution.
-publication: '*Findings of the Association for Computational Linguistics: EMNL 2022*'
+publication: '*Findings of the Association for Computational Linguistics: EMNLP 2022*'
 links:
 - name: URL
   url: https://arxiv.org/pdf/2210.14698
