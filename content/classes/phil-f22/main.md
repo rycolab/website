@@ -207,6 +207,7 @@ We encourage you to sign up and participate in the discussions there.
       <td>15.11.22</td>
       <td>Words, Characters, or Something In Between</td>
       <td>
+      <a href="https://drive.google.com/file/d/1y1-JnicQhzBxu-07aI6eTb710IlqUpPb/view?usp=share_link" target="_blank">Neural Machine Translation</a>
       </td>
       <td>
         <a href="https://arxiv.org/abs/1508.06615" target="_blank"><b>Kim et al. (2015)</b></a>, 
@@ -257,9 +258,10 @@ We encourage you to sign up and participate in the discussions there.
       <td>Computational Approaches to Human Syntactic Processing</td>
       <td></td>
       <td>
-        <a href="https://aclanthology.org/N01-1021/" target="_blank">Hale (2001)</a>, 
-        <a href="http://www.mit.edu/~rplevy/papers/levy-jaeger-2007.pdf" target="_blank">Levy and Jaeger (2007)</a>, 
-        <a href="https://compass.onlinelibrary.wiley.com/doi/10.1111/lnc3.12196" target="_blank">Hale (2016)</a> 
+        <a href="https://aclanthology.org/N01-1021/" target="_blank"><b>Hale (2001)</b></a>, 
+        <a href="http://www.mit.edu/~rplevy/papers/levy-jaeger-2007.pdf" target="_blank"><b>Levy and Jaeger (2007)</b></a>, 
+        <a href="https://compass.onlinelibrary.wiley.com/doi/10.1111/lnc3.12196" target="_blank"><b>Hale (2016)</b></a>, 
+        <a href="https://aclanthology.org/2021.emnlp-main.74.pdf" target="_blank"><b>Meister et al. (2021)</b></a> 
       </td>
     </tr> 
   </tbody>
