@@ -391,7 +391,7 @@ The submission links are:
         <a href="https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf" target="_blank">Vaswani et al. (2017)</a></br>
         <a href="https://www.aclweb.org/anthology/W18-2509/">Rush (2018)</a></td>
       <td>
-      <!-- <a href="https://drive.google.com/file/d/1Lk6W6zaOSkVd4-tDl0r75x3PU1frmoU1/view?usp=sharing" target="_blank">Exercises</a> -->
+      <a href="https://drive.google.com/file/d/1Lk6W6zaOSkVd4-tDl0r75x3PU1frmoU1/view?usp=sharing" target="_blank">Exercises</a>
       </td>
     </tr>
     <tr>
@@ -406,11 +406,11 @@ The submission links are:
       <th rowspan=2 scope="row">12</th>
       <td>12.12.22</td>
       <td>Axes of Modeling</td>
-      <td><a href="https://drive.google.com/file/d/1rS8ntv8N0phphXeSCY6ly4X965twXxbE/view?usp=sharing">Lecture 12 (last year)</a></td>
+      <td><a href="https://drive.google.com/file/d/1TgpjZgz_bgnD6zy2rgnJgmGxFrnSxTTu/view?usp=share_link">Lecture 12</a></td>
       <td>Review: Eisenstein Ch. 2</br>Goodfellow, Bengio and Courville Ch. 5 and 11</td>
       <td></td>
       <td>
-      <!-- <a href="https://drive.google.com/file/d/1ra2iP0f9HFCd2s9m0vouVuz39J-i42bZ/view?usp=sharing">Exercises</a> -->
+      <a href="https://drive.google.com/file/d/1ra2iP0f9HFCd2s9m0vouVuz39J-i42bZ/view?usp=sharing">Exercises</a>
       </td>
     </tr>
     <tr>
@@ -425,7 +425,7 @@ The submission links are:
       <th rowspan=2 scope="row">13</th>
       <td>19.12.22</td>
       <td>Bias and Fairness in NLP</td>
-      <td><a href="https://drive.google.com/file/d/1AOUrM7LyXfRg-ygPsy2_4jjwuj2lyiR4/view?usp=sharing" target="_blank">Lecture 13 (last year)</a></td>
+      <td><a href="https://drive.google.com/file/d/1ySF5gvhQs1XWKfvNO7jChTmjssWr14bW/view?usp=share_link" target="_blank">Lecture 13</a></td>
       <td></td>
       <td><a href="https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf" target="_blank">Bolukabasi et al. (2016)</a></br>
         <a href="https://arxiv.org/abs/1903.03862" target="_blank">Gonen and Goldberg (2019)</a></br>
