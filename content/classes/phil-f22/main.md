@@ -221,7 +221,7 @@ We encourage you to sign up and participate in the discussions there.
       <td>22.11.22</td>
       <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Recursive Structure: The Escherian Nature of Language</b></td>
       <td>Syntax and Computation</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1uSiXKMfBanbrm57mbMbjTI6vZxpWqryN/view?usp=share_link" target="_blank">Chomsky (1955) Presentation Slides</a> </td>
       <td>
         <a href="https://drive.google.com/file/d/1fp4e3d5aZRhjT0Vmc3MTNJmTVJaVatrV/view?usp=sharing" target="_blank"><b>Chomsky (1953)</b></a>, 
         <a href="https://drive.google.com/file/d/194dcoT3yT-lz6yH1aoN2k43ICIu1XVE7/view?usp=sharing" target="_blank"><b>Chomsky (1955)</b></a> 
@@ -242,7 +242,7 @@ We encourage you to sign up and participate in the discussions there.
       <th scope="row">12</th>
       <td>06.12.22</td>
       <td>Parsing—NLP’s Original Leaderboard</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1HgfGhPFmH7u77C-COqTWTsXXbPaZljDu/view?usp=share_link" target="_blank">Grammar in NLP Presentation Slides</a></td>
       <td>
         <a href="https://aclanthology.org/A00-2018.pdf" target="_blank"><b>Charniak (2000)</b></a>, 
         <a href="https://aclanthology.org/P03-1054/" target="_blank"><b>Klein and Manning (2003)</b></a>, 
