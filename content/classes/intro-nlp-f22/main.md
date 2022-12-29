@@ -530,14 +530,14 @@ The submission links are:
       <td>30.11.22</td>
       <td>Assignment 5</td>
       <td>Benjamin Dayan</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1cPqOYRMKeeUwvpS6kc1SzbZa7z5y_HpF/view?usp=share_link" target="_blank">Assignment 5 Slides</a></td>
     </tr>
     <tr>
       <th scope="row">11</th>
       <td>07.12.22</td>
       <td>Assignment 6</td>
       <td>Luca Malagutti</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1NaGwTjeG3BpptJsMWG_Tm7pjpAUOc7Zl/view?usp=share_link" target="_blank">Assignment 6 Slides</a></td>
     </tr>
     <tr>
       <th scope="row">12</th>
