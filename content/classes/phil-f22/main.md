@@ -176,7 +176,7 @@ We encourage you to sign up and participate in the discussions there.
       <th scope="row">7</th>
       <td>01.11.22</td>
       <td>Linguistic Units</td>
-      <td><a href="https://drive.google.com/file/d/1OXI1GGidvmn7_7sxgpuXhLOh_D_N_zsq/view?usp=share_link" target="_blank">Linguistic Units Presentation Slides</a>
+      <td><a href="https://drive.google.com/file/d/1OXI1GGidvmn7_7sxgpuXhLOh_D_N_zsq/view?usp=share_link" target="_blank">Linguistic Units Presentation Slides</a>, <a href="https://drive.google.com/file/d/1fMVH7Cxroyd_gOA7oIHqoZ2FCtuyox4e/view?usp=share_link" target="_blank">Greimas (1966) Presentation Slides</a> 
       </td>
       <td>
         <a href="https://drive.google.com/file/d/1HGu3-ttI0TfJyOwW8e47BPqOrd7mir-0/view?usp=sharing" target="_blank">Hjelmslev (1943)</a>, 
