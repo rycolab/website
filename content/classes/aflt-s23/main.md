@@ -192,9 +192,14 @@ Keep in mind that due to how late this date is, we cannot extend this deadline--
       <td>Weighted Finite-State Acceptors</td>
       <td>
       </td>
-      <td></td>
       <td>
+      </td>
+      <td>
+      <div id="literature2" style="display:none">
         <a href="https://www.cs.jhu.edu/~jason/papers/svete+al.emnlp22.pdf" target="_blank">Svete et al. (2022)</a></br>
+      <br/>  
+      </div>
+      <button id="button2" style="border:none;" onclick="myFunction('2')">Show</button>
       </td>
       <td>
       </td>
@@ -207,10 +212,14 @@ Keep in mind that due to how late this date is, we cannot extend this deadline--
       <a href="https://drive.google.com/file/d/19NkbBpbK2M65eXUIYE7tvO-1XvpMQ2Oh/view?usp=sharing" target="_blank">Chapter 2 (last year)</a></td>
       <td></td>
       <td>
+      <div id="literature3" style="display:none">
         <a href="https://cs.nyu.edu/~mohri/pub/jalc.pdf" target="_blank">Conway (1971)</a></br>
         <a href="https://www.sciencedirect.com/science/article/pii/0304397577900561" target="_blank">Lehmann (1977)</a></br>
         <a href="https://link.springer.com/content/pdf/10.1007/978-3-642-01492-5_6.pdf" target="_blank">Mohri (2009; §3)</a></br>
         <a href="https://mitpress.mit.edu/books/introduction-algorithms-third-edition" target="_blank">Cormen et al. (2009; §22.3)</a></br>
+      <br/>  
+      </div>
+      <button id="button3" style="border:none;" onclick="myFunction('3')">Show</button>
       </td>
       <td>
       </td>
@@ -222,6 +231,10 @@ Keep in mind that due to how late this date is, we cannot extend this deadline--
       <td></td>
       <td></td>
       <td>
+      <div id="literature4" style="display:none">
+      <br/>  
+      </div>
+      <button id="button4" style="border:none;" onclick="myFunction('4')">Show</button>
       </td>
       <td>
       </td>
@@ -235,9 +248,13 @@ Keep in mind that due to how late this date is, we cannot extend this deadline--
       </td>
       <td></td>
       <td>
+      <div id="literature5" style="display:none">
         <a href="https://aclanthology.org/J97-2003/" target="_blank">Mohri (1997)</a></br>
         <a href="https://www.sciencedirect.com/science/article/abs/pii/S0885230801901846" target="_blank">Mohri et al. (2002)</a></br>
         <a href="https://link.springer.com/content/pdf/10.1007/978-3-642-01492-5_6.pdf" target="_blank">Mohri (2009; §7.2)</a></br>
+      <br/>  
+      </div>
+      <button id="button5" style="border:none;" onclick="myFunction('5')">Show</button>
       </td>
       <td>
       </td>
@@ -249,7 +266,11 @@ Keep in mind that due to how late this date is, we cannot extend this deadline--
       <td></td>
       <td></td>
       <td>
+      <div id="literature6" style="display:none">
         <a href="https://dl.acm.org/doi/abs/10.5555/873977.873979" target="_blank">Allauzen and Mohri (2003)</a></br>
+      <br/>  
+      </div>
+      <button id="button6" style="border:none;" onclick="myFunction('6')">Show</button>
       </td>
       <td>
       </td>
@@ -260,8 +281,13 @@ Keep in mind that due to how late this date is, we cannot extend this deadline--
       <td>Determinization of Weighted Finite-state Automata (cont.)</td>
       <td>
       </td>
-      <td></td>
+      </td>
       <td>
+      <td>
+      <div id="literature7" style="display:none">
+      <br/>  
+      </div>
+      <button id="button7" style="border:none;" onclick="myFunction('7')">Show</button>
       </td>
       <td></td>
       <td></td>
@@ -274,6 +300,7 @@ Keep in mind that due to how late this date is, we cannot extend this deadline--
       </td>
       <td></td>
       <td>
+      <div id="literature8" style="display:none">
         <a href="https://www.sciencedirect.com/science/article/pii/0304397592901423" target="_blank">Revuz (1992)</a></br>
         <a href="https://www.di.ens.fr/~jv/HomePage/dea/MinimizeAutomata.pdf" target="_blank">Watson (1994)</a></br>
         <a href="https://www.degruyter.com/document/doi/10.1515/9781400882618-006/html" target="_blank">Moore (1958)</a></br>
@@ -286,6 +313,9 @@ Keep in mind that due to how late this date is, we cannot extend this deadline--
         <a href="https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers" target="_blank">Lafferty et al. (2001)</a></br>
         <a href="http://www.inference.org.uk/hmw26/papers/crf_intro.pdf" target="_blank">Wallach (2004)</a></br>
         <a href="https://proceedings.neurips.cc/paper/2004/file/eb06b9db06012a7a4179b8f3cb5384d3-Paper.pdf" target="_blank">Sarawagi and Cohen (2004)</a></br>
+      <br/>  
+      </div>
+      <button id="button8" style="border:none;" onclick="myFunction('8')">Show</button>
       </td>
       <td></td>
       <td></td>
@@ -297,6 +327,10 @@ Keep in mind that due to how late this date is, we cannot extend this deadline--
       </td>
       <td></td>
       <td>
+      <div id="literature9" style="display:none">
+      <br/>  
+      </div>
+      <button id="button9" style="border:none;" onclick="myFunction('9')">Show</button>
       </td>
       <td></td>
       <td></td>
@@ -309,6 +343,7 @@ Keep in mind that due to how late this date is, we cannot extend this deadline--
       </td>
       <td></td>
       <td>
+      <div id="literature10" style="display:none">
         <a href="https://en.wikipedia.org/wiki/Thompson%27s_construction" target="_blank">Wikipedia</a></br>
         <a href="http://www-m3.ma.tum.de/foswiki/pub/MN0506/WebHome/dijkstra.pdf" target="_blank">Dijkstra (1959)</a></br>
         <a href="https://aclanthology.org/W05-1506/" target="_blank">Huang (2008)</a></br>
@@ -318,6 +353,9 @@ Keep in mind that due to how late this date is, we cannot extend this deadline--
         <a href="https://aclanthology.org/P02-1001.pdf" target="_blank">Eisner (2002)</a></br>
         <a href="https://aclanthology.org/D09-1005/" target="_blank">Li and Eisner (2009)</a></br>
         <a href="https://www.cs.jhu.edu/~jason/papers/eisner.spnlp16.pdf" target="_blank">Eisner (2016)</a></br>
+      <br/>  
+      </div>
+      <button id="button10" style="border:none;" onclick="myFunction('10')">Show</button>
       </td>
       <td></td>
       <td></td>
@@ -329,6 +367,10 @@ Keep in mind that due to how late this date is, we cannot extend this deadline--
       </td>
       <td></td>
       <td>
+      <div id="literature11" style="display:none">
+      <br/>  
+      </div>
+      <button id="button11" style="border:none;" onclick="myFunction('11')">Show</button>
       </td>
       <td></td>
       <td></td>
@@ -340,7 +382,11 @@ Keep in mind that due to how late this date is, we cannot extend this deadline--
       <td><a href="https://drive.google.com/file/d/1y_ulTl2IccZWFgJqYVNuh4zeKTjLL1IG/view?usp=sharing" target="_blank">Chapter 6 (last year)</a></td>
       <td></td>
       <td>
+      <div id="literature12" style="display:none">
         <a href="https://link.springer.com/article/10.1007/s11168-008-9052-8" target="_blank">Nederhof and Satta (2008)</a></br>
+      <br/>  
+      </div>
+      <button id="button12" style="border:none;" onclick="myFunction('12')">Show</button>
       </td>
       <td></td>
       <td></td>
@@ -353,6 +399,7 @@ Keep in mind that due to how late this date is, we cannot extend this deadline--
       </td>
       <td></td>
       <td>
+      <div id="literature13" style="display:none">
         <a href="https://www.cs.jhu.edu/~jason/papers/eisner+blatz.fg06.pdf" target="_blank">Eisner and Blatz (2006; §6.3)</a></br>
         <a href="https://aclanthology.org/J95-2002/" target="_blank">Stolcke (1995; §4.7)</a></br>
         <a href="https://www.cs.jhu.edu/~jason/papers/eisner+blatz.fg06.pdf" target="_blank">Eisner and Blatz (2006; §6.5)</a></br>
@@ -361,6 +408,9 @@ Keep in mind that due to how late this date is, we cannot extend this deadline--
         <a href="https://aclanthology.org/1997.iwpt-1.18.pdf" target="_blank">Manning and Carptener (1997)</a></br>
         <a href="https://aclanthology.org/C00-1052/" target="_blank">Johnson and Roark (2000)</a></br>
         <a href="https://aclanthology.org/N09-1039.pdf" target="_blank">Schuler (2009)</a></br>
+      <br/>  
+      </div>
+      <button id="button13" style="border:none;" onclick="myFunction('13')">Show</button>
       </td>
       <td>
       </td>
@@ -375,6 +425,7 @@ Keep in mind that due to how late this date is, we cannot extend this deadline--
       </td>
       <td></td>
       <td>
+      <div id="literature14" style="display:none">
         <a href="https://www.ideals.illinois.edu/handle/2142/74304" target="_blank">Kasami (1966)</a></br>
         <a href="https://www.sciencedirect.com/science/article/pii/S001999586780007X?via%3Dihub" target="_blank">Younger (1967)</a></br>
         <a href="http://www.softwarepreservation.org/projects/FORTRAN/CockeSchwartz_ProgLangCompilers.pdf" target="_blank">Cocke and Schwartz (1970)</a></br>
@@ -384,6 +435,9 @@ Keep in mind that due to how late this date is, we cannot extend this deadline--
         <a href="https://aclanthology.org/P11-2124/" target="_blank">Goldberg and Elhadad (2011)</a></br>
         <a href="https://dl.acm.org/doi/10.1145/362007.362035" target="_blank">Earley (1970)</a></br>
         <a href="https://aclanthology.org/J95-2002/" target="_blank">Stolcke (1995)</a></br>
+      <br/>  
+      </div>
+      <button id="button14" style="border:none;" onclick="myFunction('14')">Show</button>
       </td>
       <td>
       </td>
@@ -408,6 +462,10 @@ Keep in mind that due to how late this date is, we cannot extend this deadline--
       </td>
       <td></td>
       <td>
+      <div id="literature15" style="display:none">
+      <br/>  
+      </div>
+      <button id="button15" style="border:none;" onclick="myFunction('15')">Show</button>
       </td>
       <td>
       </td>
@@ -422,9 +480,13 @@ Keep in mind that due to how late this date is, we cannot extend this deadline--
       <td>
       </td>
       <td>
+      <div id="literature16" style="display:none">
         <a href="https://rycolab.io/papers/butoi+al.emnlp22.pdf/" target="_blank">Butoi et al. (2022)</a></br>
         <a href="https://aclanthology.org/P99-1070/" target="_blank">Abney et al. (1999)</a></br>
         <a href="https://link.springer.com/chapter/10.1007/978-3-662-21545-6_18" target="_blank">Lang (1974)</a></br>
+      <br/>  
+      </div>
+      <button id="button16" style="border:none;" onclick="myFunction('16')">Show</button>
       </td>
       <td>
       </td>
@@ -441,11 +503,15 @@ Keep in mind that due to how late this date is, we cannot extend this deadline--
       <td>
       </td>
       <td>
+      <div id="literature17" style="display:none">
         <a href="https://aclanthology.org/W04-0308.pdf" target="_blank">Nivre (2004)</a></br>
         <a href="https://aclanthology.org/J08-4003.pdf" target="_blank">Nivre (2008)</a></br>
         <a href="https://dl.acm.org/doi/10.1145/321250.321254" target="_blank">Greichbach (1965)</a></br>
         <a href="https://aclanthology.org/A00-2033.pdf" target="_blank">Moore (2000)</a></br>
         <a href="https://aclanthology.org/P04-1069.pdf" target="_blank">Nederhof and Satta (2004)</a></br>
+      <br/>  
+      </div>
+      <button id="button17" style="border:none;" onclick="myFunction('17')">Show</button>
         </td>
       <td>
       </td>
@@ -461,6 +527,7 @@ Keep in mind that due to how late this date is, we cannot extend this deadline--
       <td></td>
       <td></td>
       <td>
+      <div id="literature18" style="display:none">
         <a href="https://www.morganclaypool.com/doi/abs/10.2200/S00169ED1V01Y200901HLT002" target="_blank">Kübler et al. (2009)</a></br>
         <a href="https://www.sciencedirect.com/science/article/pii/S0019995865902329?via%3Dihub" target="_blank">Gaifman (1965)</a></br>
         <a href="https://link.springer.com/book/10.1007/978-3-642-14568-1" target="_blank">Kuhlmann (2011)</a></br>
@@ -470,7 +537,9 @@ Keep in mind that due to how late this date is, we cannot extend this deadline--
         <a href="https://aclanthology.org/J04-4004.pdf" target="_blank">Bikel (2004)</a></br>
         <a href="https://aclanthology.org/P99-1059/" target="_blank">Eisner and Satta (1999)</a></br>
         <a href="https://www.cs.jhu.edu/~jason/papers/eisner.iwptbook00.pdf" target="_blank">Eisner (2000)</a></br>
-      </td>
+      <br/>  
+      </div>
+      <button id="button18" style="border:none;" onclick="myFunction('18')">Show</button>
       <td></td>
       <td></td>
     </tr>
@@ -480,6 +549,10 @@ Keep in mind that due to how late this date is, we cannot extend this deadline--
       <td></td>
       <td></td>
       <td>
+      <div id="literature19" style="display:none">
+      <br/>  
+      </div>
+      <button id="button19" style="border:none;" onclick="myFunction('19')">Show</button>
       </td>
       <td>
       </td>
@@ -493,6 +566,7 @@ Keep in mind that due to how late this date is, we cannot extend this deadline--
       <td></td>
       <td></td>
       <td>
+      <div id="literature20" style="display:none">
         <a href="https://www.amazon.co.uk/Automata-Computability-Dexter-C-Kozen/dp/0387949070" target="_blank">Kozen (1997)</a></br>
         <a href="https://jacquema.gitlabpages.inria.fr/files/tata.pdf" target="_blank">Comon et al. (2008)</a></br>
         <a href="" target="_blank">Engelfriet (1975)</a></br>
@@ -504,6 +578,9 @@ Keep in mind that due to how late this date is, we cannot extend this deadline--
         <a href="https://arxiv.org/pdf/1702.00304.pdf" target="_blank">Hanneforth, Maletti, Quernheim (2018)</a></br>
         <a href="https://link.springer.com/book/10.1007/978-3-642-14846-0" target="_blank">Kallmeyer (2010)</a></br>
         <a href="https://aclanthology.org/Q14-1032/" target="_blank">Kuhlmann, Satta (2014)</a></br>
+      <br/>  
+      </div>
+      <button id="button20" style="border:none;" onclick="myFunction('20')">Show</button>
       </td>
       <td>
       </td>
@@ -513,7 +590,13 @@ Keep in mind that due to how late this date is, we cannot extend this deadline--
       <td>10. 5. 2023</td>
       <td>Determinization of Weighted Tree Automata</td>
       <td></td>
+      <td></td>
       <td>
+      <div id="literature21" style="display:none">
+      <br/>  
+      </div>
+      <button id="button21" style="border:none;" onclick="myFunction('21')">Show</button>
+      </td>
       <td>
       </td>
       <td></td>
@@ -522,16 +605,28 @@ Keep in mind that due to how late this date is, we cannot extend this deadline--
       <td>11. 5. 2023</td>
       <td>Determinization of Weighted Tree Automata (cont.) / Weight Pushing</td>
       <td></td>
+      <td></td>
       <td>
-      <td>
+      <div id="literature22" style="display:none">
+      <br/>  
+      </div>
+      <button id="button22" style="border:none;" onclick="myFunction('22')">Show</button>
       </td>
       <td></td>
+      <td>
+      </td>
     </tr>
     <tr>
       <td>17. 5. 2023</td>
       <td>Minimization of weighted Tree Automata</td>
       <td></td>
+      <td></td>
       <td>
+      <div id="literature23" style="display:none">
+      <br/>  
+      </div>
+      <button id="button23" style="border:none;" onclick="myFunction('23')">Show</button>
+      </td>
       <td>
       </td>
       <td></td>
@@ -540,9 +635,14 @@ Keep in mind that due to how late this date is, we cannot extend this deadline--
       <td>18. 5. 2023</td>
       <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Tree-Adjoining Languages</b></td>
       <td>Weighted Tree-adjoining Grammars / Lang Normal Form</td>
-      <td></td>
+      <td>
+      </td>
       <td></td>
       <td>
+      <div id="literature24" style="display:none">
+      <br/>  
+      </div>
+      <button id="button24" style="border:none;" onclick="myFunction('24')">Show</button>
       </td>
       <td>
       </td>
@@ -553,8 +653,13 @@ Keep in mind that due to how late this date is, we cannot extend this deadline--
       <td>24. 5. 2023</td>
       <td>Other Formalisms for Tree-adjoining Languages</td>
       <td></td>
-      <td></td>
       <td>
+      </td>
+      <td>
+      <div id="literature25" style="display:none">
+      <br/>  
+      </div>
+      <button id="button25" style="border:none;" onclick="myFunction('25')">Show</button>
       </td>
       <td>
       </td>
@@ -564,8 +669,13 @@ Keep in mind that due to how late this date is, we cannot extend this deadline--
       <td>25. 5. 2023</td>
       <td>Parsing Tree-adjoining Languages</td>
       <td></td>
-      <td></td>
       <td>
+      </td>
+      <td>
+      <div id="literature26" style="display:none">
+      <br/>  
+      </div>
+      <button id="button26" style="border:none;" onclick="myFunction('26')">Show</button>
       </td>
       <td>
       </td>
@@ -575,8 +685,13 @@ Keep in mind that due to how late this date is, we cannot extend this deadline--
       <td>31. 5. 2023</td>
       <td>The Weir Hierarchy</td>
       <td></td>
-      <td></td>
       <td>
+      </td>
+      <td>
+      <div id="literature27" style="display:none">
+      <br/>  
+      </div>
+      <button id="button27" style="border:none;" onclick="myFunction('27')">Show</button>
       </td>
       <td>
       </td>
@@ -587,8 +702,13 @@ Keep in mind that due to how late this date is, we cannot extend this deadline--
       <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Context-Free Tree Languages</b></td>
       <td>Context-free Tree Languages / Context-free Tree Grammars</td>
       <td></td>
-      <td></td>
       <td>
+      </td>
+      <td>
+      <div id="literature28" style="display:none">
+      <br/>  
+      </div>
+      <button id="button28" style="border:none;" onclick="myFunction('28')">Show</button>
       </td>
       <td>
       </td>
