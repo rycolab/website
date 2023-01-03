@@ -55,5 +55,7 @@ email: ""
 user_groups:
 - Members
 - Current
+- Large Language Models Teaching Assistants
+- Teaching Assistants NLP F22
 ---
 Tianyu is a first-year PhD student at ETH Zurich. He is advised by Ryan and [Mrinmaya Sachan](mrinmaya.io). He received his BSc in computer science from Peking University. He is currently interested in structured prediction, parsing, and natural language generation. 

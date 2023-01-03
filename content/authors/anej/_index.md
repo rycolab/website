@@ -56,6 +56,7 @@ user_groups:
 - Teaching Assistants
 - Teaching Assistants AFLT
 - Teaching Assistants NLP F22
+- Large Language Models Teaching Assistants
 - Members
 - Philosophy of Language and Computation Teaching Assistants
 - Current
