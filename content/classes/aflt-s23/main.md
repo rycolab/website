@@ -36,14 +36,13 @@ Both lectures will be given in person and live broadcast on [Zoom](https://ethz.
 
 Lectures will be recorded---links to the Zoom recordings will be posted on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=19132).
 
-<!-- #### Discussion Sections
-Discussion sections (tutorials) will take place Thursdays 16-19 in [NO C 60](https://www.rauminfo.ethz.ch/Rauminfo/RauminfoPre.do?region=Z&areal=Z&gebaeude=NO&geschoss=C&raumNr=60) and on Zoom ([same link](https://ethz.zoom.us/j/63534790714) as the lectures). -->
+#### Discussion Sections
 
-<!-- Schedule to be posted at the beginning of the semester, but the general plan is to have a 1 week delay between the content of the discussion sections and the lectures. -->
+There will be no organized tutorial sessions for AFLT. However, the teaching staff will be available for questions on the live chat channels and, in case you have a question that requires a more in-depth discussion, you can schedule **office hours** with the teaching team by reaching out to us via `RocketChat`.
 
 ### Live Chat
 In addition to class time, there will also be a `RocketChat`-based live chat hosted on ETH’s servers. 
-Students are free to ask questions of the teaching staff and of others in public or private (direct message). 
+Students are free to ask questions of the teaching team and of others in public or private (direct message). 
 There are specific channels for each of the two assignments as well as for reporting errata in the course notes and slides. 
 All data from the chat will be deleted from ETH servers at the course’s conclusion. 
 
