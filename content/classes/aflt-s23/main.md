@@ -18,106 +18,28 @@ weight = 20
 This course serves as an introduction to weighted formal language theory. The lectures cover the theory and algorithms used to manipulate and compute with weighted automata and grammars in detail. The emphasis is on rigor and depth rather than broad coverage. To motivate the theory, the course will also cover various applications of formal language theory to modern-day machine learning. Students should expect a healthy dose of proof-writing and, thus, mathematical maturity is expected. In terms of background, the class will draw on techniques from discrete math, analysis, and linear algebra. While there are no hard prerequisites, having taken a class that covers basic graph algorithms will be helpful as well as familiarity with basic real analysis and linear algebra.
 
 
-#### Grading	
-The course is structured around a companion [software library](https://github.com/rycolab/aflt-f2023), called [`rayuela`](https://github.com/rycolab/aflt-f2023). 
-Most of the homework exercises, which solely comprise the course grade, will involve implementing bits of the theory discussed in class while providing additional analysis or devising algorithms not discussed in class with the tools introduced during the lecture. 
-The homework will be released every week in bunches of 3–4 questions but will be submitted jointly on two occasions. 
-
-<!-- The remaining 50% of the course grade will be determined by a final project of the student’s selection. The teaching staff has compiled a list of recent papers, listed [below](/classes/aflt-s22/#course-project-ideas), whose replication would make for a great project, but students should feel free to come up with other ideas as well. To give early feedback, a proposal is due midway through the course.  -->
-
-## Organisation
-
-### On the Use of Class Time
-#### Lectures
-
-There are two lecture slots for AFLT each week: Wednesdays 16-18 [(HG D 5.2)](https://www.rauminfo.ethz.ch/Rauminfo/RauminfoPre.do?region=Z&areal=Z&gebaeude=HG&geschoss=D&raumNr=5.2) and Thursdays 12-14 [(ML F 39)](http://www.rauminfo.ethz.ch/Rauminfo/RauminfoPre.do?region=Z&areal=Z&gebaeude=ML&geschoss=F&raumNr=39). 
-
-Both lectures will be given in person and live broadcast on [Zoom](https://ethz.zoom.us/j/66986788370); the password is available on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=19132).
-
-Lectures will be recorded---links to the Zoom recordings will be posted on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=19132).
-
-#### Discussion Sections
-
-There will be no organized tutorial sessions for AFLT. However, the teaching staff will be available for questions on the live chat channels and, in case you have a question that requires a more in-depth discussion, you can schedule **office hours** with the teaching team by reaching out to us via `RocketChat`.
-
-### Live Chat
-In addition to class time, there will also be a `RocketChat`-based live chat hosted on ETH’s servers. 
-Students are free to ask questions of the teaching team and of others in public or private (direct message). 
-There are specific channels for each of the two assignments as well as for reporting errata in the course notes and slides. 
-All data from the chat will be deleted from ETH servers at the course’s conclusion. 
-
-**Important**: There are a few important points you should keep in mind about the course live chat:  
-
-1. `RocketChat` will be the main communications hub for the course. You are responsible for receiving all messages broadcast in the `RocketChat`.  
-2. Your username should be `firstname.lastname`. This is required as we will only allow enrolled students to participate in the chat and we will remove users which we cannot validate. 
-3. **Tag** your questions as described in the document on [How to use Rycolab Course RocketChat channels](https://docs.google.com/document/d/1As4CEnhfbW8vkPD92irtYSpvATBV7Y5KSyuJkrqMKLM/edit?usp=sharing). The document also contains other general remarks about the use of `RocketChat`.  
-4. Search for answers in the appropriate channels before posting a new question.  
-5. Ask questions on public channels as much as possible.  
-6. Answer to posts in _threads_.  
-7. The chat supports `LaTeX` for easier discussion of technical material. See [How to use `LaTeX` in `RocketChat`](https://docs.google.com/document/d/1EKDz3NuXGwzYrGkKrQFqmMToCbabLMjHaRWleRC0A1Q/edit?usp=sharing).  
-8. We highly recommend you download the desktop app [here](https://www.rocket.chat/).  
-
-[**This is the link**](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2F869Fwb) to the main channel.
-To make the moderation of the chat more easily manageable, we have created a number of other channels on `RocketChat`.
-The full list is:
-
-- [AFLT General Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2F869Fwb) for the general organisational discussions.
-- [AFLT Announcements Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FQMtaHo) for the announcements by the teaching team.
-- [AFLT Content Questions](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FHhErq4) for your questions about the content of the course.
-**Important**: Please prepend your question with a "tag" about the content of your question in square brackets. 
-For example, if your question is about the content of Lecture 2 and specifically about the definition of a semiring, please start your message with `[Lecture #1, Definition of a Semiring]`.
-- [AFLT Errata](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FBfZh2S) for reporting typos and errors in the course lecture notes and the slides.
-- [AFLT Assignment 1](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FEeMrho) for discussing and asking questions about Assignment 1.
-- [AFLT Assignment 2](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FEeMrho) for discussing and asking questions about Assignment 2.
-- [AFLT Assignment 3](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FMEaLbk) for discussing and asking questions about Assignment 3.
-- [AFLT Assignment 4](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FiWmzYb) for discussing and asking questions about Assignment 4.
-- [AFLT Assignment 5](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FFbbHxi) for discussing and asking questions about Assignment 5.
-- [AFLT Assignment 6](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FFbbHxi) for discussing and asking questions about Assignment 6.
-- [AFLT Assignment 7](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2Fy7KLxj) for discussing and asking questions about Assignment 7.
-- [AFLT Assignment 8](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FQvvznG) for discussing and asking questions about Assignment 8.
-- [AFLT Assignment 9](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FEoJvx7) for discussing and asking questions about Assignment 9.
-- [AFLT Assignment 10](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FetCHHF) for discussing and asking questions about Assignment 10.
-- [Find Assignment Partners](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FXRWKMG) for finding teammates for the course assignments.
-
-If you feel like you would benefit from any other channel, feel free to suggest it to the teaching team!
-
-### Course Notes
-We prepared very detailed course notes last year.
-We will be improving them throughout the semester as we go! 
-The individual chapters will be published in the course syllabus below and updated throughout the semester.
-Please report all errata to the teaching staff; we really want to polish the notes this semester so any feedback, no matter how small, would be very appreciated---we created an [errata channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FBfZh2S) in `RocketChat`.
-
-Other useful literature: 
-
-- [`Rayuela`](https://github.com/rycolab/aflt-f2023)  
-- [Introduction to Natural Language Processing (Eisenstein)](https://www.amazon.de/Jacob-Eisenstein/dp/0262042843/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=30OMHV1C018JY&dchild=1&keywords=introduction+to+natural+language+processing&qid=1598878964&sprefix=introduction+to+na%2Caps%2C148&sr=8-1)  
-
-## Grading
-
-There will be no final exam for this course.
-
-We will release **10 course assignments** throughout the semester.
-
-The final grade for the course will be determined by the following formula: 
-
-- **100%** Assignments, in which case we will calculate your final grade based on the **8** highest-scoring assignments you turn in (you can therefore turn in just 8 of the assignments, or optionally fewer if you are not aiming for the highest grade).
-
-**OR**
-
-- **50%** Assignments and
-- **50%** Course Project, in which case only your **4** highest-scoring assignments will count towards your final grade (you therefore only have to turn in 4 assignments and the course project to be able to achieve the highest grade).  
-
-The teaching staff has compiled a list of recent papers, listed [below](/classes/aflt-s22/#course-project-ideas), whose replication would make for a great project, but students should feel free to come up with other ideas as well. To give early feedback, a proposal is due midway through the course. 
-
-**Important**: The deadline for the projects and all assignments is **before the end of the Summer examination period**---15. 8. 2023.
-The submissions will be done through the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=19132).
-Keep in mind that due to how late this date is, we cannot extend this deadline---we are counting on you to be organised and submit the work in time.
+The course is structured around a companion [software library](https://github.com/rycolab/aflt-f2023), called [`rayuela`](https://en.wikipedia.org/wiki/Hopscotch_(Cort%C3%A1zar_novel)). 
+Most of the homework exercises, which comprise (a part of) the course grade, will involve implementing bits of the theory discussed in class while providing additional analysis or devising algorithms not discussed in class with the tools introduced during the lecture. 
+The homework will be released throughout the semester in assignments with 3–4 questions but will be submitted jointly on two occasions. 
 
 ## News
 
 **3.1.** &emsp; Class website is online!  
 
 ## Syllabus and Schedule
+### On the Use of Class Time
+#### Lectures
+
+There are two lecture slots for AFLT each week: Wednesdays 16-18 [(HG D 5.2)](https://www.rauminfo.ethz.ch/Rauminfo/RauminfoPre.do?region=Z&areal=Z&gebaeude=HG&geschoss=D&raumNr=5.2) and Thursdays 12-14 [(ML F 39)](http://www.rauminfo.ethz.ch/Rauminfo/RauminfoPre.do?region=Z&areal=Z&gebaeude=ML&geschoss=F&raumNr=39). 
+Both lectures will be given in person and live broadcast on [Zoom](https://ethz.zoom.us/j/66986788370); the password is available on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=19132).
+
+Lectures will be recorded---links to the Zoom recordings will be posted on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=19132).
+
+#### Discussion Sections
+
+There will be no organized tutorial sessions for AFLT. However, the teaching staff will be available for questions on the course chat channels (see below) and, in case you have a question that requires a more in-depth discussion, you can schedule **office hours** with the teaching team by reaching out to us via  the chat.
+
+### Syllabus 
 
 <script
     type="text/javascript"
@@ -720,13 +642,99 @@ Keep in mind that due to how late this date is, we cannot extend this deadline--
   </tbody>
 </table>
 
-## Course Project
-You can find more information on the course project and the detailed instructions for it [here](https://drive.google.com/file/d/1sGsF2UWIaVYFNTiqB3HUexRaf8b3zucs/view?usp=sharing).
+## Organisation
 
-### Course Project Ideas
-The teaching staff has compiled a list of recent papers, whose replication would make for a great project. However, you should feel free to come up with other ideas as well. 
+### Live Chat
+In addition to class time, there will also be a `RocketChat`-based live chat hosted on ETH’s servers. 
+Students are free to ask questions of the teaching team and of others in public or private (direct message). 
+There are specific channels for each of the two assignments as well as for reporting errata in the course notes and slides. 
+All data from the chat will be deleted from ETH servers at the course’s conclusion. 
 
-Here is the list we have compiled:
+**Important**: There are a few important points you should keep in mind about the course live chat:  
+
+1. `RocketChat` will be the main communications hub for the course. You are responsible for receiving all messages broadcast in the `RocketChat`.  
+2. Your username should be `firstname.lastname`. This is required as we will only allow enrolled students to participate in the chat and we will remove users which we cannot validate. 
+3. **Tag** your questions as described in the document on [How to use Rycolab Course RocketChat channels](https://docs.google.com/document/d/1As4CEnhfbW8vkPD92irtYSpvATBV7Y5KSyuJkrqMKLM/edit?usp=sharing). The document also contains other general remarks about the use of `RocketChat`.  
+4. Search for answers in the appropriate channels before posting a new question.  
+5. Ask questions on public channels as much as possible.  
+6. Answer to posts in _threads_.  
+7. The chat supports `LaTeX` for easier discussion of technical material. See [How to use `LaTeX` in `RocketChat`](https://docs.google.com/document/d/1EKDz3NuXGwzYrGkKrQFqmMToCbabLMjHaRWleRC0A1Q/edit?usp=sharing).  
+8. We highly recommend you download the desktop app [here](https://www.rocket.chat/).  
+
+[**This is the link**](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2F869Fwb) to the main channel.
+To make the moderation of the chat more easily manageable, we have created a number of other channels on `RocketChat`.
+The full list is:
+
+- [AFLT General Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2F869Fwb) for the general organisational discussions.
+- [AFLT Announcements Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FQMtaHo) for the announcements by the teaching team.
+- [AFLT Content Questions](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FHhErq4) for your questions about the content of the course.
+**Important**: Please prepend your question with a "tag" about the content of your question in square brackets. 
+For example, if your question is about the content of Lecture 2 and specifically about the definition of a semiring, please start your message with `[Lecture #1, Definition of a Semiring]`.
+- [AFLT Errata](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FBfZh2S) for reporting typos and errors in the course lecture notes and the slides.
+- [AFLT Assignment 1](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FEeMrho) for discussing and asking questions about Assignment 1.
+- [AFLT Assignment 2](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FEeMrho) for discussing and asking questions about Assignment 2.
+- [AFLT Assignment 3](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FMEaLbk) for discussing and asking questions about Assignment 3.
+- [AFLT Assignment 4](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FiWmzYb) for discussing and asking questions about Assignment 4.
+- [AFLT Assignment 5](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FFbbHxi) for discussing and asking questions about Assignment 5.
+- [AFLT Assignment 6](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FFbbHxi) for discussing and asking questions about Assignment 6.
+- [AFLT Assignment 7](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2Fy7KLxj) for discussing and asking questions about Assignment 7.
+- [AFLT Assignment 8](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FQvvznG) for discussing and asking questions about Assignment 8.
+- [AFLT Assignment 9](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FEoJvx7) for discussing and asking questions about Assignment 9.
+- [AFLT Assignment 10](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FetCHHF) for discussing and asking questions about Assignment 10.
+- [Find Assignment Partners](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FXRWKMG) for finding teammates for the course assignments.
+
+If you feel like you would benefit from any other channel, feel free to suggest it to the teaching team!
+
+### Course Notes
+We prepared very detailed course notes last year.
+We will be improving them throughout the semester as we go! 
+The individual chapters will be published in the course syllabus below and updated throughout the semester.
+Please report all errata to the teaching staff; we really want to polish the notes this semester so any feedback, no matter how small, would be very appreciated---we created an [errata channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FBfZh2S) in `RocketChat`.
+
+Other useful literature: 
+
+- [`Rayuela`](https://github.com/rycolab/aflt-f2023)  
+- [Introduction to Natural Language Processing (Eisenstein)](https://www.amazon.de/Jacob-Eisenstein/dp/0262042843/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=30OMHV1C018JY&dchild=1&keywords=introduction+to+natural+language+processing&qid=1598878964&sprefix=introduction+to+na%2Caps%2C148&sr=8-1)  
+
+## Grading
+
+There will be *no final exam* for this course.
+
+Instead, we will release **10 course assignments** throughout the semester and you can complete an optional course project. You can then obtain your final grade in **two ways**:
+
+&nbsp;&nbsp;&nbsp;**1.** You can obtain your final grade from **assignments only**, in which case we will calculate your final grade based on the **8** highest-scoring assignments you turn in (you can therefore turn in just 8 of the assignments, or optionally fewer if you are not aiming for the highest grade).
+
+In that case, the final grade will be calculated as follows:
+
+- **100%** Assignments
+
+&nbsp;&nbsp;&nbsp;**2.** Alternatively, you can obtain your final grade from **assignments *and* a course project**. In that case, you only have to turn in **4 assignments** and the **course project** to be able to achieve the highest grade (your 4 highest-scoring assignments will count towards your final grade). 
+See below for more information on the course project.
+
+In this case, your final grade will be calculated as follows:
+
+- **50%** Assignments and
+- **50%** Course Project
+
+You *can* cooperate on and discuss the assignments with your peers, but you *must* write your own code and write up the solutions yourself.
+
+We require the solutions to be properly typeset.
+We recommend using `LaTeX` (with [`Overleaf`](https://www.overleaf.com)), but `markdown` files with `MathJax` for the mathematical expressions are also fine.
+
+**Important**: The deadline for the projects and all assignments is **shortly before the end of the Summer examination period**---**15. 8. 2023**.
+The submissions will be done through the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=19132).
+Keep in mind that due to how late this deadline is, we *cannot extend it*---we are counting on you to be organised and submit the work in time.
+
+### Course Project
+
+The course project is optional, but it is a great way to get a deeper understanding of the course material and to apply it to a real-world problem.
+We expect you to complete the project in a group of **4-5** students---to make supervising the projects manageable, we will *not accept* groups with fewer than 4 students. 
+
+You can find more information on the course project and the detailed instructions for it in the [Course project instructions](https://drive.google.com/file/d/1sGsF2UWIaVYFNTiqB3HUexRaf8b3zucs/view?usp=sharing).
+To give early feedback, a *proposal* is due midway through the course (**15.4.2023**) and a *progress report* towards the end of the semester (**15.5.2023**). 
+See the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=19132) for the submission links.
+
+The teaching staff has compiled a list of recent papers, listed below, whose replication would make for a great project, but students should feel free to come up with other ideas as well. 
 <table class="table">
   <head>
     <base target="_blank">
