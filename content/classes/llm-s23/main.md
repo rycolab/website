@@ -106,7 +106,7 @@ Discussion sections (tutorials) will take place Thursdays 16-19 in [NO C 60](htt
       </td>
       <td>
       <div id="summary2" style="display:none">
-      Language modeling is about placing probability on infinite sets of strings. Measure theory is the primary tool used for the rigorous study of probability theory. In the case of language modeling, we will motivate why we need to take a more rigorous approach, using the classic infinite coin toss model as a motivating example. Then, we will get into some basic measure-theoretic definitions that will be useful in formally defining language models. 
+      Language modeling is about placing probability on infinite sets of strings. Measure theory is the primary tool used for the rigorous study of probability theory. This lecture shows why defining a language model rigorously requires a careful measure-theoretic treatment. We use the classic infinite coin toss model as an illuminating example. Then, we will get into some basic measure-theoretic definitions that will be useful in formally defining language models.
       <br/>
       <br/>
       </div>
@@ -189,7 +189,7 @@ Discussion sections (tutorials) will take place Thursdays 16-19 in [NO C 60](htt
       </td>
       <td>
       <div id="summary6" style="display:none">
-      Finite-state language models have a storied history in NLP. They are a natural generalization of n-gram models, which were the standard in the field from the 1980s till the late 2010s. In terms of theory, we introduce probabilistic finite-state automata as a generalization of finite-state automata from classic theory of computation. Additionally, we give a simple, closed-form characterization of tightness. We also show how Bengio et al. (2003), the first successful neural language model, is understood as a probabilistic finite-state automaton.
+      Finite-state language models have a storied history in NLP. They are a natural generalization of n-gram models, which were the standard in the field from the 1980s till the late 2010s. In terms of theory, we introduce probabilistic finite-state automata as a generalization of finite-state automata from classic theory of computation. Additionally, we give a simple, closed-form characterization of tightness. We also show how Bengio et al. (2003), the first successful neural language model, is naturally viewed as a probabilistic finite-state automaton. 
       <br/>
       <br/>
       </div>
@@ -270,7 +270,7 @@ Discussion sections (tutorials) will take place Thursdays 16-19 in [NO C 60](htt
       </td>
       <td>
       <div id="summary10" style="display:none">
-      Introduced in 2017 by Vaswani et al, Transformers have quickly become the most popular architecture for neural language modeling. They are the basis for recent large language models, e.g., GPT-3 and PaLM. This lecture gives the definition of a Transformer and overviews details, e.g., residual connections, layer normalization, and position embeddings. 
+      Introduced in 2017 by Vaswani et al., Transformers have quickly become the most popular architecture for neural language modeling. They are the basis for recent large language models, e.g., GPT-3 and PaLM. This lecture gives the definition of a Transformer and overviews details, e.g., residual connections, layer normalization, and position embeddings. 
       <br/>
       <br/>
       </div>
@@ -290,7 +290,7 @@ Discussion sections (tutorials) will take place Thursdays 16-19 in [NO C 60](htt
       </td>
       <td>
       <div id="summary11" style="display:none">
-      There is a small bag of tricks that speed up the computation of the attention mechanism in Transformer-based language models. This lecture overview those tricks, which are becoming increasingly necessary to scale up Transformer LMs on academic hardware. 
+      There is an ever-growing bag of tricks that speed up the computation of the attention mechanism in Transformer-based language models. This lecture overview those tricks, which are becoming increasingly necessary to scale up Transformer LMs on academic hardware. Where possible, we prove guarantees for the methods.
       <br/>
       <br/>
       </div>
@@ -647,13 +647,17 @@ In addition to class time, there will also be a `RocketChat`-based live chat hos
 Students are free to ask questions of the teaching staff and of others in public or private (direct message). 
 There are specific channels for each of the two assignments as well as for reporting errata in the course notes and slides. 
 All data from the chat will be deleted from ETH servers at the course’s conclusion. 
-The chat supports `LaTeX` for easier discussion of technical material ([How to use `LaTeX` in `RocketChat`](https://docs.google.com/document/d/1EKDz3NuXGwzYrGkKrQFqmMToCbabLMjHaRWleRC0A1Q/edit?usp=sharing)).
 
-**Important**: There are three important points you should keep in mind about the course live chat:  
+**Important**: There are a few important points you should keep in mind about the course live chat:  
 
 1. `RocketChat` will be the main communications hub for the course. You are responsible for receiving all messages broadcast in the `RocketChat`.  
-2. Your username should be `firstname.lastname`. This is required as we will only allow enrolled students to participate in the chat and we will remove users which we cannot validate.  
-3. We highly recommend you download the desktop app [here](https://www.rocket.chat/).  
+2. Your username should be `firstname.lastname`. This is required as we will only allow enrolled students to participate in the chat and we will remove users which we cannot validate. 
+3. **Tag** your questions as described in the document on [How to use Rycolab Course RocketChat channels](https://docs.google.com/document/d/1As4CEnhfbW8vkPD92irtYSpvATBV7Y5KSyuJkrqMKLM/edit?usp=sharing). The document also contains other general remarks about the use of `RocketChat`.  
+4. Search for answers in the appropriate channels before posting a new question.  
+5. Ask questions on public channels as much as possible.  
+6. Answer to posts in _threads_.  
+7. The chat supports `LaTeX` for easier discussion of technical material. See [How to use `LaTeX` in `RocketChat`](https://docs.google.com/document/d/1EKDz3NuXGwzYrGkKrQFqmMToCbabLMjHaRWleRC0A1Q/edit?usp=sharing).  
+8. We highly recommend you download the desktop app [here](https://www.rocket.chat/).  
 
 [**This is the link**](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FAHAxqx) to the main channel.
 To make the moderation of the chat more easily manageable, we have created a number of other channels on `RocketChat`.
@@ -662,8 +666,6 @@ The full list is:
 - [LLM General Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FAHAxqx) for the general organisational discussions.
 - [LLM Announcements Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2Fo83kuN) for the announcements by the teaching team.
 - [LLM Content Questions](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2F4ZSstp) for your questions about the content of the course.
-**Important**: Please prepend your question with a "tag" about the content of your question in square brackets. 
-For example, if your question is about the content of Lecture 2 and specifically about the definition of a language model, please start your message with `[Lecture #1, Definition of a Language model]`.
 - [LLM Errata](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FNB56vb) for reporting typos and errors in the course lecture notes and the slides.
 - [LLM Assignment 1](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FLHGssw) for discussing and asking questions about Assignment 1.
 - [LLM Assignment 2](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FLHGssw) for discussing and asking questions about Assignment 2.
@@ -680,7 +682,7 @@ Other useful literature:
 
 - [Introduction to Natural Language Processing (Eisenstein)](https://www.amazon.de/Jacob-Eisenstein/dp/0262042843/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=30OMHV1C018JY&dchild=1&keywords=introduction+to+natural+language+processing&qid=1598878964&sprefix=introduction+to+na%2Caps%2C148&sr=8-1)  
 - [Deep Learning (Goodfellow, Bengio and Courville)](https://www.deeplearningbook.org/)  
-- [AFLT Course Notes](https://rycolab.io/classes/aflt-s22/)  
+- [AFLT Course Notes](https://rycolab.io/classes/aflt-s23/)  
 
 ### Grading
 
@@ -698,7 +700,7 @@ There will be **2** larger assignments in the course.
 <!-- We impose two firm deadlines for handing in your solutions: -->
 
 We require the solutions to be properly typeset.
-We recommend using LaTeX (with [Overleaf](https://www.overleaf.com)), but markdown files with MathJax for the mathematical expressions are also fine.
+We recommend using `LaTeX` (with [`Overleaf`](https://www.overleaf.com)), but `markdown` files with `MathJax` for the mathematical expressions are also fine.
 
 <!-- 
 ## Tutorial Schedule

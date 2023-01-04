@@ -67,3 +67,8 @@ He completed his Bachelor's degree in Computer Science and Mathematics in Ljublj
 While he is as open to different research directions as any early PhD student, his main interest currently lies in understanding and manipulating learned representation spaces (be it of text or anything else), variational inference, and interpretability.
 If you ask him about his hobbies you will find out he likes to read (you may also learn a lot about [John Kennedy Toole](https://en.wikipedia.org/wiki/John_Kennedy_Toole) and [Christopher Moore](https://en.wikipedia.org/wiki/Christopher_Moore_(author))), run, hike, and [aquascape](https://aquascapinglove.com/learn-aquascaping/what-is-aquascaping/).
 As a true Slovene, he can also bake [potica](https://www.youtube.com/watch?v=qN_Oy0D0GLY).
+
+
+Native Language: Slovene
+
+Animal Form: Sloth
