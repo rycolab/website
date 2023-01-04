@@ -46,13 +46,17 @@ In addition to class time, there will also be a `RocketChat`-based live chat hos
 Students are free to ask questions of the teaching staff and of others in public or private (direct message). 
 There are specific channels for each of the two assignments as well as for reporting errata in the course notes and slides. 
 All data from the chat will be deleted from ETH servers at the course’s conclusion. 
-The chat supports `LaTeX` for easier discussion of technical material ([How to use `LaTeX` in `RocketChat`](https://docs.google.com/document/d/1EKDz3NuXGwzYrGkKrQFqmMToCbabLMjHaRWleRC0A1Q/edit?usp=sharing)).
 
-**Important**: There are three important points you should keep in mind about the course live chat:  
+**Important**: There are a few important points you should keep in mind about the course live chat:  
 
 1. `RocketChat` will be the main communications hub for the course. You are responsible for receiving all messages broadcast in the `RocketChat`.  
-2. Your username should be `firstname.lastname`. This is required as we will only allow enrolled students to participate in the chat and we will remove users which we cannot validate.  
-3. We highly recommend you download the desktop app [here](https://www.rocket.chat/).  
+2. Your username should be `firstname.lastname`. This is required as we will only allow enrolled students to participate in the chat and we will remove users which we cannot validate. 
+3. **Tag** your questions as described in the document on [How to use Rycolab Course RocketChat channels](https://docs.google.com/document/d/1As4CEnhfbW8vkPD92irtYSpvATBV7Y5KSyuJkrqMKLM/edit?usp=sharing). The document also contains other general remarks about the use of `RocketChat`.  
+4. Search for answers in the appropriate channels before posting a new question.  
+5. Ask questions on public channels as much as possible.  
+6. Answer to posts in _threads_.  
+7. The chat supports `LaTeX` for easier discussion of technical material. See [How to use `LaTeX` in `RocketChat`](https://docs.google.com/document/d/1EKDz3NuXGwzYrGkKrQFqmMToCbabLMjHaRWleRC0A1Q/edit?usp=sharing).  
+8. We highly recommend you download the desktop app [here](https://www.rocket.chat/).  
 
 [**This is the link**](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2F869Fwb) to the main channel.
 To make the moderation of the chat more easily manageable, we have created a number of other channels on `RocketChat`.
@@ -738,121 +742,127 @@ Here is the list we have compiled:
     <tr>
       <th scope="row">1</th>
       <td>
-      <a href="https://aclanthology.org/2020.conll-1.41/" target="_blank">Learning Context-free Languages with Nondeterministic Stack RNNs, DuSell B., Chiang, D. (2020)</a></br>
+      <a href="https://aclanthology.org/2020.conll-1.41/" target="_blank">DuSell and Chiang, 2020, Learning Context-free Languages with Nondeterministic Stack RNNs</a></br>
       </td>
     </tr>
     <tr>
       <th scope="row">2</th>
       <td>
-      <a href="https://arxiv.org/pdf/2109.01982.pdf" target="_blank">Learning Hierarchical Structures with Differentiable Nondeterministic Stacks, DuSell B., Chiang, D.  (2020)</a></br>
+      <a href="https://arxiv.org/pdf/2210.01343" target="_blank">DuSell and Chiang, 2022, The Surprising Computational Power of Nondeterministic Stack RNNs</a></br>
       </td>
     </tr>
     <tr>
       <th scope="row">3</th>
       <td>
-      <a href="https://arxiv.org/abs/1810.09536" target="_blank">Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks, Shen et al. (2019)</a></br>
+      <a href="https://arxiv.org/pdf/2109.01982.pdf" target="_blank">DuSell and Chiang, 2020, Learning Hierarchical Structures with Differentiable Nondeterministic Stacks</a></br>
       </td>
     </tr>
     <tr>
       <th scope="row">4</th>
       <td>
-      <a href="https://aclanthology.org/2020.tacl-1.27.pdf" target="_blank">Consistent Unsupervised Estimators for Anchored PCFGs, Clark, A., Fijalkow, N. (2020)</a></br>
+      <a href="https://arxiv.org/abs/1810.09536" target="_blank">Shen et al., 2019, Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks</a></br>
       </td>
     </tr>
     <tr>
       <th scope="row">5</th>
       <td>
-      <a href="https://proceedings.neurips.cc/paper/2020/file/49ca03822497d26a3943d5084ed59130-Paper.pdf" target="_blank">Factor Graph Grammars, Chiang, D., Riley, D. (2020)</a></br>
+      <a href="https://aclanthology.org/2020.tacl-1.27.pdf" target="_blank">Clark and Fijalkow, 2020, Consistent Unsupervised Estimators for Anchored PCFGs</a></br>
       </td>
     </tr>
     <tr>
       <th scope="row">6</th>
       <td>
-      <a href="https://arxiv.org/pdf/1805.06383.pdf" target="_blank">Composing Finite State Transducers on GPUs, Argueta, A, Chiang, D. (2018) </a></br>
+      <a href="https://proceedings.neurips.cc/paper/2020/file/49ca03822497d26a3943d5084ed59130-Paper.pdf" target="_blank">Chiang and Riley, 2020, Factor Graph Grammars</a></br>
       </td>
     </tr>
     <tr>
       <th scope="row">7</th>
       <td>
-      <a href="https://aclanthology.org/www.mt-archive.info/HLT-NAACL-2006-Smith.pdf" target="_blank">Quasi-Synchronous Grammars: Alignment by Soft Projection of Syntactic Dependencies, Smith, D., Eisner, J. (2006) </a></br>
+      <a href="https://arxiv.org/pdf/1805.06383.pdf" target="_blank">Argueta and Chiang, 2018, Composing Finite State Transducers on GPUs</a></br>
       </td>
     </tr>
     <tr>
       <th scope="row">8</th>
       <td>
-      <a href="https://www.cs.jhu.edu/~jason/papers/eisner.acl96.pdf" target="_blank">Efficient Normal-Form Parsing for Combinatory Categorial Grammar, Eisner, J. (1996) </a></br>
+      <a href="https://aclanthology.org/www.mt-archive.info/HLT-NAACL-2006-Smith.pdf" target="_blank">Smith and Eisner, 2006, Quasi-Synchronous Grammars: Alignment by Soft Projection of Syntactic Dependencies</a></br>
       </td>
     </tr>
     <tr>
       <th scope="row">9</th>
       <td>
-      <a href="https://www.cs.jhu.edu/~jason/papers/eisner+satta.tag00.pdf" target="_blank">A Faster Parsing Algorithm for Lexicalized Tree-Adjoining Grammars, Eisner, J., Satta, G. (2000) </a></br>
+      <a href="https://www.cs.jhu.edu/~jason/papers/eisner.acl96.pdf" target="_blank">Eistner, 1996, Efficient Normal-Form Parsing for Combinatory Categorial Grammar</a></br>
       </td>
     </tr>
     <tr>
       <th scope="row">10</th>
       <td>
-      <a href="https://www.cs.jhu.edu/~jason/papers/smith+eisner.emnlp08.pdf" target="_blank">Dependency Parsing by Belief Propagation, Smith, D., Eisner, J. (2008)</a></br>
+      <a href="https://www.cs.jhu.edu/~jason/papers/eisner+satta.tag00.pdf" target="_blank">Eisner and Satta, 2000, A Faster Parsing Algorithm for Lexicalized Tree-Adjoining Grammars</a></br>
       </td>
     </tr>
     <tr>
       <th scope="row">11</th>
       <td>
-      <a href="https://aclanthology.org/Q14-1032/" target="_blank">A New Parsing Algorithm for Combinatory Categorial Grammar, Kuhlmann, M., Satta, G. (2014) </a></br>
+      <a href="https://www.cs.jhu.edu/~jason/papers/smith+eisner.emnlp08.pdf" target="_blank">Smith and Eisner, 2008, Dependency Parsing by Belief Propagation</a></br>
       </td>
     </tr>
     <tr>
       <th scope="row">12</th>
       <td>
-      <a href="https://www.researchgate.net/publication/2764125_The_Equivalence_Of_Four_Extensions_Of_Context-Free_Grammars" target="_blank">The Equivalence Of Four Extensions Of Context-Free Grammars, Vijay-Shanker, K., Weir, D. (1995)</a></br>
+      <a href="https://aclanthology.org/Q14-1032/" target="_blank">Kuhlmann and Satta, 2014, A New Parsing Algorithm for Combinatory Categorial Grammar</a></br>
       </td>
     </tr>
     <tr>
       <th scope="row">13</th>
       <td>
-      <a href="https://www.sciencedirect.com/science/article/pii/030439759290124X" target="_blank">A geometric hierarchy beyond context-free languages, Weir, D. (1992)</a></br>
+      <a href="https://www.researchgate.net/publication/2764125_The_Equivalence_Of_Four_Extensions_Of_Context-Free_Grammars" target="_blank">Vijay-Shanker and Weir, 1995, The Equivalence Of Four Extensions Of Context-Free Grammars</a></br>
       </td>
     </tr>
     <tr>
       <th scope="row">14</th>
       <td>
-      <a href="https://arxiv.org/abs/1808.09357" target="_blank">Rational Recurrences, Peng, H., Schwartz, R., Thomson, S., Smith, N. A., 2018</a></br>
+      <a href="https://www.sciencedirect.com/science/article/pii/030439759290124X" target="_blank">Weir, 1992, A geometric hierarchy beyond context-free languages</a></br>
       </td>
     </tr>
     <tr>
       <th scope="row">15</th>
       <td>
-      <a href="https://arxiv.org/abs/1805.06061" target="_blank">SoPa: Bridging CNNs, RNNs, and Weighted Finite-State Machines, H., Schwartz, R., Thomson, S., Smith, N. A., 2018</a></br>
+      <a href="https://arxiv.org/abs/1808.09357" target="_blank">Peng et al, 2018, Rational Recurrences</a></br>
       </td>
     </tr>
     <tr>
       <th scope="row">16</th>
       <td>
-      <a href="https://www.sciencedirect.com/science/article/pii/S0022000085710136" target="_blank">On the Computational Power of Neural Nets, Siegelmann H.T., Sontag E. D., 1995</a></br>
+      <a href="https://arxiv.org/abs/1805.06061" target="_blank">Schwartz et al., 2018, SoPa: Bridging CNNs, RNNs, and Weighted Finite-State Machines</a></br>
       </td>
     </tr>
     <tr>
       <th scope="row">17</th>
       <td>
-      <a href="https://aclanthology.org/K19-1045.pdf" target="_blank">A General-Purpose Algorithm for Constrained Sequential Inference, Deutsch, D., Upadhyay, S., Roth, D., 2019</a></br>
+      <a href="https://www.sciencedirect.com/science/article/pii/S0022000085710136" target="_blank">Siegelmann and Sontag, 1995, On the Computational Power of Neural Nets</a></br>
       </td>
     </tr>
     <tr>
       <th scope="row">18</th>
       <td>
-      <a href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00306/43545" target="_blank">Theoretical Limitations of Self-Attention in Neural Sequence Models, Hahn, M., 2020</a></br>
+      <a href="https://aclanthology.org/K19-1045.pdf" target="_blank">Deutsch et al., 2019, A General-Purpose Algorithm for Constrained Sequential Inference</a></br>
       </td>
     </tr>
     <tr>
       <th scope="row">19</th>
       <td>
-      <a href="https://arxiv.org/pdf/2202.12172.pdf" target="_blank">Overcoming a Theoretical Limitation of Self-Attention, Chiang, D., Cholak, P., 2022</a></br>
+      <a href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00306/43545" target="_blank">Hahn, 2020, Theoretical Limitations of Self-Attention in Neural Sequence Models</a></br>
       </td>
     </tr>
     <tr>
       <th scope="row">20</th>
       <td>
-      <a href="https://arxiv.org/pdf/2010.07515.pdf" target="_blank">RNNs can generate bounded hierarchical languages with optimal memory, Hewitt, J., Hahn, M., Ganguli, S., Liang, P., Manning, C. D., 2020</a></br>
+      <a href="https://arxiv.org/pdf/2202.12172.pdf" target="_blank">Chiang and Cholak, 2022, Overcoming a Theoretical Limitation of Self-Attention, 2022</a></br>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">21</th>
+      <td>
+      <a href="https://arxiv.org/pdf/2010.07515.pdf" target="_blank">Hewitt et al., 2020, RNNs can generate bounded hierarchical languages with optimal memory</a></br>
       </td>
     </tr>
     
