@@ -100,10 +100,9 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       </td>
       <td>
       <div id="literature1" style="display:none">
+        <a href="https://link.springer.com/content/pdf/10.1007/978-3-642-01492-5_6.pdf" target="_blank">Mohri (2009; §2.1)</a></br>
         <a href="https://link.springer.com/chapter/10.1007/978-3-642-59136-5_9" target="_blank">Kuich (2003)</a></br>
-        <a href="https://link.springer.com/content/pdf/10.1007/978-3-642-01492-5_6.pdf" target="_blank">Mohri (2009; §6.2)</a></br>
-        <a href="https://aclanthology.org/P03-1006.pdf" target="_blank">Allauzen, Mohri, Roark (2003)</a>
-      <br/>  
+        <a href="https://link.springer.com/book/10.1007/978-0-387-75450-5" target="_blank">Gondran et al. (2008)</a></br>
       <br/>  
       </div>
       <button id="button1" style="border:none;" onclick="myFunction('1')">Show</button>
@@ -121,6 +120,9 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       </td>
       <td>
       <div id="literature2" style="display:none">
+        <a href="https://link.springer.com/content/pdf/10.1007/978-3-642-01492-5_6.pdf" target="_blank">Mohri (2009; §2.2)</a></br>
+        <a href="https://link.springer.com/content/pdf/10.1007/978-3-642-01492-5_6.pdf" target="_blank">Mohri (2009; §6.2)</a></br>
+        <a href="https://aclanthology.org/P03-1006.pdf" target="_blank">Allauzen, Mohri, Roark (2003)</a>
         <a href="https://www.cs.jhu.edu/~jason/papers/svete+al.emnlp22.pdf" target="_blank">Svete et al. (2022)</a></br>
       <br/>  
       </div>
@@ -138,6 +140,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td></td>
       <td>
       <div id="literature3" style="display:none">
+        <a href="https://link.springer.com/book/10.1007/978-0-387-75450-5" target="_blank">Gondran et al. (2008)</a></br>
         <a href="https://cs.nyu.edu/~mohri/pub/jalc.pdf" target="_blank">Conway (1971)</a></br>
         <a href="https://www.sciencedirect.com/science/article/pii/0304397577900561" target="_blank">Lehmann (1977)</a></br>
         <a href="https://link.springer.com/content/pdf/10.1007/978-3-642-01492-5_6.pdf" target="_blank">Mohri (2009; §3)</a></br>
@@ -192,6 +195,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td></td>
       <td>
       <div id="literature6" style="display:none">
+        <a href="https://link.springer.com/content/pdf/10.1007/978-3-642-01492-5_6.pdf" target="_blank">Mohri (2009; §7.1)</a></br>
         <a href="https://dl.acm.org/doi/abs/10.5555/873977.873979" target="_blank">Allauzen and Mohri (2003)</a></br>
       <br/>  
       </div>
@@ -210,6 +214,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td>
       <td>
       <div id="literature7" style="display:none">
+        <a href="https://link.springer.com/content/pdf/10.1007/978-3-642-01492-5_6.pdf" target="_blank">Mohri (2009; §7.2)</a></br>
       <br/>  
       </div>
       <button id="button7" style="border:none;" onclick="myFunction('7')">Show</button>
@@ -226,13 +231,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td></td>
       <td>
       <div id="literature8" style="display:none">
-        <a href="https://www.sciencedirect.com/science/article/pii/0304397592901423" target="_blank">Revuz (1992)</a></br>
-        <a href="https://www.di.ens.fr/~jv/HomePage/dea/MinimizeAutomata.pdf" target="_blank">Watson (1994)</a></br>
-        <a href="https://www.degruyter.com/document/doi/10.1515/9781400882618-006/html" target="_blank">Moore (1958)</a></br>
-        <a href="http://i.stanford.edu/pub/cstr/reports/cs/tr/71/190/CS-TR-71-190.pdf" target="_blank">Hopcroft (1971)</a></br>
-        <a href="https://www.sciencedirect.com/science/article/pii/S0304397501002195/pdf?md5=dfd109e83dc1aa4b4434a9d50443783b&pid=1-s2.0-S0304397501002195-main.pdf" target="_blank">Choffrut (2003)</a></br>
         <a href="https://link.springer.com/content/pdf/10.1007/978-3-642-01492-5_6.pdf" target="_blank">Mohri (2009; §7.3)</a></br>
-        <a href="https://aclanthology.org/N03-1009.pdf" target="_blank">Eisner (2003)</a></br>
         <a href="https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-41/issue-1/A-Maximization-Technique-Occurring-in-the-Statistical-Analysis-of-Probabilistic/10.1214/aoms/1177697196.full" target="_blank">Baum et al. (1970)</a></br>
         <a href="https://ieeexplore.ieee.org/document/18626" target="_blank">Rabiner (1989)</a></br>
         <a href="https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers" target="_blank">Lafferty et al. (2001)</a></br>
@@ -253,6 +252,13 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td></td>
       <td>
       <div id="literature9" style="display:none">
+        <a href="https://link.springer.com/content/pdf/10.1007/978-3-642-01492-5_6.pdf" target="_blank">Mohri (2009; §7.4)</a></br>
+        <a href="https://www.sciencedirect.com/science/article/pii/0304397592901423" target="_blank">Revuz (1992)</a></br>
+        <a href="https://www.di.ens.fr/~jv/HomePage/dea/MinimizeAutomata.pdf" target="_blank">Watson (1994)</a></br>
+        <a href="https://www.degruyter.com/document/doi/10.1515/9781400882618-006/html" target="_blank">Moore (1958)</a></br>
+        <a href="http://i.stanford.edu/pub/cstr/reports/cs/tr/71/190/CS-TR-71-190.pdf" target="_blank">Hopcroft (1971)</a></br>
+        <a href="https://www.sciencedirect.com/science/article/pii/S0304397501002195/pdf?md5=dfd109e83dc1aa4b4434a9d50443783b&pid=1-s2.0-S0304397501002195-main.pdf" target="_blank">Choffrut (2003)</a></br>
+        <a href="https://aclanthology.org/N03-1009.pdf" target="_blank">Eisner (2003)</a></br>
       <br/>  
       </div>
       <button id="button9" style="border:none;" onclick="myFunction('9')">Show</button>
@@ -269,9 +275,8 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td></td>
       <td>
       <div id="literature10" style="display:none">
-        <a href="https://en.wikipedia.org/wiki/Thompson%27s_construction" target="_blank">Wikipedia</a></br>
         <a href="http://www-m3.ma.tum.de/foswiki/pub/MN0506/WebHome/dijkstra.pdf" target="_blank">Dijkstra (1959)</a></br>
-        <a href="https://aclanthology.org/W05-1506/" target="_blank">Huang (2008)</a></br>
+        <!-- <a href="https://aclanthology.org/W05-1506/" target="_blank">Huang (2008)</a></br> -->
         <a href="https://dl.acm.org/doi/10.1145/321992.321993" target="_blank">Johnson (1977)</a></br>
         <a href="https://aclanthology.org/J99-4004.pdf" target="_blank">Goodman (1999)</a></br>
         <a href="https://aclanthology.org/W05-1506/" target="_blank">Huang and Chiang (2005)</a></br>
@@ -293,6 +298,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td></td>
       <td>
       <div id="literature11" style="display:none">
+        <a href="https://en.wikipedia.org/wiki/Thompson%27s_construction" target="_blank">Wikipedia</a></br>
       <br/>  
       </div>
       <button id="button11" style="border:none;" onclick="myFunction('11')">Show</button>
@@ -326,13 +332,10 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td>
       <div id="literature13" style="display:none">
         <a href="https://www.cs.jhu.edu/~jason/papers/eisner+blatz.fg06.pdf" target="_blank">Eisner and Blatz (2006; §6.3)</a></br>
-        <a href="https://aclanthology.org/J95-2002/" target="_blank">Stolcke (1995; §4.7)</a></br>
         <a href="https://www.cs.jhu.edu/~jason/papers/eisner+blatz.fg06.pdf" target="_blank">Eisner and Blatz (2006; §6.5)</a></br>
         <a href="https://ieeexplore.ieee.org/document/4569645/authors#authors" target="_blank">Rosenkranz and Lewis (1970)</a></br>
-        <a href="https://www.sciencedirect.com/science/article/pii/S001999586780007X?via%3Dihub" target="_blank">Johnson (1996)</a></br>
-        <a href="https://aclanthology.org/1997.iwpt-1.18.pdf" target="_blank">Manning and Carptener (1997)</a></br>
+        <!-- <a href="https://www.sciencedirect.com/science/article/pii/S001999586780007X?via%3Dihub" target="_blank">Johnson (1996)</a></br> -->
         <a href="https://aclanthology.org/C00-1052/" target="_blank">Johnson and Roark (2000)</a></br>
-        <a href="https://aclanthology.org/N09-1039.pdf" target="_blank">Schuler (2009)</a></br>
       <br/>  
       </div>
       <button id="button13" style="border:none;" onclick="myFunction('13')">Show</button>
@@ -351,6 +354,10 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td></td>
       <td>
       <div id="literature14" style="display:none">
+        <a href="https://aclanthology.org/J95-2002/" target="_blank">Stolcke (1995)</a></br>
+        <a href="https://aclanthology.org/N09-1039.pdf" target="_blank">Schuler (2009)</a></br>
+        <a href="https://aclanthology.org/J95-2002/" target="_blank">Stolcke (1995; §4.7)</a></br>
+        <a href="https://aclanthology.org/1997.iwpt-1.18.pdf" target="_blank">Manning and Carptener (1997)</a></br>
         <a href="https://www.ideals.illinois.edu/handle/2142/74304" target="_blank">Kasami (1966)</a></br>
         <a href="https://www.sciencedirect.com/science/article/pii/S001999586780007X?via%3Dihub" target="_blank">Younger (1967)</a></br>
         <a href="http://www.softwarepreservation.org/projects/FORTRAN/CockeSchwartz_ProgLangCompilers.pdf" target="_blank">Cocke and Schwartz (1970)</a></br>
@@ -359,7 +366,6 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
         <a href="https://www.cambridge.org/core/journals/theory-and-practice-of-logic-programming/article/abs/products-of-weighted-logic-programs/5E2207BED192B119DC0034BE15B242E1" target="_blank">Cohen et al. (2011)</a></br>
         <a href="https://aclanthology.org/P11-2124/" target="_blank">Goldberg and Elhadad (2011)</a></br>
         <a href="https://dl.acm.org/doi/10.1145/362007.362035" target="_blank">Earley (1970)</a></br>
-        <a href="https://aclanthology.org/J95-2002/" target="_blank">Stolcke (1995)</a></br>
       <br/>  
       </div>
       <button id="button14" style="border:none;" onclick="myFunction('14')">Show</button>
@@ -429,11 +435,6 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       </td>
       <td>
       <div id="literature17" style="display:none">
-        <a href="https://aclanthology.org/W04-0308.pdf" target="_blank">Nivre (2004)</a></br>
-        <a href="https://aclanthology.org/J08-4003.pdf" target="_blank">Nivre (2008)</a></br>
-        <a href="https://dl.acm.org/doi/10.1145/321250.321254" target="_blank">Greichbach (1965)</a></br>
-        <a href="https://aclanthology.org/A00-2033.pdf" target="_blank">Moore (2000)</a></br>
-        <a href="https://aclanthology.org/P04-1069.pdf" target="_blank">Nederhof and Satta (2004)</a></br>
       <br/>  
       </div>
       <button id="button17" style="border:none;" onclick="myFunction('17')">Show</button>
@@ -453,6 +454,11 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td></td>
       <td>
       <div id="literature18" style="display:none">
+        <a href="https://aclanthology.org/W04-0308.pdf" target="_blank">Nivre (2004)</a></br>
+        <a href="https://aclanthology.org/J08-4003.pdf" target="_blank">Nivre (2008)</a></br>
+        <a href="https://dl.acm.org/doi/10.1145/321250.321254" target="_blank">Greichbach (1965)</a></br>
+        <a href="https://aclanthology.org/A00-2033.pdf" target="_blank">Moore (2000)</a></br>
+        <a href="https://aclanthology.org/P04-1069.pdf" target="_blank">Nederhof and Satta (2004)</a></br>
         <a href="https://www.morganclaypool.com/doi/abs/10.2200/S00169ED1V01Y200901HLT002" target="_blank">Kübler et al. (2009)</a></br>
         <a href="https://www.sciencedirect.com/science/article/pii/S0019995865902329?via%3Dihub" target="_blank">Gaifman (1965)</a></br>
         <a href="https://link.springer.com/book/10.1007/978-3-642-14568-1" target="_blank">Kuhlmann (2011)</a></br>
@@ -496,13 +502,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
         <a href="https://jacquema.gitlabpages.inria.fr/files/tata.pdf" target="_blank">Comon et al. (2008)</a></br>
         <a href="" target="_blank">Engelfriet (1975)</a></br>
         <a href="" target="_blank">Thatcher (1967)</a></br>
-        <a href="https://www.inf.tu-dresden.de/content/institutes/thi/gdp/pubs/2009/determ2.pdf" target="_blank">Büchse et al. (2010)</a></br>
-        <a href="https://dl.acm.org/doi/10.5555/2034006.2034050" target="_blank">Maletti and Quernheim (2011)</a></br>
         <a href="https://kevincrawfordknight.github.io/papers/p5.pdf" target="_blank">Knight and Graehl (2005)</a></br>
-        <a href="https://link.springer.com/content/pdf/10.1007/978-3-540-88282-4_33.pdf" target="_blank">Maletti (2008)</a></br>
-        <a href="https://arxiv.org/pdf/1702.00304.pdf" target="_blank">Hanneforth, Maletti, Quernheim (2018)</a></br>
-        <a href="https://link.springer.com/book/10.1007/978-3-642-14846-0" target="_blank">Kallmeyer (2010)</a></br>
-        <a href="https://aclanthology.org/Q14-1032/" target="_blank">Kuhlmann, Satta (2014)</a></br>
       <br/>  
       </div>
       <button id="button20" style="border:none;" onclick="myFunction('20')">Show</button>
@@ -518,6 +518,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td></td>
       <td>
       <div id="literature21" style="display:none">
+        <a href="https://www.inf.tu-dresden.de/content/institutes/thi/gdp/pubs/2009/determ2.pdf" target="_blank">Büchse et al. (2010)</a></br>
       <br/>  
       </div>
       <button id="button21" style="border:none;" onclick="myFunction('21')">Show</button>
@@ -533,6 +534,8 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td></td>
       <td>
       <div id="literature22" style="display:none">
+        <a href="https://dl.acm.org/doi/10.5555/2034006.2034050" target="_blank">Maletti and Quernheim (2011)</a></br>
+        <a href="https://arxiv.org/pdf/1702.00304.pdf" target="_blank">Hanneforth, Maletti, Quernheim (2018)</a></br>
       <br/>  
       </div>
       <button id="button22" style="border:none;" onclick="myFunction('22')">Show</button>
@@ -548,6 +551,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td></td>
       <td>
       <div id="literature23" style="display:none">
+        <a href="https://link.springer.com/content/pdf/10.1007/978-3-540-88282-4_33.pdf" target="_blank">Maletti (2008)</a></br>
       <br/>  
       </div>
       <button id="button23" style="border:none;" onclick="myFunction('23')">Show</button>
@@ -565,6 +569,8 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td></td>
       <td>
       <div id="literature24" style="display:none">
+        <a href="https://link.springer.com/book/10.1007/978-3-642-14846-0" target="_blank">Kallmeyer (2010)</a></br>
+        <a href="https://aclanthology.org/Q14-1032/" target="_blank">Kuhlmann, Satta (2014)</a></br>
       <br/>  
       </div>
       <button id="button24" style="border:none;" onclick="myFunction('24')">Show</button>
@@ -706,17 +712,21 @@ Instead, we will release **10 course assignments** throughout the semester and y
 
 In that case, the final grade will be calculated as follows:
 
-- **100%** Assignments
+- **100 %** Assignments**\***
 
 &nbsp;&nbsp;&nbsp;**2.** Alternatively, you can obtain your final grade from **assignments *and* a course project**. In that case, you only have to turn in **4 assignments** and the **course project** to be able to achieve the highest grade (your 4 highest-scoring assignments will count towards your final grade). 
 See below for more information on the course project.
 
 In this case, your final grade will be calculated as follows:
 
-- **50%** Assignments and
-- **50%** Course Project
+- **50 %** Assignments**\*** and
+- **50 %** Course Project
 
 You *can* cooperate on and discuss the assignments with your peers, but you *must* write your own code and write up the solutions yourself.
+
+***Important**: In either of the two options, there is a specific **condition** we impose on the assignments you turn in: **half** of your assignment have to come from the first "batch" of the assignments (Assignments 1---5), and **half** of your assignments have to come from the second "batch" of the assignments (Assignments 6---10).
+This means that, if you are turning in 4 assignments, you have to turn in 2 assignments from the first batch and 2 assignments from the second batch, and if you are submitting 8 assignments, you have to turn in 4 assignments from the first batch and 4 assignments from the second batch.
+This is to ensure you have a more holistic understanding of the entire course material.
 
 We require the solutions to be properly typeset.
 We recommend using `LaTeX` (with [`Overleaf`](https://www.overleaf.com)), but `markdown` files with `MathJax` for the mathematical expressions are also fine.
@@ -797,7 +807,7 @@ The teaching staff has compiled a list of recent papers, listed below, whose rep
     <tr>
       <th scope="row">9</th>
       <td>
-      <a href="https://www.cs.jhu.edu/~jason/papers/eisner.acl96.pdf" target="_blank">Eistner, 1996, Efficient Normal-Form Parsing for Combinatory Categorial Grammar</a></br>
+      <a href="https://www.cs.jhu.edu/~jason/papers/eisner.acl96.pdf" target="_blank">Eisner, 1996, Efficient Normal-Form Parsing for Combinatory Categorial Grammar</a></br>
       </td>
     </tr>
     <tr>
@@ -863,7 +873,7 @@ The teaching staff has compiled a list of recent papers, listed below, whose rep
     <tr>
       <th scope="row">20</th>
       <td>
-      <a href="https://arxiv.org/pdf/2202.12172.pdf" target="_blank">Chiang and Cholak, 2022, Overcoming a Theoretical Limitation of Self-Attention, 2022</a></br>
+      <a href="https://arxiv.org/pdf/2202.12172.pdf" target="_blank">Chiang and Cholak, 2022, Overcoming a Theoretical Limitation of Self-Attention</a></br>
       </td>
     </tr>
     <tr>
