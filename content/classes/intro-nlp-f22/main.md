@@ -28,6 +28,7 @@ The course constitutes an introduction to modern techniques in the field of natu
 **31. 10. 2022** &emsp; [Assignment grading rubric](https://drive.google.com/file/d/1LGy0TL7Y4yUSK4n5zySg4PtlnXYZrgVF/view?usp=share_link) has been released!  
 **26. 11. 2022** &emsp; [Assignment 5](https://drive.google.com/file/d/1_3sBvw6tTQ31Gvvhbed1x7Y67XFPexWA/view?usp=share_link) has been released!  
 **05. 12. 2022** &emsp; [Assignment 6](https://drive.google.com/file/d/1GRxEHIsJtZxbOa-V9hyG1RXKKtiaHnD6/view?usp=share_link) has been released!  
+**05. 01. 2022** &emsp; **Practice exams** have been released!  
 
 ## Organisation
 
@@ -556,3 +557,13 @@ The submission links are:
     
   </tbody>
 </table>
+
+
+## Practice Exams
+
+- [Practice Exam 1](https://drive.google.com/file/d/1Fs0CYuLG-sBLZJwthChU8wqYyzBBOoPi/view?usp=sharing)  
+- [Practice Exam 1 Solutions](https://drive.google.com/file/d/1sv4GoNrAtRzlV5Ddk9JqBxe2IgTX_ttv/view?usp=sharing)  
+- [Practice Exam 2](https://drive.google.com/file/d/1JBIgAL5VXXY2Lo8UZQtRx6NYLzExH1Mt/view?usp=sharing)    
+- [Practice Exam 2 Solutions](https://drive.google.com/file/d/1S_-keHXTNQBDFw3-KHxrJ-EVnmVGbSJQ/view?usp=sharing) 
+- [Spring 2021 Exam](https://drive.google.com/file/d/1ZH_59Vg69-Z4qBQ4FrqOHy0yvf4nMxiO/view?usp=sharing)    
+- [Spring 2021 Exam Solutions](https://drive.google.com/file/d/1VOkgodGoRn_j1IDEhUP0W1iS__5LgIfc/view?usp=sharing)    
