@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ethan Gotlieb Wilcox
+title: Ethan Wilcox
 
 # Username (this should match the folder name)
 authors:
