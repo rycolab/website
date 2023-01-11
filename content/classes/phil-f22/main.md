@@ -207,7 +207,8 @@ We encourage you to sign up and participate in the discussions there.
       <td>15.11.22</td>
       <td>Words, Characters, or Something In Between</td>
       <td>
-      <a href="https://drive.google.com/file/d/1y1-JnicQhzBxu-07aI6eTb710IlqUpPb/view?usp=share_link" target="_blank">Neural Machine Translation Presentation Slides</a>
+      <a href="https://drive.google.com/file/d/1y1-JnicQhzBxu-07aI6eTb710IlqUpPb/view?usp=share_link" target="_blank">Neural Machine Translation Presentation Slides</a>,
+      <a href="https://drive.google.com/file/d/19vfDWyneU82AFRiXGrPRQ9PcC2_eM9cZ/view?usp=share_link" target="_blank">Character-Based Modeling Presentation Slides</a>
       </td>
       <td>
         <a href="https://arxiv.org/abs/1508.06615" target="_blank"><b>Kim et al. (2015)</b></a>, 
@@ -232,7 +233,8 @@ We encourage you to sign up and participate in the discussions there.
       <th scope="row">11</th>
       <td>29.11.22</td>
       <td>Syntax and Cognition</td>
-      <td><a href="https://drive.google.com/file/d/1MUWJOlOf1HZUeluqzFHsgeGSJUtG84Cu/view?usp=share_link" target="_blank">Chomsky (1957) Presentation Slides</a></td>
+      <td><a href="https://drive.google.com/file/d/1MUWJOlOf1HZUeluqzFHsgeGSJUtG84Cu/view?usp=share_link" target="_blank">Chomsky (1957) Presentation Slides</a>, 
+      <a href="https://drive.google.com/file/d/1ObbtbibTBuUuIljnNOHSYmCeQGhHbMA9/view?usp=share_link" target="_blank">Chomsky (1959) Presentation Slides</a></td>
       <td>
         <a href="https://drive.google.com/file/d/1bLC898DAJhYsBl6HsEJQOZBfWOp1y9QC/view?usp=sharing" target="_blank"><b>Chomsky (1957)</b></a>, 
         <a href="https://drive.google.com/file/d/1FOjOv66b_RC1F_oCTR7IDUfbV3aOFfeu/view?usp=sharing" target="_blank">Chomsky (1956)</a>, 
