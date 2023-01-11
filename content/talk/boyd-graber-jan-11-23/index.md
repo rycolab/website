@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "TBD"
+title: "If You Want Interpretable AI, Measure It"
 event: 
 event_url:
 location: OAS J33
@@ -20,7 +20,7 @@ date_end: 2023-01-11T15:00:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2023-01-07T16:00:00+02:00
+publishDate: 2023-01-11T16:05:00+02:00
 
 authors: ["Jordan Boyd-Graber"]
 tags: []
