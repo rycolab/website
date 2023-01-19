@@ -67,4 +67,4 @@ projects: []
 ---
 
 ### Bio
- Mark Fišel is head of NLP at University of Tartu (Estonia) with focus on machine translation, speech synthesis, large language model usage, tuning and analysis, etc
+ Mark Fišel is head of NLP at University of Tartu (Estonia) with focus on machine translation, speech synthesis, large language model usage, tuning and analysis, etc.

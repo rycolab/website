@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "If You Want Interpretable AI, Measure It"
+title: "If We Want AI to be Interpretable, We Need to Measure Interpretability"
 event: 
 event_url:
 location: OAS J33
@@ -12,7 +12,7 @@ address:
   postcode:
   country:
 summary: 
-abstract:
+abstract: 'AI tools are ubiquitous, but most users treat it as a black box: a handy tool that suggests purchases, flags spam, or autocompletes text. While researchers have presented explanations for making AI less of a black box, a lack of metrics make it hard to optimize explicitly for interpretability. Thus, I propose two metrics for interpretability suitable for unsupervised and supervised AI methods. For unsupervised topic models, I discuss our proposed "intruder" interpretability metric, how it contradicts the previous evaluation metric for topic models (perplexity), and discuss its uptake in the community over the last decade. For supervised question answering approaches, I show how human-computer cooperation can be measured and directly optimized by a multi-armed bandit approach to learn what kinds of explanations help specific users. I will then briefly discuss how similar setups can help users navigate information-rich domains like fact checking, translation, and web search.'
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2023-01-11T14:00:00+02:00
@@ -67,4 +67,4 @@ projects: []
 ---
 
 ### Bio
-Jordan Boyd-Graber is an associate professor in the University of Maryland Computer Science Department (tenure home), Institute of Advanced Computer Studies, iSchool, and Language Science Center. His research focuses on making machine learning more useful, more interpretable, and able to learn and interact from humans. This helps users sift through decades of documents; discover when individuals lie, reframe, or change the topic in a conversation; or to compete against humans in games that are based in natural language.
+Jordan Boyd-Graber is an associate professor in the University of Maryland's Computer Science Department, iSchool, UMIACS, and Language Science Center. He generally works on how humans can interact with AI tools, starting first with topic models, then translation, then negotiation, and most recently question answering. He and his students have won "best of" awards at NIPS (2009, 2015), NAACL (2016), and CoNLL (2015). Jordan also won the British Computing Society's 2015 Karen Spärk Jones Award and a 2017 NSF CAREER award.
