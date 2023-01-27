@@ -31,10 +31,8 @@ Both lectures will be given in person and live broadcast on [Zoom](https://ethz.
 
 Lectures will be recorded---links to the Zoom recordings will be posted on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=19133).
 
-<!-- **Important**: The ETH semester starts on Tuesday, September 20th, but the first lecture will take place on Monday, September 26th. -->
-
 #### Discussion Sections
-Discussion sections (tutorials) will take place Thursdays 16-19 in [NO C 60](https://www.rauminfo.ethz.ch/Rauminfo/RauminfoPre.do?region=Z&areal=Z&gebaeude=NO&geschoss=C&raumNr=60) and on Zoom ([same link](https://ethz.zoom.us/j/63534790714) as the lectures).
+Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz.ch/Rauminfo/RauminfoPre.do?region=Z&areal=Z&gebaeude=NO&geschoss=C&raumNr=60) and on Zoom ([same link](https://ethz.zoom.us/j/63534790714) as the lectures).
 
 <!-- Schedule to be posted at the beginning of the semester, but the general plan is to have a 1 week delay between the content of the discussion sections and the lectures. -->
 
@@ -116,6 +114,7 @@ Discussion sections (tutorials) will take place Thursdays 16-19 in [NO C 60](htt
       <td>
       </td>
       <td>
+      <a href="https://arxiv.org/abs/2212.10502">Du, Li, et al. A Measure-Theoretic Characterization of Tight Language Models. arXiv, 2022.</a>
       </td>
     </tr>  
     <tr>
@@ -157,12 +156,14 @@ Discussion sections (tutorials) will take place Thursdays 16-19 in [NO C 60](htt
       <td>
       </td>
       <td>
+      <a href="https://arxiv.org/abs/2212.10502">Du, Li, et al. A Measure-Theoretic Characterization of Tight Language Models. arXiv, 2022.</a>, 
+      <a href="https://arxiv.org/abs/1711.05408">Chen, Yining, et al. Recurrent Neural Networks as Weighted Language Recognizers. arXiv, 2017.</a>
       </td>
     </tr>   
     <tr>
       <!-- <td>3. 3. 2023 (1 hour)</td> -->
       <td>3. 3. 2023</td>
-      <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Modeling Foundations</b></td>
+      <td rowspan="3" style="vertical-align : middle;text-align:center;" align="center"><b>Modeling Foundations</b></td>
       <td>The Language Modeling Task</td>
       <td>
       Ryan
@@ -198,11 +199,31 @@ Discussion sections (tutorials) will take place Thursdays 16-19 in [NO C 60](htt
       <td>
       </td>
       <td>
+      <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf">Bengio, Yoshua, et al. A neural probabilistic language model. J. Mach. Learn. Res., 2003.</a>
       </td>
     </tr>
     <tr>
       <!-- <td>10. 3. 2023 (1 hour)</td> -->
       <td>10. 3. 2023</td>
+      <td>Pushdown Language Models</td>
+      <td>
+      Ryan
+      </td>
+      <td> 
+      <div id="summary7" style="display:none">
+      In many ways, human language is more naturally modeled by a context-free grammar than by a finite-state automaton. This lecture discusses how to use weighted context-free grammars, specifically when implemented as weighted pushdown automata, to construct language models. In the case of a 1-stack pushdown language model, we give an iterative algorithm to determine tightness. We also discuss pushdown language models with more than one stack. In this case, determining whether such a language model is tight is undecidable. Learning the nuts and bolts of pushdown language models is more than just a historical artifact: The definitions provided in this lecture will serve as a basis for proofs about the capacity of recurrent neural networks. Indeed, our proof that it is undecidable to determine the tightness of a recurrent neural language model with infinite precision is as simple as demonstrating an encoding of a 2-stack pushdown language model as a recurrent neural network.
+      <br/>
+      <br/>
+      </div>
+      <button id="button7" style="border:none;" onclick="myFunction('7')">Show</button>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>  
+    <tr>
+      <td>14. 3. 2023</td>
       <td rowspan="6" style="vertical-align : middle;text-align:center;" align="center"><b>Neural Network Modeling</b></td>
       <td>Recurrent Neural Language Models</td>
       <td>
@@ -221,26 +242,6 @@ Discussion sections (tutorials) will take place Thursdays 16-19 in [NO C 60](htt
       <td>
       </td>
     </tr>  
-    <tr>
-      <!-- <td>14. 3. 2023 (2 hours)</td> -->
-      <td>14. 3. 2023</td>
-      <td>Representational Capacity of RNNLMs</td>
-      <td>
-      Ryan
-      </td>
-      <td>
-      <div id="summary8" style="display:none">
-      In this lecture, we explore the representational capacity of RNNLMs. We show that, if the activation function is a hard thresholding operation, then RNNLMs have the same expressive capacity as a finite-state LM. However, we show that RNNLMs can implicitly represent finite-state LMs that are much larger. Additionally, if the activation function is a saturated sigmoid or a ReLu and we assume infinite precision arithmetic, we show how an RNN can emulate a Turing machine.
-      <br/>
-      <br/>
-      </div>
-      <button id="button8" style="border:none;" onclick="myFunction('8')">Show</button>
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-    </tr>
     <tr>
       <!-- <td>17. 3. 2023 (1 hour)</td> -->
       <td>17. 3. 2023</td>
@@ -262,8 +263,30 @@ Discussion sections (tutorials) will take place Thursdays 16-19 in [NO C 60](htt
       </td>
     </tr>
     <tr>
-      <!-- <td>21. 3. 2023 (2 hours)</td> -->
       <td>21. 3. 2023</td>
+      <!-- <td rowspan="5" style="vertical-align : middle;text-align:center;" align="center"><b>Neural Network Modeling</b></td> -->
+      <td>Representational Capacity of RNNLMs</td>
+      <td>
+      Ryan
+      </td>
+      <td>
+      <div id="summary8" style="display:none">
+      In this lecture, we explore the representational capacity of RNNLMs. We show that, if the activation function is a hard thresholding operation, then RNNLMs have the same expressive capacity as a finite-state LM. However, we show that RNNLMs can implicitly represent finite-state LMs that are much larger. Additionally, if the activation function is a saturated sigmoid or a ReLu and we assume infinite precision arithmetic, we show how an RNN can emulate a Turing machine.
+      <br/>
+      <br/>
+      </div>
+      <button id="button8" style="border:none;" onclick="myFunction('8')">Show</button>
+      </td>
+      <td>
+      </td>
+      <td>
+      <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf">Siegelmann H. T. and Sontag E. D. On the computational power of neural nets. Computational learning theory. 1992. 
+      </a>
+      </td>
+    </tr>
+    <tr>
+      <!-- <td>21. 3. 2023 (2 hours)</td> -->
+      <td>24. 3. 2023</td>
       <td>Transformer-based Language Models</td>
       <td>
       Ryan
@@ -283,7 +306,7 @@ Discussion sections (tutorials) will take place Thursdays 16-19 in [NO C 60](htt
     </tr>
     <tr>
       <!-- <td>24. 3. 2023 (1 hour)</td> -->
-      <td>24. 3. 2023</td>
+      <td>28. 3. 2023</td>
       <td>Efficient Attention</td>
       <td>
       Ryan
@@ -303,7 +326,7 @@ Discussion sections (tutorials) will take place Thursdays 16-19 in [NO C 60](htt
     </tr>
     <tr>
       <!-- <td>28. 3. 2023 (2 hours)</td> -->
-      <td>28. 3. 2023</td>
+      <td>31. 3. 2023</td>
       <td>Variants on the Transformer</td>
       <td>
       Ryan
@@ -322,29 +345,9 @@ Discussion sections (tutorials) will take place Thursdays 16-19 in [NO C 60](htt
       </td>
     </tr>
     <tr>
-      <!-- <td>31. 3. 2023 (1 hour)</td> -->
-      <td>31. 3. 2023</td>
-      <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Modeling Potpourri</b></td>
-      <td>Generating Text from a Language Model</td>
-      <td>
-      Ryan
-      </td>
-      <td>
-      <div id="summary13" style="display:none">
-      A popular use case for language modeling is the generation of text. This lecture overviews various strategies for deterministically and stochastically generating text. We discuss beam search, ancestral sampling, as well as various sampling adaptors, e.g., top-k, nucleus, and locally typical sampling.
-      <br/>
-      <br/>
-      </div>
-      <button id="button13" style="border:none;" onclick="myFunction('13')">Show</button>
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-    </tr>  
-    <tr>
       <!-- <td>4. 4. 2023 (2 hours)</td> -->
       <td>4. 4. 2023</td>
+      <td rowspan="1" style="vertical-align : middle;text-align:center;" align="center"><b>Modeling Potpourri</b></td>
       <td>Tokenization</td>
       <td>
       Ryan
@@ -377,19 +380,20 @@ Discussion sections (tutorials) will take place Thursdays 16-19 in [NO C 60](htt
       </td>
     </tr>
     <tr>
-      <!-- <td>7. 4. 2023 (1 hour)</td> -->
+      <!-- <td>31. 3. 2023 (1 hour)</td> -->
       <td>18. 4. 2023</td>
-      <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Parallelism and Scaling up</b></td>
-      <td>Parallelism</td>
+      <td rowspan="1" style="vertical-align : middle;text-align:center;" align="center"><b>Modeling Potpourri</b></td>
+      <td>Generating Text from a Language Model</td>
       <td>
-      Ce
+      Ryan
       </td>
       <td>
-      <div id="summary15" style="display:none">
+      <div id="summary13" style="display:none">
+      A popular use case for language modeling is the generation of text. This lecture overviews various strategies for deterministically and stochastically generating text. We discuss beam search, ancestral sampling, as well as various sampling adaptors, e.g., top-k, nucleus, and locally typical sampling.
       <br/>
       <br/>
       </div>
-      <button id="button15" style="border:none;" onclick="myFunction('15')">Show</button>
+      <button id="button13" style="border:none;" onclick="myFunction('13')">Show</button>
       </td>
       <td>
       </td>
@@ -399,6 +403,7 @@ Discussion sections (tutorials) will take place Thursdays 16-19 in [NO C 60](htt
     <tr>
       <!-- <td>11. 4. 2023 (2 hours)</td> -->
       <td>21. 4. 2023</td>
+      <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Parallelism and Scaling up</b></td>
       <td>Scaling up</td>
       <td>
       Ce
@@ -416,7 +421,26 @@ Discussion sections (tutorials) will take place Thursdays 16-19 in [NO C 60](htt
       </td>
     </tr>
     <tr>
+      <!-- <td>7. 4. 2023 (1 hour)</td> -->
       <td>25. 4. 2023</td>
+      <td>Parallelism</td>
+      <td>
+      Ce
+      </td>
+      <td>
+      <div id="summary15" style="display:none">
+      <br/>
+      <br/>
+      </div>
+      <button id="button15" style="border:none;" onclick="myFunction('15')">Show</button>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>  
+    <tr>
+      <td>28. 4. 2023</td>
       <td rowspan="5" style="vertical-align : middle;text-align:center;" align="center"><b>Applications</b></td>
       <td>Pre-training</td>
       <td>
@@ -435,7 +459,7 @@ Discussion sections (tutorials) will take place Thursdays 16-19 in [NO C 60](htt
       </td>
     </tr>  
     <tr>
-      <td>28. 4. 2023</td>
+      <td>2. 5. 2023</td>
       <td>Fine-Tuning</td>
       <td>
       Mrinmaya
@@ -446,24 +470,6 @@ Discussion sections (tutorials) will take place Thursdays 16-19 in [NO C 60](htt
       <br/>
       </div>
       <button id="button18" style="border:none;" onclick="myFunction('18')">Show</button>
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td>2. 5. 2023</td>
-      <td>Prompting</td>
-      <td>
-      Mrinmaya
-      </td>
-      <td>
-      <div id="summary19" style="display:none">
-      <br/>
-      <br/>
-      </div>
-      <button id="button19" style="border:none;" onclick="myFunction('19')">Show</button>
       </td>
       <td>
       </td>
@@ -490,6 +496,24 @@ Discussion sections (tutorials) will take place Thursdays 16-19 in [NO C 60](htt
     </tr>
     <tr>
       <td>9. 5. 2023</td>
+      <td>Prompting</td>
+      <td>
+      Mrinmaya
+      </td>
+      <td>
+      <div id="summary19" style="display:none">
+      <br/>
+      <br/>
+      </div>
+      <button id="button19" style="border:none;" onclick="myFunction('19')">Show</button>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>12. 5. 2023</td>
       <td>Additional Topics</td>
       <td>
       Mrinmaya
@@ -507,7 +531,7 @@ Discussion sections (tutorials) will take place Thursdays 16-19 in [NO C 60](htt
       </td>
     </tr>
     <tr>
-      <td>12. 5. 2023</td>
+      <td>16. 5. 2023</td>
       <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Analysis</b></td>
       <td>Analysis and Probing</td>
       <td>
@@ -527,7 +551,7 @@ Discussion sections (tutorials) will take place Thursdays 16-19 in [NO C 60](htt
       </td>
     </tr>
     <tr>
-      <td>16. 5. 2023</td>
+      <td>19. 5. 2023</td>
       <td>Cognitive Modeling</td>
       <td>
       Ethan/Alex/Ryan
@@ -546,7 +570,7 @@ Discussion sections (tutorials) will take place Thursdays 16-19 in [NO C 60](htt
       </td>
     </tr>
     <tr>
-      <td>19. 5. 2023</td>
+      <td>23. 5. 2023</td>
       <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Security and Misuse</b></td>
       <td>Harms</td>
       <td>
@@ -565,7 +589,7 @@ Discussion sections (tutorials) will take place Thursdays 16-19 in [NO C 60](htt
       </td>
     </tr>  
     <tr>
-      <td>23. 5. 2023</td>
+      <td>26. 5. 2023</td>
       <td>Ethical Concerns</td>
       <td>
       Florian
@@ -583,7 +607,7 @@ Discussion sections (tutorials) will take place Thursdays 16-19 in [NO C 60](htt
       </td>
     </tr>
     <tr>
-      <td>26. 5. 2023</td>
+      <td>30. 5. 2023</td>
       <td>Security and Misuse</td>
       <td>
       Florian
@@ -601,7 +625,7 @@ Discussion sections (tutorials) will take place Thursdays 16-19 in [NO C 60](htt
       </td>
     </tr>
     <tr>
-      <td>30. 5. 2023</td>
+      <td>2. 6. 2023</td>
       <td>Memorization and Privacy</td>
       <td>
       Florian
@@ -618,7 +642,7 @@ Discussion sections (tutorials) will take place Thursdays 16-19 in [NO C 60](htt
       <td>
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>2. 6. 2023</td>
       <td></td>
       <td>Conclusion and Group Discussion</td>
@@ -636,7 +660,7 @@ Discussion sections (tutorials) will take place Thursdays 16-19 in [NO C 60](htt
       </td>
       <td>
       </td>
-    </tr>  
+    </tr>   -->
   </tbody>
 </table>
 
