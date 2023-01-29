@@ -92,7 +92,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
     <tr>
       <td>22. 2. 2023</td>
       <td rowspan="11" style="vertical-align : middle;text-align:center;" align="center"><b>Regular Languages</b></td>
-      <td>Weighted Formal Languages and Semiring Theory</td>
+      <td>Introduction and Overview, Weighted Formal Languages and Semiring Theory</td>
       <td>
       <a href="https://drive.google.com/file/d/1mJNh_hEJ9J0qpPX3ZbO7ROWQoUf4B_-R/view?usp=sharing" target="_blank">Chapter 1 (last year)</a>
       </td>
@@ -113,7 +113,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
     </tr>
     <tr>
       <td>23. 2. 2023</td>
-      <td>Weighted Finite-State Acceptors</td>
+      <td>Regular Languages, Weighted Finite-State Acceptors</td>
       <td>
       </td>
       <td>
@@ -134,7 +134,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
     </tr>
     <tr>
       <td>1. 3. 2023</td>
-      <td>The Algebraic Path Problem</td>
+      <td>Closed Semirings, The Algebraic Path Problem</td>
       <td>
       <a href="https://drive.google.com/file/d/19NkbBpbK2M65eXUIYE7tvO-1XvpMQ2Oh/view?usp=sharing" target="_blank">Chapter 2 (last year)</a></td>
       <td></td>
@@ -170,7 +170,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
     </tr>
     <tr>
       <td>8. 3. 2023</td>
-      <td>Weighted Finite-State Transducers</td>
+      <td>Homomorphisms, Weighted Finite-State Transducers</td>
       <td>
       <a href="https://drive.google.com/file/d/1YbAmJqTwhgllTZOgCY4OoWv2v29gMxnu/view?usp=sharing" target="_blank">Chapter 3 (last year)</a>
       </td>
@@ -190,7 +190,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
     </tr>
     <tr>
       <td>9. 3. 2023</td>
-      <td>Nullary Removal / Determinization of Weighted Finite-state Automata</td>
+      <td>Nullary Removal, Determinization of Weighted Finite-state Automata</td>
       <td></td>
       <td></td>
       <td>
@@ -268,7 +268,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
     </tr>
     <tr>
       <td>23. 3. 2023</td>
-      <td>Superior Semirings and Dijkstra's</td>
+      <td>Superior Semirings, Dijkstra's Algorithm, Johnson's Algorithm</td>
       <td>
       <a href="https://drive.google.com/file/d/1Z5tF7KO5Y2EM_cYPFkBWiD4l4-SK2NFH/view?usp=sharing" target="_blank">Chapter 5 (last year)</a>
       </td>
@@ -324,7 +324,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
     </tr>
     <tr>
       <td>5. 4. 2023</td>
-      <td>Grammar Transformations (Nullary Removal, Unary Removal)</td>
+      <td>Newton's Algorithm and Nullary Removal</td>
       <td>
       <a href="https://drive.google.com/file/d/16kzFC7sjhH4TW1tXhd-h8YDoJPkBx_mp/view?usp=sharing" target="_blank">Chapter 7 (last year)</a>
       </td>
@@ -347,7 +347,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
     </tr>
     <tr>
       <td>6. 4. 2023</td>
-      <td>Chomsky Normal Form / Parsing Weighted Context-Free Languages</td>
+      <td>Unary Removal, Binarization, Chomsky Normal Form, CKY</td>
       <td>
       <a href="https://drive.google.com/file/d/1P0oxGhhGSn1aMk0Slgkfxtg_qrtabBR4/view?usp=sharing" target="_blank">Chapter 8 (last year)</a>
       </td>
@@ -388,7 +388,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
     <tr>
       <td>19. 4. 2023</td>
       <td rowspan="3" style="vertical-align : middle;text-align:center;" align="center"><b>Context-Free Languages</b></td>
-      <td>Parsing Weighted Context-Free Languages (cont.)</td>
+      <td>Earley's Algorithm</td>
       <td>
       </td>
       <td></td>
@@ -428,7 +428,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
     </tr>
     <tr>
       <td>26. 4. 2023</td>
-      <td>Weighted Pushdown Automata (cont.)</td>
+      <td>Newton's Algorithm for PDAs, Nullary Removal, Unary Removal</td>
       <td>
       </td>
       <td>
@@ -449,7 +449,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
     <tr>
       <td>27. 4. 2023</td>
       <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Dependency Languages</b></td>
-      <td>Bilexical Grammars and Dependency Parsing</td>
+      <td>Chomsky Normal Form for PDAs, Lang's Algorithm</td>
       <td></td>
       <td></td>
       <td>
@@ -529,7 +529,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
     </tr>
     <tr>
       <td>11. 5. 2023</td>
-      <td>Determinization of Weighted Tree Automata (cont.) / Weight Pushing</td>
+      <td>Determinization of Weighted Tree Automata (cont.), Weight Pushing</td>
       <td></td>
       <td></td>
       <td>
@@ -563,7 +563,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
     <tr>
       <td>18. 5. 2023</td>
       <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Tree-Adjoining Languages</b></td>
-      <td>Weighted Tree-adjoining Grammars / Lang Normal Form</td>
+      <td>Weighted Tree-adjoining Grammars, Lang Normal Form</td>
       <td>
       </td>
       <td></td>
@@ -631,7 +631,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
     <tr>
       <td>1. 6. 2023</td>
       <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Context-Free Tree Languages</b></td>
-      <td>Context-free Tree Languages / Context-free Tree Grammars</td>
+      <td>Context-free Tree Languages, Context-free Tree Grammars</td>
       <td></td>
       <td>
       </td>
