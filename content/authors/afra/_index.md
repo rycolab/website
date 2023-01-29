@@ -52,7 +52,7 @@ email: ""
 user_groups:
 - Members
 - Teaching Assistants
-- Large Language Models Teaching Assistants
+# - Large Language Models Teaching Assistants
 - Current
 ---
 

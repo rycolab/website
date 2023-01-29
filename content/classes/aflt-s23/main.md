@@ -678,11 +678,11 @@ The full list is:
 For example, if your question is about the content of Lecture 2 and specifically about the definition of a semiring, please start your message with `[Lecture #1, Definition of a Semiring]`.
 - [AFLT Errata](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FBfZh2S) for reporting typos and errors in the course lecture notes and the slides.
 - [AFLT Assignment 1](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FEeMrho) for discussing and asking questions about Assignment 1.
-- [AFLT Assignment 2](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FEeMrho) for discussing and asking questions about Assignment 2.
+- [AFLT Assignment 2](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2Fa5d4RE) for discussing and asking questions about Assignment 2.
 - [AFLT Assignment 3](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FMEaLbk) for discussing and asking questions about Assignment 3.
 - [AFLT Assignment 4](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FiWmzYb) for discussing and asking questions about Assignment 4.
 - [AFLT Assignment 5](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FFbbHxi) for discussing and asking questions about Assignment 5.
-- [AFLT Assignment 6](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FFbbHxi) for discussing and asking questions about Assignment 6.
+- [AFLT Assignment 6](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FcusQBK) for discussing and asking questions about Assignment 6.
 - [AFLT Assignment 7](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2Fy7KLxj) for discussing and asking questions about Assignment 7.
 - [AFLT Assignment 8](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FQvvznG) for discussing and asking questions about Assignment 8.
 - [AFLT Assignment 9](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FEoJvx7) for discussing and asking questions about Assignment 9.
@@ -738,9 +738,9 @@ Keep in mind that due to how late this deadline is, we *cannot extend it*---we a
 ### Course Project
 
 The course project is optional, but it is a great way to get a deeper understanding of the course material and to apply it to a real-world problem.
-We expect you to complete the project in a group of **4-5** students---to make supervising the projects manageable, we will *not accept* groups with fewer than 4 students. 
+We expect you to complete the project in a group of **3-5** students---to make supervising the projects manageable, we will *not accept* groups with fewer than 3 students. 
 
-You can find more information on the course project and the detailed instructions for it in the [Course project instructions](https://drive.google.com/file/d/1sGsF2UWIaVYFNTiqB3HUexRaf8b3zucs/view?usp=sharing).
+You can find more information on the course project and the detailed instructions for it in the [Course project instructions](https://drive.google.com/file/d/1DLW7wqzHxl2pPviysdUwLF9E5Habx4od/view?usp=share_link).
 To give early feedback, a *proposal* is due midway through the course (**15.4.2023**) and a *progress report* towards the end of the semester (**15.5.2023**). 
 See the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=19132) for the submission links.
 
