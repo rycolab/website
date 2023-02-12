@@ -32,7 +32,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Philosophy of Language and Computation Teaching Assistants
 ---
 
 Samuel is a Ph.D. student at Roy Wagner's Chair for the History and Philosophy of Mathematics. He works on the history of type theory and its relation to programming errors.

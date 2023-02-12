@@ -20,12 +20,13 @@ Large language models have become one of the most commonly deployed NLP inventio
 ## News
 
 **3. 1. 2023** &emsp; Class website is online!  
+**30. 1. 2023** &emsp; **Important**, for Data Science Master's students: This course *can* count as a core course for the **Data Science** master's program, however, due to an administrative error, it will not appear in the course catalog as such. If you are interested in taking this course as a Data Science master's student, please register for the course on MyStudies and then *email your study administrator* ([Bernadette Gianesi](https://inf.ethz.ch/people/person-detail.MTY4NTU1.TGlzdC8zMDQsLTg3NDc3NjI0MQ==.html)) so that the course will be added to your core courses section. We are sorry about the inconvenience.
 
 ## Syllabus and Schedule
 
 ### On the Use of Class Time
 #### Lectures
-There are two lecture slots for LLM each week: the first one on Tuesdays 14-16 in [HG E 1.2](https://www.rauminfo.ethz.ch/Rauminfo/RauminfoPre.do?region=Z&areal=Z&gebaeude=HG&geschoss=E&raumNr=1.2) and the second one on Fridays 10-11 in [CAB G 61](https://www.rauminfo.ethz.ch/Rauminfo/RauminfoPre.do?region=Z&areal=Z&gebaeude=CAB&geschoss=G&raumNr=61).
+There are two lecture slots for LLM each week: the first one on Tuesdays 14-16 in [CAB G 61](https://www.rauminfo.ethz.ch/Rauminfo/RauminfoPre.do?region=Z&areal=Z&gebaeude=CAB&geschoss=G&raumNr=61) and the second one on Fridays 10-11 in [CAB G 61](https://www.rauminfo.ethz.ch/Rauminfo/RauminfoPre.do?region=Z&areal=Z&gebaeude=CAB&geschoss=G&raumNr=61).
 
 Both lectures will be given in person and live broadcast on [Zoom](https://ethz.zoom.us/j/63534790714); the password is available on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=19133).
 
@@ -64,6 +65,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
   <thead>
     <tr>
       <th scope="col" style='white-space:nowrap'>Date</th>
+      <th scope="col" style='white-space:nowrap'>Time</th>
       <th scope="col" style='white-space:nowrap'>Module</th>
       <th scope="col" style='white-space:nowrap'>Topic</th>
       <th scope="col" style='white-space:nowrap'>Lecturer</th>
@@ -76,6 +78,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <!-- <td>21. 2. 2023 (1 hour)</td> -->
       <td>21. 2. 2023</td>
+      <td>1 hour</td>
       <td></td>
       <td>Introduction and Overview</td>
       <td>
@@ -97,6 +100,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <!-- <td>21. 2. 2023 (1 hour)</td> -->
       <td>21. 2. 2023</td>
+      <td>1 hour</td>
       <td rowspan="3" style="vertical-align : middle;text-align:center;" align="center"><b>Probabilistic Foundations</b></td>
       <td>Basic Measure Theory</td>
       <td>
@@ -120,6 +124,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <!-- <td>24. 2. 2023 (1 hour)</td> -->
       <td>24. 2. 2023</td>
+      <td>1 hour</td>
       <td>Defining a Language Model</td>
       <td>
       Ryan
@@ -141,6 +146,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <!-- <td>28. 2. 2023 (2 hours)</td> -->
       <td>28. 2. 2023</td>
+      <td>2 hours</td>
       <td>Tight Language Models</td>
       <td>
       Ryan
@@ -163,6 +169,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <!-- <td>3. 3. 2023 (1 hour)</td> -->
       <td>3. 3. 2023</td>
+      <td>1 hour</td>
       <td rowspan="3" style="vertical-align : middle;text-align:center;" align="center"><b>Modeling Foundations</b></td>
       <td>The Language Modeling Task</td>
       <td>
@@ -184,6 +191,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <!-- <td>7. 3. 2023 (2 hours)</td> -->
       <td>7. 3. 2023</td>
+      <td>2 hours</td>
       <td>Finite-State Language Models</td>
       <td>
       Ryan
@@ -205,6 +213,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <!-- <td>10. 3. 2023 (1 hour)</td> -->
       <td>10. 3. 2023</td>
+      <td>1 hour</td>
       <td>Pushdown Language Models</td>
       <td>
       Ryan
@@ -224,6 +233,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     </tr>  
     <tr>
       <td>14. 3. 2023</td>
+      <td>2 hours</td>
       <td rowspan="6" style="vertical-align : middle;text-align:center;" align="center"><b>Neural Network Modeling</b></td>
       <td>Recurrent Neural Language Models</td>
       <td>
@@ -245,6 +255,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <!-- <td>17. 3. 2023 (1 hour)</td> -->
       <td>17. 3. 2023</td>
+      <td>1 hour</td>
       <td>Variants of RNNLMs</td>
       <td>
       Ryan
@@ -264,6 +275,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     </tr>
     <tr>
       <td>21. 3. 2023</td>
+      <td>2 hours</td>
       <!-- <td rowspan="5" style="vertical-align : middle;text-align:center;" align="center"><b>Neural Network Modeling</b></td> -->
       <td>Representational Capacity of RNNLMs</td>
       <td>
@@ -287,6 +299,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <!-- <td>21. 3. 2023 (2 hours)</td> -->
       <td>24. 3. 2023</td>
+      <td>1 hour</td>
       <td>Transformer-based Language Models</td>
       <td>
       Ryan
@@ -307,6 +320,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <!-- <td>24. 3. 2023 (1 hour)</td> -->
       <td>28. 3. 2023</td>
+      <td>2 hours</td>
       <td>Efficient Attention</td>
       <td>
       Ryan
@@ -327,6 +341,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <!-- <td>28. 3. 2023 (2 hours)</td> -->
       <td>31. 3. 2023</td>
+      <td>1 hour</td>
       <td>Variants on the Transformer</td>
       <td>
       Ryan
@@ -347,6 +362,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <!-- <td>4. 4. 2023 (2 hours)</td> -->
       <td>4. 4. 2023</td>
+      <td>2 hours</td>
       <td rowspan="1" style="vertical-align : middle;text-align:center;" align="center"><b>Modeling Potpourri</b></td>
       <td>Tokenization</td>
       <td>
@@ -382,6 +398,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <!-- <td>31. 3. 2023 (1 hour)</td> -->
       <td>18. 4. 2023</td>
+      <td>2 hours</td>
       <td rowspan="1" style="vertical-align : middle;text-align:center;" align="center"><b>Modeling Potpourri</b></td>
       <td>Generating Text from a Language Model</td>
       <td>
@@ -403,6 +420,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <!-- <td>11. 4. 2023 (2 hours)</td> -->
       <td>21. 4. 2023</td>
+      <td>1 hour</td>
       <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Parallelism and Scaling up</b></td>
       <td>Scaling up</td>
       <td>
@@ -423,6 +441,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <!-- <td>7. 4. 2023 (1 hour)</td> -->
       <td>25. 4. 2023</td>
+      <td>2 hours</td>
       <td>Parallelism</td>
       <td>
       Ce
@@ -441,6 +460,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     </tr>  
     <tr>
       <td>28. 4. 2023</td>
+      <td>1 hour</td>
       <td rowspan="5" style="vertical-align : middle;text-align:center;" align="center"><b>Applications</b></td>
       <td>Pre-training</td>
       <td>
@@ -460,6 +480,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     </tr>  
     <tr>
       <td>2. 5. 2023</td>
+      <td>2 hours</td>
       <td>Fine-Tuning</td>
       <td>
       Mrinmaya
@@ -478,6 +499,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     </tr>
     <tr>
       <td>5. 5. 2023</td>
+      <td>1 hour</td>
       <td>Multimodality</td>
       <td>
       Mrinmaya
@@ -496,6 +518,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     </tr>
     <tr>
       <td>9. 5. 2023</td>
+      <td>2 hours</td>
       <td>Prompting</td>
       <td>
       Mrinmaya
@@ -514,6 +537,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     </tr>
     <tr>
       <td>12. 5. 2023</td>
+      <td>1 hour</td>
       <td>Additional Topics</td>
       <td>
       Mrinmaya
@@ -532,6 +556,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     </tr>
     <tr>
       <td>16. 5. 2023</td>
+      <td>2 hours</td>
       <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Analysis</b></td>
       <td>Analysis and Probing</td>
       <td>
@@ -552,6 +577,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     </tr>
     <tr>
       <td>19. 5. 2023</td>
+      <td>1 hour</td>
       <td>Cognitive Modeling</td>
       <td>
       Ethan/Alex/Ryan
@@ -571,6 +597,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     </tr>
     <tr>
       <td>23. 5. 2023</td>
+      <td>2 hours</td>
       <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Security and Misuse</b></td>
       <td>Harms</td>
       <td>
@@ -590,6 +617,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     </tr>  
     <tr>
       <td>26. 5. 2023</td>
+      <td>1 hour</td>
       <td>Ethical Concerns</td>
       <td>
       Florian
@@ -608,6 +636,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     </tr>
     <tr>
       <td>30. 5. 2023</td>
+      <td>2 hours</td>
       <td>Security and Misuse</td>
       <td>
       Florian
@@ -626,6 +655,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     </tr>
     <tr>
       <td>2. 6. 2023</td>
+      <td>1 hour</td>
       <td>Memorization and Privacy</td>
       <td>
       Florian
@@ -725,6 +755,8 @@ There will be **2** larger assignments in the course.
 
 We require the solutions to be properly typeset.
 We recommend using `LaTeX` (with [`Overleaf`](https://www.overleaf.com)), but `markdown` files with `MathJax` for the mathematical expressions are also fine.
+
+The first assignment will be of more theoretical nature and will be due on shortly after Easter break.
 
 <!-- 
 ## Tutorial Schedule

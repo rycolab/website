@@ -65,17 +65,9 @@ subtitle = "[SEE ALL CLASSES](/classes)"
   fractions = false
 +++
 
-## [Philosophy of Language and Computation](/classes/phil-f22) 
-**ETH Zürich** <span class="middot-divider"></span> **Fall 2022**
-This graduate class, taught like a seminar, is designed to help you understand the philosophical underpinnings of modern work in natural language processing (NLP), most of which centered around statistical machine learning applied to natural language data.
-
 ## [Natural Language Processing](/classes/intro-nlp-f22) 
 **ETH Zürich** <span class="middot-divider"></span> **Fall 2022**
 The course constitutes an introduction to modern techniques in the field of natural language processing (NLP). Our primary focus is on the algorithmic aspects of structured NLP models. The course is self-contained and designed to complement other machine learning courses at ETH Zürich, e.g., Deep Learning and Advanced Machine Learning. The course also has a strong focus on algebraic methods, e.g., semiring theory. In addition to machine learning, we also cover the linguistic background necessary for reading the NLP literature.
-
-## [Information Theory in Linguistics: Methods and Applications](/classes/info-theory-tutorial) 
-**COLING** <span class="middot-divider"></span> **2022**
-This tutorial focuses on the application of information-theoretic methods to natural language processing, emphasizing interdisciplinary connections with the field of linguistics.
 
 ## [Advanced Formal Language Theory](/classes/aflt-s23) 
 **ETH Zürich** <span class="middot-divider"></span> **Spring 2023**
@@ -84,3 +76,12 @@ This course serves as an introduction to various advanced topics in formal langu
 ## [Large Language Models](/classes/llm-s23) 
 **ETH Zürich** <span class="middot-divider"></span> **Spring 2023**
 Large language models have become one of the most commonly deployed NLP inventions. In the past half-decade, their integration into core natural language processing tools has dramatically increased the performance of such tools, and they have entered the public discourse surrounding artificial intelligence. In this course, we start with the probabilistic foundations of language models, i.e., covering what constitutes a language model from a formal, theoretical perspective. We then discuss how to construct and curate training corpora, and introduce many of the neural-network architectures often used to instantiate language models at scale. The course covers aspects of systems programming, discussion of privacy and harms, as well as applications of language models in NLP and beyond.
+
+## [Philosophy of Language and Computation](/classes/phil-f22) 
+**ETH Zürich** <span class="middot-divider"></span> **Fall 2022**
+This graduate class, taught like a seminar, is designed to help you understand the philosophical underpinnings of modern work in natural language processing (NLP), most of which centered around statistical machine learning applied to natural language data.
+
+## [Philosophy of Language and Computation](/classes/phil-s23) 
+**ETH Zürich** <span class="middot-divider"></span> **Spring 2023**
+This graduate class, taught like a seminar, is designed to help you understand the philosophical underpinnings of modern work in natural language processing (NLP), most of which centered around statistical machine learning applied to natural language data.
+
