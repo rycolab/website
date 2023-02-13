@@ -756,7 +756,11 @@ There will be **2** larger assignments in the course.
 We require the solutions to be properly typeset.
 We recommend using `LaTeX` (with [`Overleaf`](https://www.overleaf.com)), but `markdown` files with `MathJax` for the mathematical expressions are also fine.
 
-The first assignment will be of more theoretical nature and will be due on shortly after Easter break.
+The first assignment will be of more theoretical nature and will be released shortly after the start of the semester.
+
+##### Assignment Deadlines
+The *first assignment* will be due on **Thursday, April 20th** at 23:59.
+The reason behind this is that the course then switches to different topics not relevant for the first assignment, so having a deadline before that will allow you to focus on the rest of the course.
 
 <!-- 
 ## Tutorial Schedule

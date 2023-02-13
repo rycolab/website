@@ -48,6 +48,7 @@ subtitle = ""
   extensions = ["hardLineBreak"]
 
 +++
+* **13/02/23**  [Ryan](/authors/ryan/) is giving an invited [talk](https://drive.google.com/file/d/1iAfblCndQyVB0L3DhRSYVmnGqfoa_U8q/view?usp=share_link) at the [Dagstuhl Seminar](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23072).
 * **19/07/22**  David Mortensen (CMU) is giving an invited [talk](/talk/mortensen-jul-19-22)
 * **04/07/22**  Noga Zaslavsky (MIT) is giving an invited [talk](/talk/zaslavsky-jul-4-22)
 * **10/06/22**  Aaron Schein (University of Columbia) is giving an invited [talk](/talk/schein-jun-10-22)
