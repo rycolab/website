@@ -20,7 +20,7 @@ Large language models have become one of the most commonly deployed NLP inventio
 ## News
 
 **3. 1. 2023** &emsp; Class website is online!  
-**20. 2. 2023** &emsp; Update on the previous announcement from January 30th: the Large Language Models course can count towards the core *elective* courses for the Data Science master's program, rather than the core courses. Indeed, the course is now listed as a core elective course for the Data Science master's program, so no additional action is required upon registering for the course through MyStudies.
+**20. 2. 2023** &emsp; Update on the previous announcement from January 30th: the Large Language Models course can count towards the core *elective* courses for the Data Science master's program, rather than the core courses. Indeed, the course is now listed as a core elective course for the Data Science master's program, so no additional action is required upon registering for the course through MyStudies.  
 **20. 2. 2023** &emsp; First draft of the [notes](https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view?usp=share_link) for the first part of the course is online!
 
 ## Syllabus and Schedule
