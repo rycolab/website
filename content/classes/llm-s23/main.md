@@ -21,6 +21,7 @@ Large language models have become one of the most commonly deployed NLP inventio
 
 **3. 1. 2023** &emsp; Class website is online!  
 **20. 2. 2023** &emsp; Update on the previous announcement from January 30th: the Large Language Models course can count towards the core *elective* courses for the Data Science master's program, rather than the core courses. Indeed, the course is now listed as a core elective course for the Data Science master's program, so no additional action is required upon registering for the course through MyStudies.
+**20. 2. 2023** &emsp; First draft of the [notes](https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view?usp=share_link) for the first part of the course is online!
 
 ## Syllabus and Schedule
 
@@ -602,26 +603,6 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <td>23. 5. 2023</td>
       <td>2 hours</td>
       <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Security and Misuse</b></td>
-      <td>Harms and Ethical Concerns</td>
-      <td>
-      Florian
-      </td>
-      <td>
-      <div id="summary24" style="display:none">
-      Language models work extremely well, until they don’t! What are some of the harms that large-scale deployment of language models can bring? We will discuss ways in which models can perpetrate or exacerbate issues in training data (biases, toxicity, etc.) and the difficulty in aligning models with particular ethical principles or truths.
-      <br/>
-      <br/>
-      </div>
-      <button id="button24" style="border:none;" onclick="myFunction('24')">Show</button>
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-    </tr>  
-    <tr>
-      <td>26. 5. 2023</td>
-      <td>1 hour</td>
       <td>Security and Misuse</td>
       <td>
       Florian
@@ -640,8 +621,48 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
     </tr>
     <tr>
+      <td>26. 5. 2023</td>
+      <td>1 hour</td>
+      <td>Harms and Ethical Concerns</td>
+      <td>
+      Florian
+      </td>
+      <td>
+      <div id="summary24" style="display:none">
+      Language models work extremely well, until they don’t! What are some of the harms that large-scale deployment of language models can bring? We will discuss ways in which models can perpetrate or exacerbate issues in training data (biases, toxicity, etc.) and the difficulty in aligning models with particular ethical principles or truths.
+      <br/>
+      <br/>
+      </div>
+      <button id="button24" style="border:none;" onclick="myFunction('24')">Show</button>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>  
+    <tr>
       <td>30. 5. 2023</td>
       <td>2 hours</td>
+      <td>Memorization and Privacy</td>
+      <td>
+      Florian
+      </td>
+      <td>
+      <div id="summary27" style="display:none">
+      We look into language models’ remarkable ability to memorize training data, and the risks this may pose for privacy or copyright. We will look at different ways to define memorization and privacy for textual models, and understand the different threats they aim to address. We will then review methods for provably guaranteeing the confidentiality and privacy of machine learning systems, and debate their adequacy in the context of textual models.
+      <br/>
+      <br/>
+      </div>
+      <button id="button27" style="border:none;" onclick="myFunction('27')">Show</button>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>2. 6. 2023</td>
+      <td>1 hour</td>
       <td>The data lifecycle</td>
       <td>
       Florian
@@ -653,26 +674,6 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <br/>
       </div>
       <button id="button26" style="border:none;" onclick="myFunction('26')">Show</button>
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td>2. 6. 2023</td>
-      <td>1 hour</td>
-      <td>Memorization and Privacy</td>
-      <td>
-      Florian
-      </td>
-      <td>
-      <div id="summary27" style="display:none">
-      We conclude this course by looking into language models’ remarkable ability to memorize training data, and the risks this may pose for privacy or copyright. We will look at different ways to define memorization and privacy for textual models, and understand the different threats they aim to address. We will then review methods for provably guaranteeing the confidentiality and privacy of machine learning systems, and debate their adequacy in the context of textual models.
-      <br/>
-      <br/>
-      </div>
-      <button id="button27" style="border:none;" onclick="myFunction('27')">Show</button>
       </td>
       <td>
       </td>
@@ -738,6 +739,10 @@ If you feel like you would benefit from any other channel, feel free to suggest 
 We will prepare the course lecture notes as we go! 
 The individual chapters will be published in the course syllabus and updated throughout the semester.
 Please report all errata to the teaching staff; we created an [errata channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FNB56vb) in `RocketChat`.
+
+**Links to the course notes**:
+
+- [LLM Course Notes Part 1](https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view?usp=share_link)
 
 Other useful literature: 
 
