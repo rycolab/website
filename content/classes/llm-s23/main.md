@@ -20,7 +20,7 @@ Large language models have become one of the most commonly deployed NLP inventio
 ## News
 
 **3. 1. 2023** &emsp; Class website is online!  
-**30. 1. 2023** &emsp; **Important**, for Data Science Master's students: This course *can* count as a core course for the **Data Science** master's program, however, due to an administrative error, it will not appear in the course catalog as such. If you are interested in taking this course as a Data Science master's student, please register for the course on MyStudies and then *email your study administrator* ([Bernadette Gianesi](https://inf.ethz.ch/people/person-detail.MTY4NTU1.TGlzdC8zMDQsLTg3NDc3NjI0MQ==.html)) so that the course will be added to your core courses section. We are sorry about the inconvenience.
+**20. 2. 2023** &emsp; Update on the previous announcement from January 30th: the Large Language Models course can count towards the core *elective* courses for the Data Science master's program, rather than the core courses. Indeed, the course is now listed as a core elective course for the Data Science master's program, so no additional action is required upon registering for the course through MyStudies.
 
 ## Syllabus and Schedule
 
@@ -118,7 +118,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <td>
       </td>
       <td>
-      <a href="https://arxiv.org/abs/2212.10502">Du, Li, et al. A Measure-Theoretic Characterization of Tight Language Models. arXiv, 2022.</a>
+      <a href="https://arxiv.org/abs/2212.10502" target="_blank">Du, Li, et al. A Measure-Theoretic Characterization of Tight Language Models. arXiv, 2022.</a>
       </td>
     </tr>  
     <tr>
@@ -162,8 +162,8 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <td>
       </td>
       <td>
-      <a href="https://arxiv.org/abs/2212.10502">Du, Li, et al. A Measure-Theoretic Characterization of Tight Language Models. arXiv, 2022.</a>, 
-      <a href="https://arxiv.org/abs/1711.05408">Chen, Yining, et al. Recurrent Neural Networks as Weighted Language Recognizers. arXiv, 2017.</a>
+      <a href="https://arxiv.org/abs/2212.10502" target="_blank">Du, Li, et al. A Measure-Theoretic Characterization of Tight Language Models. arXiv, 2022.</a>, 
+      <a href="https://arxiv.org/abs/1711.05408" target="_blank">Chen, Yining, et al. Recurrent Neural Networks as Weighted Language Recognizers. arXiv, 2017.</a>
       </td>
     </tr>   
     <tr>
@@ -207,7 +207,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <td>
       </td>
       <td>
-      <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf">Bengio, Yoshua, et al. A neural probabilistic language model. J. Mach. Learn. Res., 2003.</a>
+      <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf" target="_blank">Bengio, Yoshua, et al. A neural probabilistic language model. J. Mach. Learn. Res., 2003.</a>
       </td>
     </tr>
     <tr>
@@ -292,7 +292,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <td>
       </td>
       <td>
-      <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf">Siegelmann H. T. and Sontag E. D. On the computational power of neural nets. Computational learning theory. 1992. 
+      <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf" target="_blank">Siegelmann H. T. and Sontag E. D. On the computational power of neural nets. Computational learning theory. 1992. 
       </a>
       </td>
     </tr>
@@ -383,6 +383,8 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     </tr>
     <tr>
       <td></td>
+      <td>
+      </td>
       <td style="vertical-align : middle;text-align:center;" align="center"><b>Easter Break</b></td>
       <td>
       </td>
@@ -418,9 +420,67 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
     </tr>  
     <tr>
-      <!-- <td>11. 4. 2023 (2 hours)</td> -->
       <td>21. 4. 2023</td>
       <td>1 hour</td>
+      <td rowspan="3" style="vertical-align : middle;text-align:center;" align="center"><b>Training, Fine Tuning and Inference</b></td>
+      <td>Transfer Learning</td>
+      <td>
+      Mrinmaya
+      </td>
+      <td>
+      <div id="summary17" style="display:none">
+      <br/>
+      <br/>
+      </div>
+      <button id="button17" style="border:none;" onclick="myFunction('17')">Show</button>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>  
+    <tr>
+      <td>25. 4. 2023</td>
+      <td>2 hours</td>
+      <td>Parameter efficient finetuning</td>
+      <td>
+      Mrinmaya
+      </td>
+      <td>
+      <div id="summary18" style="display:none">
+      <br/>
+      <br/>
+      </div>
+      <button id="button18" style="border:none;" onclick="myFunction('18')">Show</button>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>28. 4. 2023</td>
+      <td>1 hour</td>
+      <td>Prompting and zero-shot inference</td>
+      <td>
+      Mrinmaya
+      </td>
+      <td>
+      <div id="summary20" style="display:none">
+      <br/>
+      <br/>
+      </div>
+      <button id="button20" style="border:none;" onclick="myFunction('20')">Show</button>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <!-- <td>11. 4. 2023 (2 hours)</td> -->
+      <td>2. 5. 2023</td>
+      <td>2 hours</td>
       <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Parallelism and Scaling up</b></td>
       <td>Scaling up</td>
       <td>
@@ -440,8 +500,8 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     </tr>
     <tr>
       <!-- <td>7. 4. 2023 (1 hour)</td> -->
-      <td>25. 4. 2023</td>
-      <td>2 hours</td>
+      <td>5. 5. 2023</td>
+      <td>1 hour</td>
       <td>Parallelism</td>
       <td>
       Ce
@@ -459,67 +519,10 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
     </tr>  
     <tr>
-      <td>28. 4. 2023</td>
-      <td>1 hour</td>
-      <td rowspan="5" style="vertical-align : middle;text-align:center;" align="center"><b>Applications</b></td>
-      <td>Pre-training</td>
-      <td>
-      Mrinmaya
-      </td>
-      <td>
-      <div id="summary17" style="display:none">
-      <br/>
-      <br/>
-      </div>
-      <button id="button17" style="border:none;" onclick="myFunction('17')">Show</button>
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-    </tr>  
-    <tr>
-      <td>2. 5. 2023</td>
-      <td>2 hours</td>
-      <td>Fine-Tuning</td>
-      <td>
-      Mrinmaya
-      </td>
-      <td>
-      <div id="summary18" style="display:none">
-      <br/>
-      <br/>
-      </div>
-      <button id="button18" style="border:none;" onclick="myFunction('18')">Show</button>
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td>5. 5. 2023</td>
-      <td>1 hour</td>
-      <td>Multimodality</td>
-      <td>
-      Mrinmaya
-      </td>
-      <td>
-      <div id="summary20" style="display:none">
-      <br/>
-      <br/>
-      </div>
-      <button id="button20" style="border:none;" onclick="myFunction('20')">Show</button>
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
       <td>9. 5. 2023</td>
       <td>2 hours</td>
-      <td>Prompting</td>
+      <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Applications and the Benefits of Scale</b></td>
+      <td>Multimodality</td>
       <td>
       Mrinmaya
       </td>
@@ -599,12 +602,13 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <td>23. 5. 2023</td>
       <td>2 hours</td>
       <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Security and Misuse</b></td>
-      <td>Harms</td>
+      <td>Harms and Ethical Concerns</td>
       <td>
       Florian
       </td>
       <td>
       <div id="summary24" style="display:none">
+      Language models work extremely well, until they don’t! What are some of the harms that large-scale deployment of language models can bring? We will discuss ways in which models can perpetrate or exacerbate issues in training data (biases, toxicity, etc.) and the difficulty in aligning models with particular ethical principles or truths.
       <br/>
       <br/>
       </div>
@@ -618,12 +622,13 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <td>26. 5. 2023</td>
       <td>1 hour</td>
-      <td>Ethical Concerns</td>
+      <td>Security and Misuse</td>
       <td>
       Florian
       </td>
       <td>
       <div id="summary25" style="display:none">
+      Machine learning models are remarkably brittle, and prone to all kinds of exploits. Language models are no different: we will see how tampering with model inputs or training data can lead to arbitrarily bad outcomes. We will also discuss how language models could be exploited for nefarious purposes such as large-scale spam campaigns. On the other hand, language models could also prove useful as a defensive tool, e.g., for automated online content moderation or for dispelling misinformation.
       <br/>
       <br/>
       </div>
@@ -637,12 +642,13 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <td>30. 5. 2023</td>
       <td>2 hours</td>
-      <td>Security and Misuse</td>
+      <td>The data lifecycle</td>
       <td>
       Florian
       </td>
       <td>
       <div id="summary26" style="display:none">
+      So far, most of the course has been about models. But what would these models be without the right data? We will discuss the lifecycle of modern training sets for language models, to understand how design choices in the data collection and maintenance process influence the model’s “world view”. We will review emerging guidelines and best practices for managing and documenting machine learning datasets across their lifetime.
       <br/>
       <br/>
       </div>
@@ -662,6 +668,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
       <td>
       <div id="summary27" style="display:none">
+      We conclude this course by looking into language models’ remarkable ability to memorize training data, and the risks this may pose for privacy or copyright. We will look at different ways to define memorization and privacy for textual models, and understand the different threats they aim to address. We will then review methods for provably guaranteeing the confidentiality and privacy of machine learning systems, and debate their adequacy in the context of textual models.
       <br/>
       <br/>
       </div>
