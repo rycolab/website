@@ -84,7 +84,6 @@ We encourage you to sign up and participate in the discussions there.
       <th scope="col" style='white-space:nowrap'>Week</th>
       <th scope="col" style='white-space:nowrap'>Date</th>
       <th scope="col" style='white-space:nowrap'>Module</th>
-      <th scope="col" style='white-space:nowrap'>Topic</th>
       <th scope="col" style='white-space:nowrap'>Material</th>
       <th scope="col" style='white-space:nowrap'>Reading</th>
     </tr>
@@ -93,8 +92,7 @@ We encourage you to sign up and participate in the discussions there.
     <tr>
       <th scope="row">1</th>
       <td>21.2.23</td>
-      <td></td>
-      <td>Introduction</td>
+      <td rowspan="1" style="vertical-align : middle;text-align:center;" align="center"><b>Introduction</b></td>
       <td>
         <a href="https://drive.google.com/file/d/1Ny6tv2ywDClOdKAhn1Bp1vTmLyBlWXXw/view?usp=share_link" target="_blank">Introduction Slides</a>
       </td>
@@ -107,8 +105,6 @@ We encourage you to sign up and participate in the discussions there.
       <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Language Games: Meaning from Usage</b></td>
       <td></td>
       <td>
-      </td>
-      <td>
         <a href="https://drive.google.com/file/d/14N69sZSJuh-czgphbfwtEqp0578cttA0/view?usp=share_link" target="_blank"><b>Wittgenstein (1922)</b></a>,
         <a href="https://drive.google.com/file/d/1uY0FloRywtUEr6HgzldORM6EYTDnf7cN/view?usp=share_link" target="_blank">Wittgenstein (1956)</a>,
         <a href="http://blog.jacobandreas.net/meaning-belief.html" target="_blank">Andreas (2018)</a>,
@@ -118,7 +114,6 @@ We encourage you to sign up and participate in the discussions there.
     <tr>
       <th scope="row">3</th>
       <td>7.3.23</td>
-      <td></td>
       <td>
       </td>
       <td>
@@ -128,7 +123,6 @@ We encourage you to sign up and participate in the discussions there.
     <tr>
       <th scope="row">4</th>
       <td>14.3.23</td>
-      <td></td>
       <td>
       </td>
       <td>
@@ -138,7 +132,6 @@ We encourage you to sign up and participate in the discussions there.
     <tr>
       <th scope="row">5</th>
       <td>21.3.23</td>
-      <td></td>
       <td>
       </td>
       <td>
@@ -150,7 +143,6 @@ We encourage you to sign up and participate in the discussions there.
       <th scope="row">6</th>
       <td>28.3.23</td>
       <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Information: Language as a Communicative Tool</b></td>
-      <td></td>
       <td>
       </td>
       <td>
@@ -164,7 +156,6 @@ We encourage you to sign up and participate in the discussions there.
     <tr>
       <th scope="row">7</th>
       <td>4.4.23</td>
-      <td></td>
       <td>
       </td>
       <td>
@@ -178,7 +169,6 @@ We encourage you to sign up and participate in the discussions there.
     <tr>
       <th scope="row">8</th>
       <td>18.4.23</td>
-      <td></td>
       <td>
       </td>
       <td>
@@ -189,7 +179,6 @@ We encourage you to sign up and participate in the discussions there.
     <tr>
       <th scope="row">9</th>
       <td>25.4.23</td>
-      <td></td>
       <td>
       </td>
       <td>
@@ -202,7 +191,6 @@ We encourage you to sign up and participate in the discussions there.
       <th scope="row">10</th>
       <td>2.5.23</td>
       <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Pragmatics: the Meaning Beyond Semantics</b></td>
-      <td></td>
       <td>
       </td>
       <td>
@@ -215,7 +203,6 @@ We encourage you to sign up and participate in the discussions there.
     <tr>
       <th scope="row">11</th>
       <td>9.5.23</td>
-      <td></td>
       <td>
       </td>
       <td>
@@ -227,7 +214,6 @@ We encourage you to sign up and participate in the discussions there.
     <tr>
       <th scope="row">12</th>
       <td>16.5.23</td>
-      <td></td>
       <td>
       </td>
       <td>
@@ -242,7 +228,6 @@ We encourage you to sign up and participate in the discussions there.
     <tr>
       <th scope="row">13</th>
       <td>23.5.23</td>
-      <td></td>
       <td>
       </td>
       <td>
@@ -255,7 +240,6 @@ We encourage you to sign up and participate in the discussions there.
     <tr>
       <th scope="row">14</th>
       <td>30.5.23</td>
-      <td></td>
       <td></td>
       <td>
       </td>
