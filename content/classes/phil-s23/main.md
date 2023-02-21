@@ -51,7 +51,7 @@ The password can be found on the course Moodle page.
 The Zoom recordings will be made available on the course Moodle page.
 
 **Discussion Sections:** 
-Tue	12-13	[CHN CHN 29](httpshttps://ethz.ch/staffnet/en/service/rooms-and-buildings/roominfo/detail.html?building=CHN&floor=D&room=29). 
+Tue	12-13	[CHN D 29](https://ethz.ch/staffnet/en/service/rooms-and-buildings/roominfo/detail.html?building=CHN&floor=D&room=29). 
 
 **Course Live Chat:** 
 To provide an easier way to communicate with the teaching team and your colleagues, we have set up a [course chat server](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FkSsxLw). 
@@ -96,7 +96,7 @@ We encourage you to sign up and participate in the discussions there.
       <td></td>
       <td>Introduction</td>
       <td>
-        <a href="https://drive.google.com/file/d/1ZE1kE5JpE37VGue-udAevARFczdrN29v/view?usp=sharing" target="_blank">Introduction Slides</a>
+        <a href="https://drive.google.com/file/d/1Ny6tv2ywDClOdKAhn1Bp1vTmLyBlWXXw/view?usp=share_link" target="_blank">Introduction Slides</a>
       </td>
       <td>
       </td>
