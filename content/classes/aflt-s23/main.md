@@ -88,7 +88,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td rowspan="11" style="vertical-align : middle;text-align:center;" align="center"><b>Regular Languages</b></td>
       <td>Introduction and Overview, Weighted Formal Languages and Semiring Theory</td>
       <td>
-      <a href="https://drive.google.com/file/d/1mJNh_hEJ9J0qpPX3ZbO7ROWQoUf4B_-R/view?usp=sharing" target="_blank">Chapter 1 (last year)</a>
+      <a href="https://drive.google.com/file/d/1Hm1Nbjft9IT_yAVyqqLws-rKBbeC61_3/view?usp=share_link" target="_blank">Regular Languages</a>
       </td>
       <td>
       </td>
