@@ -80,8 +80,8 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td></td>
       <td>Introduction and Overview</td>
       <td></td>
+      <td><a href="https://drive.google.com/file/d/1UNsMmHAAhEQ1iLsq_1f0MQ-BuVhRrmFq/view?usp=share_link" target="_blank">Introductory Slides</a></td>
       <td></td>
-      <td>
     </tr>
     <tr>
       <td>22. 2. 2023</td>
@@ -101,7 +101,6 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       </div>
       <button id="button1" style="border:none;" onclick="myFunction('1')">Show</button>
       </td>
-      </td>
     </tr>
     <tr>
       <td>23. 2. 2023</td>
@@ -119,6 +118,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <br/>  
       </div>
       <button id="button2" style="border:none;" onclick="myFunction('2')">Show</button>
+      </td>
     </tr>
     <tr>
       <td>1. 3. 2023</td>
@@ -136,6 +136,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <br/>  
       </div>
       <button id="button3" style="border:none;" onclick="myFunction('3')">Show</button>
+      </td>
     </tr>
     <tr>
       <td>2. 3. 2023</td>
@@ -147,6 +148,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <br/>  
       </div>
       <button id="button4" style="border:none;" onclick="myFunction('4')">Show</button>
+      </td>
     </tr>
     <tr>
       <td>8. 3. 2023</td>
@@ -163,6 +165,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <br/>  
       </div>
       <button id="button5" style="border:none;" onclick="myFunction('5')">Show</button>
+      </td>
     </tr>
     <tr>
       <td>9. 3. 2023</td>
@@ -176,6 +179,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <br/>  
       </div>
       <button id="button6" style="border:none;" onclick="myFunction('6')">Show</button>
+      </td>
     </tr>
     <tr>
       <td>15. 3. 2023</td>
@@ -405,6 +409,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <br/>  
       </div>
       <button id="button18" style="border:none;" onclick="myFunction('18')">Show</button>
+      </td>
     </tr>
     <tr>
       <td>3. 5. 2023</td>
