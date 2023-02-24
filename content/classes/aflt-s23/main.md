@@ -644,9 +644,9 @@ The assignments can change slightly as we update them this year, however, *the q
 
 **Assignment instructions**:
 
-- [Assignment 1 (last year)](https://drive.google.com/file/d/1f7Lzl-bzc3QPK9PCPpHEZYlXTgNbMLDG/view?usp=share_link)  
-- [Assignment 2 (last year)](https://drive.google.com/file/d/19xPcUJ1vZdYJ8Hjytu-pHUYvIlwxYukG/view?usp=share_link)  
-- [Assignment 3 (last year)](https://drive.google.com/file/d/15cXSRpduhbGi2ad_F52X81ua_g2B2JAU/view?usp=share_link)  
+- [Assignment 1](https://drive.google.com/file/d/1f7Lzl-bzc3QPK9PCPpHEZYlXTgNbMLDG/view?usp=share_link)  
+- [Assignment 2](https://drive.google.com/file/d/19xPcUJ1vZdYJ8Hjytu-pHUYvIlwxYukG/view?usp=share_link)  
+- [Assignment 3](https://drive.google.com/file/d/15cXSRpduhbGi2ad_F52X81ua_g2B2JAU/view?usp=share_link)  
 - [Assignment 4 (last year)](https://drive.google.com/file/d/1LHsc3d01d5nCjKjcxLtgpqz7a5TA7bRv/view?usp=share_link)  
 - [Assignment 5 (last year)](https://drive.google.com/file/d/1GXcZzgYdoXpBIZvvZG2mYXUQqLquRuQv/view?usp=share_link)  
 - [Assignment 6 (last year)](https://drive.google.com/file/d/1QGH8ra9wGxUDVynqLWud1sSHRP9kEVy_/view?usp=share_link)  

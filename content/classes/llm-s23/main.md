@@ -21,7 +21,8 @@ Large language models have become one of the most commonly deployed NLP inventio
 
 **3. 1. 2023** &emsp; Class website is online!  
 **20. 2. 2023** &emsp; Update on the previous announcement from January 30th: the Large Language Models course can count towards the core *elective* courses for the Data Science master's program, rather than the core courses. Indeed, the course is now listed as a core elective course for the Data Science master's program, so no additional action is required upon registering for the course through MyStudies.  
-**20. 2. 2023** &emsp; First draft of the [notes](https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view?usp=share_link) for the first part of the course is online!
+**20. 2. 2023** &emsp; First draft of the [notes](https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view?usp=share_link) for the first part of the course is online!  
+**24. 2. 2023** &emsp; The [iPad class notes](https://drive.google.com/file/d/1bcyaChQHcOzbdxvJTE7auOV73gpmKGqW/view?usp=share_link) have been posted. The same link will contain updated notes for the first part of the course throughout the semester.
 
 ## Syllabus and Schedule
 
@@ -747,6 +748,7 @@ Please report all errata to the teaching staff; we created an [errata channel](h
 
 Other useful literature: 
 
+- [iPad class notes](https://drive.google.com/file/d/1bcyaChQHcOzbdxvJTE7auOV73gpmKGqW/view?usp=share_link)  
 - [Introduction to Natural Language Processing (Eisenstein)](https://www.amazon.de/Jacob-Eisenstein/dp/0262042843/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=30OMHV1C018JY&dchild=1&keywords=introduction+to+natural+language+processing&qid=1598878964&sprefix=introduction+to+na%2Caps%2C148&sr=8-1)  
 - [Deep Learning (Goodfellow, Bengio and Courville)](https://www.deeplearningbook.org/)  
 - [AFLT Course Notes](https://rycolab.io/classes/aflt-s23/)  
