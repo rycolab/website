@@ -46,7 +46,7 @@ More detailed instructions about the paper and presentation requirements can be 
 **Lectures:** 	
 Tue	10-12, [CHN D 29](https://ethz.ch/staffnet/en/service/rooms-and-buildings/roominfo/detail.html?building=CHN&floor=D&room=29). 
 The lectures will be given in person. 
-[This](https://ethz.zoom.us/j/62800622502) recurring Zoom meeting will be used throughout the semester for people who want to tune in remotely.
+[This](https://ethz.zoom.us/s/66488804820) recurring Zoom meeting will be used throughout the semester for people who want to tune in remotely.
 The password can be found on the course Moodle page.
 The Zoom recordings will be made available on the course Moodle page.
 
