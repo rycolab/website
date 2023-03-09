@@ -103,11 +103,13 @@ We encourage you to sign up and participate in the discussions there.
       <th scope="row">2</th>
       <td>28.2.23</td>
       <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Language Games: Meaning from Usage</b></td>
-      <td></td>
+      <td>
+        <a href="https://drive.google.com/file/d/1EeadPrNLD4eSWOl01wmrVNiz4LaRq_BR/view?usp=share_link" target="_blank"><b>Wittgenstein (1922)</b></a>,
+        <a href="https://drive.google.com/file/d/11i7RHKfWYBoQC4AormhvHidCCZVlEktq/view?usp=share_link" target="_blank"><b>Wittgenstein (1953)</b></a>
+      </td>
       <td>
         <a href="https://drive.google.com/file/d/14N69sZSJuh-czgphbfwtEqp0578cttA0/view?usp=share_link" target="_blank"><b>Wittgenstein (1922)</b></a>,
         <a href="https://drive.google.com/file/d/1uY0FloRywtUEr6HgzldORM6EYTDnf7cN/view?usp=share_link" target="_blank">Wittgenstein (1956)</a>,
-        <a href="http://blog.jacobandreas.net/meaning-belief.html" target="_blank">Andreas (2018)</a>,
         <a href="https://drive.google.com/file/d/1ue5uaZaS4c7larrbGBETvV10tpKK8HaD/view?usp=share_link" target="_blank">Lyotard (1988)</a>
       </td>
     </tr>  
@@ -126,6 +128,7 @@ We encourage you to sign up and participate in the discussions there.
       <td>
       </td>
       <td>
+        <a href="http://blog.jacobandreas.net/meaning-belief.html" target="_blank"><b>Andreas (2018)</b></a>,
         <a href="https://aclanthology.org/Q18-1037.pdf" target="_blank"><b>Khani et al. (2018)</b></a>
       </td>
     </tr>    

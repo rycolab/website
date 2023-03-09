@@ -1,9 +1,8 @@
 
 +++
-title = 'Large Language Models, Spring 2023'
-subtitle = 'ETH Zürich: [Course catalog](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=171001&semkez=2023S&ansicht=LEHRVERANSTALTUNGEN&lang=en)'
-summary = 'Large language models have become one of the most commonly deployed NLP inventions. In the past half-decade, their integration into core natural language processing tools has dramatically increased the performance of such tools, and they have entered the public discourse surrounding artificial intelligence. In this course, we start with the probabilistic foundations of language models, i.e., covering what constitutes a language model from a formal, theoretical perspective. We then discuss how to construct and curate training corpora, and introduce many of the neural-network architectures often used to instantiate language models at scale. The course covers aspects of systems programming, discussion of privacy and harms, as well as applications of language models in NLP and beyond.'
-
+title = 'Formal Language Theory and Neural Networks'
+subtitle = 'ESSLLI 2023'
+summary = 'This tutorial is a comprehensive introduction to neural network language models, focusing on those based on recurrent neural networks (RNNs) and Transformers (Vaswani et al., 2017), and their relationship to formal language theory. We teach how tools from weighted formal language theory can be useful for understanding the inner workings of and predicting the generalization of modern neural architectures. Over the course of five days, we will explore the theoretical properties of RNNs and their representational capacity in relation to different levels of the weighted Chomsky hierarchy, starting with finite-state automata and the special case of bounded-depth hierarchical languages, and then move on to more complex formalisms such as context-free languages and Turing machines. We will prove multiple theoretical properties of RNNs, including the fact that simple RNNs with infinite precision arithmetic and unbounded computation time can emulate a Turing machine and show how RNNs can optimally represent finite-state automata. We will also discuss recent results in the study of Transformer-based language models from the perspective of formal language theory. Finally, we will discuss the implications of these results for the analysis and practical deployment of language models.'
 active = true  # Activate this widget? true/false
 weight = 20
 [design]
@@ -14,31 +13,14 @@ weight = 20
  css_style = "padding-bottom: 0px;"
 
 +++
-## Course Description
-Large language models have become one of the most commonly deployed NLP inventions. In the past half-decade, their integration into core natural language processing tools has dramatically increased the performance of such tools, and they have entered the public discourse surrounding artificial intelligence. In this course, we offer a self-contained introduction to language modeling and its applications. We start with the probabilistic foundations of language models, i.e., covering what constitutes a language model from a formal, theoretical perspective. We then discuss how to construct and curate training corpora, and introduce many of the neural-network architectures often used to instantiate language models at scale. The course covers aspects of systems programming, discussion of privacy and harms, as well as applications of language models in NLP and beyond.
+## Tutorial Description
+This tutorial is a comprehensive introduction to neural network language models, focusing on those based on recurrent neural networks (RNNs) and Transformers (Vaswani et al., 2017), and their relationship to formal language theory. We teach how tools from weighted formal language theory can be useful for understanding the inner workings of and predicting the generalization of modern neural architectures. Over the course of five days, we will explore the theoretical properties of RNNs and their representational capacity in relation to different levels of the weighted Chomsky hierarchy, starting with finite-state automata and the special case of bounded-depth hierarchical languages, and then move on to more complex formalisms such as context-free languages and Turing machines. We will prove multiple theoretical properties of RNNs, including the fact that simple RNNs with infinite precision arithmetic and unbounded computation time can emulate a Turing machine and show how RNNs can optimally represent finite-state automata. We will also discuss recent results in the study of Transformer-based language models from the perspective of formal language theory. Finally, we will discuss the implications of these results for the analysis and practical deployment of language models.
 
 ## News
 
-**3. 1. 2023** &emsp; Class website is online!  
-**20. 2. 2023** &emsp; Update on the previous announcement from January 30th: the Large Language Models course can count towards the core *elective* courses for the Data Science master's program, rather than the core courses. Indeed, the course is now listed as a core elective course for the Data Science master's program, so no additional action is required upon registering for the course through MyStudies.  
-**20. 2. 2023** &emsp; First draft of the [notes](https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view?usp=share_link) for the first part of the course is online!  
-**24. 2. 2023** &emsp; The [iPad class notes](https://drive.google.com/file/d/1bcyaChQHcOzbdxvJTE7auOV73gpmKGqW/view?usp=share_link) have been posted. The same link will contain updated notes for the first part of the course throughout the semester.  
-**9. 3. 2023** &emsp; The first part of the [first assignment](https://drive.google.com/file/d/1_rEq3tZIp7sOMoL981iuYRQXGwdkH1eZ/view?usp=share_link) has been released!  
+**9. 3. 2023** &emsp; Tutorial website is online!  
 
 ## Syllabus and Schedule
-
-### On the Use of Class Time
-#### Lectures
-There are two lecture slots for LLM each week: the first one on Tuesdays 14-16 in [CAB G 61](https://www.rauminfo.ethz.ch/Rauminfo/RauminfoPre.do?region=Z&areal=Z&gebaeude=CAB&geschoss=G&raumNr=61) and the second one on Fridays 10-11 in [CAB G 61](https://www.rauminfo.ethz.ch/Rauminfo/RauminfoPre.do?region=Z&areal=Z&gebaeude=CAB&geschoss=G&raumNr=61).
-
-Both lectures will be given in person and live broadcast on [Zoom](https://ethz.zoom.us/j/63534790714); the password is available on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=19133).
-
-Lectures will be recorded---links to the Zoom recordings will be posted on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=19133).
-
-#### Discussion Sections
-Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz.ch/Rauminfo/RauminfoPre.do?region=Z&areal=Z&gebaeude=NO&geschoss=C&raumNr=60) and on Zoom ([same link](https://ethz.zoom.us/j/63534790714) as the lectures).
-
-<!-- Schedule to be posted at the beginning of the semester, but the general plan is to have a 1 week delay between the content of the discussion sections and the lectures. -->
 
 
 <script
@@ -61,6 +43,24 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
 </script>
 
 ### Syllabus
+
+**Day 1: A Hitchhiker's Guide to Language Models and Weighted Formal Language Theory.**  
+On the first day, we will cover the basics of language models. We will give a formal definition of a language model as a distribution over all strings, discussing subtleties that arise in this definition, e.g., the notion of tightness (Du et al., 2022). Then, we will move on to formal language theory, specifically focusing on different levels of the Chomsky hierarchy. We will introduce the weighted versions of the two commonly used computational devices from formal language theory: weighted finite-state automata (WFSA) and weighted pushdown automata (WPDA). WFSAs can be used to represent n-gram language models, which were the standard in the field of natural language processing from the 1980s till the late 2010s. WPDA language models, on the other hand, are particularly useful for modeling natural language, as they can use their stack to represent arbitrarily deep hierarchical features, such as grammatical constraints and semantic composition (Chelba and Jelinek, 1998; Abney et al., 1999). 
+
+**Day 2: Recurrent Neural Networks as Weighted Recognizers.**  
+On the second day of our tutorial, we will delve into the realm of recurrent neural networks and their application to modeling language. By their very nature, finite-state language models can only consider a limited amount of context. RNNs, however, offer a way to overcome this limitation by theoretically modeling the entire history of their input. We will provide a formal definition of a recurrent neural language model and discuss some of the popular variants of RNNs, such as LSTM (Hochreiter and Schmidhuber, 1997) and GRU (Cho et al., 2014). Furthermore, we will define the concept of neural sequence acceptors and generators, which formally describe what it means for a neural model to accept and generate a language, analogously to models from formal language theory. These concepts are crucial for understanding the full capabilities and potential of neural language models. We will also motivate the analysis of neural language models with tools from formal language theory, highlighting their interpretability and efficiency.
+
+**Day 3: Recurrent Neural Networks and Weighted Finite-state Automata.**  
+On the third day of the tutorial, we will dive into the representational capabilities of RNNs. We will explore the relationship between RNNs and WFSAs, and demonstrate that, under certain conditions, such as the use of a hard thresholding activation function, RNNs have the same expressive capacity as WFSAs. We will also present a simple construction for creating a thresholded RNN that can represent a WFSA with a number of neurons that is linear in the number of states in the WFSA, due to Minsky (1954). Additionally, we will show that RNNs can, in some cases, implicitly represent finite-state language models that are exponentially larger. On the other hand, we will also demonstrate that some WFSAs do not exhibit compact representations with RNNs. We will present a more elaborate construction of an RNN that can implement a general WFSA, with a hidden state dimensionality that is sub-linear in the number of states. This construction is based on the work of Dewdney (1977), Alon et al. (1991), and Indyk (1995), but is more intricate as it will be generalized to the weighted case. We also walk through the more efficient construction of Hewitt et al. (2020) for the special case of the finite Dyck languages. 
+
+**Day 4: Recurrent Neural Networks, Weighted Pushdown Automata, and Turing Machines.**  
+On the fourth day of the tutorial, we will then shift our focus to the representation of the hierarchical structure of human language. We show that if we assume our activation is a ReLU or a saturated sigmoid and we have infinite precision arithmetic, then our RNN can emulate a WPDA or weighted Turing machine. Both of these constructions are a generalization of the classic construction due to Siegelmann and Sontag (1992). Afterward, we turn to classic theory of computation and show that, by simulating Turing machines, many standard tasks that are decidable for weighted finite-state automata are in fact undecidable for RNNs, such as minimization, equivalence testing, finding the highest-weighted string, and determining tightness (Chen et al., 2018). Such results imply that many computational tasks relevant to NLP cannot be solved for RNNs with a polynomial amount of computation (Lin et al., 2021).
+
+**Day 5: Formal Language Theory and Transformers.**  
+On the final day of our tutorial, we will turn to formal language theory and Transformer-based language models (Vaswani et al., 2017). Compared to the case of recurrent neural networks, the study of Transformers through the lens of formal language theory is relatively new. We will cover recent advances in the theoretical limitations of self-attention (Hahn, 2020; Chiang and Cholak, 2022) as well as the proof by Pérez et al. (2021) that Transformers, again with infinite precision arithmetic, are Turing complete. Again, many of these results are generalized to the weighted case, i.e., we will work to consider Transformer-based language models as weighted recognizers. We conclude the final day of the tutorial with an overview of what we have covered and its implications for the applications of language models in practice. We also will go over several possible future directions of research for those students who are interested in continuing to study the relationship between neural language models and formal language theory.
+
+
+<!-- 
 <table class="table">
   <head>
     <base target="_blank">
@@ -79,7 +79,6 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
   </thead>
   <tbody>
     <tr>
-      <!-- <td>21. 2. 2023 (1 hour)</td> -->
       <td>21. 2. 2023</td>
       <td>1 hour</td>
       <td></td>
@@ -102,7 +101,6 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
     </tr>    
     <tr>
-      <!-- <td>21. 2. 2023 (1 hour)</td> -->
       <td>21. 2. 2023</td>
       <td>1 hour</td>
       <td rowspan="3" style="vertical-align : middle;text-align:center;" align="center"><b>Probabilistic Foundations</b></td>
@@ -126,7 +124,6 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
     </tr>  
     <tr>
-      <!-- <td>24. 2. 2023 (1 hour)</td> -->
       <td>24. 2. 2023</td>
       <td>1 hour</td>
       <td>Defining a Language Model</td>
@@ -148,7 +145,6 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
     </tr>   
     <tr>
-      <!-- <td>28. 2. 2023 (2 hours)</td> -->
       <td>28. 2. 2023</td>
       <td>2 hours</td>
       <td>Tight Language Models</td>
@@ -171,7 +167,6 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
     </tr>   
     <tr>
-      <!-- <td>3. 3. 2023 (1 hour)</td> -->
       <td>3. 3. 2023</td>
       <td>1 hour</td>
       <td rowspan="3" style="vertical-align : middle;text-align:center;" align="center"><b>Modeling Foundations</b></td>
@@ -193,7 +188,6 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
     </tr>  
     <tr>
-      <!-- <td>7. 3. 2023 (2 hours)</td> -->
       <td>7. 3. 2023</td>
       <td>2 hours</td>
       <td>Finite-State Language Models</td>
@@ -215,7 +209,6 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
     </tr>
     <tr>
-      <!-- <td>10. 3. 2023 (1 hour)</td> -->
       <td>10. 3. 2023</td>
       <td>1 hour</td>
       <td>Pushdown Language Models</td>
@@ -257,7 +250,6 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
     </tr>  
     <tr>
-      <!-- <td>17. 3. 2023 (1 hour)</td> -->
       <td>17. 3. 2023</td>
       <td>1 hour</td>
       <td>Variants of RNNLMs</td>
@@ -280,7 +272,6 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <td>21. 3. 2023</td>
       <td>2 hours</td>
-      <!-- <td rowspan="5" style="vertical-align : middle;text-align:center;" align="center"><b>Neural Network Modeling</b></td> -->
       <td>Representational Capacity of RNNLMs</td>
       <td>
       Ryan
@@ -301,7 +292,6 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
     </tr>
     <tr>
-      <!-- <td>21. 3. 2023 (2 hours)</td> -->
       <td>24. 3. 2023</td>
       <td>1 hour</td>
       <td>Transformer-based Language Models</td>
@@ -322,7 +312,6 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
     </tr>
     <tr>
-      <!-- <td>24. 3. 2023 (1 hour)</td> -->
       <td>28. 3. 2023</td>
       <td>2 hours</td>
       <td>Efficient Attention</td>
@@ -331,7 +320,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
       <td>
       <div id="summary11" style="display:none">
-      There is an ever-growing bag of tricks that speed up the computation of the attention mechanism in Transformer-based language models. This lecture overview those tricks and various generalizations of the transformer, which are becoming increasingly necessary to scale up Transformer LMs on academic hardware. We will also discuss multi-headed attention, sparse attention, and Transformer variants tailored for long documents. Where possible, we prove guarantees for the methods.
+      There is an ever-growing bag of tricks that speed up the computation of the attention mechanism in Transformer-based language models. This lecture overview those tricks, which are becoming increasingly necessary to scale up Transformer LMs on academic hardware. Where possible, we prove guarantees for the methods.
       <br/>
       <br/>
       </div>
@@ -343,16 +332,15 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
     </tr>
     <tr>
-      <!-- <td>28. 3. 2023 (2 hours)</td> -->
       <td>31. 3. 2023</td>
       <td>1 hour</td>
-      <td>Representational Capacity of Transformer-based Language Models</td>
+      <td>Variants on the Transformer</td>
       <td>
       Ryan
       </td>
       <td>
       <div id="summary12" style="display:none">
-      Inspired by the Turing completeness of RNNs, we study the representational capacity of Transformers. Although the connection to automata is not as straight-forward as with RNNs, we discuss how to think about Transformers as formal models and show that, assuming an unbounded number of layers and infinite precision, Transformers are Turing complete.
+      This lecture overviews various generalizations of the transformer. We will discuss multi-headed attention, sparse attention, and Transformer variants tailored for long documents.
       <br/>
       <br/>
       </div>
@@ -364,7 +352,6 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
     </tr>
     <tr>
-      <!-- <td>4. 4. 2023 (2 hours)</td> -->
       <td>4. 4. 2023</td>
       <td>2 hours</td>
       <td rowspan="1" style="vertical-align : middle;text-align:center;" align="center"><b>Modeling Potpourri</b></td>
@@ -402,7 +389,6 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
     </tr>
     <tr>
-      <!-- <td>31. 3. 2023 (1 hour)</td> -->
       <td>18. 4. 2023</td>
       <td>2 hours</td>
       <td rowspan="1" style="vertical-align : middle;text-align:center;" align="center"><b>Modeling Potpourri</b></td>
@@ -482,7 +468,6 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
     </tr>
     <tr>
-      <!-- <td>11. 4. 2023 (2 hours)</td> -->
       <td>2. 5. 2023</td>
       <td>2 hours</td>
       <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Parallelism and Scaling up</b></td>
@@ -503,7 +488,6 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
     </tr>
     <tr>
-      <!-- <td>7. 4. 2023 (1 hour)</td> -->
       <td>5. 5. 2023</td>
       <td>1 hour</td>
       <td>Parallelism</td>
@@ -683,30 +667,12 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <td>
       </td>
     </tr>
-    <!-- <tr>
-      <td>2. 6. 2023</td>
-      <td></td>
-      <td>Conclusion and Group Discussion</td>
-      <td>
-      Ryan/Mrinmaya/Ce/Florian
-      </td>
-      <td>
-      <div id="summary28" style="display:none">
-      <br/>
-      <br/>
-      </div>
-      <button id="button28" style="border:none;" onclick="myFunction('28')">Show</button>
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-    </tr>   -->
   </tbody>
-</table>
+</table> -->
 
+
+<!-- 
 ## Organisation
-
 ### Live Chat
 In addition to class time, there will also be a `RocketChat`-based live chat hosted on ETH’s servers. 
 Students are free to ask questions of the teaching staff and of others in public or private (direct message). 
@@ -736,161 +702,37 @@ The full list is:
 - [LLM Assignment 2](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FLHGssw) for discussing and asking questions about Assignment 2.
 - [Find Assignment Partners](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FonAH7n) for finding teammates for the course assignments.
 
-If you feel like you would benefit from any other channel, feel free to suggest it to the teaching team!
+If you feel like you would benefit from any other channel, feel free to suggest it to the teaching team! -->
 
-### Course Notes
-We will prepare the course lecture notes as we go! 
-The individual chapters will be published in the course syllabus and updated throughout the semester.
-Please report all errata to the teaching staff; we created an [errata channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FNB56vb) in `RocketChat`.
+## Useful Literature
 
-**Links to the course notes**:
+A more detailed version of this course covering many more topics will be given at the Department of Computer Science, ETH Zürich, in Spring 2023. See the [Large Language Models course website](classes/llm-s23/) for more details. Notes and exercises from this course will be distributed to the students for reading and additional practice during the ESSLLI course.
 
-- [LLM Course Notes Part 1](https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view?usp=share_link)
-
-Other useful literature: 
-
-- [iPad class notes](https://drive.google.com/file/d/1bcyaChQHcOzbdxvJTE7auOV73gpmKGqW/view?usp=share_link)  
-- [Introduction to Natural Language Processing (Eisenstein)](https://www.amazon.de/Jacob-Eisenstein/dp/0262042843/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=30OMHV1C018JY&dchild=1&keywords=introduction+to+natural+language+processing&qid=1598878964&sprefix=introduction+to+na%2Caps%2C148&sr=8-1)  
-- [Deep Learning (Goodfellow, Bengio and Courville)](https://www.deeplearningbook.org/)  
-- [AFLT Course Notes](https://rycolab.io/classes/aflt-s23/)  
-
-### Grading
-
-Marks for the course will be determined by the following formula:  
-
-- **50%** Final Exam  
-- **50%** Assignments
- 
-#### On the Final Exam
-The final exam is comprehensive and should be assumed to cover all the material in the slides and class notes. 
-
-#### On the Class Assignments 
-
-There will be **2** larger assignments in the course. 
-<!-- We impose two firm deadlines for handing in your solutions: -->
-
-We require the solutions to be properly typeset.
-We recommend using `LaTeX` (with [`Overleaf`](https://www.overleaf.com)), but `markdown` files with `MathJax` for the mathematical expressions are also fine.
-
-The first assignment will be of more theoretical nature and will be released shortly after the start of the semester.
-
-
-**Assignment instructions sheets**:
-
-- [Assignment 1](https://drive.google.com/file/d/1_rEq3tZIp7sOMoL981iuYRQXGwdkH1eZ/view?usp=share_link)  
-
-
-##### Assignment Deadlines
-The *first assignment* will be due on **Thursday, April 20th** at 23:59.
-The reason behind this is that the course then switches to different topics not relevant for the first assignment, so having a deadline before that will allow you to focus on the rest of the course.
-
-<!-- 
-## Tutorial Schedule
-<table class="table">
-  <head>
-    <base target="_blank">
-  </head>
-  <thead>
-    <tr>
-      <th scope="col" style='white-space:nowrap'>Week</th>
-      <th scope="col" style='white-space:nowrap'>Date&emsp;&emsp;</th>
-      <th scope="col" style='white-space:nowrap'>Topic</th>
-      <th scope="col" style='white-space:nowrap'>Teaching Assistant</th>
-      <th scope="col" style='white-space:nowrap'>Material</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">1</th>
-      <td>28. 9. 2023</td>
-      <td>Course Logistics and Introduction of the TA Team</td>
-      <td>All TAs</td>
-      <td><a href="https://drive.google.com/file/d/1dGaClf-2FVsDoIzyyxYueQEvUZNy48yn/view?usp=sharing" target="_blank">Introduction Slides</a></td>
-    </tr>
-    <tr>
-      <th scope="row">2</th>
-      <td>5. 10. 2023</td>
-      <td>Assignment 1</td>
-      <td>Niklas Stoehr</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">3</th>
-      <td>12. 10. 2023</td>
-      <td>Assignment 1</td>
-      <td>Niklas Stoehr</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">4</th>
-      <td>19. 10. 2023</td>
-      <td><b>No tutorials</b></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">5</th>
-      <td>26. 10. 2023</td>
-      <td><b>No tutorials</b></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">6</th>
-      <td>2. 11. 2023</td>
-      <td>Assignment 2 and Assignment 3</td>
-      <td>David Wissel, Alexandra Butoi, and Anej Svete</td>
-      <td><a href="https://drive.google.com/file/d/1Xv5pmNVhZUQmO_BehWn6DCpMwQWZOOPm/view?usp=share_link" target="_blank">Assignment 2 Slides</a></td>
-    </tr>
-    <tr>
-      <th scope="row">7</th>
-      <td>9. 11. 2023</td>
-      <td>Assignment 2 and Assignment 3</td>
-      <td>David Wissel, Alexandra Butoi, and Anej Svete</td>
-      <td><a href="https://drive.google.com/file/d/12o9AwmW9wwzreday7kLs-7F63WwnFoTC/view?usp=share_link" target="_blank">Transliteration Slides</a></td>
-    </tr>
-    <tr>
-      <th scope="row">8</th>
-      <td>16. 11. 2023</td>
-      <td>Assignment 4</td>
-      <td>Franz Nowak</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">9</th>
-      <td>23. 11. 2023</td>
-      <td>Assignment 4</td>
-      <td>Franz Nowak</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">10</th>
-      <td>30. 11. 2023</td>
-      <td>Assignment 5</td>
-      <td>Benjamin Dayan</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">11</th>
-      <td>7. 12. 2023</td>
-      <td>Assignment 6</td>
-      <td>Luca Malagutti</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">12</th>
-      <td>14. 12. 2023</td>
-      <td>Assignment 5</td>
-      <td>Benjamin Dayan</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">13</th>
-      <td>21. 12. 2023</td>
-      <td>Assignment 6</td>
-      <td>Luca Malagutti</td>
-      <td></td>
-    </tr>
-    
-  </tbody>
-</table> -->
+**Additional References**:  
+  
+- Abney S., McAllester, D. and Pereira, F. 1999. Relating Probabilistic Grammars and Automata. Proceedings of the 37th Annual Meeting of the Association for Computational Linguistics.  
+- Alon, N., Dewdney, A. K., and Ott, T. J. 1991. Efficient simulation of finite automata by neural nets. J. ACM 38, 2 (April 1991), 495–514. https://doi.org/10.1145/103516.103523  
+- Chelba, C. and Jelinek, F. 1998. Exploiting Syntactic Structure for Language Modeling. 36th Annual Meeting of the Association for Computational Linguistics and 17th International Conference on Computational Linguistics, Volume 1.  
+- Hewitt, J., Hahn, M., Ganguli, S., Liang, P., and Manning. C. D. 2020. RNNs can generate bounded hierarchical languages with optimal memory. In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), pages 1978–2010, Online. Association for Computational Linguistics.  
+- Chiang, D. and Cholak, P. 2022. Overcoming a Theoretical Limitation of Self-Attention. Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).  
+- Chen, Y., Gilroy, S., Maletti, A., May, J., and Knight, K. 2018. Recurrent Neural Networks as Weighted Language Recognizers. In Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers), pages 2261–2271, New Orleans, Louisiana. Association for Computational Linguistics.  
+- Du, L., Hennigen, L. T., Pimentel, T., Meister, C., Eisner, J., and Cotterell, R. (2022). A Measure-Theoretic Characterization of Tight Language Models. doi:10.48550/ARXIV.2212.10502  
+- Dewdney, A. K. 1977. Threshold matrices and the state assignment problem for neural nets. In Proceedings of the 8th SouthEastern Conference on Combinatorics, Graph Theory and Computing. Louisiana State University, Baton Rouge, La., pp. 227-245.  
+- Hahn, M. 2020. Theoretical Limitations of Self-Attention in Neural Sequence Models. Transactions of the Association for Computational Linguistics.  
+- Indyk, P. (1995). Optimal simulation of automata by neural nets. In: Mayr, E.W., Puech, C. (eds) STACS 95. STACS 1995. Lecture Notes in Computer Science, vol 900. Springer, Berlin, Heidelberg. https://doi.org/10.1007/3-540-59042-0_85  
+- Lin, C., Jaech, A., Li, X., Gormley, M. R., and Eisner, Jason. 2021 Limitations of Autoregressive Models and Their Alternatives. Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.  
+- Minsky, M. L. Neural Nets and the brain model problem. Ph.D dissertation, Princeton Univ., Princeton, N. J., 1954.  
+- Minsky, M. L. Computation: Finite and Infinite Machines. Prentice-Hall, New York, 1967.  
+- Siegelmann, H. T., and Sontag, E. D. 1992. On the computational power of neural nets. In Proceedings of the fifth annual workshop on Computational learning theory (COLT '92). Association for Computing Machinery, New York, NY, USA, 440–449. https://doi.org/10.1145/130385.130432  
+- Mohri, M. (2009). Weighted Automata Algorithms. In: Droste, M., Kuich, W., Vogler, H. (eds) Handbook of Weighted Automata. Monographs in Theoretical Computer Science. An EATCS Series. Springer, Berlin, Heidelberg. https://doi.org/10.1007/978-3-642-01492-5_6  
+- Mohri, M.. 1997. Finite-State Transducers in Language and Speech Processing. Computational Linguistics, 23(2):269–311.  
+- Merrill, W., Weiss, G., Goldberg, Y., Schwartz, R., Smith, N. A., and Yahav, E.. 2020. A Formal Hierarchy of RNN Architectures. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 443–459, Online. Association for Computational Linguistics.  
+- Peng H., Schwartz R., Thomson S., and Smith N. A.. Rational Recurrences. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing. Association for Computational Linguistics; 2018:1203-1214. doi:10.18653/v1/D18-1152  
+- Pérez, J., Barceló, P., and Marinkovic, J. 2021. Attention is Turing Complete. Journal of Machine Learning Research.  
+- Schwartz R., Thomson S., and Smith N. A. Bridging CNNs, RNNs, and Weighted Finite-State Machines. In: Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). Association for Computational Linguistics; 2018:295-305. doi:10.18653/v1/P18-1028  
+- Delétang G., Ruoss A., Grau-Moya J., et al. Neural Networks and the Chomsky Hierarchy. Published online 2022. doi:10.48550/ARXIV.2207.02098  
+- Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł. and Polosukhin, I.. 2017. Attention is all you need. In Proceedings of the 31st International Conference on Neural Information Processing Systems (NIPS'17). Curran Associates Inc., Red Hook, NY, USA, 6000–6010.  
+- Hochreiter, S., and Schmidhuber, J. (1997). Long short-term memory. Neural computation, 9(8), 1735-1780.  
+- Cho, K., van Merriënboer, B., Bahdanau, D., and Bengio, Y. 2014. On the Properties of Neural Machine Translation: Encoder–Decoder Approaches. In Proceedings of SSST-8, Eighth Workshop on Syntax, Semantics and Structure in Statistical Translation, pages 103–111, Doha, Qatar. Association for Computational Linguistics.  
+- Ciprian Chelba and Frederick Jelinek. 1998. Exploiting Syntactic Structure for Language Modeling. In 36th Annual Meeting of the Association for Computational Linguistics and 17th International Conference on Computational Linguistics, Volume 1, pages 225–231, Montreal, Quebec, Canada. Association for Computational Linguistics.  
+- Steven Abney, David McAllester, and Fernando Pereira. 1999. Relating Probabilistic Grammars and Automata. In Proceedings of the 37th Annual Meeting of the Association for Computational Linguistics, pages 542–549, College Park, Maryland, USA. Association for Computational Linguistics.

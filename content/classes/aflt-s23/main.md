@@ -25,6 +25,7 @@ The homework will be released throughout the semester in assignments with 3–4 
 ## News
 
 **3.1.** &emsp; Class website is online!  
+**9.3.** &emsp; The [iPad class notes](https://drive.google.com/file/d/1MgKixnb4v8TWXTR5m5MN0NOPZmEzyZD6/view?usp=share_link) have been posted. The same link will contain updated notes for the first part of the course throughout the semester.    
 
 ## Syllabus and Schedule
 ### On the Use of Class Time
@@ -34,6 +35,8 @@ There are two lecture slots for AFLT each week: Wednesdays 16-18 [(HG D 5.2)](ht
 Both lectures will be given in person and live broadcast on [Zoom](https://ethz.zoom.us/j/66986788370); the password is available on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=19132).
 
 Lectures will be recorded---links to the Zoom recordings will be posted on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=19132).
+
+We also regularly publish Ryan's [iPad class notes](https://drive.google.com/file/d/1MgKixnb4v8TWXTR5m5MN0NOPZmEzyZD6/view?usp=share_link).
 
 #### Discussion Sections
 
