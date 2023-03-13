@@ -556,7 +556,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       </td>
       <td>
       <div id="literature28" style="display:none">
-      <a href="https://hal.inria.fr/hal-03367725" target="_blank">Hubert Comon, Max Dauchet, Remi Gilleron, Florent Jacquemard, Denis Lugiez, Christof L ̈oding, Sophie Tison, and Marc Tommasi. 2008. Tree Automata Techniques and Applications.</a>
+      <a href="https://hal.inria.fr/hal-03367725" target="_blank">Hubert Comon, Max Dauchet, Remi Gilleron, Florent Jacquemard, Denis Lugiez, Christof Loding, Sophie Tison, and Marc Tommasi. 2008. Tree Automata Techniques and Applications.</a>
       <br/>  
       </div>
       <button id="button28" style="border:none;" onclick="myFunction('28')">Show</button>
