@@ -733,7 +733,7 @@ The full list is:
 - [LLM Content Questions](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2F4ZSstp) for your questions about the content of the course.
 - [LLM Errata](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FNB56vb) for reporting typos and errors in the course lecture notes and the slides.
 - [LLM Assignment 1](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FLHGssw) for discussing and asking questions about Assignment 1.
-- [LLM Assignment 2](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FLHGssw) for discussing and asking questions about Assignment 2.
+- [LLM Assignment 2](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FK7Fwss) for discussing and asking questions about Assignment 2.
 - [Find Assignment Partners](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FonAH7n) for finding teammates for the course assignments.
 
 If you feel like you would benefit from any other channel, feel free to suggest it to the teaching team!

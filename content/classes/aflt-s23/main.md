@@ -434,11 +434,12 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td></td>
       <td>
       <div id="literature20" style="display:none">
-        <a href="https://www.amazon.co.uk/Automata-Computability-Dexter-C-Kozen/dp/0387949070" target="_blank">Kozen (1997)</a></br>
-        <a href="https://jacquema.gitlabpages.inria.fr/files/tata.pdf" target="_blank">Comon et al. (2008)</a></br>
-        <a href="" target="_blank">Engelfriet (1975)</a></br>
-        <a href="" target="_blank">Thatcher (1967)</a></br>
-        <a href="https://kevincrawfordknight.github.io/papers/p5.pdf" target="_blank">Knight and Graehl (2005)</a></br>
+        <a href="https://link.springer.com/book/10.1007/978-1-4612-1844-9" target="_blank">Dexter C. Kozen. 1997. Automata and Computability, 1st edition. Springer-Verlag, Berlin, Heidelberg.</a></br>
+        <a href="https://hal.inria.fr/hal-03367725" target="_blank">Hubert Comon, Max Dauchet, Remi Gilleron, Florent Jacquemard, Denis Lugiez, Christof Loding, Sophie Tison, and Marc Tommasi. 2008. Tree Automata Techniques and Applications.</a></br>
+        <a href="https://doi.org/10.48550/ARXIV.1510.02036" target="_blank">Joost Engelfriet. 2015. Tree automata and tree grammars.</a></br>
+        <a href="https://doi.org/10.48550/ARXIV.1509.06233" target="_blank">Ferenc Gecseg and Magnus Steinby. 2015. Tree automata.</a></br>
+        <a href="https://doi.org/https://doi.org/10.1016/S0022-0000(67)80022-9 target="_blank">J.W. Thatcher. 1967. Characterizing derivation trees of context-free grammars through a generalization of finite automata theory. Journal of Computer and System Sciences, 1(4):317–322.</a></br>
+        <a href="https://link.springer.com/chapter/10.1007/978-3-540-30586-6_1" target="_blank">Kevin Knight and Jonathan Graehl. 2005. An overview of probabilistic tree transducers for natural language processing. In Computational Linguistics and Intelligent Text Processing, pages 1–24, Berlin, Heidelberg. Springer Berlin Heidelberg.</a></br>
       <br/>  
       </div>
       <button id="button20" style="border:none;" onclick="myFunction('20')">Show</button>
@@ -451,7 +452,9 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td></td>
       <td>
       <div id="literature21" style="display:none">
-        <a href="https://www.inf.tu-dresden.de/content/institutes/thi/gdp/pubs/2009/determ2.pdf" target="_blank">Büchse et al. (2010)</a></br>
+        <a href="https://aclanthology.org/N06-1045/" target="_blank">Jonathan May and Kevin Knight. 2006. A better n-best list: Practical determinization of weighted finite tree automata. In Proceedings of the Human Language Technology Conference of the NAACL, Main Conference, pages 351–358, New York City, USA. Association for Computational Linguistics.</a></br>
+        <a href="https://www.inf.tu-dresden.de/content/institutes/thi/gdp/pubs/2010/determ.pdf" target="_blank">Matthias Buchse, Jonathan May, and Heiko Vogler. 2009. Determinization of weighted tree automata using factorizations.</a></br>
+        <a href="https://aclanthology.org/W12-0802.pdf" target="_blank">Matthias Buchse and Anja Fischer. 2012. Deciding the twins property for weighted tree automata over extremal semifields. In Proceedings of the Workshop on Applications of Tree Automata Techniques in Natural Language Processing, ATANLP ’12, page 11–20, USA. Association for Computational Linguistics.</a></br>
       <br/>  
       </div>
       <button id="button21" style="border:none;" onclick="myFunction('21')">Show</button>
@@ -465,7 +468,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td>
       <div id="literature22" style="display:none">
         <a href="https://dl.acm.org/doi/10.5555/2034006.2034050" target="_blank">Maletti and Quernheim (2011)</a></br>
-        <a href="https://arxiv.org/pdf/1702.00304.pdf" target="_blank">Hanneforth, Maletti, Quernheim (2018)</a></br>
+        <a href="https://arxiv.org/abs/1702.00304" target="_blank">Thomas Hanneforth, Andreas Maletti, and Daniel Quernheim. 2017. Pushing for weighted tree automata. CoRR.</a></br>
       <br/>  
       </div>
       <button id="button22" style="border:none;" onclick="myFunction('22')">Show</button>
@@ -478,7 +481,10 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td></td>
       <td>
       <div id="literature23" style="display:none">
-        <a href="https://link.springer.com/content/pdf/10.1007/978-3-540-88282-4_33.pdf" target="_blank">Maletti (2008)</a></br>
+        <a href="https://link.springer.com/chapter/10.1007/3-540-45007-6_11" target="_blank">Bjorn Borchardt. 2003. The Myhill-Nerode theorem for recognizable tree series. In Developments in Language Theory, pages 146–158, Berlin, Heidelberg. Springer Berlin Heidelberg.</a></br>
+        <a href="https://link.springer.com/chapter/10.1007/978-3-540-78773-0_10" target="_blank">Andreas Maletti. 2008. Myhill-nerode theorem for recognizable tree series revisited. In LATIN 2008: Theoretical Informatics, pages 106–120, Berlin, Heidelberg. Springer Berlin Heidelberg.</a></br>
+        <a href="https://link.springer.com/chapter/10.1007/11812128_17" target="_blank">Parosh Aziz Abdulla, Lisa Kaati, and Johanna H ̈ogberg. 2006. Bisimulation minimization of tree automata. In Implementation and Application of Automata, pages 173–185, Berlin, Heidelberg. Springer Berlin Heidelberg.</a></br>
+        <a href="https://arxiv.org/abs/1702.00304" target="_blank">Thomas Hanneforth, Andreas Maletti, and Daniel Quernheim. 2017. Pushing for weighted tree automata. CoRR.</a></br>
       <br/>  
       </div>
       <button id="button23" style="border:none;" onclick="myFunction('23')">Show</button>
@@ -534,6 +540,8 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       </td>
       <td>
       <div id="literature27" style="display:none">
+      <a href="https://doi.org/https://doi.org/10.1016/0304-3975(92)90124-X" target="_blank">David J. Weir. 1992. A geometric hierarchy beyond context-free languages. Theoretical Computer Science, 104(2):235–261.</a>
+      <a href="https://link.springer.com/article/10.1007/BF01303055" target="_blank">Michael A. Palis and Sunil M. Shende. 1995. Pumping lemmas for the control language hierarchy. Mathematical systems theory, 28:199–213.</a>
       <br/>  
       </div>
       <button id="button27" style="border:none;" onclick="myFunction('27')">Show</button>
@@ -548,6 +556,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       </td>
       <td>
       <div id="literature28" style="display:none">
+      <a href="https://hal.inria.fr/hal-03367725" target="_blank">Hubert Comon, Max Dauchet, Remi Gilleron, Florent Jacquemard, Denis Lugiez, Christof L ̈oding, Sophie Tison, and Marc Tommasi. 2008. Tree Automata Techniques and Applications.</a>
       <br/>  
       </div>
       <button id="button28" style="border:none;" onclick="myFunction('28')">Show</button>
