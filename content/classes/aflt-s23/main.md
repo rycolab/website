@@ -127,7 +127,6 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td>1. 3. 2023</td>
       <td>Closed Semirings, The Algebraic Path Problem</td>
       <td>
-      <a href="https://drive.google.com/file/d/19NkbBpbK2M65eXUIYE7tvO-1XvpMQ2Oh/view?usp=sharing" target="_blank">Chapter 2 (last year)</a></td>
       <td></td>
       <td>
       <div id="literature3" style="display:none">
@@ -157,7 +156,6 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td>8. 3. 2023</td>
       <td>Homomorphisms, Weighted Finite-State Transducers</td>
       <td>
-      <a href="https://drive.google.com/file/d/1YbAmJqTwhgllTZOgCY4OoWv2v29gMxnu/view?usp=sharing" target="_blank">Chapter 3 (last year)</a>
       </td>
       <td></td>
       <td>
@@ -203,7 +201,6 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td>16. 3. 2023</td>
       <td>Weight Pushing</td>
       <td>
-      <a href="https://drive.google.com/file/d/1MJUGapyRQjKjPhFd7wcXY8P44QkMTkAD/view?usp=sharing" target="_blank">Chapter 4 (last year)</a>
       </td>
       <td></td>
       <td>
@@ -430,7 +427,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td>4. 5. 2023</td>
       <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Regular Tree Languages</b></td>
       <td>Weighted Tree Automata</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1SK601-attiVorK04WUgx5KjfYZP-5eZq/view?usp=sharing">Chapter 12</a></td>
       <td></td>
       <td>
       <div id="literature20" style="display:none">
