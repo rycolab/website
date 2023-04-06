@@ -240,7 +240,6 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td>23. 3. 2023</td>
       <td>Superior Semirings, Dijkstra's Algorithm, Johnson's Algorithm</td>
       <td>
-      <a href="https://drive.google.com/file/d/1A-xSYoLuKWbTdhOVIuS5iYXaUd9m4oOu/view?usp=share_link" target="_blank">Context-free Languages</a>
       </td>
       <td></td>
       <td>
@@ -276,7 +275,9 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td>30. 3. 2023</td>
       <td rowspan="3" style="vertical-align : middle;text-align:center;" align="center"><b>Context-Free Languages</b></td>
       <td>Weighted Context-Free Grammars</td>
-      <td><a href="https://drive.google.com/file/d/1y_ulTl2IccZWFgJqYVNuh4zeKTjLL1IG/view?usp=sharing" target="_blank">Chapter 6 (last year)</a></td>
+      <td>
+      <a href="https://drive.google.com/file/d/1A-xSYoLuKWbTdhOVIuS5iYXaUd9m4oOu/view?usp=share_link" target="_blank">Context-free Languages</a>
+      </td>
       <td></td>
       <td>
       <div id="literature12" style="display:none">
