@@ -781,8 +781,7 @@ The first assignment will be of more theoretical nature and will be released sho
 
 
 ##### Assignment Deadlines
-The *first assignment* will be due on **Thursday, April 20th** at 23:59.
-The reason behind this is that the course then switches to different topics not relevant for the first assignment, so having a deadline before that will allow you to focus on the rest of the course.
+The *first assignment* will be due on **Tuesday, August 15th** at 23:59.
 
 <!-- 
 ## Tutorial Schedule
