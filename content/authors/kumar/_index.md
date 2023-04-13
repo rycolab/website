@@ -34,7 +34,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "shkumar@ethz.ch"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:shkumar@ethz.ch"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/JupyterAI
