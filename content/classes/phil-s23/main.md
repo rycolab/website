@@ -102,21 +102,19 @@ We encourage you to sign up and participate in the discussions there.
     <tr>
       <th scope="row">2</th>
       <td>28.2.23</td>
-      <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Language Games: Meaning from Usage</b></td>
+      <td rowspan="5" style="vertical-align : middle;text-align:center;" align="center"><b>Language Games: Meaning from Usage</b></td>
       <td>
-        <a href="https://drive.google.com/file/d/1EeadPrNLD4eSWOl01wmrVNiz4LaRq_BR/view?usp=share_link" target="_blank"><b>Wittgenstein (1922)</b></a>,
-        <a href="https://drive.google.com/file/d/11i7RHKfWYBoQC4AormhvHidCCZVlEktq/view?usp=share_link" target="_blank"><b>Wittgenstein (1953)</b></a>
+        <a href="https://drive.google.com/file/d/1EeadPrNLD4eSWOl01wmrVNiz4LaRq_BR/view?usp=share_link" target="_blank">Slides</a>
       </td>
       <td>
-        <a href="https://drive.google.com/file/d/14N69sZSJuh-czgphbfwtEqp0578cttA0/view?usp=share_link" target="_blank"><b>Wittgenstein (1922)</b></a>,
-        <a href="https://drive.google.com/file/d/1uY0FloRywtUEr6HgzldORM6EYTDnf7cN/view?usp=share_link" target="_blank">Wittgenstein (1956)</a>,
-        <a href="https://drive.google.com/file/d/1ue5uaZaS4c7larrbGBETvV10tpKK8HaD/view?usp=share_link" target="_blank">Lyotard (1988)</a>
+        <a href="https://drive.google.com/file/d/14N69sZSJuh-czgphbfwtEqp0578cttA0/view?usp=share_link" target="_blank"><b>Wittgenstein (1922)</b></a>
       </td>
     </tr>  
     <tr>
       <th scope="row">3</th>
       <td>7.3.23</td>
       <td>
+        <a href="https://drive.google.com/file/d/11i7RHKfWYBoQC4AormhvHidCCZVlEktq/view?usp=share_link" target="_blank">Slides</a>
       </td>
       <td>
         <a href="https://drive.google.com/file/d/1ohsPtpVD_87w3-ztiD5gfSzItXoB545J/view?usp=share_link" target="_blank"><b>Wittgenstein (1953)</b></a>
@@ -126,6 +124,7 @@ We encourage you to sign up and participate in the discussions there.
       <th scope="row">4</th>
       <td>14.3.23</td>
       <td>
+        <a href="https://drive.google.com/file/d/1L88Rm5dsF1ry1SQTKd_B0LtSIufvtnph/view?usp=share_link" target="_blank">Slides</a>
       </td>
       <td>
         <a href="http://blog.jacobandreas.net/meaning-belief.html" target="_blank"><b>Andreas (2018)</b></a>,
@@ -136,24 +135,32 @@ We encourage you to sign up and participate in the discussions there.
       <th scope="row">5</th>
       <td>21.3.23</td>
       <td>
+        <a href="https://drive.google.com/file/d/15zfSD8GAOd-EjlHTohtuh05xIQr5rlfB/view?usp=share_link" target="_blank">Slides</a>
       </td>
       <td>
         <a href="https://aclanthology.org/P16-1224.pdf" target="_blank"><b>Wang et al. (2016)</b></a>,
         <a href="https://arxiv.org/abs/1612.07182" target="_blank"><b>Lazaridou et al. (2017)</b></a>
       </td>
+    </tr>
+    <tr>
+      <th scope="row"></th>
+      <td></td>
+      <td></td>
+      <td>
+        Secondary Literature:
+        <a href="https://drive.google.com/file/d/1uY0FloRywtUEr6HgzldORM6EYTDnf7cN/view?usp=share_link" target="_blank">Wittgenstein (1956)</a>,
+        <a href="https://drive.google.com/file/d/1ue5uaZaS4c7larrbGBETvV10tpKK8HaD/view?usp=share_link" target="_blank">Lyotard (1988)</a>
+      </td>
     </tr>  
     <tr>
       <th scope="row">6</th>
       <td>28.3.23</td>
-      <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Information: Language as a Communicative Tool</b></td>
+      <td rowspan="6" style="vertical-align : middle;text-align:center;" align="center"><b>Information: Language as a Communicative Tool</b></td>
       <td>
+          <a href="https://drive.google.com/file/d/1Wuo0b1TsJWs_Jnyx3yCAPdV87LQwa_uk/view?usp=share_link" target="_blank">Slides</a>
       </td>
       <td>
-        <a href="https://drive.google.com/file/d/1GaDoLtKqwIoS8ApI3mSoW3zp1xf7wJ71/view?usp=share_link" target="_blank"><b>Shannon and Weaver (1968)</b></a>,
-        <a href="https://drive.google.com/file/d/1irh11GYKaofry5ljTKe0_2y9lgrx1bRc/view?usp=share_link" target="_blank">Shannon (1993)</a>,
-        <a href="http://staff.ustc.edu.cn/~cgong821/Wiley.Interscience.Elements.of.Information.Theory.Jul.2006.eBook-DDU.pdf" target="_blank">Cover and Thomas (2006)</a> [Ch. 2, 5, 7],
-        <a href="https://arxiv.org/abs/2012.02113" target="_blank">Leinster (2020)</a>,
-        <a href="http://socsci.uci.edu/~rfutrell/teaching/itl-davis/" target="_blank">Information-Theoretic Approaches to Linguistics</a>
+        <a href="https://drive.google.com/file/d/1GaDoLtKqwIoS8ApI3mSoW3zp1xf7wJ71/view?usp=share_link" target="_blank"><b>Shannon and Weaver (1968)</b></a>
       </td>
     </tr>    
     <tr>
@@ -162,11 +169,7 @@ We encourage you to sign up and participate in the discussions there.
       <td>
       </td>
       <td>
-        <a href="https://drive.google.com/file/d/1tFnkYCYcwhhafkQ7Y-q3v3kIlG2amwff/view?usp=share_link" target="_blank"><b>Zipf (1942)</b></a>,
-        <a href="https://drive.google.com/file/d/1nwJEuZ25oIsPMR_GeU9R38b6pfzxUZb7/view?usp=share_link" target="_blank"><b>Shannon (1951)</b></a>,
-        <a href="https://drive.google.com/file/d/1v8asom1x-2UfnOoRaoav_ngeqfzQrJmn/view?usp=share_link" target="_blank"><b>Mandelbrot (1953)</b></a>,
         <a href="https://drive.google.com/file/d/1_kDPOsbukT0dF153fr_rShxwr48Tsp1-/view?usp=share_link" target="_blank"><b>Wiener (1950)</b></a> [Ch. IV],
-        <a href="https://drive.google.com/file/d/1sfsd7sL0B_q2c5bxTsFQtVKxNgSnn82q/view?usp=share_link" target="_blank"><b>Jonas (1953)</b></a>
       </td>
     </tr>    
     <tr>
@@ -191,16 +194,30 @@ We encourage you to sign up and participate in the discussions there.
       </td>
     </tr>   
     <tr>
+        <tr>
+      <th scope="row"></th>
+      <td></td>
+      <td></td>
+      <td>
+        Secondary Literature:
+        <a href="https://drive.google.com/file/d/1nwJEuZ25oIsPMR_GeU9R38b6pfzxUZb7/view?usp=share_link" target="_blank">Shannon (1951)</a>,
+        <a href="https://drive.google.com/file/d/1irh11GYKaofry5ljTKe0_2y9lgrx1bRc/view?usp=share_link" target="_blank">Shannon (1993)</a>,
+        <a href="http://staff.ustc.edu.cn/~cgong821/Wiley.Interscience.Elements.of.Information.Theory.Jul.2006.eBook-DDU.pdf" target="_blank">Cover and Thomas (2006)</a> [Ch. 2, 5, 7],
+      <a href="https://drive.google.com/file/d/1tFnkYCYcwhhafkQ7Y-q3v3kIlG2amwff/view?usp=share_link" target="_blank">Zipf (1942)</a>,
+        <a href="https://drive.google.com/file/d/1v8asom1x-2UfnOoRaoav_ngeqfzQrJmn/view?usp=share_link" target="_blank">Mandelbrot (1953)</a>,
+        <a href="https://arxiv.org/abs/2012.02113" target="_blank">Leinster (2020)</a>,
+        <a href="https://drive.google.com/file/d/1sfsd7sL0B_q2c5bxTsFQtVKxNgSnn82q/view?usp=share_link" target="_blank">Jonas (1953)</a>,
+        <a href="http://socsci.uci.edu/~rfutrell/teaching/itl-davis/" target="_blank">Information-Theoretic Approaches to Linguistics</a>
+      </td>
+    </tr>  
+    <tr>
       <th scope="row">10</th>
       <td>2.5.23</td>
-      <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Pragmatics: the Meaning Beyond Semantics</b></td>
+      <td rowspan="6" style="vertical-align : middle;text-align:center;" align="center"><b>Pragmatics: the Meaning Beyond Semantics</b></td>
       <td>
       </td>
       <td>
-        <a href="https://drive.google.com/file/d/1m-m-00uBvvNDxbcTHaAW939aNDY-z3Bd/view?usp=share_link" target="_blank"><b>Austin (1962)</b></a>,
-        <a href="https://medium.com/huggingface/learning-meaning-in-natural-language-processing-the-semantics-mega-thread-9c0332dfe28e" target="_blank">Wolf (2018)</a>,
-        <a href="https://drive.google.com/file/d/1eiwbs9h265TNIJWLoiOj22tRZSUFLNY8/view?usp=share_link" target="_blank">Deleuze (1980)</a>,
-        <a href="https://drive.google.com/file/d/1XW_ownersxQ-d18U5U53RgXkzMxSaJLv/view?usp=share_link" target="_blank">Derrida (1988)</a>
+        <a href="https://drive.google.com/file/d/1m-m-00uBvvNDxbcTHaAW939aNDY-z3Bd/view?usp=share_link" target="_blank"><b>Austin (1962)</b></a>
       </td>
     </tr>    
     <tr>
@@ -240,6 +257,18 @@ We encourage you to sign up and participate in the discussions there.
         <a href="https://arxiv.org/pdf/2212.01681" target="_blank"><b>Andreas (2022)</b></a>
       </td>
     </tr> 
+    <tr>
+        <tr>
+      <th scope="row"></th>
+      <td></td>
+      <td></td>
+      <td>
+        Secondary Literature:
+        <a href="https://medium.com/huggingface/learning-meaning-in-natural-language-processing-the-semantics-mega-thread-9c0332dfe28e" target="_blank">Wolf (2018)</a>,
+        <a href="https://drive.google.com/file/d/1eiwbs9h265TNIJWLoiOj22tRZSUFLNY8/view?usp=share_link" target="_blank">Deleuze (1980)</a>,
+        <a href="https://drive.google.com/file/d/1XW_ownersxQ-d18U5U53RgXkzMxSaJLv/view?usp=share_link" target="_blank">Derrida (1988)</a>
+      </td>
+    </tr>  
     <tr>
       <th scope="row">14</th>
       <td>30.5.23</td>
