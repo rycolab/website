@@ -38,7 +38,7 @@ Marks for the course will be determined by the following formula:
 
 More detailed instructions about the paper and presentation requirements can be found here:
 
-- [Paper grading rubric](https://drive.google.com/file/d/1kkrkGKBGxiI7Y4KmChZZQbwW70kbfrs7/view?usp=sharing)
+- [Paper grading rubric](https://drive.google.com/file/d/1_eVqNs1wjZKTQnnjBTcnw2hP7OHJXFHq/view?usp=share_link)
 - [Presentation grading rubric](https://drive.google.com/file/d/1G3dwv8bs8oTVtCiCXLqIJF2GmXFs2Ac3/view?usp=sharing)
 
 ### Organization 
@@ -65,13 +65,13 @@ We encourage you to sign up and participate in the discussions there.
 3. We highly recommend you download the desktop app [here](https://www.rocket.chat/).  
 
 ### Class Materials
-- [Paper grading rubric](https://drive.google.com/file/d/1kkrkGKBGxiI7Y4KmChZZQbwW70kbfrs7/view?usp=sharing)
+- [Paper grading rubric](https://drive.google.com/file/d/1_eVqNs1wjZKTQnnjBTcnw2hP7OHJXFHq/view?usp=share_link)
 - [Presentation grading rubric](https://drive.google.com/file/d/1G3dwv8bs8oTVtCiCXLqIJF2GmXFs2Ac3/view?usp=sharing)
-- [Guidelines for Free-Form Responses](https://moodle-app2.let.ethz.ch/mod/resource/view.php?id=792791)
+- [Guidelines for Free-Form Responses](https://drive.google.com/file/d/1fd8FTKawXetAarmZAj1WFCtpZ2RNoG9w/view?usp=share_link)
 
 ## News
 
-**12.2.** &emsp; Class website is online!  
+**12.2** &emsp; Class website is online!  
 
 
 ## Syllabus and Schedule
@@ -94,7 +94,7 @@ We encourage you to sign up and participate in the discussions there.
       <td>21.2.23</td>
       <td rowspan="1" style="vertical-align : middle;text-align:center;" align="center"><b>Introduction</b></td>
       <td>
-        <a href="https://drive.google.com/file/d/1Ny6tv2ywDClOdKAhn1Bp1vTmLyBlWXXw/view?usp=share_link" target="_blank">Introduction Slides</a>
+        <a href="https://drive.google.com/file/d/1Ny6tv2ywDClOdKAhn1Bp1vTmLyBlWXXw/view?usp=share_link" target="_blank">Slides</a>
       </td>
       <td>
       </td>
@@ -102,7 +102,7 @@ We encourage you to sign up and participate in the discussions there.
     <tr>
       <th scope="row">2</th>
       <td>28.2.23</td>
-      <td rowspan="5" style="vertical-align : middle;text-align:center;" align="center"><b>Language Games: Meaning from Usage</b></td>
+      <td rowspan="5" style="vertical-align : middle;text-align:center;" align="center"><b>Language Games:<br>Meaning from Usage</b></td>
       <td>
         <a href="https://drive.google.com/file/d/1EeadPrNLD4eSWOl01wmrVNiz4LaRq_BR/view?usp=share_link" target="_blank">Slides</a>
       </td>
@@ -155,7 +155,7 @@ We encourage you to sign up and participate in the discussions there.
     <tr>
       <th scope="row">6</th>
       <td>28.3.23</td>
-      <td rowspan="6" style="vertical-align : middle;text-align:center;" align="center"><b>Information: Language as a Communicative Tool</b></td>
+      <td rowspan="6" style="vertical-align : middle;text-align:center;" align="center"><b>Information:<br>Language as a Communicative Tool</b></td>
       <td>
           <a href="https://drive.google.com/file/d/1Wuo0b1TsJWs_Jnyx3yCAPdV87LQwa_uk/view?usp=share_link" target="_blank">Slides</a>
       </td>
@@ -176,10 +176,11 @@ We encourage you to sign up and participate in the discussions there.
       <th scope="row">8</th>
       <td>18.4.23</td>
       <td>
+          <a href="https://docs.google.com/presentation/d/1eYTLambd3SBfsk5vZYsalJEVtiO2R0GbsExkHviTChY/edit?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
         <a href="http://colala.berkeley.edu/papers/gibson2019how.pdf" target="_blank"><b>Gibson et al. (2019)</b></a>,
-        <a href="https://aclanthology.org/Q19-1021.pdf" target="_blank"><b>Cotterell et al. (2019)</b></a>
+        <a href="https://aclanthology.org/Q19-1021.pdf" target="_blank">Cotterell et al. (2019)</a>
       </td>
     </tr>  
     <tr>
@@ -188,9 +189,9 @@ We encourage you to sign up and participate in the discussions there.
       <td>
       </td>
       <td>
-        <a href="https://aclanthology.org/2020.emnlp-main.328.pdf" target="_blank"><b>Pimentel et al. (2020)</b></a>,
         <a href="http://colala.berkeley.edu/papers/PNAS-2011-Piantadosi-1012551108.pdf" target="_blank"><b>Piantadosi et al. (2011)</b></a>,
-        <a href="https://aclanthology.org/2021.naacl-main.350/" target="_blank"><b>Pimentel et al. (2021)</b></a>
+        <a href="https://aclanthology.org/2020.emnlp-main.328.pdf" target="_blank">Pimentel et al. (2020)</a>,
+        <a href="https://aclanthology.org/2021.naacl-main.350/" target="_blank">Pimentel et al. (2021)</a>
       </td>
     </tr>   
     <tr>
@@ -213,7 +214,7 @@ We encourage you to sign up and participate in the discussions there.
     <tr>
       <th scope="row">10</th>
       <td>2.5.23</td>
-      <td rowspan="6" style="vertical-align : middle;text-align:center;" align="center"><b>Pragmatics: the Meaning Beyond Semantics</b></td>
+      <td rowspan="6" style="vertical-align : middle;text-align:center;" align="center"><b>Pragmatics:<br>the Meaning Beyond Semantics</b></td>
       <td>
       </td>
       <td>
@@ -272,7 +273,7 @@ We encourage you to sign up and participate in the discussions there.
     <tr>
       <th scope="row">14</th>
       <td>30.5.23</td>
-      <td></td>
+      <td rowspan="6" style="vertical-align : middle;text-align:center;" align="center"><b>Conclusions</b></td>
       <td>
       </td>
       <td>
