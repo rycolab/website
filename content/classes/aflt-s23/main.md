@@ -291,7 +291,6 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td>5. 4. 2023</td>
       <td>Newton's Algorithm and Nullary Removal</td>
       <td>
-      <a href="https://drive.google.com/file/d/16kzFC7sjhH4TW1tXhd-h8YDoJPkBx_mp/view?usp=sharing" target="_blank">Chapter 7 (last year)</a>
       </td>
       <td></td>
       <td>
@@ -310,7 +309,6 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td>6. 4. 2023</td>
       <td>Unary Removal, Binarization, Chomsky Normal Form, CKY</td>
       <td>
-      <a href="https://drive.google.com/file/d/1P0oxGhhGSn1aMk0Slgkfxtg_qrtabBR4/view?usp=sharing" target="_blank">Chapter 8 (last year)</a>
       </td>
       <td></td>
       <td>

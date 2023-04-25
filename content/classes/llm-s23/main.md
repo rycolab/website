@@ -24,6 +24,7 @@ Large language models have become one of the most commonly deployed NLP inventio
 **20. 2. 2023** &emsp; First draft of the [notes](https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view?usp=share_link) for the first part of the course is online!  
 **24. 2. 2023** &emsp; The [iPad class notes](https://drive.google.com/file/d/1bcyaChQHcOzbdxvJTE7auOV73gpmKGqW/view?usp=share_link) have been posted. The same link will contain updated notes for the first part of the course throughout the semester.  
 **9. 3. 2023** &emsp; The first part of the [first assignment](https://drive.google.com/file/d/1_rEq3tZIp7sOMoL981iuYRQXGwdkH1eZ/view?usp=share_link) has been released!  
+**25. 4. 2023** &emsp; First draft of the [notes](https://drive.google.com/file/d/1V9w3doZQVpBl-3oXS-9BG_ZC_ZwAa9Xx/view?usp=sharing) for the second part of the course is online!  
 
 ## Syllabus and Schedule
 
@@ -439,6 +440,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <button id="button17" style="border:none;" onclick="myFunction('17')">Show</button>
       </td>
       <td>
+      <a href="https://drive.google.com/file/d/10GQ49fhbhj4rGpm4lTsJW1cS--TPO-Xz/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
       </td>
@@ -746,6 +748,7 @@ Please report all errata to the teaching staff; we created an [errata channel](h
 **Links to the course notes**:
 
 - [LLM Course Notes Part 1](https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view?usp=share_link)
+- [LLM Course Notes Part 2](https://drive.google.com/file/d/1V9w3doZQVpBl-3oXS-9BG_ZC_ZwAa9Xx/view?usp=sharing)
 
 Other useful literature: 
 
