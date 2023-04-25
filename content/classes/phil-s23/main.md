@@ -187,6 +187,7 @@ We encourage you to sign up and participate in the discussions there.
       <th scope="row">9</th>
       <td>25.4.23</td>
       <td>
+          <a href="https://drive.google.com/file/d/1XAgPiueVJlxAt8g7VVTNp3KkyCjbttYY/view?usp=share_link" target="_blank">Slides</a>
       </td>
       <td>
         <a href="http://colala.berkeley.edu/papers/PNAS-2011-Piantadosi-1012551108.pdf" target="_blank"><b>Piantadosi et al. (2011)</b></a>,
