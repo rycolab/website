@@ -167,6 +167,7 @@ We encourage you to sign up and participate in the discussions there.
       <th scope="row">7</th>
       <td>4.4.23</td>
       <td>
+          <a href="https://drive.google.com/file/d/1ZeKY7o5p_kZfed6TY2kmktFZzusO5x5m/view?usp=share_link" target="_blank">Slides</a>
       </td>
       <td>
         <a href="https://drive.google.com/file/d/1_kDPOsbukT0dF153fr_rShxwr48Tsp1-/view?usp=share_link" target="_blank"><b>Wiener (1950)</b></a> [Ch. IV],
