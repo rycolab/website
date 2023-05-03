@@ -77,4 +77,4 @@ As a true Slovene, he can also bake [potica](https://www.youtube.com/watch?v=qN_
 
 Native Language: Slovene
 
-Animal Form: Sloth
+<!-- Animal Form: Sloth -->

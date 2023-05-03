@@ -4,7 +4,7 @@
 # Add more sections by duplicating this file and customizing to your requirements.
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
+headless = false  # This file represents a page section.
 active = false  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
@@ -46,10 +46,3 @@ subtitle = "[SEE FULL READING LIST HISTORY](/readinggroup)"
 [blackfriday]
   fractions = false
 +++
-
-<span style="color:grey">Our lab, along with Mrinmaya Sachan's lab, meets weekly on Wednesdays at 12:00 CEST. Here's what we're reading!</span>
-
-**04/12/19**: [Semantic categories of artifacts and animals reflect efficient coding](https://cogsci.mindmodeling.org/2019/papers/0229/0229.pdf)
-**11/12/19**: [SpanBERT: Improving Pre-training by Representing and Predicting Spans](https://www.aclweb.org/anthology/2020.tacl-1.5)
-**15/01/20**: [Gender-Aware Reinflection using Linguistically Enhanced Neural Models](https://www.aclweb.org/anthology/2020.gebnlp-1.12.pdf)
-

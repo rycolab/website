@@ -67,7 +67,7 @@ user_groups:
 ---
 Chunshu is a first-year Ph.D. in the Institute of Machine Learning at ETH Zürich, where he is supervised by Ryan Cotterell and [Mrinmaya Sachan](https://sites.google.com/site/mrinsachan/). He obtained his undergraduate and master’s degree at Beihang University, supervised by Ke Xu. He spent one year as a Predoctoral Young Investigator at AI2, working with Ronan Le Bras and Yejin Choi. Previously, he interned at Microsoft Research Asia and Bytedance AI Lab, and also spent some time working with Xiang Ren at USC and with Jian Tang at MILA.  Currently, his research is focused on (1) efficient method for NLP, (2) natural language generation, and (3) trustworthy NLP
 
-Animal Form: Dolphin
+<!-- Animal Form: Dolphin -->
 
 <!-- <img  class="avatar-small" src="seaa-turtle.jpg" style="float: center" />
  -->

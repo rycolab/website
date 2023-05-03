@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Bachelor Student
+role: (incoming) PhD Student # Bachelor Student
 
 # Organizations/Affiliations
 organizations:
-- name: École Polytechnique
-  url: "https://portail.polytechnique.edu/informatique"
+- name: ETH Zürich # École Polytechnique
+  url: "https://inf.ethz.ch" # "https://portail.polytechnique.edu/informatique"
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -55,7 +55,7 @@ user_groups:
 - Members
 - Current
 ---
-Yufei is a third-year undergraduate student in the École Polytechnique, France, double-majoring in mathematics and computer science. She is supervised by Ryan for the ETH Zürich Summer Student Research Fellowship. She is currently working on removing gender bias from contextual word representations.
+Yufei is an incoming PhD student and a third-year undergraduate student in the École Polytechnique, France, double-majoring in mathematics and computer science. She is supervised by Ryan for the ETH Zürich Summer Student Research Fellowship. She is currently working on removing gender bias from contextual word representations.
 
 <!-- <img  class="avatar-small" src="seaa-turtle.jpg" style="float: center" />
  -->

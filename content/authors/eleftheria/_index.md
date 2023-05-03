@@ -59,6 +59,6 @@ Eleftheria is a third-year PhD student in Computer Science at ETH Zurich. She is
 
 Native Language: Greek
 
-Animal Form: House cat
+<!-- Animal Form: House cat
 
-<img  class="avatar-small" src="cat.png" style="float: center" />
+<img  class="avatar-small" src="cat.png" style="float: center" /> -->

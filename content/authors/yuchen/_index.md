@@ -66,6 +66,6 @@ Eleanor is a second-year Ph.D. in the Institute of Machine Learning at ETH Züri
 
 Native Language: Mandarin
 
-Animal Form: Penguin
+<!-- Animal Form: Penguin -->
 
 <img  class="avatar-small" src="penguin.jpg" style="float: center" />

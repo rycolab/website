@@ -62,4 +62,4 @@ Vilém Zouhar (Vilda) is a PhD student in [Mrinmaya Sachan's lab](https://www.mr
 
 Native Language: Czech
 
-Animal Form: Goat
+<!-- Animal Form: Goat -->

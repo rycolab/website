@@ -13,9 +13,8 @@ subtitle = ""
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  # user_groups = ["Members", "Frequent Collaborators", "Alumna&ast;"]
-  user_groups = ["Current"]
 
+  user_groups = ["Current", "Alumna"]
   folder = "people"
 
 [design]
@@ -54,5 +53,5 @@ subtitle = ""
  css_class = ""
 
 +++
-<!-- 
-<font size="2.5"> \*Alumna is the nominative plural of alumnum, which means student in Latin. This a gender neutral (or, better said, gender neuter) version of the gendered words alumni and alumnae.</font> -->
+
+<font size="2.5"> <sup>*</sup>Alumna is the nominative plural of alumnum, which means student in Latin. This a gender neutral (or, better said, gender neuter) version of the gendered words alumni and alumnae.</font>

@@ -50,5 +50,5 @@ publication: '*Findings of the Association for Computational Linguistics: EMNLP 
 links:
 - name: URL
   url: https://arxiv.org/pdf/2210.14698
-url_pdf: papers/liu+al.emnlp22.pdf
+url_pdf: https://arxiv.org/pdf/2210.14698.pdf
 ---
