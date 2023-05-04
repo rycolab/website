@@ -51,7 +51,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Members
-- Current
 ---
 Amit is a fourth-year PhD student at Bar-Ilan University who is visiting ETH. 
 
