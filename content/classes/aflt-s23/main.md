@@ -426,7 +426,9 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td>4. 5. 2023</td>
       <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Regular Tree Languages</b></td>
       <td>Weighted Tree Automata</td>
-      <td><a href="https://drive.google.com/file/d/1SK601-attiVorK04WUgx5KjfYZP-5eZq/view?usp=sharing">Chapter 12</a></td>
+      <td>
+      <a href="https://drive.google.com/file/d/1AY0zNLxz6uBZ6NB1qh642xyCUrQxET-7/view?usp=share_link" target="_blank">Regular Tree Languages</a>
+      </td>
       <td></td>
       <td>
       <div id="literature20" style="display:none">
