@@ -502,6 +502,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <button id="button16" style="border:none;" onclick="myFunction('16')">Show</button>
       </td>
       <td>
+      <a href="https://drive.google.com/file/d/1mJaafoqAprqTkKXqKeKhQ7LHuli0lpB3/view?usp=share_link" target="_blank">Slides</a>
       </td>
       <td>
       </td>
@@ -522,6 +523,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <button id="button15" style="border:none;" onclick="myFunction('15')">Show</button>
       </td>
       <td>
+      <a href="https://drive.google.com/file/d/1boNgiGrvunOHn6RzmwMSUHAjQQve9ERb/view?usp=share_link" target="_blank">Slides</a>
       </td>
       <td>
       </td>
@@ -626,6 +628,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <button id="button25" style="border:none;" onclick="myFunction('25')">Show</button>
       </td>
       <td>
+      <a href="https://drive.google.com/file/d/1rko5iFyOAF4IlCBZbj3Qr2XwcxqFIQF4/view?usp=share_link" target="_blank">Slides</a>
       </td>
       <td>
       </td>
