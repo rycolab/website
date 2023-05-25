@@ -25,6 +25,7 @@ Large language models have become one of the most commonly deployed NLP inventio
 **24. 2. 2023** &emsp; The [iPad class notes](https://drive.google.com/file/d/1bcyaChQHcOzbdxvJTE7auOV73gpmKGqW/view?usp=share_link) have been posted. The same link will contain updated notes for the first part of the course throughout the semester.  
 **9. 3. 2023** &emsp; The first part of the [first assignment](https://drive.google.com/file/d/1_rEq3tZIp7sOMoL981iuYRQXGwdkH1eZ/view?usp=share_link) has been released!  
 **25. 4. 2023** &emsp; First draft of the [notes](https://drive.google.com/file/d/1PtxuMe6JZyBXBuuGkgDnnD3JRs_JEl5j/view?usp=share_link) for the second part of the course is online!  
+**25. 5. 2023** &emsp; The [second assignment](https://drive.google.com/file/d/17RXO1IAFVgRNyPveZCiMMmKi267XpGds/view?usp=share_link) has been released together with the [LaTeX source code](https://drive.google.com/file/d/1xYiv7tHSZAa8wRf68sjGp93uYXOUtGkV/view?usp=share_link)!   
 
 ## Syllabus and Schedule
 
