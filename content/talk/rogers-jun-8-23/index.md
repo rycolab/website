@@ -4,7 +4,7 @@
 title: "Data Governance for Large Language Models"
 event: 
 event_url:
-location: OAT W10.5
+location: OAT S13
 address: 
   street:
   city:
