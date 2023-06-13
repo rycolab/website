@@ -659,11 +659,11 @@ The assignments can change slightly as we update them this year, however, *the q
 - [Assignment 3](https://drive.google.com/file/d/15cXSRpduhbGi2ad_F52X81ua_g2B2JAU/view?usp=share_link)  
 - [Assignment 4](https://drive.google.com/file/d/1LHsc3d01d5nCjKjcxLtgpqz7a5TA7bRv/view?usp=share_link)  
 - [Assignment 5](https://drive.google.com/file/d/1GXcZzgYdoXpBIZvvZG2mYXUQqLquRuQv/view?usp=share_link)  
-- [Assignment 6 (last year)](https://drive.google.com/file/d/1QGH8ra9wGxUDVynqLWud1sSHRP9kEVy_/view?usp=share_link)  
-- [Assignment 7 (last year)](https://drive.google.com/file/d/1dGzsnxFgMTRgIw1IXRxOtG-xU-i1cYy1/view?usp=share_link)  
-- [Assignment 8 (last year)](https://drive.google.com/file/d/1_iEicLn0c2207SWV7hPGrJux5Me2Qt04/view?usp=share_link)  
-- [Assignment 9 (last year)](https://drive.google.com/file/d/1WxMT1qPI8lkWzgPIzQwHPrCcgt8TxT20/view?usp=share_link)  
-- [Assignment 10 (last year)](https://drive.google.com/file/d/1xSrZqAPHTXDRwXN3uwHOYDi02NIaFBga/view?usp=share_link)  
+- [Assignment 6](https://drive.google.com/file/d/1QGH8ra9wGxUDVynqLWud1sSHRP9kEVy_/view?usp=share_link)  
+- [Assignment 7](https://drive.google.com/file/d/1dGzsnxFgMTRgIw1IXRxOtG-xU-i1cYy1/view?usp=share_link)  
+- [Assignment 8](https://drive.google.com/file/d/1_iEicLn0c2207SWV7hPGrJux5Me2Qt04/view?usp=share_link)  
+- [Assignment 9](https://drive.google.com/file/d/1WxMT1qPI8lkWzgPIzQwHPrCcgt8TxT20/view?usp=share_link)  
+- [Assignment 10](https://drive.google.com/file/d/1xSrZqAPHTXDRwXN3uwHOYDi02NIaFBga/view?usp=share_link)  
 
 **Important**: The deadline for the projects and all assignments is **shortly before the end of the Summer examination period**---**15. 8. 2023**.
 The submissions will be done through the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=19132).
