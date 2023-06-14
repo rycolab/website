@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Data Governance for Large Language Models"
+title: "Data Governance and Transparency for Large Language Models"
 event: 
 event_url:
 location: OAT S13
