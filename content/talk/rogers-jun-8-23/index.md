@@ -12,7 +12,7 @@ address:
   postcode:
   country:
 summary:
-abstract:
+abstract: "The continued growth of LLMs and their wide-scale adoption in commercial applications such as chatGPT make it increasingly important to (a) develop ways to source their training data in a more transparent way, and (b) to investigate it, both for research and for ethical issues. This talk will discuss the current state of affairs and some data governance lessons learned from Big Science, an open-source effort to train a multilingual LLM - including an ongoing effort for investigating the 1.6 Tb multilingual ROOTS corpus."
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2023-06-09T14:30:00+02:00
