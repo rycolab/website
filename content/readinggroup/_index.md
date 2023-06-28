@@ -27,6 +27,15 @@ profile = false
 
 | Date      | Presenter |  | Title | Slides |
 | ----------- | ----------- | ----------- |----------- |--------- |
+| <nobr> August 30 </nobr> | Lukas | | The Prosody Playbook | |
+| <nobr> August 2 </nobr> | Theodor | | Acquiring Linguistic Knowledge from Multimodal Input (Thesis) | |
+| <nobr> July 19 </nobr> | Luca | | Divergence functions for NLG (Thesis) | |
+| <nobr> July 5 </nobr> | Various | | ACL Practice Presentations | |
+| <nobr> June 30 (@14:30) </nobr> | Clemente | | Towards Variable Free Semantics | [link](https://www.jstor.org/stable/25001736) |
+| <nobr> June 14 </nobr> | Clemente | | On the Intersection of Context-Free and Regular Languages | |
+| <nobr> June 14 </nobr> | Everyone | | EMNLP Abstract Swap | |
+| <nobr> June 7 </nobr> | Everyone | | Research introductions practice | |
+| <nobr> May 24 </nobr> | Tom | | The Evolution of Automatic Metrics, From String Matching to Black-Box LLM | [link](/talk/kocmi-may-24-23/) |
 | <nobr> May 17 </nobr> | Andreas | | A hitchhiker's Guide to Earley's Algorithm | |
 | <nobr> May 10 </nobr> | Clara | | Modeling Uncertainty in Neural Networks | [link](https://arxiv.org/pdf/2107.08924.pdf )  |
 | <nobr> May 3 </nobr> | Mario | | On the Alignment of Production Variability in Humans and Text Generator | [link](/talk/giulianelli-may-03-23/)  |
@@ -38,7 +47,7 @@ profile = false
 | <nobr> March 15 </nobr> | Nik | | The Ordered Matrix Dirichlet for State-Space Models | [link](https://arxiv.org/abs/2212.04130) |
 | <nobr> March 8 </nobr> | Tianyu | | Taggers: Modeling Text Structures in Linear Time and Space |  |
 | <nobr> March 1 </nobr> | Leonie | |  Everything is a Construction: New Goals for Syntactic and Semantic Probing | [link](/talk/weissweiler-mar-01-23/)  |
-| <nobr> February 24 </nobr> | Eleftheria | |  Narrative Personas and Learning Film Character Personas |  |
+| <nobr> February 24 </nobr> | Eleftheria | |  Learning Persona Representations of Film Characters |  |
 | <nobr> February 15 </nobr> | Zhijing & Yuxin | |  Aligning the Representation Spaces of MultiBERTS |  |
 | <nobr> February 8 </nobr> | Anej <br> Vilém | |  RNNs and Weighted Finite-State Automata <br> Poor Man's Quality Estimation: Predicting Reference-Based MT Metrics Without the Reference | <br> [link](https://arxiv.org/abs/2301.09008) |
 | <nobr> February 1 </nobr> | Everyone |   | Research update | |
