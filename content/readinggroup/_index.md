@@ -30,7 +30,6 @@ profile = false
 | <nobr> August 30 </nobr> | Lukas | | The Prosody Playbook | |
 | <nobr> August 2 </nobr> | Theodor | | Acquiring Linguistic Knowledge from Multimodal Input (Thesis) | |
 | <nobr> July 19 </nobr> | Luca | | Divergence functions for NLG (Thesis) | |
-| <nobr> July 5 </nobr> | Various | | ACL Practice Presentations | |
 | <nobr> June 30 (@14:30) </nobr> | Clemente | | Towards Variable Free Semantics | [link](https://www.jstor.org/stable/25001736) |
 | <nobr> June 14 </nobr> | Clemente | | On the Intersection of Context-Free and Regular Languages | |
 | <nobr> June 14 </nobr> | Everyone | | EMNLP Abstract Swap | |
