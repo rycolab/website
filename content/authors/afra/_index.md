@@ -52,6 +52,7 @@ email: ""
 user_groups:
 - Members
 - Teaching Assistants
+- Tutorial Leaders
 # - Large Language Models Teaching Assistants
 - Current
 ---

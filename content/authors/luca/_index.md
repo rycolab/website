@@ -40,6 +40,7 @@ user_groups:
 - Teaching Assistants
 - Teaching Assistants NLP F22
 - Large Language Models Teaching Assistants
+- Tutorial Leaders
 ---
 
 Luca is a second-year CS MSc. student. He received his BSc in CSEng from PoliMi, Italy.

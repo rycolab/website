@@ -5,6 +5,7 @@
 # Hugo
 /resources/
 public/
+my_script.sh
 
 **/.DS_Store
 pictures/

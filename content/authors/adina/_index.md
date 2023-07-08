@@ -67,7 +67,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Frequent Collaborators
-- Tutorial Leaders
 ---
 
 Animal Form: Numbat 

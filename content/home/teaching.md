@@ -65,6 +65,11 @@ subtitle = "[SEE ALL CLASSES](/classes)"
   fractions = false
 +++
 
+## [Generating Text from Language Models](/classes/acl-2023-tutorial) 
+**ACL (Toronto)** <span class="middot-divider"></span> **July 2023**
+In this tutorial, we will provide a centralized and cohesive discussion of critical considerations when choosing how to generate text from a language model. We will cover a wide range of empirically-observed problems (like degradation, hallucination, repetition) and their corresponding proposed algorithmic solutions from recent research (like top-p sampling and its successors). We will then cover methods in controlled generation, that go beyond just ensuring coherence to ensure text exhibits specific desired properties.
+
+
 ## [Advanced Formal Language Theory](/classes/aflt-s23) 
 **ETH Zürich** <span class="middot-divider"></span> **Spring 2023**
 This course serves as an introduction to various advanced topics in formal language theory. The primary focus of the course is on weighted formalisms, which can easily be applied in machine learning. Topics include finite-state machines as well as the algorithms that are commonly used for their manipulation. We will also cover weighted context-free grammars, weighted tree automata, and weighted mildly context-sensitive formalisms.
