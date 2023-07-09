@@ -1,7 +1,7 @@
 ---
 title: Estimating the Entropy of Linguistic Distributions
 date: '2022-05-01'
-publishDate: '2022-11-20T23:29:29.105243Z'
+publishDate: '2023-07-09T14:51:05.543137Z'
 authors:
 - Aryaman Arora
 - Clara Meister

@@ -19,7 +19,7 @@ tags: []
 categories: []
 date: '2022-07-01'
 lastmod: 2022-11-21T00:29:30+01:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T23:29:30.166830Z'
+publishDate: '2023-07-09T14:51:06.641888Z'
 publication_types:
 - '1'
 abstract: Standard automatic metrics, e.g. BLEU, are not reliable for document-level

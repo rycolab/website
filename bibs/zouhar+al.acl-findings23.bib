@@ -1,0 +1,21 @@
+@inproceedings{zouhar+al.acl-findings23, 
+  title = {A Formal Perspective on Byte-Pair Encoding},
+  venue = {ACL Findings},
+  year = {2023},
+  slides = {https://docs.google.com/presentation/d/e/2PACX-1vRxWO8DtkHdtRT2ynwyp6A8eStTCq-HKs2vPwrSgCQel-ku-UQUU7rG3x0FqGoRDgN1_GdQKGlCbGu3/pub?start=false&loop=false&delayms=60000},
+  video = {https://www.youtube.com/watch?v=aB7oaS0rlvI},
+  code = {https://github.com/zouharvi/formal-bpe},
+  arXiv = {https://arxiv.org/abs/2306.16837},
+  author = {Zouhar, Vilém and 
+	Gastaldi, Gianni and 
+	Vieira, Tim and 
+	Sachan, Mrinmaya and 
+	Cotterell, Ryan},
+  booktitle = {Findings of the Association for Computational Linguistics: ACL 2023},
+  month = {July},
+  publisher = {Association for Computational Linguistics},
+  address = {Toronto, Canada},
+  pages = {598–614},
+  abstract = {Byte-Pair Encoding (BPE) is a popular algorithm used for tokenizing data in NLP, despite being devised initially as a compression method. BPE appears to be a greedy algorithm at face value, but the underlying optimization problem that BPE seeks to solve has not yet been laid down. We formalize BPE as a combinatorial optimization problem. Via submodular functions, we prove that the iterative greedy version is a 1σ(μ⋆)(1−e−σ(μ⋆))-approximation of an optimal merge sequence, where σ(μ⋆) is the total backward curvature with respect to the optimal merge sequence μ⋆. Empirically the lower bound of the approximation is ≈0.37.     We provide a faster implementation of BPE which improves the runtime complexity from O(NM) to O(NlogM), where N is the sequence length and M is the merge count. Finally, we optimize the brute-force algorithm for optimal BPE using memoization.},
+  url = {https://arxiv.org/abs/2306.16837},
+}

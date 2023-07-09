@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T23:29:36.181389Z'
+publishDate: '2023-07-09T14:51:12.346875Z'
 publication_types:
 - '1'
 abstract: Weighted finite-state automata (WSFAs) are commonly used in NLP. Failure
@@ -52,4 +52,7 @@ abstract: Weighted finite-state automata (WSFAs) are commonly used in NLP. Failu
   is the size of the longest failure path.
 publication: '*Proceedings of the 2022 Conference on Empirical Methods in Natural
   Language Processing*'
+links:
+- name: URL
+  url: https://arxiv.org/abs/2301.06862
 ---

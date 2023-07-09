@@ -1,0 +1,17 @@
+@inproceedings{pimentel+al.iclr23,
+ abstract = {A good automatic evaluation metric for language generation ideally correlates highly with human judgements of text quality. Yet, there is a dearth of such metrics, which inhibits the rapid and efficient progress of language generators. One exception is the recently proposed Mauve. In theory, Mauve measures an information-theoretic divergence between two probability distributions over strings: one representing the language generator under evaluation; the other representing the true natural language distribution. Mauve's authors argue that its success comes from the qualitative properties of their proposed divergence. Yet in practice, as this divergence is uncomputable, Mauve approximates it by measuring the divergence between multinomial distributions over clusters instead, where cluster assignments are attained by grouping strings based on a pre-trained language model's embeddings. As we show, however, this is not a tight approximation -- in either theory or practice. This begs the question: why does Mauve work so well? In this work, we show that Mauve was right for the wrong reasons, and that its newly proposed divergence is not necessary for its high performance. In fact, classical divergences paired with its proposed cluster-based approximation may actually serve as better evaluation metrics. We finish the paper with a probing analysis; this analysis leads us to conclude that -- by encoding syntactic- and coherence-level features of text, while ignoring surface-level features -- such cluster-based substitutes to string distributions may simply be better for evaluating state-of-the-art language generators.},
+ address = {Kigali, Rwanda},
+ arxiv = {https://arxiv.org/abs/2205.16001},
+ author = {Pimentel$^*$, Tiago and 
+Meister$^*$, Clara and 
+Cotterell, Ryan},
+ booktitle = {Proceedings of the 11th International Conference on Learning Representations},
+ code = {https://github.com/rycolab/clusters-in-language-evaluation},
+ month = {May},
+ publisher = {Association for Computational Linguistics},
+ title = {On the Usefulness of Embeddings, Clusters and Strings for Text Generation Evaluation},
+ url = {https://arxiv.org/abs/2205.16001},
+ venue = {ICLR},
+ year = {2023}
+}
+

@@ -1,7 +1,7 @@
 ---
 title: On the probability-quality paradox in language generation
 date: '2022-05-01'
-publishDate: '2022-11-20T23:29:28.286970Z'
+publishDate: '2023-07-09T14:51:04.689767Z'
 authors:
 - On the probability-quality paradox in language generation
 publication_types:
@@ -20,7 +20,7 @@ abstract: 'When generating natural language from neural probabilistic models, hi
   human and machine-generated text—covering multiple tasks and common decoding strategies—suggest
   high-quality text has an information content significantly closer to the entropy
   than we would expect by chance.'
-featured: true
+featured: false
 publication: '*Proceedings of the 60th Annual Meeting of the Association for Computational
   Linguistics (Volume 1: Long Papers)*'
 links:

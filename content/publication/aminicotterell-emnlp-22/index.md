@@ -11,7 +11,7 @@ tags: []
 categories: []
 date: '2022-12-01'
 lastmod: 2022-11-21T00:29:35+01:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T23:29:35.112277Z'
+publishDate: '2023-07-09T14:51:11.537319Z'
 publication_types:
 - '1'
 abstract: 'There have been many proposals to reduce constituency parsing to tagging

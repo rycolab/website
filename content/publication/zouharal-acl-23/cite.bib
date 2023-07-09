@@ -1,0 +1,24 @@
+@inproceedings{zouhar+al.acl23,
+ abstract = {Subword tokenization is a key part of most NLP pipelines.However, little is known about why some tokenizer and hyperparameter combinations lead to improved downstream model performance over others. We propose that good tokenizers lead to efficient channel usage, where the channel is the means by which some input is conveyed to the model and efficiency can be quantified in information-theoretic terms as the ratio of the Shannon entropy to the maximum entropy of the subword distribution.Nevertheless, an optimal encoding according to Shannon entropy assigns extremely long codes to low-frequency subwords and very short codes to high-frequency subwords.Defining efficiency in terms of Rényi entropy, on the other hand, penalizes distributions with either very high or very low-frequency subwords.We posit that (1) extremely high-frequency subwords are problematic because their meaning is not distinct and (2) that low-frequency subwords may not appear frequently enough for their meaning to be learned properly; encodings that induce unigram distributions with either can harm model performance.In machine translation, we find that across multiple tokenizers, the Rényi entropy has a very strong correlation with BLEU: 0.82 in comparison to just -0.30 for compressed length.},
+ address = {Toronto, Canada},
+ arxiv = {https://arxiv.org/abs/2306.16842},
+ author = {Zouhar, Vilém and 
+Gastaldi, Gianni and 
+Du, Li and 
+Vieira, Tim and 
+Sachan, Mrinmaya and 
+Cotterell, Ryan},
+ booktitle = {Proceedings of the 61th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+ code = {https://github.com/zouharvi/tokenization-score, https://github.com/zouharvi/tokenization-principle},
+ month = {July},
+ pages = {5184–5207},
+ publisher = {Association for Computational Linguistics},
+ slides = {https://docs.google.com/presentation/d/e/2PACX-1vQIhbA9B2RZv4ZZBPCRsH68FbAJkCigrWYOngY3IbOVefhHvXHRlYK8kgzHAoK5ZvJp0ePRyy7ymlvK/pub?start=false&loop=false&delayms=60000},
+ title = {Tokenization and the Noiseless Channel},
+ url = {https://arxiv.org/abs/2306.16842},
+ venue = {ACL},
+ video = {https://www.youtube.com/watch?v=rCBDcKD8UEg},
+ volume = {1},
+ year = {2023}
+}
+

@@ -1,0 +1,18 @@
+@inproceedings{stoehr+al.eacl23,
+ abstract = {Sentiment analysis has become a central tool in various disciplines outside of natural language processing. In particular in applied and domain-specific settings with strong requirements for interpretable methods, dictionary-based approaches are still a popular choice. However, existing dictionaries are often limited in coverage, static once annotation is completed and sentiment scales differ widely; some are discrete others continuous. We propose a Bayesian generative model that learns a composite sentiment dictionary as an interpolation between six existing dictionaries with different scales. We argue that sentiment is a latent concept with intrinsically ranking-based characteristics — the word “excellent” may be ranked more positive than “great” and “okay”, but it is hard to express how much more exactly. This prompts us to enforce an ordinal scale of ordered discrete sentiment values in our dictionary. We achieve this through an ordering transformation in the priors of our model. We evaluate the model intrinsically by imputing missing values in existing dictionaries. Moreover, we conduct extrinsic evaluations through sentiment classification tasks. Finally, we present two extension: first, we present a method to augment dictionary-based approaches with word embeddings to construct sentiment scales along new semantic axes. Second, we demonstrate a Latent Dirichlet Allocation-inspired variant of our model that learns document topics that are ordered by sentiment.},
+ address = {Dubrovnik, Croatia},
+ arxiv = {https://arxiv.org/abs/2212.04130},
+ author = {Stoehr, Niklas and 
+Cotterell, Ryan and 
+Schein, Aaron},
+ booktitle = {Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics},
+ code = {https://github.com/niklasstoehr/ordinal-sentiment},
+ month = {May},
+ pages = {103–115},
+ publisher = {Association for Computational Linguistics},
+ title = {Sentiment as an Ordinal Latent Variable},
+ url = {https://arxiv.org/abs/2212.04130},
+ venue = {EACL},
+ year = {2023}
+}
+

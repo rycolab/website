@@ -1,12 +1,18 @@
 @article{li+al.tacl21,
- title = {Differentiable Subset Pruning of Transformer Heads},
+ abstract = {Multi-head attention, a collection of several attention mechanisms that independently attend to different parts of the input, is the key ingredient in the Transformer. Recent work has shown, however, that a large proportion of the heads in a Transformer’s multi-head attention mechanism can be safely pruned away without significantly harming the performance of the model; such pruning leads to models that are noticeably smaller and faster in practice. Our work introduces a new head pruning technique that we term differentiable subset pruning. ntuitively, our method learns per- head importance variables and then enforces a user-specified hard constraint on the number of unpruned heads. he importance variables are learned via stochastic gradient descent. e conduct experiments on natural language inference and machine translation; we show that differentiable subset pruning performs comparably or better than previous works while offering precise control of the sparsity level.},
+ arxiv = {https://arxiv.org/abs/2108.04657},
  author = {Li, Jiaoda and 
 Cotterell, Ryan and 
 Sachan, Mrinmaya},
  booktitle = {Transactions of the Association for Computational Linguistics},
- year = {2021},
+ code = {https://github.com/rycolab/differentiable-subset-pruning},
+ pages = {1442-1459},
  publisher = {Association for Computational Linguistics},
+ slides = {https://docs.google.com/presentation/d/1z7D7j3LrvCzS8uslHy87soj2HqgvRWdcSUs7UHvJMU0/edit?usp=sharing},
+ title = {Differentiable Subset Pruning of Transformer Heads},
  url = {https://arxiv.org/abs/2108.04657},
- arxiv = {https://arxiv.org/abs/2108.04657}
+ venue = {TACL},
+ volume = {9},
+ year = {2021}
 }
 

@@ -29,6 +29,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:lmalagutti@student.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/malagutti_luca?lang=en
+- icon: github
+  icon_pack: fab
+  link: "https://github.com/LucaMalagutti"
+- icon: portrait
+  icon_pack: fas
+  link: "lucamalagutti.com"
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -37,11 +46,14 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
+- Members
 - Teaching Assistants
 - Teaching Assistants NLP F22
 - Large Language Models Teaching Assistants
 - Tutorial Leaders
+- Current
 ---
 
-Luca is a second-year CS MSc. student. He received his BSc in CSEng from PoliMi, Italy.
-The focus of his studies are machine learning and NLP (currently, text summarization)
+Luca is a Research Assistant with Ryan at ETH Zurich. He completed his Bachelor’s degree in Computer Engineering at the Polytechnic University of Milan and his Master’s degree in Computer Science at ETH Zurich.
+
+His research interests include decoding and training techniques for language models. He has recently finished writing his Master’s Thesis titled ‘Divergence Functions for Natural Language Generation’ under the supervision of Clara.

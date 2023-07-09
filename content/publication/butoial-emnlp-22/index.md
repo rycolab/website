@@ -14,7 +14,7 @@ tags: []
 categories: []
 date: '2022-12-01'
 lastmod: 2022-11-21T00:29:36+01:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T23:29:35.923119Z'
+publishDate: '2023-07-09T14:51:12.079389Z'
 publication_types:
 - '1'
 abstract: Weighted pushdown automata (WPDAs) are at the core of many natural language

@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T23:29:30.445634Z'
+publishDate: '2023-07-09T14:51:06.914047Z'
 publication_types:
 - '1'
 abstract: Significance testing—especially the paired-permutation test—has played a

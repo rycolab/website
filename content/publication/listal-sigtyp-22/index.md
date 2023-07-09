@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T23:29:33.947362Z'
+publishDate: '2023-07-09T14:51:10.353821Z'
 publication_types:
 - '1'
 abstract: This study describes the structure and the results of the SIGTYP 2022 shared

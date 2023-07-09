@@ -14,7 +14,7 @@ tags: []
 categories: []
 date: '2022-05-01'
 lastmod: 2022-11-21T00:29:28+01:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T23:29:28.580001Z'
+publishDate: '2023-07-09T14:51:04.950190Z'
 publication_types:
 - '1'
 abstract: Numerous analyses of reading time (RT) data have been undertaken in the
