@@ -99,3 +99,13 @@ An increasingly large percentage of natural language processing (NLP) tasks cent
 * [Gradient-based Constrained Sampling from Language Models](https://aclanthology.org/2022.emnlp-main.144/) (Kumar et al., 2022)
 
 * [Structured Voronoi Sampling](https://arxiv.org/abs/2306.03061) (Amini et al., 2023)
+
+## Measuring the quality of language generators and its challenges
+
+* [Bleu: a Method for Automatic Evaluation of Machine Translation](https://aclanthology.org/P02-1040/) (Papineni et al., 2018)
+
+* [BERTScore: Evaluating Text Generation with BERT](https://openreview.net/forum?id=SkeHuCVFDr) (Zhang et al., 2020)
+
+* [MAUVE: Measuring the Gap Between Neural Text and Human Text using Divergence Frontiers](https://arxiv.org/abs/2102.01454) (Pillutla et al., 2021)
+
+* [On the Usefulness of Embeddings, Clusters and Strings for Text Generation Evaluation](https://openreview.net/forum?id=bvpkw7UIRdU) (Pimentel et al., 2023)
