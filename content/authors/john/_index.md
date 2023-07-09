@@ -41,7 +41,7 @@ user_groups:
 - Current
 ---
 
-John like dancing and drinking fancy cocktails. In his freetime, he does NLP research.
+John likes dancing and drinking fancy cocktails. In his freetime, he does NLP research.
 
 Native Language: English
 
