@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-09T14:47:16.834100Z'
+publishDate: '2023-07-09T15:59:35.821354Z'
 publication_types:
 - '1'
 abstract: 'Sentiment analysis has become a central tool in various disciplines outside

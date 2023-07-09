@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-09T14:47:17.104695Z'
+publishDate: '2023-07-09T15:59:36.087353Z'
 publication_types:
 - '1'
 abstract: The Bar-Hillel construction is a classic result in formal language theory.

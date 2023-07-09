@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-09T14:47:19.742975Z'
+publishDate: '2023-07-09T15:59:38.972931Z'
 publication_types:
 - '1'
 abstract: We introduce a novel dependency parser, the hexatagger, that constructs

@@ -6,7 +6,9 @@ subtitle: ''
 summary: ''
 authors:
 - Vilém Zouhar
-- Gianni Gastaldi
+- Clara Meister
+- Juan Gastaldi
+- Li Du
 - Tim Vieira
 - Mrinmaya Sachan
 - Ryan Cotterell
@@ -31,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-09T14:47:17.630582Z'
+publishDate: '2023-07-09T15:59:36.609899Z'
 publication_types:
 - '1'
 abstract: Byte-Pair Encoding (BPE) is a popular algorithm used for tokenizing data

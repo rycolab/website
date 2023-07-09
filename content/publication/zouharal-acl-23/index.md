@@ -6,9 +6,9 @@ subtitle: ''
 summary: ''
 authors:
 - Vilém Zouhar
-- Gianni Gastaldi
+- Clara Meister
+- Juan Gastaldi
 - Li Du
-- Tim Vieira
 - Mrinmaya Sachan
 - Ryan Cotterell
 tags: []
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-09T14:47:18.948987Z'
+publishDate: '2023-07-09T15:59:37.917368Z'
 publication_types:
 - '1'
 abstract: 'Subword tokenization is a key part of most NLP pipelines.However, little

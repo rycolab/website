@@ -204,7 +204,7 @@ def main(argv):
         with open(file_name, 'w') as f:
           f.write(bib)
         command = ['academic', 'import','--overwrite', '--bibtex', file_name ]
-        featured = False
+        featured = True
         if featured:
           command.append('--featured')
         subprocess.run(command)

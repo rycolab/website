@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-09T14:47:18.417596Z'
+publishDate: '2023-07-09T15:59:37.389650Z'
 publication_types:
 - '1'
 abstract: Several recent papers claim to have achieved human parity at sentence-level

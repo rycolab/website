@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-09T14:47:20.531938Z'
+publishDate: '2023-07-09T15:59:39.764787Z'
 publication_types:
 - '1'
 abstract: Measuring the intensity of events is crucial for monitoring and tracking

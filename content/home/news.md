@@ -48,6 +48,32 @@ subtitle = ""
   extensions = ["hardLineBreak"]
 
 +++
+* **09/07/23** Rycolab papers at ACL 2023:
+  - [Log-Linear Guardedness and Its Implications](/publication/ravfogelal-acl-23)
+  &emsp;**<sup>Shauli Ravfogel, Yoav Goldberg, Ryan Cotterell</sup>**
+  - [Discourse-Centric Evaluation of Document-level Machine Translation with a New Densely Annotated Parallel Corpus of Novels](/publication/jiangal-ac-23/)
+  &emsp;**<sup>Yuchen Eleanor Jiang, Tianyu Liu, Shuming Ma, Dongdong Zhang, Ryan Cotterell, Mrinmaya Sachan</sup>**
+  - [Generalizing Backpropagation for Gradient-Based Interpretability](/publication/dual-acl-23)
+  &emsp;**<sup>Kevin Du, Lucas Torroba Hennigen, Niklas Stoehr, Alex Warstadt, Ryan Cotterell</sup>**
+  - [Tokenization and the Noiseless Channel](/publication/zouharal-acl-23)
+  &emsp;**<sup>Vilém Zouhar, Clara Meister, Juan Gastaldi, Li Du, Mrinmaya Sachan, Ryan Cotterell</sup>**
+  - [A Fast Algorithm for Computing Prefix Probabilities](/publication/nowakcotterell-acl-23)
+  &emsp;**<sup>Franz Nowak, Ryan Cotterell</sup>**
+  - [A Measure-theoretic Characterzation of Tight Language Model](/publication/dual-acl-23-a)
+  &emsp;**<sup>Li Du, Lucas Torroba Hennigen, Tiago Pimentel, Clara Meister, Jason Eisner, Ryan Cotterell</sup>**
+  - [Efficient Semiring-Weighted Earley Parsing](/publication/opedalacl-23)
+  &emsp;**<sup>Andreas Opedal, Ran Zmigrod, Tim Vieira, Ryan Cotterell, Jason Eisner</sup>**
+  - [Hexatagging: Projective Dependency Parsing as Tagging](/publication/aminial-acl-23)
+  &emsp;**<sup>Afra Amini\*, Tianyu Liu\*, Ryan Cotterell</sup>**
+  - [Convergence and Diversity in the Control Hierarchy](/publication/butoial-acl-23)
+  &emsp;**<sup>Alexandra Butoi, Ryan Cotterell, David Chiang</sup>**
+  - [On the Efficacy of Sampling Adapters](/publication/meisteral-acl-23)
+  &emsp;**<sup>Clara Meister, Tiago Pimentel, Luca Malagutti, Ryan Cotterell</sup>**
+  - [An Ordinal Latent Variable Model for Conflict Intensity](/publication/stoehral-acl-23)
+  &emsp;**<sup>Niklas Stoehr, Lucas Torroba Hennigen, Josef Valvoda, Robert West, Ryan Cotterell, Aaron Schein</sup>**
+  - [A Formal Perspective on Byte-Pair Encoding](/publication/zouharal-acl-findings-23)
+  &emsp;**<sup>Vilém Zouhar, Clara Meister, Juan Gastaldi, Li Du, Tim Vieira, Mrinmaya Sachan, Ryan Cotterell</sup>**
+  
 * **13/02/23**  [Ryan](/authors/ryan/) is giving an invited [talk](https://drive.google.com/file/d/1iAfblCndQyVB0L3DhRSYVmnGqfoa_U8q/view?usp=share_link) at the [Dagstuhl Seminar](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23072).
 * **19/07/22**  David Mortensen (CMU) is giving an invited [talk](/talk/mortensen-jul-19-22)
 * **04/07/22**  Noga Zaslavsky (MIT) is giving an invited [talk](/talk/zaslavsky-jul-4-22)
@@ -55,7 +81,7 @@ subtitle = ""
 
 * **23/05/22**  [Ryan](/authors/ryan/) gives STIRS [Keynote](media/ACL2022-final.pdf) at ACL 2022
 
-
+<!-- 
 * **24/02/22:** 6 papers accepted to NAACL 2022
   - Same Neurons, Different Languages: Probing Morphosyntax in Multilingual Pre-trained Models
   &emsp;**<sup>Karolina Stańczak, Edoardo Ponti, Lucas Torroba Hennigen, Ryan Cotterell, Isabelle Augenstein</sup>**
@@ -84,9 +110,9 @@ subtitle = ""
   &emsp;**<sup>Karim Lasri, Tiago Pimentel, Alessandro Lenci, Thierry Poibeau, and Ryan Cotterell</sup>**
 * **Spring 2022:** [Ryan](/authors/ryan/) is giving invited talks at Stanford, Google Research and KAUST; [Clara](/authors/clara/) is giving an invited talk at Instituto Superior Técnico.
 
-* **Fall 2021:** [Ryan](/authors/ryan/) is giving invited talks at EPFL, University of Melbourne, University of Notre Dame, Gothenburg University and MIT.
+* **Fall 2021:** [Ryan](/authors/ryan/) is giving invited talks at EPFL, University of Melbourne, University of Notre Dame, Gothenburg University and MIT. -->
 
-* **26/08/21:** 7 papers accepted to EMNLP 2021; 4 papers accepted to Findings of the ACL: EMNLP 2021
+<!-- * **26/08/21:** 7 papers accepted to EMNLP 2021; 4 papers accepted to Findings of the ACL: EMNLP 2021
   - Revisiting the Uniform Information Density Hypothesis
   - A Bayesian Framework for Information-Theoretic Probing
   - Efficient Sampling of Dependency Structure
@@ -112,7 +138,7 @@ subtitle = ""
   - What About the Precedent: An Information-Theoretic Analysis of Common Law 
   - Do Syntactic Probes Probe Syntax? Experiments with Jabberwocky Probing 
   - Finding Concept-specific Biases in Form–Meaning Associations 
-  - How (Non-)Optimal is the Lexicon?
+  - How (Non-)Optimal is the Lexicon? -->
 
 
 

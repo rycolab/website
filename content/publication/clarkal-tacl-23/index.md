@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-09T14:47:17.896334Z'
+publishDate: '2023-07-09T15:59:36.873992Z'
 publication_types:
 - '2'
 abstract: 'While natural languages differ widely in both canonical word order and
