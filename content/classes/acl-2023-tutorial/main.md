@@ -100,7 +100,7 @@ An increasingly large percentage of natural language processing (NLP) tasks cent
 
 * [Structured Voronoi Sampling](https://arxiv.org/abs/2306.03061) (Amini et al., 2023)
 
-## Measuring the quality of language generators and its challenges
+### Measuring the quality of language generators and its challenges
 
 * [Bleu: a Method for Automatic Evaluation of Machine Translation](https://aclanthology.org/P02-1040/) (Papineni et al., 2018)
 
