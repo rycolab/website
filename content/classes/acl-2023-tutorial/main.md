@@ -54,6 +54,16 @@ An increasingly large percentage of natural language processing (NLP) tasks cent
       <td>Controlled Generation</td>
       <td><a href="https://colab.research.google.com/drive/1TMRGToS2FmHsa6Kge6gCtxJT1pLv17Zr?usp=sharing" target="_blank">Colab Notebook</a></td>
     </tr>
+    <tr>
+      <th scope="row">Module 6</th>
+      <td>Evaluating Language Generators</td>
+      <td><a href="https://colab.research.google.com/drive/1B26oeJW1jufx9NXVG7VuEeJhelEEFfzT?usp=sharing" target="_blank">Colab Notebook</a></td>
+    </tr>
+    <tr>
+      <th scope="row">Module 7</th>
+      <td>Looking Forward...</td>
+      <td></td>
+    </tr>
 </tbody>
 </table>
 
@@ -66,6 +76,9 @@ An increasingly large percentage of natural language processing (NLP) tasks cent
 * [Formal Aspects of Language Modeling](https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view) (Cotterell et al., 2022)
 * [A Measure-Theoretic Characterization of Tight Language Models](https://arxiv.org/abs/2212.10502) (Du et al., 2022)
 * [Calibration, Entropy Rates, and Memory in Language Models](https://arxiv.org/abs/1906.05664) (Braverman et al., 2019) 
+* [A Mathematical Theory of Communication](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf) (Shannon, 1948)
+
+* [Elements of Information Theory](http://staff.ustc.edu.cn/~cgong821/Wiley.Interscience.Elements.of.Information.Theory.Jul.2006.eBook-DDU.pdf) (Cover and Thomas, 2006)
 
 
 ### Successes and Failures of Estimating Language Models   
