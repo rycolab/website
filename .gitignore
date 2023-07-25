@@ -11,3 +11,8 @@ my_script.sh
 pictures/
 **/.icloud
 
+# Data
+*.tsv
+*.csv
+
+
