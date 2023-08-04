@@ -26,6 +26,7 @@ Large language models have become one of the most commonly deployed NLP inventio
 **9. 3. 2023** &emsp; The first part of the [first assignment](https://drive.google.com/file/d/1_rEq3tZIp7sOMoL981iuYRQXGwdkH1eZ/view?usp=share_link) has been released!  
 **25. 4. 2023** &emsp; First draft of the [notes](https://drive.google.com/file/d/1PtxuMe6JZyBXBuuGkgDnnD3JRs_JEl5j/view?usp=share_link) for the second part of the course is online!  
 **25. 5. 2023** &emsp; The [second assignment](https://drive.google.com/file/d/17RXO1IAFVgRNyPveZCiMMmKi267XpGds/view?usp=share_link) has been released together with the [LaTeX source code](https://drive.google.com/file/d/1xYiv7tHSZAa8wRf68sjGp93uYXOUtGkV/view?usp=share_link)!   
+**4. 8. 2023** &emsp; The [sample exam](https://drive.google.com/file/d/1bBOQg8drUEUxHJjEqMAN3S0ST7ICfe9l/view?usp=sharing) and the [exam review sheet](https://docs.google.com/document/d/16kJuO59gcOZVf1k0m19B4vyZQLxLDxi3PBn0jtO9OGo/edit?usp=sharing) have been released!   
 
 ## Syllabus and Schedule
 
@@ -780,6 +781,9 @@ Marks for the course will be determined by the following formula:
  
 #### On the Final Exam
 The final exam is comprehensive and should be assumed to cover all the material in the slides and class notes. 
+
+- [Sample exam](https://drive.google.com/file/d/1bBOQg8drUEUxHJjEqMAN3S0ST7ICfe9l/view?usp=sharing)  
+- [Exam review sheet](https://docs.google.com/document/d/16kJuO59gcOZVf1k0m19B4vyZQLxLDxi3PBn0jtO9OGo/edit?usp=sharing)
 
 #### On the Class Assignments 
 
