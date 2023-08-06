@@ -22,10 +22,10 @@ organizations:
 bio: 
 
 interests:
-- Linguistics
-- Natural Language Generation
-- Machine Translation
-- AI Safety
+- Formal languages
+- Biologically inspired machine learning
+- Machine translation
+- Pragmatics
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

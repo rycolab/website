@@ -21,8 +21,8 @@ organizations:
 bio: 
 
 interests:
-- formal language theory
-- algorithms 
+- Formal language theory
+- Algorithms 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
