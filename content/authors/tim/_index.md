@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
@@ -61,10 +61,13 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Frequent Collaborators
+- Members
+- Current
 ---
 
-Tim develops machine learning algorithms for tough problems—tending toward applications in natural language processing and programming languages.
-When he's not in front of a whiteboard or computer, he's probably climbing things, walking around on his hands, or hanging out with Hanna Wallach and [@maia.the.pomsky](@maia.the.pomsky).
+I develop machine learning algorithms for tough problems—tending toward applications in natural language processing and programming languages. I am currently a postdoctoral researcher working with Ryan Cotterell. I did my PhD with Jason Eisner at Johns Hopkins University. I've also worked with Andrew McCallum on Rexa and Factorie; Dan Roth on Textual Entailment. I did my undergraduate degree at the University of Illinois Urbana-Champaign.
+
+<!-- Tim develops machine learning algorithms for tough problems—tending toward applications in natural language processing and programming languages.
+When he's not in front of a whiteboard or computer, he's probably climbing things, walking around on his hands, or hanging out with Hanna Wallach and [@maia.the.pomsky](@maia.the.pomsky). -->
 
 
