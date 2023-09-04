@@ -68,6 +68,7 @@ email: ""
 user_groups:
 - Frequent Collaborators
 - Tutorial  Leaders 
+- TAs
 ---
 
 Animal Form: Numbat 

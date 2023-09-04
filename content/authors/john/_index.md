@@ -34,11 +34,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Members
-- Teaching Assistants
 - Tutorial Leaders
-- Large Language Models Teaching Assistants
-- Current
 ---
 
 John is a final-year PhD in computer science at Stanford University with Chris Manning and Percy Liang. His interests are in neural representations of language, models of language, and interpretability thereof. His long-term goals are to design systems that learn many of the world's languages and provide interfaces for controlling and understanding their behavior.

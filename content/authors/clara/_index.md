@@ -58,6 +58,7 @@ user_groups:
 - Large Language Models Teaching Assistants
 - Current
 - Tutorial  Leaders
+- TAs
 ---
 
 Clara is a third year PhD with Ryan at ETH Zürich. She received her B.S. and M.S. from Stanford University in Computational and Mathematical Engineering. Her research interests include language generation and psycholinguistics. In her free time, she likes to rock climb, trail run, and make snarky comments (directed predominantly at Ryan).
