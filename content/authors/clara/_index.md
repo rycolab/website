@@ -57,7 +57,6 @@ user_groups:
 - Tutorial Leaders
 - Large Language Models Teaching Assistants
 - Current
-- Tutorial  Leaders
 - TAs
 ---
 
