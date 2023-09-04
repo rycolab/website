@@ -14,8 +14,8 @@ role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-- name: Johns Hopkins University
-  url: "https://www.jhu.edu/"
+- name: ETH Zürich
+  url: "https://inf.ethz.ch"
 
 
 # Short bio (displayed in user profile at end of posts)
