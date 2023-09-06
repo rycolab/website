@@ -194,15 +194,15 @@ The submission links are:
   <tbody>
     <tr>
       <th rowspan=2 scope="row">1</th>
-      <td>26.09.22</td>
+      <td>25.9.2023</td>
       <td>Introduction to Natural Language</td>
-      <td><a href="https://drive.google.com/file/d/1u-pHD5wXsLZws750_rhm2iR_Pph1jqML/view?usp=sharing" target="_blank">Lecture 1</a></td>
+      <td><a href="https://drive.google.com/file/d/1u-pHD5wXsLZws750_rhm2iR_Pph1jqML/view?usp=sharing" target="_blank">Lecture 1 (last year)</a></td>
       <td>Eisenstein Ch. 1</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>27.09.22</td>
+      <td>26.9.2023</td>
       <td>Introduction to Natural Language</td>
       <td></td>
       <td></td>
@@ -211,9 +211,9 @@ The submission links are:
     </tr>
     <tr>
       <th rowspan=2 scope="row">2</th>
-      <td>03.10.22</td>
+      <td>2.10.2023</td>
       <td>Backpropagation</td>
-      <td><a href="https://drive.google.com/file/d/18sHULla5WDIQe7hpFPUJE1PP7k3Wnzkb/view?usp=sharing" target="_blank">Lecture 2</a></td>
+      <td><a href="https://drive.google.com/file/d/18sHULla5WDIQe7hpFPUJE1PP7k3Wnzkb/view?usp=sharing" target="_blank">Lecture 2 (last year)</a></td>
       <td>Goodfellow, Bengio and Courville Ch. 6.5</td>
       <td>
         <a href="https://colah.github.io/posts/2015-08-Backprop/" target="_blank">Chris Olah's Blog</a></br>
@@ -232,7 +232,7 @@ The submission links are:
         </td>
     </tr>
     <tr>
-      <td>04.10.22</td>
+      <td>3.10.2023</td>
       <td>Backpropagation</td>
       <td></td>
       <td></td>
@@ -241,9 +241,9 @@ The submission links are:
     </tr>
     <tr>
       <th rowspan=2 scope="row">3</th>
-      <td>10.10.22</td>
+      <td>9.10.2023</td>
       <td>Log-Linear Modeling---Meet the Softmax</td>
-      <td><a href="https://drive.google.com/file/d/1DIqoF7ig49KMltpERCx0siw_NTQttfXv/view?usp=sharing" target="_blank">Lecture 3</a></td>
+      <td><a href="https://drive.google.com/file/d/1DIqoF7ig49KMltpERCx0siw_NTQttfXv/view?usp=sharing" target="_blank">Lecture 3 (last year)</a></td>
       <td>Eisenstein Ch. 2</td>
       <td><a href="https://www.cs.jhu.edu/~jason/papers/ferraro+eisner.tnlp13.pdf" target="_blank">Ferraro and Eisner (2013)</a></br>
       <a href="http://cs.jhu.edu/~jason/tutorials/loglin/further.html">Jason Eisner’s list of further resources on log-linear modeling</a></td>
@@ -252,8 +252,8 @@ The submission links are:
       </td>
     </tr>
     <tr>
-      <td>11.10.22</td>
-      <td><b>Lecture Cancelled</b></td>
+      <td>10.10.2023</td>
+      <td>Log-Linear Modeling---Meet the Softmax</td>
       <td></td>
       <td></td>
       <td></td>
@@ -261,9 +261,9 @@ The submission links are:
     </tr>
     <tr>
       <th rowspan=2 scope="row">4</th>
-      <td>17.10.22</td>
+      <td>16.10.2023</td>
       <td>Sentiment Analysis with Multi-layer Perceptrons</td>
-      <td><a href="https://drive.google.com/file/d/1C3y8f4bn6lwBbb8OgqIP1TUyszYGOCRS/view?usp=sharing" target="_blank">Lecture 4</a></td>
+      <td><a href="https://drive.google.com/file/d/1C3y8f4bn6lwBbb8OgqIP1TUyszYGOCRS/view?usp=sharing" target="_blank">Lecture 4 (last year)</a></td>
       <td>Eisenstein Ch. 3 and Ch. 4</br>Goodfellow, Bengio and Courville Ch. 6</td>
       <td></td>
       <td>
@@ -271,7 +271,7 @@ The submission links are:
       </td>
     </tr>
     <tr>
-      <td>18.10.22</td>
+      <td>17.10.2023</td>
       <td>Sentiment Analysis with Multi-layer Perceptrons</td>
       <td></td>
       <td></td>
@@ -280,9 +280,9 @@ The submission links are:
     </tr>
     <tr>
       <th rowspan=2 scope="row">5</th>
-      <td>24.10.22</td>
+      <td>23.10.2023</td>
       <td>Language Modeling with <em>n</em>-grams and LSTMs</td>
-      <td><a href="https://drive.google.com/file/d/1Moq7Av5EoGxmZzryEixWBZNYh2-Cy826/view?usp=sharing">Lecture 5</a></td>
+      <td><a href="https://drive.google.com/file/d/1Moq7Av5EoGxmZzryEixWBZNYh2-Cy826/view?usp=sharing" target="_blank">Lecture 5 (last year)</a></td>
       <td>Eisenstein Ch. 6</br>Goodfellow, Bengio and Courville Ch. 10</td>
       <td><a href="https://nlp.stanford.edu/~wcmac/papers/20050421-smoothing-tutorial.pdf" target="_blank">Good Tutorial on n-gram smoothing</a></br>
         <a href="https://en.wikipedia.org/wiki/Good%E2%80%93Turing_frequency_estimation" target="_blank">Good–Turing Smoothing</a></br>
@@ -294,7 +294,7 @@ The submission links are:
       </td>
     </tr>
     <tr>
-      <td>25.10.22</td>
+      <td>24.10.2023</td>
       <td>Language Modeling with <em>n</em>-grams and LSTMs</td>
       <td></td>
       <td></td>
@@ -302,9 +302,9 @@ The submission links are:
     </tr>
     <tr>
       <th rowspan=2 scope="row">6</th>
-      <td>31.10.22</td>
+      <td>30.10.2023</td>
       <td>Part-of-Speech Tagging with CRFs</td>
-      <td><a href="https://drive.google.com/file/d/1yZINzQjeh69LVlll53zqNc8sMmkQPwIU/view?usp=share_link" target="_blank">Lecture 6</a></td>
+      <td><a href="https://drive.google.com/file/d/1yZINzQjeh69LVlll53zqNc8sMmkQPwIU/view?usp=share_link" target="_blank">Lecture 6 (last year)</a></td>
       <td>Eisenstein Ch. 7 and 8</td>
       <td><a href="https://timvieira.github.io/blog/post/2015/04/29/multiclass-logistic-regression-and-conditional-random-fields-are-the-same-thing/" target="_blank">Tim Vieira's Blog</a></br>
         <a href="https://dl.acm.org/doi/10.5555/645529.658277" target="_blank">McCallum et al. (2000)</a></br>
@@ -316,7 +316,7 @@ The submission links are:
         </td>
     </tr>
     <tr>
-      <td>01.11.22 <b>ONLINE ONLY</b></td>
+      <td>31.10.2023</td>
       <td>Part-of-Speech Tagging with CRFs</td>
       <td></td>
       <td></td>
@@ -325,9 +325,9 @@ The submission links are:
     </tr>
     <tr>
       <th rowspan=2 scope="row">7</th>
-      <td>07.11.22</td>
+      <td>6.11.2023</td>
       <td>Transliteration with WFSTs</td>
-      <td><a href="https://drive.google.com/file/d/1utUER-oRhPFwLj49o-c1B09R6_od5NnI/view?usp=share_link" target="_blank">Lecture 7</a></td>
+      <td><a href="https://drive.google.com/file/d/1utUER-oRhPFwLj49o-c1B09R6_od5NnI/view?usp=share_link" target="_blank">Lecture 7 (last year)</a></td>
       <td>Eisenstein Ch. 9</td>
       <td><a href="https://rycolab.io/classes/aflt-s22/" target="_blank">AFLT Course Notes</a> Chapters 1, 2, and 3</br>
       <a href="https://www.aclweb.org/anthology/J98-4003.pdf" target="_blank">Knight and Graehl (1998)</a></br>
@@ -337,7 +337,7 @@ The submission links are:
       </td>
     </tr>
     <tr>
-      <td>08.11.22</td>
+      <td>7.11.2023</td>
       <td>Transliteration with WFSTs</td>
       <td></td>
       <td></td>
@@ -346,9 +346,9 @@ The submission links are:
     </tr>
     <tr>
       <th rowspan=2 scope="row">8</th>
-      <td>14.11.22</td>
+      <td>13.11.2023</td>
       <td>Context-Free Parsing with CKY</td>
-      <td><a href="https://drive.google.com/file/d/1qhLuWMK6nEWO7Xubajx8WTpUZzZv2uQo/view?usp=share_link">Lecture 8</a></td>
+      <td><a href="https://drive.google.com/file/d/1qhLuWMK6nEWO7Xubajx8WTpUZzZv2uQo/view?usp=share_link" target="_blank">Lecture 8 (last year)</a></td>
       <td>Eisenstein Ch. 10</td>
       <td><a href="http://www.cs.columbia.edu/~mcollins/io.pdf" target="_blank">The Inside-Outside Algorithm</a></br>
         <a href="https://www.cs.jhu.edu/~jason/465/PowerPoint/lect08-parse.ppt" target="_blank">Jason Eisner’s Slides</a></br>
@@ -360,18 +360,20 @@ The submission links are:
       </td>
     </tr>
     <tr>
-      <td>15.11.22</td>
-      <td>Pytorch Tutorial</td>
+      <td>14.11.2023</td>
+      <td>Context-Free Parsing with CKY</td>
       <td></td>
       <td></td>
-      <td><a href="https://colab.research.google.com/drive/1FhFKkWPia6DhY6Qw0QtHEWE8Ts7FgNtS?usp=sharing" target="_blank">Notebook</a></td>
+      <td>
+      <!-- <a href="https://colab.research.google.com/drive/1FhFKkWPia6DhY6Qw0QtHEWE8Ts7FgNtS?usp=sharing" target="_blank">Notebook</a> -->
+      </td>
       <td></td>
     </tr>
     <tr>
       <th rowspan=2 scope="row">9</th>
-      <td>21.11.22</td>
+      <td>20.11.2023</td>
       <td>Dependency Parsing with the Matrix-Tree Theorem</td>
-      <td><a href="https://drive.google.com/file/d/1PGlTMbhAlVEFiOMb8x2df5saoBveCDTn/view?usp=share_link" target="_blank">Lecture 9</a></td>
+      <td><a href="https://drive.google.com/file/d/1PGlTMbhAlVEFiOMb8x2df5saoBveCDTn/view?usp=share_link" target="_blank">Lecture 9 (last year)</a></td>
       <td>Eisenstein Ch. 11</td>
       <td><a href="https://www.aclweb.org/anthology/D07-1015/" target="_blank">Koo et al. (2007)</a></br>
         <a href="https://www.aclweb.org/anthology/D07-1014/" target="_blank">Smith and Smith (2007)</a></br>
@@ -382,7 +384,7 @@ The submission links are:
       </td>
     </tr>
     <tr>
-      <td>21.11.22</td>
+      <td>21.11.2023</td>
       <td>Dependency Parsing with the Matrix-Tree Theorem</td>
       <td></td>
       <td></td>
@@ -391,9 +393,9 @@ The submission links are:
     </tr>
     <tr>
       <th rowspan=2 scope="row">10</th>
-      <td>28.11.22</td>
+      <td>27.11.2023</td>
       <td>Semantic Parsing with CCGs</td>
-      <td><a href="https://drive.google.com/file/d/1Qhl7nEu1pd0h0yFVTJmnDtRloGpuEt4a/view?usp=share_link" target="_blank">Lecture 10</a></td>
+      <td><a href="https://drive.google.com/file/d/1Qhl7nEu1pd0h0yFVTJmnDtRloGpuEt4a/view?usp=share_link" target="_blank">Lecture 10 (last year)</a></td>
       <td>Eisenstein Ch. 9.3 and 12</td>
       <td><a href="https://www.aclweb.org/anthology/P88-1034/" target="_blank">Weir and Joshi (1988)</a></br>
         <a href="https://www.aclweb.org/anthology/Q14-1032/" target="_blank">Kuhlmann and Satta (2014)</a></br>
@@ -402,7 +404,7 @@ The submission links are:
       <a href="https://drive.google.com/file/d/1mK98TyTLHJD-SJJBkUMUH2_2dLcF1QkA/view?usp=sharing" target="_blank">Exercises</a>
       </td>
     <tr>
-      <td>29.11.22</td>
+      <td>28.11.2023</td>
       <td>Semantic Parsing with CCGs</td>
       <td></td>
       <td></td>
@@ -411,9 +413,9 @@ The submission links are:
     </tr>
     <tr>
       <th rowspan=2 scope="row">11</th>
-      <td>5.12.22</td>
+      <td>4.12.2023</td>
       <td>Machine Translation with Transformers</td>
-      <td><a href="https://drive.google.com/file/d/1C3sETXzMNKJxIJs9DDOUe5tl1TCyrOdB/view?usp=share_link" target="_blank">Lecture 11</a></td>
+      <td><a href="https://drive.google.com/file/d/1C3sETXzMNKJxIJs9DDOUe5tl1TCyrOdB/view?usp=share_link" target="_blank">Lecture 11 (last year)</a></td>
       <td>Eisenstein Ch. 18</td>
       <td><a href="https://www.amazon.com/gp/product/1108497322/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1108497322&linkCode=as2&tag=statismachint-20&linkId=ca7b8315b48f309c992019761c3ac4e4" target="_blank">Neural Machine Translation</a></br>
         <a href="https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf" target="_blank">Vaswani et al. (2017)</a></br>
@@ -423,7 +425,7 @@ The submission links are:
       </td>
     </tr>
     <tr>
-      <td>6.12.22</td>
+      <td>5.12.2023</td>
       <td>Machine Translation with Transformers</td>
       <td></td>
       <td></td>
@@ -432,9 +434,9 @@ The submission links are:
     </tr>
     <tr>
       <th rowspan=2 scope="row">12</th>
-      <td>12.12.22</td>
+      <td>11.12.2023</td>
       <td>Axes of Modeling</td>
-      <td><a href="https://drive.google.com/file/d/1TgpjZgz_bgnD6zy2rgnJgmGxFrnSxTTu/view?usp=share_link">Lecture 12</a></td>
+      <td><a href="https://drive.google.com/file/d/1TgpjZgz_bgnD6zy2rgnJgmGxFrnSxTTu/view?usp=share_link" target="_blank">Lecture 12 (last year)</a></td>
       <td>Review: Eisenstein Ch. 2</br>Goodfellow, Bengio and Courville Ch. 5 and 11</td>
       <td></td>
       <td>
@@ -442,7 +444,7 @@ The submission links are:
       </td>
     </tr>
     <tr>
-      <td>13.12.22</td>
+      <td>12.12.2023</td>
       <td>Axes of Modeling</td>
       <td></td>
       <td></td>
@@ -451,9 +453,9 @@ The submission links are:
     </tr>
     <tr>
       <th rowspan=2 scope="row">13</th>
-      <td>19.12.22</td>
+      <td>18.12.2023</td>
       <td>Bias and Fairness in NLP</td>
-      <td><a href="https://drive.google.com/file/d/1ySF5gvhQs1XWKfvNO7jChTmjssWr14bW/view?usp=share_link" target="_blank">Lecture 13</a></td>
+      <td><a href="https://drive.google.com/file/d/1ySF5gvhQs1XWKfvNO7jChTmjssWr14bW/view?usp=share_link" target="_blank">Lecture 13 (last year)</a></td>
       <td></td>
       <td><a href="https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf" target="_blank">Bolukabasi et al. (2016)</a></br>
         <a href="https://arxiv.org/abs/1903.03862" target="_blank">Gonen and Goldberg (2019)</a></br>
@@ -463,7 +465,7 @@ The submission links are:
       <td></td>
     </tr>
     <tr>
-      <td>20.12.22</td>
+      <td>19.12.2023</td>
       <td>Bias and Fairness in NLP</td>
       <td></td>
       <td></td>
@@ -492,91 +494,91 @@ The submission links are:
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <td>28.09.22</td>
+      <td>28.09.2023</td>
       <td>Course Logistics and Introduction of the TA Team</td>
       <td>All TAs</td>
       <td><a href="https://drive.google.com/file/d/1dGaClf-2FVsDoIzyyxYueQEvUZNy48yn/view?usp=sharing" target="_blank">Introduction Slides</a></td>
     </tr>
     <tr>
       <th scope="row">2</th>
-      <td>05.10.22</td>
+      <td>05.10.2023</td>
       <td>Assignment 1</td>
       <td>Niklas Stoehr</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">3</th>
-      <td>12.10.22</td>
+      <td>12.10.2023</td>
       <td>Assignment 1</td>
       <td>Niklas Stoehr</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">4</th>
-      <td>19.10.22</td>
+      <td>19.10.2023</td>
       <td><b>No tutorials</b></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">5</th>
-      <td>26.10.22</td>
+      <td>26.10.2023</td>
       <td><b>No tutorials</b></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">6</th>
-      <td>02.11.22</td>
+      <td>02.11.2023</td>
       <td>Assignment 2 and Assignment 3</td>
       <td>David Wissel, Alexandra Butoi, and Anej Svete</td>
       <td><a href="https://drive.google.com/file/d/1Xv5pmNVhZUQmO_BehWn6DCpMwQWZOOPm/view?usp=share_link" target="_blank">Assignment 2 Slides</a></td>
     </tr>
     <tr>
       <th scope="row">7</th>
-      <td>09.11.22</td>
+      <td>09.11.2023</td>
       <td>Assignment 2 and Assignment 3</td>
       <td>David Wissel, Alexandra Butoi, and Anej Svete</td>
       <td><a href="https://drive.google.com/file/d/12o9AwmW9wwzreday7kLs-7F63WwnFoTC/view?usp=share_link" target="_blank">Transliteration Slides</a></td>
     </tr>
     <tr>
       <th scope="row">8</th>
-      <td>16.11.22</td>
+      <td>16.11.2023</td>
       <td>Assignment 4</td>
       <td>Franz Nowak</td>
       <td><a href="https://drive.google.com/file/d/1wxabDwwzZWnzSXBaOmRmrYEzqh1lEbxa/view?usp=share_link" target="_blank">Assignment 4 Slides Part 1</a></td>
     </tr>
     <tr>
       <th scope="row">9</th>
-      <td>23.11.22</td>
+      <td>23.11.2023</td>
       <td>Assignment 4</td>
       <td>Franz Nowak</td>
       <td><a href="https://drive.google.com/file/d/1bvzApvwQ7N-Xrrs1oQ6XEPOLFG3bZE86/view?usp=share_link" target="_blank">Assignment 4 Slides Part 2</a></td>
     </tr>
     <tr>
       <th scope="row">10</th>
-      <td>30.11.22</td>
+      <td>30.11.2023</td>
       <td>Assignment 5</td>
       <td>Benjamin Dayan</td>
       <td><a href="https://drive.google.com/file/d/1cPqOYRMKeeUwvpS6kc1SzbZa7z5y_HpF/view?usp=share_link" target="_blank">Assignment 5 Slides</a></td>
     </tr>
     <tr>
       <th scope="row">11</th>
-      <td>07.12.22</td>
+      <td>07.12.2023</td>
       <td>Assignment 6</td>
       <td>Luca Malagutti</td>
       <td><a href="https://drive.google.com/file/d/1NaGwTjeG3BpptJsMWG_Tm7pjpAUOc7Zl/view?usp=share_link" target="_blank">Assignment 6 Slides</a></td>
     </tr>
     <tr>
       <th scope="row">12</th>
-      <td>14.12.22</td>
+      <td>14.12.2023</td>
       <td>Assignment 5</td>
       <td>Benjamin Dayan</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">13</th>
-      <td>21.12.22</td>
+      <td>21.12.2023</td>
       <td>Assignment 6</td>
       <td>Luca Malagutti</td>
       <td></td>
