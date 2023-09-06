@@ -57,6 +57,7 @@ user_groups:
 - Teaching Assistants
 - Teaching Assistants AFLT
 - Teaching Assistants NLP F22
+- Teaching Assistants NLP F23
 - Large Language Models Teaching Assistants
 - ESSLLI 2023 Teaching Assistants
 - Members

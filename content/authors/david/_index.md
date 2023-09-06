@@ -42,6 +42,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Teaching Assistants NLP F22
+- Teaching Assistants NLP F23
 ---
 
 David is a PhD student shared between the BoevaLab at ETH and the Robinson Group at UZH. He is interested broadly in survival analysis and the analysis of long-read sequencing data.

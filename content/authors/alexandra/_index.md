@@ -49,6 +49,7 @@ user_groups:
 - Members
 - Teaching Assistants AFLT
 - Teaching Assistants NLP F22
+- Teaching Assistants NLP F23
 - ESSLLI 2023 Teaching Assistants
 - Current
 ---
