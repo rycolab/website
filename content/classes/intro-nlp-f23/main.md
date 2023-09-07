@@ -1,7 +1,7 @@
 
 +++
 title = 'Natural Language Processing'
-subtitle = 'ETH Zürich, Fall 2022: [Course catalog](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=163664&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en)'
+subtitle = 'ETH Zürich, Fall 2022: [Course catalog](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=173645&semkez=2023W&ansicht=LEHRVERANSTALTUNGEN&lang=en)'
 summary = 'The course constitutes an introduction to modern techniques in the field of natural language processing (NLP). Our primary focus is on the algorithmic aspects of structured NLP models. The course is self-contained and designed to complement other machine learning courses at ETH Zürich, e.g., Deep Learning and Advanced Machine Learning. The course also has a strong focus on algebraic methods, e.g., semiring theory. In addition to machine learning, we also cover the linguistic background necessary for reading the NLP literature.'
 
 active = true  # Activate this widget? true/false
@@ -37,11 +37,10 @@ There are two lecture slots for NLP. The first slot is on Monday from 12h to 14h
 During this time, the main lecture will be given. 
 The second slot is on Tuesday from 13h to 14h and will be used as a spill-over time if we did not get through all of the lecture material on Monday (this ensures that the class stays on track) and, time-permitting, the professor will work examples and hold an open-ended ask-me-anything-about-NLP session.
 
-Both lectures will be given in the lecture hall HG F1.
- <!-- and live broadcast on [Zoom](https://ethz.zoom.us/j/62666771947); the password is available on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=18471) or in the live chat. -->
+#### Zoom Link and Recordings
+Both lectures will be given in the lecture hall HG F1 and live broadcast on [Zoom](https://ethz.zoom.us/j/69030983170); the password is available on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=20836).
 
-<!-- Lectures will be recorded. 
-Recording will be uploaded to the course [Polybox folder](https://polybox.ethz.ch/index.php/s/yuxFy1MWOHB6aGc?), whose password you can find on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=18471) as well. -->
+Lectures will be recorded. You can find the links to the recordings on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=20836).
 
 **Important**: The ETH semester starts on Tuesday, September 18th, but the first lecture will take place on Monday, September 25th.
 
@@ -151,8 +150,7 @@ The submission links are:
 - [Assignment 6](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=940226)  
 
 ### On the Discussion Sections
-Discussion sections (tutorials) will take place Wednesdays 16:15-19:00 in HG F7.
- <!-- and on Zoom ([same link](https://ethz.zoom.us/j/62666771947) as the lectures). -->
+Discussion sections (tutorials) will take place Wednesdays 16:15-19:00 in HG F7 and on Zoom ([same link](https://ethz.zoom.us/j/69030983170) as the lectures).
 Their main purpose will be to solve some exercises with you that will help you grasp the concepts from the lecture and to help you prepare for the exam.
 They will also help you with the assignment problems.
 Roughly, we expect to devote 2 hours per week to exercises and 1 hour to the assignments.
@@ -166,7 +164,7 @@ We want the sessions to be useful for you!
 It is highly recommended that you do the class assignments. However, a student (in groups of up to 4 people) may choose to do a course project in lieu of the class assignments. This option is only recommended for academically oriented students who are interested in using this course to get into NLP research. If you choose to do a class project, you <ins>***must***</ins> submit a project proposal by October 31, 2023, on Moodle. The proposal is <ins>***ungraded***</ins> and will be inspected by the teaching assistants to ensure that the project is doable and you will pass the course should you execute the project as proposed. The write-up and code for the final project are due January 15, 2024; it is to be submitted through Moodle.
 General guidelines for the class project are given [here](https://drive.google.com/file/d/1_0eZdRzxSxdtbwzG3Jn-t0GjVzGxuOW7/view?usp=sharing). 
 
-Project work submission will be done on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=18471). 
+Project work submission will be done on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=20836). 
 The submission links are:  
 
 - [Project proposal](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=940227)
