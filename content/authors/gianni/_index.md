@@ -35,6 +35,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Philosophy of Language and Computation Lecturers
+- Teaching Assistants NLP F23
 ---
 
 Juan Luis Gastaldi (Gianni) is currently a Marie Skłodowska-Curie Fellow at the chair of History and Philosophy of Mathematical Sciences (ETH D-GESS). He is a philosopher and historian of science, specialized in philosophy and history of formal knowledge (mathematics, logic and computer science), from the beginning of the 19th century to our days. He is also the managing director of the ETH Turing Centre Zürich.

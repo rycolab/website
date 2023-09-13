@@ -1,7 +1,7 @@
 
 +++
 title = 'Natural Language Processing'
-subtitle = 'ETH Zürich, Fall 2022: [Course catalog](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=173645&semkez=2023W&ansicht=LEHRVERANSTALTUNGEN&lang=en)'
+subtitle = 'ETH Zürich, Fall 2023: [Course catalog](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=173645&semkez=2023W&ansicht=LEHRVERANSTALTUNGEN&lang=en)'
 summary = 'The course constitutes an introduction to modern techniques in the field of natural language processing (NLP). Our primary focus is on the algorithmic aspects of structured NLP models. The course is self-contained and designed to complement other machine learning courses at ETH Zürich, e.g., Deep Learning and Advanced Machine Learning. The course also has a strong focus on algebraic methods, e.g., semiring theory. In addition to machine learning, we also cover the linguistic background necessary for reading the NLP literature.'
 
 active = true  # Activate this widget? true/false
@@ -201,7 +201,7 @@ The submission links are:
     </tr>
     <tr>
       <td>26.9.2023</td>
-      <td>Introduction to Natural Language</td>
+      <td>Course logistics, Introduction of the TA team</td>
       <td></td>
       <td></td>
       <td></td>
@@ -246,7 +246,7 @@ The submission links are:
       <td><a href="https://www.cs.jhu.edu/~jason/papers/ferraro+eisner.tnlp13.pdf" target="_blank">Ferraro and Eisner (2013)</a></br>
       <a href="http://cs.jhu.edu/~jason/tutorials/loglin/further.html">Jason Eisner’s list of further resources on log-linear modeling</a></td>
       <td>
-      <a href="https://drive.google.com/file/d/1J0_ZcQbCkGI7Xhbfl2iWax5i0gd-2725/view?usp=sharing" target="_blank">Exercises</a>
+      <!-- <a href="https://drive.google.com/file/d/1J0_ZcQbCkGI7Xhbfl2iWax5i0gd-2725/view?usp=sharing" target="_blank">Exercises</a> -->
       </td>
     </tr>
     <tr>
@@ -476,7 +476,7 @@ The submission links are:
 
 
 ## Tutorial Schedule
-<!-- <table class="table">
+<table class="table">
   <head>
     <base target="_blank">
   </head>
@@ -492,98 +492,100 @@ The submission links are:
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <td>28.09.2023</td>
-      <td>Course Logistics and Introduction of the TA Team</td>
-      <td>All TAs</td>
-      <td><a href="https://drive.google.com/file/d/1dGaClf-2FVsDoIzyyxYueQEvUZNy48yn/view?usp=sharing" target="_blank">Introduction Slides</a></td>
+      <td>27.09.2023</td>
+      <td>No tutorial</td>
+      <td></td>
+      <td>
+      <!-- <a href="https://drive.google.com/file/d/1dGaClf-2FVsDoIzyyxYueQEvUZNy48yn/view?usp=sharing" target="_blank">Introduction Slides</a> -->
+      </td>
     </tr>
     <tr>
       <th scope="row">2</th>
-      <td>05.10.2023</td>
-      <td>Assignment 1</td>
-      <td>Niklas Stoehr</td>
+      <td>4.10.2023</td>
+      <td>Backpropagation, Assignment 1</td>
+      <td>Niklas Stoehr, Leonardo Nevali</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">3</th>
-      <td>12.10.2023</td>
-      <td>Assignment 1</td>
-      <td>Niklas Stoehr</td>
+      <td>11.10.2023</td>
+      <td>Backpropagation, Assignment 1</td>
+      <td>Niklas Stoehr, Leonardo Nevali</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">4</th>
-      <td>19.10.2023</td>
-      <td><b>No tutorials</b></td>
-      <td></td>
+      <td>18.10.2023</td>
+      <td>Log-Linear Modeling</td>
+      <td>David Wissel</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">5</th>
-      <td>26.10.2023</td>
-      <td><b>No tutorials</b></td>
-      <td></td>
+      <td>25.10.2023</td>
+      <td>Simple Neural Networks and Sentiment Classification</td>
+      <td>Luca Malagutti</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">6</th>
-      <td>02.11.2023</td>
-      <td>Assignment 2 and Assignment 3</td>
-      <td>David Wissel, Alexandra Butoi, and Anej Svete</td>
+      <td>1.11.2023</td>
+      <td>Language Modeling, Assignment 2, Assignment 3</td>
+      <td>Vasiliki Xefteri, David Wissel, Franz Nowak</td>
       <td><a href="https://drive.google.com/file/d/1Xv5pmNVhZUQmO_BehWn6DCpMwQWZOOPm/view?usp=share_link" target="_blank">Assignment 2 Slides</a></td>
     </tr>
     <tr>
       <th scope="row">7</th>
-      <td>09.11.2023</td>
-      <td>Assignment 2 and Assignment 3</td>
-      <td>David Wissel, Alexandra Butoi, and Anej Svete</td>
+      <td>8.11.2023</td>
+      <td>Part-of-speech Tagging, Assignment 2, and Assignment 3</td>
+      <td>Leonardo Nevali, David Wissel, Franz Nowak, Vasiliki Xefteri</td>
       <td><a href="https://drive.google.com/file/d/12o9AwmW9wwzreday7kLs-7F63WwnFoTC/view?usp=share_link" target="_blank">Transliteration Slides</a></td>
     </tr>
     <tr>
       <th scope="row">8</th>
-      <td>16.11.2023</td>
-      <td>Assignment 4</td>
-      <td>Franz Nowak</td>
+      <td>15.11.2023</td>
+      <td>Formal Language Theory, Transliteration, Assignment 4</td>
+      <td>Franz Nowak, Alexandra Butoi, Maximilian Schneiderbauer</td>
       <td><a href="https://drive.google.com/file/d/1wxabDwwzZWnzSXBaOmRmrYEzqh1lEbxa/view?usp=share_link" target="_blank">Assignment 4 Slides Part 1</a></td>
     </tr>
     <tr>
       <th scope="row">9</th>
-      <td>23.11.2023</td>
-      <td>Assignment 4</td>
-      <td>Franz Nowak</td>
+      <td>22.11.2023</td>
+      <td>Context-free Parsing, Assignment 4</td>
+      <td>Alexandra Butoi, Maximilian Schneiderbauer</td>
       <td><a href="https://drive.google.com/file/d/1bvzApvwQ7N-Xrrs1oQ6XEPOLFG3bZE86/view?usp=share_link" target="_blank">Assignment 4 Slides Part 2</a></td>
     </tr>
     <tr>
       <th scope="row">10</th>
-      <td>30.11.2023</td>
-      <td>Assignment 5</td>
-      <td>Benjamin Dayan</td>
+      <td>29.11.2023</td>
+      <td>Dependency Parsing, Assignment 5</td>
+      <td>Tianyu Liu, Eleftheria Tsipidi</td>
       <td><a href="https://drive.google.com/file/d/1cPqOYRMKeeUwvpS6kc1SzbZa7z5y_HpF/view?usp=share_link" target="_blank">Assignment 5 Slides</a></td>
     </tr>
     <tr>
       <th scope="row">11</th>
-      <td>07.12.2023</td>
-      <td>Assignment 6</td>
-      <td>Luca Malagutti</td>
-      <td><a href="https://drive.google.com/file/d/1NaGwTjeG3BpptJsMWG_Tm7pjpAUOc7Zl/view?usp=share_link" target="_blank">Assignment 6 Slides</a></td>
-    </tr>
-    <tr>
-      <th scope="row">12</th>
-      <td>14.12.2023</td>
-      <td>Assignment 5</td>
-      <td>Benjamin Dayan</td>
+      <td>6.12.2023</td>
+      <td>Semantic Parsing, Assignment 5</td>
+      <td>Giovanni Acampa, Tianyu Liu, Eleftheria Tsipidi</td>
       <td></td>
     </tr>
     <tr>
+      <th scope="row">12</th>
+      <td>13.12.2023</td>
+      <td>Machine Translation, Modern NLP, Assignment 6</td>
+      <td>Luca Malagutti, Giovanni Acampa</td>
+      <td><a href="https://drive.google.com/file/d/1NaGwTjeG3BpptJsMWG_Tm7pjpAUOc7Zl/view?usp=share_link" target="_blank">Assignment 6 Slides</a></td>
+    </tr>
+    <tr>
       <th scope="row">13</th>
-      <td>21.12.2023</td>
-      <td>Assignment 6</td>
-      <td>Luca Malagutti</td>
+      <td>20.12.2023</td>
+      <td>Axes of Modeling, Statistics, Assignment 6</td>
+      <td>Luca Malagutti, Giovanni Acampa</td>
       <td></td>
     </tr>
     
   </tbody>
-</table> -->
+</table>
 
 
 ## Practice Exams
