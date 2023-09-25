@@ -150,7 +150,7 @@ The submission links are:
 - [Assignment 6](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=940226)  
 
 ### On the Discussion Sections
-Discussion sections (tutorials) will take place Wednesdays 16:15-19:00 in HG F7 and on Zoom ([same link](https://ethz.zoom.us/j/69030983170) as the lectures).
+Discussion sections (tutorials) will take place Wednesdays 16h to 19h in HG F7 and on Zoom ([same link](https://ethz.zoom.us/j/69030983170) as the lectures).
 Their main purpose will be to solve some exercises with you that will help you grasp the concepts from the lecture and to help you prepare for the exam.
 They will also help you with the assignment problems.
 Roughly, we expect to devote 2 hours per week to exercises and 1 hour to the assignments.
