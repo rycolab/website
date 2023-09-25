@@ -19,16 +19,16 @@ The course constitutes an introduction to modern techniques in the field of natu
 
 ## News
 
-**6. 9. 2023** &emsp; Class website is online!  
-<!-- **19. 9. 2022** &emsp; [Assignment 1](https://drive.google.com/file/d/1DYHnHOWfVgPIfz0YhcfH_dMvNpN7ES8M/view?usp=sharing) has been released! See the [public github repository](https://github.com/rycolab/intro-nlp-f22) for the accompanying code.  
-**25. 9. 2022** &emsp; [Assignment 2](https://drive.google.com/file/d/1MLIRq5FTfCPcipY5ShQDWH5NzQlSlMHu/view?usp=sharing) has been released!  
-**25. 9. 2022** &emsp; [Recordings Polybox](https://polybox.ethz.ch/index.php/s/yuxFy1MWOHB6aGc?) has been created. The password can be found on Moodle.  
-**12. 10. 2022** &emsp; [Assignment 3](https://drive.google.com/file/d/1D6MRZd__YdkSu-WnMnPYcbU4FkP6Ci0U/view?usp=sharing) has been released!  
-**31. 10. 2022** &emsp; [Assignment 4](https://drive.google.com/file/d/1oSwLHYinFf24QK8a3EKSjUuBDh1I2mce/view?usp=share_link) has been released!  
-**31. 10. 2022** &emsp; [Assignment grading rubric](https://drive.google.com/file/d/1LGy0TL7Y4yUSK4n5zySg4PtlnXYZrgVF/view?usp=share_link) has been released!  
-**26. 11. 2022** &emsp; [Assignment 5](https://drive.google.com/file/d/1_3sBvw6tTQ31Gvvhbed1x7Y67XFPexWA/view?usp=share_link) has been released!  
-**05. 12. 2022** &emsp; [Assignment 6](https://drive.google.com/file/d/1GRxEHIsJtZxbOa-V9hyG1RXKKtiaHnD6/view?usp=share_link) has been released!  
-**05. 01. 2022** &emsp; **Practice exams** have been released!   -->
+**6.9.2023** &emsp; Class website is online!  
+<!-- **19.9.2022** &emsp; [Assignment 1](https://drive.google.com/file/d/1DYHnHOWfVgPIfz0YhcfH_dMvNpN7ES8M/view?usp=sharing) has been released! See the [public github repository](https://github.com/rycolab/intro-nlp-f22) for the accompanying code.  
+**25.9.2022** &emsp; [Assignment 2](https://drive.google.com/file/d/1MLIRq5FTfCPcipY5ShQDWH5NzQlSlMHu/view?usp=sharing) has been released!  
+**25.9.2022** &emsp; [Recordings Polybox](https://polybox.ethz.ch/index.php/s/yuxFy1MWOHB6aGc?) has been created. The password can be found on Moodle.  
+**12.10.2022** &emsp; [Assignment 3](https://drive.google.com/file/d/1D6MRZd__YdkSu-WnMnPYcbU4FkP6Ci0U/view?usp=sharing) has been released!  
+**31.10.2022** &emsp; [Assignment 4](https://drive.google.com/file/d/1oSwLHYinFf24QK8a3EKSjUuBDh1I2mce/view?usp=share_link) has been released!  
+**31.10.2022** &emsp; [Assignment grading rubric](https://drive.google.com/file/d/1LGy0TL7Y4yUSK4n5zySg4PtlnXYZrgVF/view?usp=share_link) has been released!  
+**26.11.2022** &emsp; [Assignment 5](https://drive.google.com/file/d/1_3sBvw6tTQ31Gvvhbed1x7Y67XFPexWA/view?usp=share_link) has been released!  
+**05.12.2022** &emsp; [Assignment 6](https://drive.google.com/file/d/1GRxEHIsJtZxbOa-V9hyG1RXKKtiaHnD6/view?usp=share_link) has been released!  
+**05.01.2022** &emsp; **Practice exams** have been released!   -->
 
 ## Organisation
 
@@ -492,7 +492,7 @@ The submission links are:
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <td>27.09.2023</td>
+      <td>27.9.2023</td>
       <td>No tutorial</td>
       <td></td>
       <td>
@@ -502,7 +502,7 @@ The submission links are:
     <tr>
       <th scope="row">2</th>
       <td>4.10.2023</td>
-      <td>Backpropagation, Assignment 1</td>
+      <td>Assignment 1</td>
       <td>Niklas Stoehr, Leonardo Nevali</td>
       <td></td>
     </tr>
