@@ -115,7 +115,7 @@ There will be **6** assignments which will be released (in their final form) rou
 Only your highest-scoring 4 assignments will count towards your grade; each will be weighted equally. So, in principle, you may opt to not turn in 2 out of the 6 assignments without any effect on your grade. <ins>***Note***</ins>: Even though we plan to grade your submissions within one month, we advise you not to wait for your grades to be returned before you decide to tackle the next assignments. In essence, do not base your submission strategy on our grading estimates!
 The assignments will be graded according to the pre-determined [Assignment grading rubric](https://drive.google.com/file/d/1iSMcKBXyII_vl1DEdX3aPv2ceKu1Gadf/view?usp=sharing).
 
-The class assignments were crafted to dovetail nicely with the lecture contents and, moreover, to complement the lectures through a more hands-on approach to the material. Each assignment has a theory portion, which will generally involve derivations or proofs related to the material, and a coding portion where you will implement a working model for one of the NLP tasks discussed in the lecture. The theory and the coding halves of the assignments will be weighed equally.
+The class assignments were crafted to dovetail nicely with the lecture contents and, moreover, to complement the lectures through a more hands-on approach to the material. Each assignment has a theory portion, which will generally involve derivations or proofs related to the material, and a coding portion where you will implement a working model for one of the NLP tasks discussed in the lecture. The theory and the coding halves of the assignments will be weighted equally.
 
 Assignment **sheets** *from last year* (they will be updated for this year, but the content will not change drastically):
 
@@ -136,7 +136,7 @@ We provide a template for the writeups [here](https://www.overleaf.com/read/wqfb
 
 Additionally, the solutions have to be presented in a clean and readable way, with all sub-steps of the solutions presented in a logical order.
 Note that this does not mean that your submissions have to be overly verbose and long. 
-It simply that you should explain your reasoning and the steps of your solutions in a clear and concise way.
+It simply means that you should explain your reasoning and the steps of your solutions in a clear and concise way.
 To encourage this, we will, for every assignment, award *2 additional points* for properly explained and formatted solutions.
 
 The detailed instructions for the submission will be given in each assignment separately, but the submissions will always be through the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=20836). 
@@ -161,7 +161,7 @@ We want the sessions to be useful for you!
 
 
 ### On the Class Project
-It is highly recommended that you do the class assignments. However, a student (in groups of up to 4 people) may choose to do a course project in lieu of the class assignments. This option is only recommended for academically oriented students who are interested in using this course to get into NLP research. If you choose to do a class project, you <ins>***must***</ins> submit a project proposal by October 31, 2023, on Moodle. The proposal is <ins>***ungraded***</ins> and will be inspected by the teaching assistants to ensure that the project is doable and you will pass the course should you execute the project as proposed. The write-up and code for the final project are due January 15, 2024; it is to be submitted through Moodle.
+It is highly recommended that you do the class assignments. However, students may choose to do a course project (in groups of up to 4 people) in lieu of the class assignments. This option is only recommended for academically oriented students who are interested in using this course to get into NLP research. If you choose to do a class project, you <ins>***must***</ins> submit a project proposal by October 31, 2023, on Moodle. The proposal is <ins>***ungraded***</ins> and will be inspected by the teaching assistants to ensure that the project is doable and you will pass the course should you execute the project as proposed. The write-up and code for the final project are due January 15, 2024; it is to be submitted through Moodle.
 General guidelines for the class project are given [here](https://drive.google.com/file/d/1_0eZdRzxSxdtbwzG3Jn-t0GjVzGxuOW7/view?usp=sharing). 
 
 Project work submission will be done on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=20836). 
