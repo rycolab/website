@@ -502,14 +502,14 @@ The submission links are:
     <tr>
       <th scope="row">2</th>
       <td>4.10.2023</td>
-      <td>Assignment 1</td>
+      <td>Backpropagation, Assignment 1 introduction</td>
       <td>Niklas Stoehr, Leonardo Nevali</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">3</th>
       <td>11.10.2023</td>
-      <td>Backpropagation, Assignment 1</td>
+      <td>Assignment 1 office hours</td>
       <td>Niklas Stoehr, Leonardo Nevali</td>
       <td></td>
     </tr>
@@ -530,56 +530,56 @@ The submission links are:
     <tr>
       <th scope="row">6</th>
       <td>1.11.2023</td>
-      <td>Language Modeling, Assignment 2, Assignment 3</td>
-      <td>Vasiliki Xefteri, David Wissel, Franz Nowak</td>
+      <td>Language Modeling, Assignment 2 introduction</td>
+      <td>Vasiliki Xefteri, David Wissel</td>
       <td><a href="https://drive.google.com/file/d/1Xv5pmNVhZUQmO_BehWn6DCpMwQWZOOPm/view?usp=share_link" target="_blank">Assignment 2 Slides</a></td>
     </tr>
     <tr>
       <th scope="row">7</th>
       <td>8.11.2023</td>
-      <td>Part-of-speech Tagging, Assignment 2, and Assignment 3</td>
-      <td>Leonardo Nevali, David Wissel, Franz Nowak, Vasiliki Xefteri</td>
-      <td><a href="https://drive.google.com/file/d/12o9AwmW9wwzreday7kLs-7F63WwnFoTC/view?usp=share_link" target="_blank">Transliteration Slides</a></td>
+      <td>Part-of-speech Tagging, Assignment 2 office hours</td>
+      <td>Leonardo Nevali, David Wissel</td>
+      <td></td>
     </tr>
     <tr>
       <th scope="row">8</th>
       <td>15.11.2023</td>
-      <td>Formal Language Theory, Transliteration, Assignment 4</td>
-      <td>Franz Nowak, Alexandra Butoi, Maximilian Schneiderbauer</td>
-      <td><a href="https://drive.google.com/file/d/1wxabDwwzZWnzSXBaOmRmrYEzqh1lEbxa/view?usp=share_link" target="_blank">Assignment 4 Slides Part 1</a></td>
+      <td>Formal Language Theory, Transliteration, Assignment 3 introduction</td>
+      <td>Franz Nowak, Vasiliki Xefteri</td>
+      <td><a href="https://drive.google.com/file/d/12o9AwmW9wwzreday7kLs-7F63WwnFoTC/view?usp=share_link" target="_blank">Transliteration Slides</a></td>
     </tr>
     <tr>
       <th scope="row">9</th>
       <td>22.11.2023</td>
-      <td>Context-free Parsing, Assignment 4</td>
-      <td>Alexandra Butoi, Maximilian Schneiderbauer</td>
-      <td><a href="https://drive.google.com/file/d/1bvzApvwQ7N-Xrrs1oQ6XEPOLFG3bZE86/view?usp=share_link" target="_blank">Assignment 4 Slides Part 2</a></td>
+      <td>Context-free Parsing, Assignment 4 introduction, Assignment 3&4 office hours</td>
+      <td>Maximilian Schneiderbauer, Alexandra Butoi, Franz Nowak, Vasiliki Xefteri</td>
+      <td><a href="https://drive.google.com/file/d/1wxabDwwzZWnzSXBaOmRmrYEzqh1lEbxa/view?usp=share_link" target="_blank">Assignment 4 Slides</a></td>
     </tr>
     <tr>
       <th scope="row">10</th>
       <td>29.11.2023</td>
-      <td>Dependency Parsing, Assignment 5</td>
-      <td>Tianyu Liu, Eleftheria Tsipidi</td>
+      <td>Dependency Parsing, Assignment 5 introduction, Assignment 4&5 office hours</td>
+      <td>Tianyu Liu, Eleftheria Tsipidi, Alexandra Butoi, Maximilian Schneiderbauer</td>
       <td><a href="https://drive.google.com/file/d/1cPqOYRMKeeUwvpS6kc1SzbZa7z5y_HpF/view?usp=share_link" target="_blank">Assignment 5 Slides</a></td>
     </tr>
     <tr>
       <th scope="row">11</th>
       <td>6.12.2023</td>
-      <td>Semantic Parsing, Assignment 5</td>
-      <td>Giovanni Acampa, Tianyu Liu, Eleftheria Tsipidi</td>
+      <td>Semantic Parsing, Assignment 5 office hours</td>
+      <td>Giovanni Acampa, Alexandra Butoi, Tianyu Liu, Eleftheria Tsipidi</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">12</th>
       <td>13.12.2023</td>
-      <td>Machine Translation, Modern NLP, Assignment 6</td>
+      <td>Machine Translation, Modern NLP, Assignment 6 introduction</td>
       <td>Luca Malagutti, Giovanni Acampa</td>
       <td><a href="https://drive.google.com/file/d/1NaGwTjeG3BpptJsMWG_Tm7pjpAUOc7Zl/view?usp=share_link" target="_blank">Assignment 6 Slides</a></td>
     </tr>
     <tr>
       <th scope="row">13</th>
       <td>20.12.2023</td>
-      <td>Axes of Modeling, Statistics, Assignment 6</td>
+      <td>Axes of Modeling, Statistics, Assignment 6 office hours</td>
       <td>Luca Malagutti, Giovanni Acampa</td>
       <td></td>
     </tr>
