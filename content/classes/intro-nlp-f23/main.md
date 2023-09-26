@@ -551,14 +551,14 @@ The submission links are:
     <tr>
       <th scope="row">9</th>
       <td>22.11.2023</td>
-      <td>Context-free Parsing, Assignment 4 introduction, Assignment 3&4 office hours</td>
+      <td>Context-free Parsing, Assignment 4 introduction, Assignment 3 office hours</td>
       <td>Maximilian Schneiderbauer, Alexandra Butoi, Franz Nowak, Vasiliki Xefteri</td>
       <td><a href="https://drive.google.com/file/d/1wxabDwwzZWnzSXBaOmRmrYEzqh1lEbxa/view?usp=share_link" target="_blank">Assignment 4 Slides</a></td>
     </tr>
     <tr>
       <th scope="row">10</th>
       <td>29.11.2023</td>
-      <td>Dependency Parsing, Assignment 5 introduction, Assignment 4&5 office hours</td>
+      <td>Dependency Parsing, Assignment 5 introduction, Assignment 4 office hours</td>
       <td>Tianyu Liu, Eleftheria Tsipidi, Alexandra Butoi, Maximilian Schneiderbauer</td>
       <td><a href="https://drive.google.com/file/d/1cPqOYRMKeeUwvpS6kc1SzbZa7z5y_HpF/view?usp=share_link" target="_blank">Assignment 5 Slides</a></td>
     </tr>
