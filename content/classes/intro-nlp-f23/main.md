@@ -19,7 +19,8 @@ The course constitutes an introduction to modern techniques in the field of natu
 
 ## News
 
-**6.9.2023** &emsp; Class website is online!  
+**6.9.2023** &emsp; Class website is online!   
+**27.9.2023** &emsp; [Assignment 1](https://drive.google.com/file/d/1F5xqe5UYDiitKw_o8jV9Q67YkkgcJ6L1/view?usp=sharing) has been released!   
 <!-- **19.9.2022** &emsp; [Assignment 1](https://drive.google.com/file/d/1DYHnHOWfVgPIfz0YhcfH_dMvNpN7ES8M/view?usp=sharing) has been released! See the [public github repository](https://github.com/rycolab/intro-nlp-f22) for the accompanying code.  
 **25.9.2022** &emsp; [Assignment 2](https://drive.google.com/file/d/1MLIRq5FTfCPcipY5ShQDWH5NzQlSlMHu/view?usp=sharing) has been released!  
 **25.9.2022** &emsp; [Recordings Polybox](https://polybox.ethz.ch/index.php/s/yuxFy1MWOHB6aGc?) has been created. The password can be found on Moodle.  
@@ -70,15 +71,15 @@ The full list is:
 
 - [General Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FYQ2yAA) for the general organisational discussions.
 - [Announcements Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FngrvKi) for the announcements by the teaching team.
-- [Content Questions](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FHzaiqn) for your questions about the content of the course.
-- [Errata](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FyS9Yp3) for reporting typos and errors in the course lecture notes and the slides.
-- [Assignment 1](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2F7AFArw)
-- [Assignment 2](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2F2Eq7ne)
-- [Assignment 3](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FNzD42A)
-- [Assignment 4](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FsCDHYS)
-- [Assignment 5](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FYJ6Xf5)
-- [Assignment 6](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2F84LC6L)
-- [Find Assignment/Project Partners](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FYzJXF2) for finding teammates for the course assignments and the project.
+- [Content Questions Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FHzaiqn) for your questions about the content of the course.
+- [Errata Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FyS9Yp3) for reporting typos and errors in the course lecture notes and the slides.
+- [Assignment 1 Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2F7AFArw)
+- [Assignment 2 Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2F2Eq7ne)
+- [Assignment 3 Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FNzD42A)
+- [Assignment 4 Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FsCDHYS)
+- [Assignment 5 Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FYJ6Xf5)
+- [Assignment 6 Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2F84LC6L)
+- [Channel for Finding Assignment/Project Partners](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FYzJXF2) for finding teammates for the course assignments and the project.
 
 If you feel like you would benefit from any other channel, feel free to suggest it to the teaching team!
 
