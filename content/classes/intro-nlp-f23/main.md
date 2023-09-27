@@ -143,12 +143,12 @@ To encourage this, we will, for every assignment, award *2 additional points* fo
 The detailed instructions for the submission will be given in each assignment separately, but the submissions will always be through the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=20836). 
 The submission links are:  
 
-- [Assignment 1](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=940076)  
-- [Assignment 2](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=940078)  
-- [Assignment 3](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=940080)  
-- [Assignment 4](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=940211)  
-- [Assignment 5](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=940222)  
-- [Assignment 6](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=940226)  
+- [Assignment 1 Submission](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=940076)  
+- [Assignment 2 Submission](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=940078)  
+- [Assignment 3 Submission](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=940080)  
+- [Assignment 4 Submission](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=940211)  
+- [Assignment 5 Submission](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=940222)  
+- [Assignment 6 Submission](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=940226)  
 
 ### On the Discussion Sections
 Discussion sections (tutorials) will take place Wednesdays 16h to 19h in HG F7 and on Zoom ([same link](https://ethz.zoom.us/j/69030983170) as the lectures).
