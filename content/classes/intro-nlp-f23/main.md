@@ -203,7 +203,7 @@ The submission links are:
     <tr>
       <td>26.9.2023</td>
       <td>Course logistics, Introduction of the TA team</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1p9tal8KI4W1ZOzxbUB0lNNW8KvQfTfM9/view?usp=sharing" target="_blank">TA Introduction</a></td>
       <td></td>
       <td></td>
       <td></td>
@@ -212,7 +212,7 @@ The submission links are:
       <th rowspan=2 scope="row">2</th>
       <td>2.10.2023</td>
       <td>Backpropagation</td>
-      <td><a href="https://drive.google.com/file/d/18sHULla5WDIQe7hpFPUJE1PP7k3Wnzkb/view?usp=sharing" target="_blank">Lecture 2 (last year)</a></td>
+      <td><a href="https://drive.google.com/file/d/1ZK9XK0vBJDMRbBrE7NvC2__zbICHiss_/view?usp=sharing" target="_blank">Lecture 2</a></td>
       <td>Goodfellow, Bengio and Courville Ch. 6.5</td>
       <td>
         <a href="https://colah.github.io/posts/2015-08-Backprop/" target="_blank">Chris Olah's Blog</a></br>
@@ -227,7 +227,8 @@ The submission links are:
         <a href="https://drive.google.com/file/d/1XWRz4yMi2A5BZSRSgnnbRJikqz7RYtrN/view?usp=sharing" target="_blank">Computation Graph for MLP</a></br>
         <a href="https://drive.google.com/file/d/1hsYIXXd6cEWocrhI-pQ4Ox8FG49Otu_m/view?usp=sharing" target="_blank">Computation Graph Example</a></td>
         <td>
-        <a href="https://drive.google.com/file/d/1IKObOq3QApeRDsEqKdkKI7CwjJ0ggkJF/view?usp=sharing" target="_blank">Exercises</a>
+        <a href="https://drive.google.com/file/d/1X2KNJlRHCoJwxAhI4TRytMWE7qd9iqv6/view?usp=sharing" target="_blank">Week 2 Exercises</a></br>
+        <a href="https://drive.google.com/file/d/14C51gBHpAM24Uzgn8aOl3tsOr7aQ9gqZ/view?usp=sharing" target="_blank">Week 2 Solutions</a>
         </td>
     </tr>
     <tr>
@@ -247,8 +248,9 @@ The submission links are:
       <td><a href="https://www.cs.jhu.edu/~jason/papers/ferraro+eisner.tnlp13.pdf" target="_blank">Ferraro and Eisner (2013)</a></br>
       <a href="http://cs.jhu.edu/~jason/tutorials/loglin/further.html">Jason Eisner’s list of further resources on log-linear modeling</a></td>
       <td>
-      <!-- <a href="https://drive.google.com/file/d/1J0_ZcQbCkGI7Xhbfl2iWax5i0gd-2725/view?usp=sharing" target="_blank">Exercises</a> -->
-      </td>
+        <a href="https://drive.google.com/file/d/1fvKapJr7itr6XBzaI2SZ677dbMxXMvMW/view?usp=sharing" target="_blank">Week 3 Exercises</a></br>
+        <a href="https://drive.google.com/file/d/12pqppB059cIIIPb_97d_wjMGHP9jJdv7/view?usp=sharing" target="_blank">Week 3 Solutions</a>
+        </td>
     </tr>
     <tr>
       <td>10.10.2023</td>
@@ -266,7 +268,7 @@ The submission links are:
       <td>Eisenstein Ch. 3 and Ch. 4</br>Goodfellow, Bengio and Courville Ch. 6</td>
       <td></td>
       <td>
-      <a href="https://drive.google.com/file/d/1pHL9KlaJehuKwKRtr6FWsxAmegS3hnIx/view?usp=sharing" target="_blank">Exercises</a></br>
+      <a href="https://drive.google.com/file/d/1pHL9KlaJehuKwKRtr6FWsxAmegS3hnIx/view?usp=sharing" target="_blank">Exercises (last year)</a></br>
       </td>
     </tr>
     <tr>
@@ -289,7 +291,7 @@ The submission links are:
         <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf" target="_blank">Bengio et al. (2003)</a></br>
         <a href="https://www.isca-speech.org/archive/archive_papers/interspeech_2010/i10_1045.pdf" target="_blank">Mikolov et al. (2010)</a></td>
       <td>
-      <a href="https://drive.google.com/file/d/10KrxoxmFXpqd40OLiH3owK1hBJ2OWTap/view?usp=sharing" target="_blank">Exercises</a>
+      <a href="https://drive.google.com/file/d/10KrxoxmFXpqd40OLiH3owK1hBJ2OWTap/view?usp=sharing" target="_blank">Exercises (last year)</a>
       </td>
     </tr>
     <tr>
@@ -311,7 +313,7 @@ The submission links are:
         <a href="https://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf" target="_blank">Sutton and McCallum (2011)</a></br>
         <a href="https://mitpress.mit.edu/books/probabilistic-graphical-models" target="_blank">Koller and Friedman (2009)</a></td>
         <td>
-        <a href="https://drive.google.com/file/d/1-q7bz1kx89j2a8_8Yq--qXSVDzsy4YJb/view?usp=sharing" target="_blank">Exercises</a>
+        <a href="https://drive.google.com/file/d/1-q7bz1kx89j2a8_8Yq--qXSVDzsy4YJb/view?usp=sharing" target="_blank">Exercises (last year)</a>
         </td>
     </tr>
     <tr>
@@ -332,7 +334,7 @@ The submission links are:
       <a href="https://www.aclweb.org/anthology/J98-4003.pdf" target="_blank">Knight and Graehl (1998)</a></br>
         <a href="https://cs.nyu.edu/~mohri/pub/hbka.pdf" target="_blank">Mohri, Pereira and Riley (2008)</a></td>
       <td>
-      <a href="https://drive.google.com/file/d/1zsJwrGte2375agRpa7TgV-Me-FaWhSvX/view?usp=sharing" target="_blank">Exercises</a>
+      <a href="https://drive.google.com/file/d/1zsJwrGte2375agRpa7TgV-Me-FaWhSvX/view?usp=sharing" target="_blank">Exercises (last year)</a>
       </td>
     </tr>
     <tr>
@@ -355,7 +357,7 @@ The submission links are:
         <a href="https://www.sciencedirect.com/science/article/pii/S001999586780007X?via%3Dihub" target="_blank">Younger (1967)</a></br>
         <a href="http://www.softwarepreservation.org/projects/FORTRAN/CockeSchwartz_ProgLangCompilers.pdf" target="_blank">Cocke and Schwartz (1970)</a></td>
       <td>
-      <a href="https://drive.google.com/file/d/1dHfSe9_JchHs-4LD4gUgDVrCwf1G4t4L/view?usp=sharing" target="_blank">Exercises</a>
+      <a href="https://drive.google.com/file/d/1dHfSe9_JchHs-4LD4gUgDVrCwf1G4t4L/view?usp=sharing" target="_blank">Exercises (last year)</a>
       </td>
     </tr>
     <tr>
@@ -379,7 +381,7 @@ The submission links are:
         <a href="https://www.aclweb.org/anthology/W07-2216/" target="_blank">McDonald and Satta (2007)</a></br>
         <a href="https://www.morganclaypool.com/doi/abs/10.2200/S00169ED1V01Y200901HLT002" target="_blank">McDonald, Kübler and Nivre (2009)</a></td>
       <td>
-      <a href="https://drive.google.com/file/d/1jd3FNdPrDkLQ7TB75svham8WDPqNmpxo/view?usp=sharing" target="_blank">Exercises</a>
+      <a href="https://drive.google.com/file/d/1jd3FNdPrDkLQ7TB75svham8WDPqNmpxo/view?usp=sharing" target="_blank">Exercises (last year)</a>
       </td>
     </tr>
     <tr>
@@ -400,7 +402,7 @@ The submission links are:
         <a href="https://www.aclweb.org/anthology/Q14-1032/" target="_blank">Kuhlmann and Satta (2014)</a></br>
         <a href="https://homepages.inf.ed.ac.uk/steedman/papers/ccg/ikdoz17.2.pdf" target="_blank">Mark Steedman's CCG slides</a></td>
       <td>
-      <a href="https://drive.google.com/file/d/1mK98TyTLHJD-SJJBkUMUH2_2dLcF1QkA/view?usp=sharing" target="_blank">Exercises</a>
+      <a href="https://drive.google.com/file/d/1mK98TyTLHJD-SJJBkUMUH2_2dLcF1QkA/view?usp=sharing" target="_blank">Exercises (last year)</a>
       </td>
     <tr>
       <td>28.11.2023</td>
@@ -420,7 +422,7 @@ The submission links are:
         <a href="https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf" target="_blank">Vaswani et al. (2017)</a></br>
         <a href="https://www.aclweb.org/anthology/W18-2509/">Rush (2018)</a></td>
       <td>
-      <a href="https://drive.google.com/file/d/1Lk6W6zaOSkVd4-tDl0r75x3PU1frmoU1/view?usp=sharing" target="_blank">Exercises</a>
+      <a href="https://drive.google.com/file/d/1Lk6W6zaOSkVd4-tDl0r75x3PU1frmoU1/view?usp=sharing" target="_blank">Exercises (last year)</a>
       </td>
     </tr>
     <tr>
@@ -439,7 +441,7 @@ The submission links are:
       <td>Review: Eisenstein Ch. 2</br>Goodfellow, Bengio and Courville Ch. 5 and 11</td>
       <td></td>
       <td>
-      <a href="https://drive.google.com/file/d/1ra2iP0f9HFCd2s9m0vouVuz39J-i42bZ/view?usp=sharing">Exercises</a>
+      <a href="https://drive.google.com/file/d/1ra2iP0f9HFCd2s9m0vouVuz39J-i42bZ/view?usp=sharing">Exercises (last year)</a>
       </td>
     </tr>
     <tr>
