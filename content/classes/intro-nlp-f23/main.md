@@ -21,6 +21,7 @@ The course constitutes an introduction to modern techniques in the field of natu
 
 **6.9.2023** &emsp; Class website is online!   
 **27.9.2023** &emsp; [Assignment 1](https://drive.google.com/file/d/1F5xqe5UYDiitKw_o8jV9Q67YkkgcJ6L1/view?usp=sharing) has been released!   
+**3.10.2023** &emsp; [Assignment 2](https://drive.google.com/file/d/17t21lma-oqr3vD55FIkWTQEYCjJayYD6/view?usp=sharing) has been released!   
 <!-- **19.9.2022** &emsp; [Assignment 1](https://drive.google.com/file/d/1DYHnHOWfVgPIfz0YhcfH_dMvNpN7ES8M/view?usp=sharing) has been released! See the [public github repository](https://github.com/rycolab/intro-nlp-f22) for the accompanying code.  
 **25.9.2022** &emsp; [Assignment 2](https://drive.google.com/file/d/1MLIRq5FTfCPcipY5ShQDWH5NzQlSlMHu/view?usp=sharing) has been released!  
 **25.9.2022** &emsp; [Recordings Polybox](https://polybox.ethz.ch/index.php/s/yuxFy1MWOHB6aGc?) has been created. The password can be found on Moodle.  
