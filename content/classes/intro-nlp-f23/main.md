@@ -131,7 +131,7 @@ Assignment sheets *from last year* (they will be updated for this year, but the 
 - [Assignment 5 (last year)](https://drive.google.com/file/d/1_3sBvw6tTQ31Gvvhbed1x7Y67XFPexWA/view?usp=share_link)  
 - [Assignment 6 (last year)](https://drive.google.com/file/d/1GRxEHIsJtZxbOa-V9hyG1RXKKtiaHnD6/view?usp=share_link)  
 
-The **code** relating to some of the assignments will be published on the [public github repository](https://github.com/rycolab/intro-nlp-f22). You should fork the repository and pull the incoming changes whenever they are released. 
+The **code** relating to some of the assignments will be published on the [public github repository](https://github.com/rycolab/intro-nlp-f23). You should fork the repository and pull the incoming changes whenever they are released. 
 
 **Very important:**
 *<u>We require the solutions to be properly typeset.</u>*
