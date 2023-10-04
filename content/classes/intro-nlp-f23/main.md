@@ -238,7 +238,7 @@ The submission links are:
     <tr>
       <td>3.10.2023</td>
       <td>Backpropagation</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1n2PVI0d6J7VouBEbEyMPetRyIlKARiqV/view?usp=sharing">Backpropagation Tutorial</a></td>
       <td></td>
       <td></td>
       <td></td>
