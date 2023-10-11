@@ -322,7 +322,7 @@ The submission links are:
     </tr>
     <tr>
       <td>31.10.2023</td>
-      <td>Part-of-Speech Tagging with CRFs</td>
+      <td>Part-of-Speech Tagging with CRFs, Assignment 2 introduction</td>
       <td></td>
       <td></td>
       <td></td>
@@ -530,28 +530,28 @@ The submission links are:
     <tr>
       <th scope="row">5</th>
       <td>25.10.2023</td>
-      <td>Simple Neural Networks and Sentiment Classification</td>
+      <td>Sentiment Classification with Multi-layer Perceptrons</td>
       <td>Luca Malagutti</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">6</th>
       <td>1.11.2023</td>
-      <td>Language Modeling, Assignment 2 introduction</td>
-      <td>Vasiliki Xefteri, David Wissel</td>
+      <td>Language Modeling with n-grams and LSTMs</td>
+      <td>Vasiliki Xefteri</td>
       <td><a href="https://drive.google.com/file/d/1Xv5pmNVhZUQmO_BehWn6DCpMwQWZOOPm/view?usp=share_link" target="_blank">Assignment 2 Slides</a></td>
     </tr>
     <tr>
       <th scope="row">7</th>
       <td>8.11.2023</td>
-      <td>Part-of-speech Tagging, Assignment 2 office hours</td>
+      <td>Part-of-speech Tagging with CRFs, Assignment 2 office hours</td>
       <td>Leonardo Nevali, David Wissel</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">8</th>
       <td>15.11.2023</td>
-      <td>Formal Language Theory, Transliteration, Assignment 3 introduction</td>
+      <td>Formal Language Theory and Transliteration with WFST, Assignment 3 introduction</td>
       <td>Franz Nowak, Vasiliki Xefteri</td>
       <td><a href="https://drive.google.com/file/d/12o9AwmW9wwzreday7kLs-7F63WwnFoTC/view?usp=share_link" target="_blank">Transliteration Slides</a></td>
     </tr>
@@ -579,14 +579,14 @@ The submission links are:
     <tr>
       <th scope="row">12</th>
       <td>13.12.2023</td>
-      <td>Machine Translation, Modern NLP, Assignment 6 introduction</td>
+      <td>Machine Translation with Transformers, Assignment 6 introduction</td>
       <td>Luca Malagutti, Giovanni Acampa</td>
       <td><a href="https://drive.google.com/file/d/1NaGwTjeG3BpptJsMWG_Tm7pjpAUOc7Zl/view?usp=share_link" target="_blank">Assignment 6 Slides</a></td>
     </tr>
     <tr>
       <th scope="row">13</th>
       <td>20.12.2023</td>
-      <td>Axes of Modeling, Statistics, Assignment 6 office hours</td>
+      <td>Axes of Modeling, Assignment 6 office hours</td>
       <td>Luca Malagutti, Giovanni Acampa</td>
       <td></td>
     </tr>
