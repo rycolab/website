@@ -269,11 +269,12 @@ The submission links are:
       <th rowspan=2 scope="row">4</th>
       <td>16.10.2023</td>
       <td>Sentiment Analysis with Multi-layer Perceptrons</td>
-      <td><a href="https://drive.google.com/file/d/1C3y8f4bn6lwBbb8OgqIP1TUyszYGOCRS/view?usp=sharing" target="_blank">Lecture 4 (last year)</a></td>
+      <td><a href="https://drive.google.com/file/d/1u_8Bnw1x8zr5vIo9gMUrv_DZGmnZDyFf/view?usp=sharing" target="_blank">Lecture 4</a></td>
       <td>Eisenstein Ch. 3 and Ch. 4</br>Goodfellow, Bengio and Courville Ch. 6</td>
       <td></td>
       <td>
-      <a href="https://drive.google.com/file/d/1pHL9KlaJehuKwKRtr6FWsxAmegS3hnIx/view?usp=sharing" target="_blank">Exercises (last year)</a></br>
+      <a href="https://drive.google.com/file/d/1GX3hIqHkbS3eUcN6r15ldzpjvYd9pKPY/view?usp=sharing" target="_blank">Week 4 Exercises</a></br>
+      <a href="https://drive.google.com/file/d/1fvzLIrG2cbKpa8SL17Pb24fhwPpbDmNn/view?usp=sharing" target="_blank">Week 4 Solutions</a></br>
       </td>
     </tr>
     <tr>
