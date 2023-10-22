@@ -270,7 +270,7 @@ The submission links are:
       <td>16.10.2023</td>
       <td>Sentiment Analysis with Multi-layer Perceptrons</td>
       <td><a href="https://drive.google.com/file/d/1u_8Bnw1x8zr5vIo9gMUrv_DZGmnZDyFf/view?usp=sharing" target="_blank">Lecture 4</a></td>
-      <td>Eisenstein Ch. 3 and Ch. 4</br>Goodfellow, Bengio and Courville Ch. 6</td>
+      <td>Eisenstein Ch. 3 and 4;</br>Goodfellow, Bengio and Courville Ch. 6</td>
       <td></td>
       <td>
       <a href="https://drive.google.com/file/d/1GX3hIqHkbS3eUcN6r15ldzpjvYd9pKPY/view?usp=sharing" target="_blank">Week 4 Exercises</a></br>
@@ -290,14 +290,15 @@ The submission links are:
       <td>23.10.2023</td>
       <td>Language Modeling with <em>n</em>-grams and LSTMs</td>
       <td><a href="https://drive.google.com/file/d/1Moq7Av5EoGxmZzryEixWBZNYh2-Cy826/view?usp=sharing" target="_blank">Lecture 5 (last year)</a></td>
-      <td>Eisenstein Ch. 6</br>Goodfellow, Bengio and Courville Ch. 10</td>
+      <td>Eisenstein Ch. 6;</br>Goodfellow, Bengio and Courville Ch. 10</td>
       <td><a href="https://nlp.stanford.edu/~wcmac/papers/20050421-smoothing-tutorial.pdf" target="_blank">Good Tutorial on n-gram smoothing</a></br>
         <a href="https://en.wikipedia.org/wiki/Good%E2%80%93Turing_frequency_estimation" target="_blank">Good–Turing Smoothing</a></br>
         <a href="https://ieeexplore.ieee.org/document/479394" target="_blank">Kneser and Ney (1995)</a></br>
         <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf" target="_blank">Bengio et al. (2003)</a></br>
         <a href="https://www.isca-speech.org/archive/archive_papers/interspeech_2010/i10_1045.pdf" target="_blank">Mikolov et al. (2010)</a></td>
       <td>
-      <a href="https://drive.google.com/file/d/10KrxoxmFXpqd40OLiH3owK1hBJ2OWTap/view?usp=sharing" target="_blank">Exercises (last year)</a>
+      <a href="https://drive.google.com/file/d/1RVjcVvZuNBpnYbl7VJBVrPtcRm6Ygmmv/view?usp=sharing" target="_blank">Week 5 Exercises</a></br>
+      <a href="https://drive.google.com/file/d/1l9dK6lP6ga_ERP8sc-Dscx-31zwVug_v/view?usp=sharing" target="_blank">Week 5 Solutions</a></br>
       </td>
     </tr>
     <tr>
@@ -444,7 +445,7 @@ The submission links are:
       <td>11.12.2023</td>
       <td>Axes of Modeling</td>
       <td><a href="https://drive.google.com/file/d/1TgpjZgz_bgnD6zy2rgnJgmGxFrnSxTTu/view?usp=share_link" target="_blank">Lecture 12 (last year)</a></td>
-      <td>Review: Eisenstein Ch. 2</br>Goodfellow, Bengio and Courville Ch. 5 and 11</td>
+      <td>Review Eisenstein Ch. 2;</br>Goodfellow, Bengio and Courville Ch. 5 and 11</td>
       <td></td>
       <td>
       <a href="https://drive.google.com/file/d/1ra2iP0f9HFCd2s9m0vouVuz39J-i42bZ/view?usp=sharing">Exercises (last year)</a>
