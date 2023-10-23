@@ -289,7 +289,7 @@ The submission links are:
       <th rowspan=2 scope="row">5</th>
       <td>23.10.2023</td>
       <td>Language Modeling with <em>n</em>-grams and LSTMs</td>
-      <td><a href="https://drive.google.com/file/d/1Moq7Av5EoGxmZzryEixWBZNYh2-Cy826/view?usp=sharing" target="_blank">Lecture 5 (last year)</a></td>
+      <td><a href="https://drive.google.com/file/d/1Cic9N87YLa_v1tzyLvYHroG3lVauY327/view?usp=sharing" target="_blank">Lecture 5</a></td>
       <td>Eisenstein Ch. 6;</br>Goodfellow, Bengio and Courville Ch. 10</td>
       <td><a href="https://nlp.stanford.edu/~wcmac/papers/20050421-smoothing-tutorial.pdf" target="_blank">Good Tutorial on n-gram smoothing</a></br>
         <a href="https://en.wikipedia.org/wiki/Good%E2%80%93Turing_frequency_estimation" target="_blank">Good–Turing Smoothing</a></br>
