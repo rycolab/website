@@ -23,6 +23,7 @@ The course constitutes an introduction to modern techniques in the field of natu
 **27.09.2023** &emsp; [Assignment 1](https://drive.google.com/file/d/1F5xqe5UYDiitKw_o8jV9Q67YkkgcJ6L1/view?usp=sharing) has been released!   
 **03.10.2023** &emsp; [Assignment 2](https://drive.google.com/file/d/17t21lma-oqr3vD55FIkWTQEYCjJayYD6/view?usp=sharing) has been released!   
 **12.10.2023** &emsp; [Assignment 3](https://drive.google.com/file/d/15zMNFKgnM-bjZZIBUaIRsko24xNoihOj/view?usp=sharing) has been released!   
+**25.10.2022** &emsp; [Assignment 4](https://drive.google.com/file/d/1xSRoDFd9Gv943RlzrJV_CKqXOTX5lCCT/view?usp=sharing) has been released!  
 <!-- **19.9.2022** &emsp; [Assignment 1](https://drive.google.com/file/d/1DYHnHOWfVgPIfz0YhcfH_dMvNpN7ES8M/view?usp=sharing) has been released! See the [public github repository](https://github.com/rycolab/intro-nlp-f22) for the accompanying code.  
 **25.9.2022** &emsp; [Assignment 2](https://drive.google.com/file/d/1MLIRq5FTfCPcipY5ShQDWH5NzQlSlMHu/view?usp=sharing) has been released!  
 **25.9.2022** &emsp; [Recordings Polybox](https://polybox.ethz.ch/index.php/s/yuxFy1MWOHB6aGc?) has been created. The password can be found on Moodle.  
@@ -125,10 +126,10 @@ The class assignments were crafted to dovetail nicely with the lecture contents 
 - [Assignment 1](https://drive.google.com/file/d/1F5xqe5UYDiitKw_o8jV9Q67YkkgcJ6L1/view?usp=sharing)  
 - [Assignment 2](https://drive.google.com/file/d/17t21lma-oqr3vD55FIkWTQEYCjJayYD6/view?usp=sharing)
 - [Assignment 3](https://drive.google.com/file/d/15zMNFKgnM-bjZZIBUaIRsko24xNoihOj/view?usp=sharing)
+- [Assignment 4](https://drive.google.com/file/d/1xSRoDFd9Gv943RlzrJV_CKqXOTX5lCCT/view?usp=sharing)
 
 Assignment sheets *from last year* (they will be updated for this year, but the content will not change drastically)
-  
-- [Assignment 4 (last year)](https://drive.google.com/file/d/1oSwLHYinFf24QK8a3EKSjUuBDh1I2mce/view?usp=share_link)  
+
 - [Assignment 5 (last year)](https://drive.google.com/file/d/1_3sBvw6tTQ31Gvvhbed1x7Y67XFPexWA/view?usp=share_link)  
 - [Assignment 6 (last year)](https://drive.google.com/file/d/1GRxEHIsJtZxbOa-V9hyG1RXKKtiaHnD6/view?usp=share_link)  
 
