@@ -313,7 +313,7 @@ The submission links are:
       <th rowspan=2 scope="row">6</th>
       <td>30.10.2023</td>
       <td>Part-of-Speech Tagging with CRFs</td>
-      <td><a href="https://drive.google.com/file/d/1yZINzQjeh69LVlll53zqNc8sMmkQPwIU/view?usp=share_link" target="_blank">Lecture 6 (last year)</a></td>
+      <td><a href="https://drive.google.com/file/d/1kLqlXrJhidEUn-KQPFNzB49B0ITjMPaS/view?usp=sharing" target="_blank">Lecture 6</a></td>
       <td>Eisenstein Ch. 7 and 8</td>
       <td><a href="https://timvieira.github.io/blog/post/2015/04/29/multiclass-logistic-regression-and-conditional-random-fields-are-the-same-thing/" target="_blank">Tim Vieira's Blog</a></br>
         <a href="https://dl.acm.org/doi/10.5555/645529.658277" target="_blank">McCallum et al. (2000)</a></br>
@@ -321,13 +321,14 @@ The submission links are:
         <a href="https://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf" target="_blank">Sutton and McCallum (2011)</a></br>
         <a href="https://mitpress.mit.edu/books/probabilistic-graphical-models" target="_blank">Koller and Friedman (2009)</a></td>
         <td>
-        <a href="https://drive.google.com/file/d/1-q7bz1kx89j2a8_8Yq--qXSVDzsy4YJb/view?usp=sharing" target="_blank">Exercises (last year)</a>
+        <a href="https://drive.google.com/file/d/10SbvXl_45fRDnMJO4n28gEA5lzmr3T_f/view?usp=sharing" target="_blank">Week 6 Exercises</a></br>
+        <a href="https://drive.google.com/file/d/1XrRd0BOE5YBGRNoIDqbO_jCiP9hBx_AQ/view?usp=sharing" target="_blank">Week 6 Solutions</a></br>
         </td>
     </tr>
     <tr>
       <td>31.10.2023</td>
       <td>Part-of-Speech Tagging with CRFs, Assignment 2 introduction</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1Xv5pmNVhZUQmO_BehWn6DCpMwQWZOOPm/view?usp=share_link" target="_blank">Assignment 2 Slides</a></td>
       <td></td>
       <td></td>
       <td></td>
@@ -543,7 +544,7 @@ The submission links are:
       <td>1.11.2023</td>
       <td>Language Modeling with n-grams and LSTMs</td>
       <td>Vasiliki Xefteri</td>
-      <td><a href="https://drive.google.com/file/d/1Xv5pmNVhZUQmO_BehWn6DCpMwQWZOOPm/view?usp=share_link" target="_blank">Assignment 2 Slides</a></td>
+      <td></td>
     </tr>
     <tr>
       <th scope="row">7</th>
