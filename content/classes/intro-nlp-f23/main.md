@@ -544,7 +544,7 @@ The submission links are:
       <td>1.11.2023</td>
       <td>Language Modeling with n-grams and LSTMs</td>
       <td>Vasiliki Xefteri</td>
-      <td></td>
+      <td><a href="https://docs.google.com/presentation/d/1zovGRqoxRb4UT34qMSPJf3ffLpLJUa8-VWyzkeRR1KI/edit?usp=sharing" target="_blank">Week 5 Exercise Slides</a></td>
     </tr>
     <tr>
       <th scope="row">7</th>
