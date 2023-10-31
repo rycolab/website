@@ -328,7 +328,7 @@ The submission links are:
     <tr>
       <td>31.10.2023</td>
       <td>Part-of-Speech Tagging with CRFs, Assignment 2 introduction</td>
-      <td><a href="https://drive.google.com/file/d/1Xv5pmNVhZUQmO_BehWn6DCpMwQWZOOPm/view?usp=share_link" target="_blank">Assignment 2 Slides</a></td>
+      <td><a href="https://drive.google.com/file/d/1nQxVE3wH5Q_dgKeQdUOxwsONd5B0DsQd/view?usp=sharing" target="_blank">Assignment 2 Slides</a></td>
       <td></td>
       <td></td>
       <td></td>
@@ -551,7 +551,7 @@ The submission links are:
       <td>8.11.2023</td>
       <td>Part-of-speech Tagging with CRFs, Assignment 2 office hours</td>
       <td>Leonardo Nevali, David Wissel</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1Xv5pmNVhZUQmO_BehWn6DCpMwQWZOOPm/view?usp=share_link" target="_blank">POS-Tagging Slides</a></td>
     </tr>
     <tr>
       <th scope="row">8</th>
