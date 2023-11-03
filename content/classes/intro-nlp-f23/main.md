@@ -343,7 +343,9 @@ The submission links are:
       <a href="https://www.aclweb.org/anthology/J98-4003.pdf" target="_blank">Knight and Graehl (1998)</a></br>
         <a href="https://cs.nyu.edu/~mohri/pub/hbka.pdf" target="_blank">Mohri, Pereira and Riley (2008)</a></td>
       <td>
-      <a href="https://drive.google.com/file/d/1zsJwrGte2375agRpa7TgV-Me-FaWhSvX/view?usp=sharing" target="_blank">Exercises (last year)</a>
+      <a href="https://drive.google.com/file/d/1wj2s7SZt5bApiuOPIflCqKlRQs3FwNJN/view?usp=sharing" target="_blank">Week 7 Exercises</a></br>
+      <a href="https://drive.google.com/file/d/1AjzUeAWS0JL5Hp_98UpUgWGRDoC-XWrW/view?usp=sharing" target="_blank">Week 7 Solutions</a></br>
+      </td>
       </td>
     </tr>
     <tr>
@@ -366,7 +368,8 @@ The submission links are:
         <a href="https://www.sciencedirect.com/science/article/pii/S001999586780007X?via%3Dihub" target="_blank">Younger (1967)</a></br>
         <a href="http://www.softwarepreservation.org/projects/FORTRAN/CockeSchwartz_ProgLangCompilers.pdf" target="_blank">Cocke and Schwartz (1970)</a></td>
       <td>
-      <a href="https://drive.google.com/file/d/1dHfSe9_JchHs-4LD4gUgDVrCwf1G4t4L/view?usp=sharing" target="_blank">Exercises (last year)</a>
+      <a href="https://drive.google.com/file/d/1VEW9oCM99lnmoD7GMxqMdmXY8tH3CS1B/view?usp=sharing" target="_blank">Week 8 Exercises</a></br>
+      <a href="https://drive.google.com/file/d/1FVbba9rTptr7t_M_8BK9AEIiILRrBXLl/view?usp=sharing" target="_blank">Week 8 Solutions</a></br>
       </td>
     </tr>
     <tr>
