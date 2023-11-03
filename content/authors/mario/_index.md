@@ -59,7 +59,7 @@ user_groups:
 - Current
 ---
 
-Mario is a postdoctoral researcher at ETH Zurich in the Institute for Machine Learning, Department of Computer Science, and a member of the ELLIS Society. He completed a PhD in computational linguistics at the University of Amsterdam, in the Institute for Logic, Language and Computation. He studies language use and evolution using tools from computer science, linguistics, and cognitive science. His topics of interest include language modelling, NLP interpretability and evaluation, natural language generation, computational semantics and pragmatics, language variation and change in communities of speakers.
+Mario is a postdoctoral researcher at ETH Zurich in the Institute for Machine Learning, Department of Computer Science, and a member of the ELLIS Society. He completed a PhD in computational linguistics at the University of Amsterdam, in the Institute for Logic, Language and Computation. Mario studies language use and evolution using tools from computer science, linguistics, and cognitive science. His topics of interest include language modelling, NLP interpretability and evaluation, natural language generation, computational semantics and pragmatics, language variation and change in communities of speakers.
 
 <!-- <img  class="avatar-small" src="seaa-turtle.jpg" style="float: center" />
  -->
