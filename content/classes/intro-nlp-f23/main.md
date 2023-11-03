@@ -337,7 +337,7 @@ The submission links are:
       <th rowspan=2 scope="row">7</th>
       <td>6.11.2023</td>
       <td>Transliteration with WFSTs</td>
-      <td><a href="https://drive.google.com/file/d/1utUER-oRhPFwLj49o-c1B09R6_od5NnI/view?usp=share_link" target="_blank">Lecture 7 (last year)</a></td>
+      <td><a href="https://drive.google.com/file/d/11Uoecz5i0__wCpKdxa7dnNDVN1gRZ-i7/view?usp=sharing" target="_blank">Lecture 7</a></td>
       <td>Eisenstein Ch. 9</td>
       <td><a href="https://rycolab.io/classes/aflt-s22/" target="_blank">AFLT Course Notes</a> Chapters 1, 2, and 3</br>
       <a href="https://www.aclweb.org/anthology/J98-4003.pdf" target="_blank">Knight and Graehl (1998)</a></br>
@@ -360,7 +360,7 @@ The submission links are:
       <th rowspan=2 scope="row">8</th>
       <td>13.11.2023</td>
       <td>Context-Free Parsing with CKY</td>
-      <td><a href="https://drive.google.com/file/d/1qhLuWMK6nEWO7Xubajx8WTpUZzZv2uQo/view?usp=share_link" target="_blank">Lecture 8 (last year)</a></td>
+      <td><a href="https://drive.google.com/file/d/15V4wHhRpFNK_tdbeMgBoRTCj6IG3OmIm/view?usp=sharing" target="_blank">Lecture 8</a></td>
       <td>Eisenstein Ch. 10</td>
       <td><a href="http://www.cs.columbia.edu/~mcollins/io.pdf" target="_blank">The Inside-Outside Algorithm</a></br>
         <a href="https://www.cs.jhu.edu/~jason/465/PowerPoint/lect08-parse.ppt" target="_blank">Jason Eisner’s Slides</a></br>
