@@ -40,6 +40,9 @@ social:
 - icon: portrait
   icon_pack: fas
   link: https://anejsvete.github.io/
+- icon: google
+  icon_pack: fab
+  link: https://scholar.google.com/citations?user=9ezEOeUAAAAJ&hl=en
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/anejsvete
