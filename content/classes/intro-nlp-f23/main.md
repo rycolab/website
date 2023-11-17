@@ -23,7 +23,8 @@ The course constitutes an introduction to modern techniques in the field of natu
 **27.09.2023** &emsp; [Assignment 1](https://drive.google.com/file/d/1F5xqe5UYDiitKw_o8jV9Q67YkkgcJ6L1/view?usp=sharing) has been released!   
 **03.10.2023** &emsp; [Assignment 2](https://drive.google.com/file/d/17t21lma-oqr3vD55FIkWTQEYCjJayYD6/view?usp=sharing) has been released!   
 **12.10.2023** &emsp; [Assignment 3](https://drive.google.com/file/d/15zMNFKgnM-bjZZIBUaIRsko24xNoihOj/view?usp=sharing) has been released!   
-**25.10.2022** &emsp; [Assignment 4](https://drive.google.com/file/d/1xSRoDFd9Gv943RlzrJV_CKqXOTX5lCCT/view?usp=sharing) has been released!  
+**25.10.2023** &emsp; [Assignment 4](https://drive.google.com/file/d/1xSRoDFd9Gv943RlzrJV_CKqXOTX5lCCT/view?usp=sharing) has been released!  
+**17.11.2023** &emsp; [Assignment 5](https://drive.google.com/file/d/1ax_YXo-HO48B7GxI-jXFQ9k9Z0JCOmFE/view?usp=sharing) has been released!  
 <!-- **19.9.2022** &emsp; [Assignment 1](https://drive.google.com/file/d/1DYHnHOWfVgPIfz0YhcfH_dMvNpN7ES8M/view?usp=sharing) has been released! See the [public github repository](https://github.com/rycolab/intro-nlp-f22) for the accompanying code.  
 **25.9.2022** &emsp; [Assignment 2](https://drive.google.com/file/d/1MLIRq5FTfCPcipY5ShQDWH5NzQlSlMHu/view?usp=sharing) has been released!  
 **25.9.2022** &emsp; [Recordings Polybox](https://polybox.ethz.ch/index.php/s/yuxFy1MWOHB6aGc?) has been created. The password can be found on Moodle.  
@@ -127,10 +128,10 @@ The class assignments were crafted to dovetail nicely with the lecture contents 
 - [Assignment 2](https://drive.google.com/file/d/17t21lma-oqr3vD55FIkWTQEYCjJayYD6/view?usp=sharing)
 - [Assignment 3](https://drive.google.com/file/d/15zMNFKgnM-bjZZIBUaIRsko24xNoihOj/view?usp=sharing)
 - [Assignment 4](https://drive.google.com/file/d/1xSRoDFd9Gv943RlzrJV_CKqXOTX5lCCT/view?usp=sharing)
+- [Assignment 5](https://drive.google.com/file/d/1ax_YXo-HO48B7GxI-jXFQ9k9Z0JCOmFE/view?usp=sharing)
 
 Assignment sheets *from last year* (they will be updated for this year, but the content will not change drastically)
 
-- [Assignment 5 (last year)](https://drive.google.com/file/d/1_3sBvw6tTQ31Gvvhbed1x7Y67XFPexWA/view?usp=share_link)  
 - [Assignment 6 (last year)](https://drive.google.com/file/d/1GRxEHIsJtZxbOa-V9hyG1RXKKtiaHnD6/view?usp=share_link)  
 
 The **code** relating to some of the assignments will be published on the [public github repository](https://github.com/rycolab/intro-nlp-f23). You should fork the repository and pull the incoming changes whenever they are released. 
@@ -386,14 +387,15 @@ The submission links are:
       <th rowspan=2 scope="row">9</th>
       <td>20.11.2023</td>
       <td>Dependency Parsing with the Matrix-Tree Theorem</td>
-      <td><a href="https://drive.google.com/file/d/1PGlTMbhAlVEFiOMb8x2df5saoBveCDTn/view?usp=share_link" target="_blank">Lecture 9 (last year)</a></td>
+      <td><a href="https://drive.google.com/file/d/1-K34jVzPMeFoaIAeuCa-hA_LXX0AmbWC/view?usp=sharing" target="_blank">Lecture 9</a></td>
       <td>Eisenstein Ch. 11</td>
       <td><a href="https://www.aclweb.org/anthology/D07-1015/" target="_blank">Koo et al. (2007)</a></br>
         <a href="https://www.aclweb.org/anthology/D07-1014/" target="_blank">Smith and Smith (2007)</a></br>
         <a href="https://www.aclweb.org/anthology/W07-2216/" target="_blank">McDonald and Satta (2007)</a></br>
         <a href="https://www.morganclaypool.com/doi/abs/10.2200/S00169ED1V01Y200901HLT002" target="_blank">McDonald, Kübler and Nivre (2009)</a></td>
       <td>
-      <a href="https://drive.google.com/file/d/1jd3FNdPrDkLQ7TB75svham8WDPqNmpxo/view?usp=sharing" target="_blank">Exercises (last year)</a>
+      <a href="https://drive.google.com/file/d/1KvECUjnpZ3K_BsYPNIkLkgzYeKrpRoF3/view?usp=sharing" target="_blank">Week 9 Exercises</a></br>
+      <a href="https://drive.google.com/file/d/1FRwlEZ1mu-M6gbI-mGoBVmrh2DBxjXvd/view?usp=sharing" target="_blank">Week 9 Solutions</a></br>
       </td>
     </tr>
     <tr>
@@ -408,13 +410,14 @@ The submission links are:
       <th rowspan=2 scope="row">10</th>
       <td>27.11.2023</td>
       <td>Semantic Parsing with CCGs</td>
-      <td><a href="https://drive.google.com/file/d/1Qhl7nEu1pd0h0yFVTJmnDtRloGpuEt4a/view?usp=share_link" target="_blank">Lecture 10 (last year)</a></td>
+      <td><a href="https://drive.google.com/file/d/1p8RMDkdr0V2dY3W5S3Nz5p5_UM-uEfM8/view?usp=sharing" target="_blank">Lecture 10</a></td>
       <td>Eisenstein Ch. 9.3 and 12</td>
       <td><a href="https://www.aclweb.org/anthology/P88-1034/" target="_blank">Weir and Joshi (1988)</a></br>
         <a href="https://www.aclweb.org/anthology/Q14-1032/" target="_blank">Kuhlmann and Satta (2014)</a></br>
         <a href="https://homepages.inf.ed.ac.uk/steedman/papers/ccg/ikdoz17.2.pdf" target="_blank">Mark Steedman's CCG slides</a></td>
       <td>
-      <a href="https://drive.google.com/file/d/1mK98TyTLHJD-SJJBkUMUH2_2dLcF1QkA/view?usp=sharing" target="_blank">Exercises (last year)</a>
+      <a href="https://drive.google.com/file/d/1fSW7aXckr9LCtIb8gSOXu6AOUWl98cLA/view?usp=sharing" target="_blank">Week 10 Exercises</a></br>
+      <a href="https://drive.google.com/file/d/1RrYKdyfT-kt9Iu-1Ukx0VwdoZ-PzTYeI/view?usp=sharing" target="_blank">Week 10 Solutions</a></br>
       </td>
     <tr>
       <td>28.11.2023</td>
@@ -561,21 +564,21 @@ The submission links are:
       <td>15.11.2023</td>
       <td>Formal Language Theory and Transliteration with WFST, Assignment 3 introduction</td>
       <td>Franz Nowak, Vasiliki Xefteri</td>
-      <td><a href="https://drive.google.com/file/d/12o9AwmW9wwzreday7kLs-7F63WwnFoTC/view?usp=share_link" target="_blank">Transliteration Slides</a></td>
+      <td><a href="https://drive.google.com/file/d/1cPqOYRMKeeUwvpS6kc1SzbZa7z5y_HpF/view?usp=sharing" target="_blank">Transliteration Slides</a></td>
     </tr>
     <tr>
       <th scope="row">9</th>
       <td>22.11.2023</td>
       <td>Context-free Parsing, Assignment 4 introduction, Assignment 3 office hours</td>
       <td>Maximilian Schneiderbauer, Alexandra Butoi, Franz Nowak, Vasiliki Xefteri</td>
-      <td><a href="https://drive.google.com/file/d/1wxabDwwzZWnzSXBaOmRmrYEzqh1lEbxa/view?usp=share_link" target="_blank">Assignment 4 Slides</a></td>
+      <td><a href="https://drive.google.com/file/d/1x9DbKseRXleLUDQqopAmV5-ipvbGgHxu/view?usp=sharing" target="_blank">Assignment 4 Slides</a></td>
     </tr>
     <tr>
       <th scope="row">10</th>
       <td>29.11.2023</td>
       <td>Dependency Parsing, Assignment 5 introduction, Assignment 4 office hours</td>
       <td>Tianyu Liu, Eleftheria Tsipidi, Alexandra Butoi, Maximilian Schneiderbauer</td>
-      <td><a href="https://drive.google.com/file/d/1cPqOYRMKeeUwvpS6kc1SzbZa7z5y_HpF/view?usp=share_link" target="_blank">Assignment 5 Slides</a></td>
+      <td><a href="https://drive.google.com/file/d/1cPqOYRMKeeUwvpS6kc1SzbZa7z5y_HpF/view?usp=sharing" target="_blank">Assignment 5 Slides (last year)</a></td>
     </tr>
     <tr>
       <th scope="row">11</th>
