@@ -592,7 +592,7 @@ The submission links are:
       <td>13.12.2023</td>
       <td>Machine Translation with Transformers, Assignment 6 introduction</td>
       <td>Luca Malagutti, Giovanni Acampa</td>
-      <td><a href="https://drive.google.com/file/d/1NaGwTjeG3BpptJsMWG_Tm7pjpAUOc7Zl/view?usp=share_link" target="_blank">Assignment 6 Slides</a></td>
+      <td><a href="https://drive.google.com/file/d/1NaGwTjeG3BpptJsMWG_Tm7pjpAUOc7Zl/view?usp=share_link" target="_blank">Assignment 6 Slides (last year)</a></td>
     </tr>
     <tr>
       <th scope="row">13</th>
