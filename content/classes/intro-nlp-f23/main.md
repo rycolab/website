@@ -564,7 +564,7 @@ The submission links are:
       <td>15.11.2023</td>
       <td>Formal Language Theory and Transliteration with WFST, Assignment 3 introduction</td>
       <td>Franz Nowak, Vasiliki Xefteri</td>
-      <td><a href="https://drive.google.com/file/d/1cPqOYRMKeeUwvpS6kc1SzbZa7z5y_HpF/view?usp=sharing" target="_blank">Transliteration Slides</a></td>
+      <td><a href="https://drive.google.com/file/d/1SZPWaaRUlNX2SiuXIKn_bk0tqkYoSzOs/view?usp=sharing" target="_blank">Transliteration Slides</a></td>
     </tr>
     <tr>
       <th scope="row">9</th>
