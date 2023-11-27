@@ -429,13 +429,14 @@ The submission links are:
       <th rowspan=2 scope="row">11</th>
       <td>4.12.2023</td>
       <td>Machine Translation with Transformers</td>
-      <td><a href="https://drive.google.com/file/d/1C3sETXzMNKJxIJs9DDOUe5tl1TCyrOdB/view?usp=share_link" target="_blank">Lecture 11 (last year)</a></td>
+      <td><a href="https://drive.google.com/file/d/1TArZaSvKqwbuY2GI-GcETunEM-BYI2bi/view?usp=sharing" target="_blank">Lecture 11</a></td>
       <td>Eisenstein Ch. 18</td>
       <td><a href="https://www.amazon.com/gp/product/1108497322/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1108497322&linkCode=as2&tag=statismachint-20&linkId=ca7b8315b48f309c992019761c3ac4e4" target="_blank">Neural Machine Translation</a></br>
         <a href="https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf" target="_blank">Vaswani et al. (2017)</a></br>
         <a href="https://www.aclweb.org/anthology/W18-2509/">Rush (2018)</a></td>
       <td>
-      <a href="https://drive.google.com/file/d/1Lk6W6zaOSkVd4-tDl0r75x3PU1frmoU1/view?usp=sharing" target="_blank">Exercises (last year)</a>
+      <a href="https://drive.google.com/file/d/13MPH4LAvLNy2utqUBrwDd1hOM7jckUXF/view?usp=sharing" target="_blank">Week 11 Exercises</a></br>
+      <a href="https://drive.google.com/file/d/1xTmmkui3hCOQammD2xCyy-09WiOQj1ar/view?usp=sharing" target="_blank">Week 11 Solutions</a></br>
       </td>
     </tr>
     <tr>
@@ -450,11 +451,12 @@ The submission links are:
       <th rowspan=2 scope="row">12</th>
       <td>11.12.2023</td>
       <td>Axes of Modeling</td>
-      <td><a href="https://drive.google.com/file/d/1TgpjZgz_bgnD6zy2rgnJgmGxFrnSxTTu/view?usp=share_link" target="_blank">Lecture 12 (last year)</a></td>
+      <td><a href="https://drive.google.com/file/d/19CthXJuzRWKBJLmSfVB8Gc36bR2avd6v/view?usp=sharing" target="_blank">Lecture 12</a></td>
       <td>Review Eisenstein Ch. 2;</br>Goodfellow, Bengio and Courville Ch. 5 and 11</td>
       <td></td>
       <td>
-      <a href="https://drive.google.com/file/d/1ra2iP0f9HFCd2s9m0vouVuz39J-i42bZ/view?usp=sharing">Exercises (last year)</a>
+      <a href="https://drive.google.com/file/d/1pdqX51TkndrSl251B_cOeqq2_xL1YadD/view?usp=sharing" target="_blank">Week 12 Exercises</a></br>
+      <a href="https://drive.google.com/file/d/1cQsKPpcyS_yT3l3ZvVsSUPVAaIP-1PGz/view?usp=sharing" target="_blank">Week 12 Solutions</a></br>
       </td>
     </tr>
     <tr>
@@ -469,7 +471,7 @@ The submission links are:
       <th rowspan=2 scope="row">13</th>
       <td>18.12.2023</td>
       <td>Bias and Fairness in NLP</td>
-      <td><a href="https://drive.google.com/file/d/1ySF5gvhQs1XWKfvNO7jChTmjssWr14bW/view?usp=share_link" target="_blank">Lecture 13 (last year)</a></td>
+      <td><a href="https://drive.google.com/file/d/1IGfkdvHS9arlkO9uK9H-75bzL0VDzqG8/view?usp=sharing" target="_blank">Lecture 13</a></td>
       <td></td>
       <td><a href="https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf" target="_blank">Bolukabasi et al. (2016)</a></br>
         <a href="https://arxiv.org/abs/1903.03862" target="_blank">Gonen and Goldberg (2019)</a></br>
