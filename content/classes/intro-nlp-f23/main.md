@@ -82,7 +82,7 @@ The full list is:
 - [Assignment 2 Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2F2Eq7ne)
 - [Assignment 3 Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FNzD42A)
 - [Assignment 4 Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FsCDHYS)
-- [Assignment 5 Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FYJ6Xf5)
+- [Assignment 5 Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2Fu59Qt6)
 - [Assignment 6 Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2F84LC6L)
 - [Channel for Finding Assignment/Project Partners](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FYzJXF2) for finding teammates for the course assignments and the project.
 
