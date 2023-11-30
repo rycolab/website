@@ -578,7 +578,7 @@ The submission links are:
       <td>29.11.2023</td>
       <td>Dependency Parsing, Assignment 5 introduction, Assignment 4 office hours</td>
       <td>Tianyu Liu, Eleftheria Tsipidi, Alexandra Butoi, Maximilian Schneiderbauer</td>
-      <td><a href="https://drive.google.com/file/d/1cPqOYRMKeeUwvpS6kc1SzbZa7z5y_HpF/view?usp=sharing" target="_blank">Assignment 5 Slides (last year)</a></td>
+      <td><a href="https://drive.google.com/file/d/1tmOMg_TsZoCdOWBrplaIywHvT_nXN5_1/view?usp=sharing" target="_blank">Assignment 5 Slides</a></td>
     </tr>
     <tr>
       <th scope="row">11</th>

@@ -14,7 +14,7 @@ profile = false
 
 +++
 
-**Time:** Friday 10:30-12:00 Hybrid
+**Time:** Wednesday 10:30-12:00 Hybrid
 
 
 ## Reading List 2023
@@ -27,6 +27,10 @@ profile = false
 
 | Date      | Presenter |  | Title | Slides |
 | ----------- | ----------- | ----------- |----------- |--------- |
+| <nobr> December 6 </nobr> | Wayne | | Breaking the Watermark (Master's thesis) | |
+| <nobr> November 29 </nobr> | Ivan | | Complexity of deterministic automata | |
+| <nobr> November 1 </nobr> | Franz | | Computational expressivity of RNN language models | |
+| <nobr> October  30 </nobr> | Clara & Zeerak | | "Closing our eyes": ethical responsibilities in NLP research | |
 | <nobr> August 30 </nobr> | Lukas | | The Prosody Playbook | |
 | <nobr> August 2 </nobr> | Theodor | | Acquiring Linguistic Knowledge from Multimodal Input (Thesis) | |
 | <nobr> July 19 </nobr> | Luca | | Divergence functions for NLG (Thesis) | |
