@@ -557,14 +557,14 @@ The submission links are:
       <td>8.11.2023</td>
       <td>Part-of-speech Tagging with CRFs, Assignment 2 office hours</td>
       <td>Leonardo Nevali, David Wissel</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1nQxVE3wH5Q_dgKeQdUOxwsONd5B0DsQd/view?usp=sharing" target="_blank">Assignment 2 Slides</a></td>
     </tr>
     <tr>
       <th scope="row">8</th>
       <td>15.11.2023</td>
       <td>Formal Language Theory and Transliteration with WFST, Assignment 3 introduction</td>
       <td>Franz Nowak, Vasiliki Xefteri</td>
-      <td><a href="https://drive.google.com/file/d/1SZPWaaRUlNX2SiuXIKn_bk0tqkYoSzOs/view?usp=sharing" target="_blank">Transliteration Slides</a></td>
+      <td><a href="https://drive.google.com/file/d/1SZPWaaRUlNX2SiuXIKn_bk0tqkYoSzOs/view?usp=sharing" target="_blank">Assignment 3 Slides</a></td>
     </tr>
     <tr>
       <th scope="row">9</th>
