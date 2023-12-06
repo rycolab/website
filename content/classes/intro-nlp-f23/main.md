@@ -431,9 +431,11 @@ The submission links are:
       <td>Machine Translation with Transformers</td>
       <td><a href="https://drive.google.com/file/d/1TArZaSvKqwbuY2GI-GcETunEM-BYI2bi/view?usp=sharing" target="_blank">Lecture 11</a></td>
       <td>Eisenstein Ch. 18</td>
-      <td><a href="https://www.amazon.com/gp/product/1108497322/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1108497322&linkCode=as2&tag=statismachint-20&linkId=ca7b8315b48f309c992019761c3ac4e4" target="_blank">Neural Machine Translation</a></br>
+      <td>
         <a href="https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf" target="_blank">Vaswani et al. (2017)</a></br>
-        <a href="https://www.aclweb.org/anthology/W18-2509/">Rush (2018)</a></td>
+        <a href="http://nlp.seas.harvard.edu/annotated-transformer/">The Annotated Transformer</a></br>
+        <a href="https://jalammar.github.io/illustrated-transformer/">The Illustrated Transformer</a></br>
+        <a href="https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/">The Transformer Family</a></td>
       <td>
       <a href="https://drive.google.com/file/d/13MPH4LAvLNy2utqUBrwDd1hOM7jckUXF/view?usp=sharing" target="_blank">Week 11 Exercises</a></br>
       <a href="https://drive.google.com/file/d/1xTmmkui3hCOQammD2xCyy-09WiOQj1ar/view?usp=sharing" target="_blank">Week 11 Solutions</a></br>
