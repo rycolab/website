@@ -15,8 +15,8 @@ authors:
 tags: []
 categories: []
 date: '2023-07-01'
-lastmod: 2023-07-09T16:30:24+02:00
-featured: true
+lastmod: 2023-12-20T23:53:28+01:00
+featured: false
 draft: false
 
 # Featured image
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-09T15:59:37.389650Z'
+publishDate: '2023-12-20T23:16:47.287310Z'
 publication_types:
 - '1'
 abstract: Several recent papers claim to have achieved human parity at sentence-level

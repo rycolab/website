@@ -11,7 +11,7 @@ authors:
 - Ryan Cotterell
 tags: []
 categories: []
-date: '2022-01-01'
+date: '2023-07-01'
 lastmod: 2022-11-21T00:29:32+01:00
 featured: false
 draft: false
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-09T14:51:08.626130Z'
+publishDate: '2023-12-20T23:16:50.992935Z'
 publication_types:
 - '2'
 abstract: 'Probing has become a go-to methodology for interpreting and analyzing deep

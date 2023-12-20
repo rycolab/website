@@ -12,7 +12,7 @@ tags: []
 categories: []
 date: '2023-05-01'
 lastmod: 2023-07-09T16:30:23+02:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-09T15:59:35.821354Z'
+publishDate: '2023-12-20T23:16:45.713047Z'
 publication_types:
 - '1'
 abstract: 'Sentiment analysis has become a central tool in various disciplines outside

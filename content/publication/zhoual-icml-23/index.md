@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Controllable Text Generation with Natural Language Instructions
+title: Controlled Text Generation with Natural Language Instructions
 subtitle: ''
 summary: ''
 authors:
@@ -14,7 +14,7 @@ tags: []
 categories: []
 date: '2023-01-01'
 lastmod: 2023-07-09T16:30:28+02:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-09T15:59:40.038391Z'
+publishDate: '2023-12-20T23:16:49.949123Z'
 publication_types:
 - '1'
 abstract: Large language models generate fluent texts and can follow natural language

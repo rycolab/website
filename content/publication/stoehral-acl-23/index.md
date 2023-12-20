@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: An Ordinal Latent Variable Model for Conflict Intensity
+title: An Ordinal Latent Variable Model of Conflict Intensity
 subtitle: ''
 summary: ''
 authors:
@@ -15,7 +15,7 @@ tags: []
 categories: []
 date: '2023-07-01'
 lastmod: 2023-07-09T16:30:26+02:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-09T15:59:39.764787Z'
+publishDate: '2023-12-20T23:16:49.684314Z'
 publication_types:
 - '1'
 abstract: Measuring the intensity of events is crucial for monitoring and tracking

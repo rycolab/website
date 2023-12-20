@@ -13,7 +13,7 @@ tags: []
 categories: []
 date: '2023-04-01'
 lastmod: 2023-07-09T16:30:22+02:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-09T15:59:35.561652Z'
+publishDate: '2023-12-20T23:16:45.450658Z'
 publication_types:
 - '1'
 abstract: "Many dynamical systems in the real world are naturally described by latent\

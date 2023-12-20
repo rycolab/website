@@ -10,7 +10,7 @@ authors:
 - Ryan Cotterell
 tags: []
 categories: []
-date: '2022-01-01'
+date: '2023-01-01'
 lastmod: 2022-11-21T00:29:32+01:00
 featured: false
 draft: false
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-09T14:51:09.180668Z'
+publishDate: '2023-12-20T23:16:51.508343Z'
 publication_types:
 - '2'
 abstract: Every legal case sets a precedent by devel- oping the law in one of the
@@ -48,4 +48,7 @@ abstract: Every legal case sets a precedent by devel- oping the law in one of th
   that there is still plenty of room to grow when it comes to modelling law.
 publication: '*Transactions of the Association for Computational Linguistics*'
 url_pdf: papers/valvoda+al.tacl22.pdf
+links:
+- name: URL
+  url: https://arxiv.org/abs/2208.08225
 ---

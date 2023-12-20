@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A Measure-theoretic Characterzation of Tight Language Model
+title: A Measure-theoretic Characterization of Tight Language Model
 subtitle: ''
 summary: ''
 authors:
@@ -15,7 +15,7 @@ tags: []
 categories: []
 date: '2023-07-01'
 lastmod: 2023-07-09T17:59:38+02:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-09T15:59:38.440620Z'
+publishDate: '2023-12-20T23:16:48.341353Z'
 publication_types:
 - '1'
 abstract: Language modeling, a central task in natural language processing, involves

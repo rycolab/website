@@ -60,6 +60,7 @@ def parse_headers(headers, bib_attribute_map = BIB_ATTRIBUTE_MAP):
       invalid_columns[i] = header.strip()
 
   if KEY not in valid_columns.values():
+    print(KEY, headers)
     import ipdb; ipdb.set_trace()
     raise CSVParseError('no key column found')
 
@@ -180,7 +181,7 @@ def csv_to_bib(csv_file, delimiter):
 
 def main(argv):
   failure = 0
-  delimiter = '\t'
+  delimiter = ','
 
   try:
     opts, csv_files = getopt.getopt(argv,"-d:")
@@ -204,7 +205,7 @@ def main(argv):
         with open(file_name, 'w') as f:
           f.write(bib)
         command = ['academic', 'import','--overwrite', '--bibtex', file_name ]
-        featured = True
+        # featured = True
         if featured:
           command.append('--featured')
         subprocess.run(command)

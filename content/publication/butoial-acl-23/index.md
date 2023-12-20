@@ -12,7 +12,7 @@ tags: []
 categories: []
 date: '2023-07-01'
 lastmod: 2023-07-09T16:30:26+02:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-09T15:59:39.237561Z'
+publishDate: '2023-12-20T23:16:49.153117Z'
 publication_types:
 - '1'
 abstract: Weir has defined a hierarchy of language classes whose second member ($mathcalL_2$)

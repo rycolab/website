@@ -13,7 +13,7 @@ tags: []
 categories: []
 date: '2023-07-01'
 lastmod: 2023-07-09T16:30:26+02:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-09T15:59:39.498723Z'
+publishDate: '2023-12-20T23:16:49.416216Z'
 publication_types:
 - '1'
 abstract: 'Sampling-based decoding strategies are widely employed for generating text
@@ -51,4 +51,7 @@ abstract: 'Sampling-based decoding strategies are widely employed for generating
   higher sequence-level quality scores, specifically, Mauve.'
 publication: '*Proceedings of the 61th Annual Meeting of the Association for Computational
   Linguistics (Volume 1: Long Papers)*'
+links:
+- name: URL
+  url: https://arxiv.org/abs/2307.03749
 ---

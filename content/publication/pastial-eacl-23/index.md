@@ -15,7 +15,7 @@ tags: []
 categories: []
 date: '2023-05-01'
 lastmod: 2023-07-09T16:30:23+02:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-09T15:59:36.087353Z'
+publishDate: '2023-12-20T23:16:45.978891Z'
 publication_types:
 - '1'
 abstract: The Bar-Hillel construction is a classic result in formal language theory.
