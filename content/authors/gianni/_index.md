@@ -50,6 +50,7 @@ email: ""
 user_groups:
 - Members
 - Current
+- PhD Students
 - Philosophy of Language and Computation Lecturers
 - Teaching Assistants NLP F23
 ---

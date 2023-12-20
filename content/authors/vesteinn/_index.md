@@ -59,6 +59,7 @@ email: ""
 user_groups:
 - Members
 - Current
+- PhD Students
 ---
 
 Vésteinn is a PhD student at the University of Copenhagen. His thesis project spans the boundaries of computer vision and natural language processing where he hopes to analyse images using language. His advisors are Serge Belongie at the University of Copenhagen and Ryan Cotterell at ETH Zürich. He is also affiliated with Icelandic language technology company Miðeind ehf. In the last couple of years his work has focused on question answering for Icelandic (dataset, OpenQA), neural machine translation and language modeling for Icelandic.

@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Visiting Fulbright Scholar
+role: PhD Students
 
 # Organizations/Affiliations
 organizations:
@@ -50,7 +50,8 @@ email: ""
 user_groups:
 - Members
 - Current
+- PhD Students
 ---
-Kevin is a visiting Fulbright Research Scholar from the US, supervised by Ryan. He is interested in developing explainability methods for NLP. Previously, he graduated with his Bachelor's + Master's degrees from Brown University and worked as an applied ML engineer at Flatiron Health.  
+Kevin is a PhD student at ETH Zürich. He is interested in developing explainability methods for NLP. Previously, he graduated with his Bachelor's + Master's degrees from Brown University and worked as an applied ML engineer at Flatiron Health.  
 
 Native Language: English

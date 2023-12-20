@@ -48,7 +48,7 @@ subtitle = ""
   extensions = ["hardLineBreak"]
 
 +++
-* **09/07/23** Rycolab papers at ACL 2023:
+<!-- * **09/07/23** Rycolab papers at ACL 2023:
   - [Log-Linear Guardedness and Its Implications](/publication/ravfogelal-acl-23)
   &emsp;**<sup>Shauli Ravfogel, Yoav Goldberg, Ryan Cotterell</sup>**
   - [Discourse-Centric Evaluation of Document-level Machine Translation with a New Densely Annotated Parallel Corpus of Novels](/publication/jiangal-ac-23/)
@@ -73,7 +73,7 @@ subtitle = ""
   &emsp;**<sup>Niklas Stoehr, Lucas Torroba Hennigen, Josef Valvoda, Robert West, Ryan Cotterell, Aaron Schein</sup>**
   - [A Formal Perspective on Byte-Pair Encoding](/publication/zouharal-acl-findings-23)
   &emsp;**<sup>Vilém Zouhar, Clara Meister, Juan Gastaldi, Li Du, Tim Vieira, Mrinmaya Sachan, Ryan Cotterell</sup>**
-  
+   -->
 * **13/02/23**  [Ryan](/authors/ryan/) is giving an invited [talk](https://drive.google.com/file/d/1iAfblCndQyVB0L3DhRSYVmnGqfoa_U8q/view?usp=share_link) at the [Dagstuhl Seminar](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23072).
 * **19/07/22**  David Mortensen (CMU) is giving an invited [talk](/talk/mortensen-jul-19-22)
 * **04/07/22**  Noga Zaslavsky (MIT) is giving an invited [talk](/talk/zaslavsky-jul-4-22)

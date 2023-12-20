@@ -47,6 +47,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Members
+- PhD Students
 - Teaching Assistants AFLT
 - Teaching Assistants NLP F22
 - Teaching Assistants NLP F23

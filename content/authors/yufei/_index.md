@@ -54,6 +54,7 @@ email: ""
 user_groups:
 - Members
 - Current
+- PhD Students
 ---
 Yufei is an incoming PhD student and a third-year undergraduate student in the École Polytechnique, France, double-majoring in mathematics and computer science. She is supervised by Ryan for the ETH Zürich Summer Student Research Fellowship. She is currently working on removing gender bias from contextual word representations.
 

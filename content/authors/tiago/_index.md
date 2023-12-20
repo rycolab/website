@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
@@ -63,14 +63,15 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Members
-- Tutorial Leaders
+- Senior
 - Current
+- Tutorial Leaders
 - Large Language Models Guest Lecturers
 - Tutorial  Leaders
 - TAs
 ---
 
-Tiago is a PhD student in Computer Science at the University of Cambridge, where he is supervised by Ryan and Simone. At the moment, Tiago is mainly interested in information theory and its application to the study of machine learning models and linguistics. To this end, he has recently been dabbling in information-theoretic linguistics and probing.
+Tiago is a Postdoc at ETH Zürich. At the moment, Tiago is mainly interested in information theory and its application to the study of machine learning models and linguistics. To this end, he has recently been dabbling in information-theoretic linguistics and probing.
 
 Native Language: Portuguese
 

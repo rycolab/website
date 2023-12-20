@@ -52,7 +52,7 @@ user_groups:
 - Teaching Assistants NLP F23
 - Large Language Models Teaching Assistants
 - Tutorial Leaders
-- Current
+# - Current
 ---
 
 Luca is a Research Assistant with Ryan at ETH Zurich. He completed his Bachelor’s degree in Computer Engineering at the Polytechnic University of Milan and his Master’s degree in Computer Science at ETH Zurich.

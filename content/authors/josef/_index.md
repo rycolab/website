@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
-- name: University of Cambridge
-  url: "https://www.cam.ac.uk/"
+- name: University of Copenhagen
+  url: "https://www.ku.dk/english/"
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -59,8 +59,8 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Members
-- Current
+- Alumna
 ---
-Josef is a second-year PhD student at the University of Cambridge supervised by Simone Teufel and Ryan. Before joining Rycolab, he completed the MPhil in Advanced Computer Science at the University of Cambridge. Before that, he obtained a Bachelor of Law at the University of Exeter. He is interested in legal document information retrieval. In his spare time he likes to boulder.
+<!-- Josef is a second-year PhD student at the University of Cambridge supervised by Simone Teufel and Ryan. Before joining Rycolab, he completed the MPhil in Advanced Computer Science at the University of Cambridge. Before that, he obtained a Bachelor of Law at the University of Exeter. He is interested in legal document information retrieval. In his spare time he likes to boulder. -->
 
-Native Language: Czech
+<!-- Native Language: Czech -->
