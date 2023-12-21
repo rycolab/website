@@ -15,7 +15,7 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Copenhagen
+- name: University of Copenhagen (ELLIS)
   url: "https://www.ku.dk/"
 
 # Short bio (displayed in user profile at end of posts)
