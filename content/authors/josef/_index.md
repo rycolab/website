@@ -14,8 +14,9 @@ role: Alumnus
 
 # Organizations/Affiliations
 organizations:
-- name: University of Cambridge
-  url: "https://www.cam.ac.uk/"
+- name: University of Cambridge 
+- name: Postdoc at University of Copenhagen
+  # url: "https://www.cam.ac.uk/"
 
 
 # Short bio (displayed in user profile at end of posts)

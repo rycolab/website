@@ -17,6 +17,7 @@ role: Alumnus # PhD Student
 organizations:
 - name: University of Cambridge
   url: "https://www.cam.ac.uk/"
+- name: JP Morgan Chase
 
 # Short bio (displayed in user profile at end of posts)
 bio: PhD student at the University of Cambridge
