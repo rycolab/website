@@ -14,8 +14,8 @@ role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-- name: University of Cambridge
-  url: "https://www.cam.ac.uk/"
+- name: ETH Zürich
+  url: "https://inf.ethz.ch"
 
 
 # Short bio (displayed in user profile at end of posts)

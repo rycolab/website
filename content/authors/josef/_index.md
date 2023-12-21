@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Alumni
+role: Alumnus
 
 # Organizations/Affiliations
 organizations:
-- name: University of Copenhagen
-  url: "https://www.ku.dk/english/"
+- name: University of Cambridge
+  url: "https://www.cam.ac.uk/"
 
 
 # Short bio (displayed in user profile at end of posts)

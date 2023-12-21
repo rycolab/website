@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Alumni
+role: Alumna
 
 # Organizations/Affiliations
 organizations:
