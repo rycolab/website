@@ -56,7 +56,6 @@ user_groups:
 - PhD Students
 - Teaching Assistants
 - Tutorial Leaders
-- Large Language Models Teaching Assistants
 - Current
 - TAs
 ---
