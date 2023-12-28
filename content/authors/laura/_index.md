@@ -56,6 +56,7 @@ email: ""
 user_groups:
 - Members
 - Senior
+- Senior Members
 - Current
 - Postdocs
 ---

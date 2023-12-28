@@ -59,6 +59,7 @@ user_groups:
 - Members
 - Current
 - Senior
+- Senior Members
 - Postdocs
 ---
 

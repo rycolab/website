@@ -53,6 +53,7 @@ user_groups:
 - Members
 - Current
 - Senior
+- Senior Members
 ---
 
 Carmen is a Postdoctoral Fellow at the ETH AI Center, affiliated with Melanie Zeilinger, Ryan Cotterell and Florian Dorfler. She completed her PhD in control theory at Caltech, and is very interested in exploring how control theoretical tools can be used to improve language technologies, as well as to enhance our understanding of their behavior.

@@ -64,6 +64,7 @@ email: ""
 user_groups:
 - Members
 - Senior
+- Senior Members
 - Current
 - Tutorial Leaders
 - Large Language Models Guest Lecturers

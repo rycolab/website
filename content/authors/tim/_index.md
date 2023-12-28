@@ -64,6 +64,7 @@ user_groups:
 - Members
 - Current
 - Senior
+- Senior Members
 ---
 
 I develop machine learning algorithms for tough problems—tending toward applications in natural language processing and programming languages. I am currently a postdoctoral researcher working with Ryan Cotterell. I did my PhD with Jason Eisner at Johns Hopkins University. I've also worked with Andrew McCallum on Rexa and Factorie; Dan Roth on Textual Entailment. I did my undergraduate degree at the University of Illinois Urbana-Champaign.

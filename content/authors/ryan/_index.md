@@ -58,6 +58,7 @@ email: ""
 user_groups:
 - Members
 - Senior
+- Senior Members
 - Lecturer
 - Tutorial Leaders
 - Current
