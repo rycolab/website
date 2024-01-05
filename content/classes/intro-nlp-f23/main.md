@@ -107,6 +107,7 @@ Marks for the course will be determined by the following formula:
 - **30%** Assignment or Class Project
  
 ### On the Final Exam
+This year's exam will take place on **27 January at 11:30**.
 The final exam is comprehensive and should be assumed to cover all the material in the slides and class notes. About 50% of exam questions will be very similar (or even identical) to the theory portion of the class assignments. Thus, it behooves you to at least look at all the assignment questions while preparing for the final exam even if you do not turn them all in for a grade.
 Solutions for the assignments will <ins>***not***</ins> be provided (they will be re-used every year), but the teaching staff can answer questions if you solve the problems ahead of time.
 
@@ -115,8 +116,7 @@ Solutions for the assignments will <ins>***not***</ins> be provided (they will b
 There will be **6** assignments which will be released (in their final form) roughly every two weeks. We impose three firm deadlines for handing in your solutions:
 
 - **Assignment 1**: November 15th
-- **Assignment 2**: December 15th
-- **Assignments 3, 4, 5, and 6**: January 15th
+- **Assignments 2, 3, 4, 5, and 6**: January 15th
 
 Only your highest-scoring 4 assignments will count towards your grade; each will be weighted equally. So, in principle, you may opt to not turn in 2 out of the 6 assignments without any effect on your grade. <ins>***Note***</ins>: Even though we plan to grade your submissions within one month, we advise you not to wait for your grades to be returned before you decide to tackle the next assignments. In essence, do not base your submission strategy on our grading estimates!
 The assignments will be graded according to the pre-determined [Assignment grading rubric](https://drive.google.com/file/d/1iSMcKBXyII_vl1DEdX3aPv2ceKu1Gadf/view?usp=sharing).
