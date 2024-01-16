@@ -26,6 +26,7 @@ The course constitutes an introduction to modern techniques in the field of natu
 **25.10.2023** &emsp; [Assignment 4](https://drive.google.com/file/d/1xSRoDFd9Gv943RlzrJV_CKqXOTX5lCCT/view?usp=sharing) has been released!  
 **17.11.2023** &emsp; [Assignment 5](https://drive.google.com/file/d/1ax_YXo-HO48B7GxI-jXFQ9k9Z0JCOmFE/view?usp=sharing) has been released!  
 **27.11.2023** &emsp; [Assignment 6](https://drive.google.com/file/d/1dsm-HQlKqaafE8bf_3Cj57bjhdfucrmc/view?usp=sharing) has been released!  
+**16.01.2023** &emsp; New [Practice Exam](https://drive.google.com/file/d/1ze_cyYVQ3F1sbC7ueDC-OS56UfSOCWNa/view?usp=sharing) has been released!  
 <!-- **19.9.2022** &emsp; [Assignment 1](https://drive.google.com/file/d/1DYHnHOWfVgPIfz0YhcfH_dMvNpN7ES8M/view?usp=sharing) has been released! See the [public github repository](https://github.com/rycolab/intro-nlp-f22) for the accompanying code.  
 **25.9.2022** &emsp; [Assignment 2](https://drive.google.com/file/d/1MLIRq5FTfCPcipY5ShQDWH5NzQlSlMHu/view?usp=sharing) has been released!  
 **25.9.2022** &emsp; [Recordings Polybox](https://polybox.ethz.ch/index.php/s/yuxFy1MWOHB6aGc?) has been created. The password can be found on Moodle.  
@@ -610,9 +611,10 @@ The submission links are:
 
 ## Practice Exams
 
-- [Practice Exam 1](https://drive.google.com/file/d/1Fs0CYuLG-sBLZJwthChU8wqYyzBBOoPi/view?usp=sharing)  
-- [Practice Exam 1 Solutions](https://drive.google.com/file/d/1sv4GoNrAtRzlV5Ddk9JqBxe2IgTX_ttv/view?usp=sharing)  
-- [Practice Exam 2](https://drive.google.com/file/d/1JBIgAL5VXXY2Lo8UZQtRx6NYLzExH1Mt/view?usp=sharing)    
+- [Practice Exam 3](https://drive.google.com/file/d/1ze_cyYVQ3F1sbC7ueDC-OS56UfSOCWNa/view?usp=sharing)    
 - [Practice Exam 2 Solutions](https://drive.google.com/file/d/1S_-keHXTNQBDFw3-KHxrJ-EVnmVGbSJQ/view?usp=sharing) 
-- [Spring 2021 Exam](https://drive.google.com/file/d/1ZH_59Vg69-Z4qBQ4FrqOHy0yvf4nMxiO/view?usp=sharing)    
+- [Practice Exam 2](https://drive.google.com/file/d/1JBIgAL5VXXY2Lo8UZQtRx6NYLzExH1Mt/view?usp=sharing)    
+- [Practice Exam 1 Solutions](https://drive.google.com/file/d/1sv4GoNrAtRzlV5Ddk9JqBxe2IgTX_ttv/view?usp=sharing)  
+- [Practice Exam 1](https://drive.google.com/file/d/1Fs0CYuLG-sBLZJwthChU8wqYyzBBOoPi/view?usp=sharing)  
 - [Spring 2021 Exam Solutions](https://drive.google.com/file/d/1VOkgodGoRn_j1IDEhUP0W1iS__5LgIfc/view?usp=sharing)    
+- [Spring 2021 Exam](https://drive.google.com/file/d/1ZH_59Vg69-Z4qBQ4FrqOHy0yvf4nMxiO/view?usp=sharing)    
