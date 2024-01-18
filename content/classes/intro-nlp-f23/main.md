@@ -27,6 +27,8 @@ The course constitutes an introduction to modern techniques in the field of natu
 **17.11.2023** &emsp; [Assignment 5](https://drive.google.com/file/d/1ax_YXo-HO48B7GxI-jXFQ9k9Z0JCOmFE/view?usp=sharing) has been released!  
 **27.11.2023** &emsp; [Assignment 6](https://drive.google.com/file/d/1dsm-HQlKqaafE8bf_3Cj57bjhdfucrmc/view?usp=sharing) has been released!  
 **16.01.2023** &emsp; New [Practice Exam](https://drive.google.com/file/d/1ze_cyYVQ3F1sbC7ueDC-OS56UfSOCWNa/view?usp=sharing) has been released!  
+**18.01.2023** &emsp; The [Practice Exam Solutions](https://drive.google.com/file/d/1DX3KTILiR1FdY-vPVInK3yHQERwub1CD/view?usp=sharing) have been released!  
+
 <!-- **19.9.2022** &emsp; [Assignment 1](https://drive.google.com/file/d/1DYHnHOWfVgPIfz0YhcfH_dMvNpN7ES8M/view?usp=sharing) has been released! See the [public github repository](https://github.com/rycolab/intro-nlp-f22) for the accompanying code.  
 **25.9.2022** &emsp; [Assignment 2](https://drive.google.com/file/d/1MLIRq5FTfCPcipY5ShQDWH5NzQlSlMHu/view?usp=sharing) has been released!  
 **25.9.2022** &emsp; [Recordings Polybox](https://polybox.ethz.ch/index.php/s/yuxFy1MWOHB6aGc?) has been created. The password can be found on Moodle.  
@@ -611,6 +613,7 @@ The submission links are:
 
 ## Practice Exams
 
+- [Practice Exam 3 Solutions](https://drive.google.com/file/d/1DX3KTILiR1FdY-vPVInK3yHQERwub1CD/view?usp=sharing)    
 - [Practice Exam 3](https://drive.google.com/file/d/1ze_cyYVQ3F1sbC7ueDC-OS56UfSOCWNa/view?usp=sharing)    
 - [Practice Exam 2 Solutions](https://drive.google.com/file/d/1S_-keHXTNQBDFw3-KHxrJ-EVnmVGbSJQ/view?usp=sharing) 
 - [Practice Exam 2](https://drive.google.com/file/d/1JBIgAL5VXXY2Lo8UZQtRx6NYLzExH1Mt/view?usp=sharing)    
