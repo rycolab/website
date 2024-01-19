@@ -65,6 +65,11 @@ subtitle = "[SEE ALL CLASSES](/classes)"
   fractions = false
 +++
 
+## [Advanced Formal Language Theory](/classes/aflt-s24) 
+**ETH Zürich** <span class="middot-divider"></span> **Spring 2024**
+This course serves as an introduction to various advanced topics in formal language theory. The primary focus of the course is on weighted formalisms, which can easily be applied in machine learning. Topics include finite-state machines as well as the algorithms that are commonly used for their manipulation. We will also cover weighted context-free grammars, weighted pushdown automata, weighted tree automata, and weighted mildly context-sensitive formalisms.
+
+
 ## [Natural Language Processing](/classes/intro-nlp-f23) 
 **ETH Zürich** <span class="middot-divider"></span> **Fall 2023**
 This course introduces modern techniques in NLP, primarily focusing on statistical and deep learning, emphasizing algorithmic aspects of structured models. We provide an overview of the primary areas of research in language processing as well as a detailed exploration of the models and techniques used both in research and in commercial natural language systems. Topics include backpropagation, sentiment analysis, language modeling, part-of-speech tagging, (semantic) parsing, machine translation, and the bias and fairness of NLP models.

@@ -53,6 +53,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
+- Teaching Assistants AFLT S24
 - Teaching Assistants NLP F22
 - Teaching Assistants NLP F23
 - Teaching Assistants AFLT
