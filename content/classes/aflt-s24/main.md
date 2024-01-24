@@ -672,9 +672,9 @@ Keep in mind that due to how late the second deadline is, we *cannot extend it*-
 The course project is optional, but it is a great way to get a deeper understanding of the course material and to apply it to a real-world problem.
 We expect you to complete the project in a group of **3-5** students---to make supervising the projects manageable, we will *not accept* groups with fewer than 3 students. 
 
-You can find more information on the course project and the detailed instructions for it in the [Course project instructions](https://drive.google.com/file/d/1DLW7wqzHxl2pPviysdUwLF9E5Habx4od/view?usp=share_link).
-To give early feedback, a *proposal* is due midway through the course (**15.4.2023**) and a *progress report* towards the end of the semester (**15.5.2023**). 
-See the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=21954) for the submission links.
+You can find more information on the course project and the detailed instructions for it in the [Course project instructions](https://docs.google.com/document/d/1HXOtGnkiAsDGBC_hYMYSxQJdNWQ9xSFozcTFIvg4XwE/edit?usp=sharing).
+To give early feedback, a *proposal* is due midway through the course (**15.4.2024**).
+See the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=21954) for the submission link.
 
 The teaching staff has compiled a list of recent papers, listed below, whose replication would make for a great project, but students should feel free to come up with other ideas as well. 
 <table class="table">
