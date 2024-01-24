@@ -39,6 +39,7 @@ email: ""
 user_groups:
 - Teaching Assistants
 - Teaching Assistants AFLT
+- Teaching Assistants AFLT S24
 ---
 
 Andreas is a Data Science MSc student. He previously attended Chalmers & UC Berkeley.

@@ -92,7 +92,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td rowspan="11" style="vertical-align : middle;text-align:center;" align="center"><b>Regular Languages</b></td>
       <td>Introduction and Overview, Weighted Formal Languages and Semiring Theory</td>
       <td>
-      <a href="https://drive.google.com/file/d/1Hm1Nbjft9IT_yAVyqqLws-rKBbeC61_3/view?usp=share_link" target="_blank">Regular Languages (last year)</a>
+      <a href="https://drive.google.com/file/d/1wXv-e5tL6WxwK7vzBuVSDySYjkuoGW7f/view?usp=share_link" target="_blank">Regular Languages (last year)</a>
       </td>
       <td>
       </td>
@@ -277,7 +277,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td rowspan="1" style="vertical-align : middle;text-align:center;" align="center"><b>Context-Free Languages</b></td>
       <td>Weighted Context-Free Grammars</td>
       <td>
-      <a href="https://drive.google.com/file/d/1A-xSYoLuKWbTdhOVIuS5iYXaUd9m4oOu/view?usp=share_link" target="_blank">Context-free Languages (last year)</a>
+      <a href="https://drive.google.com/file/d/18Umozma8ycrkAErhmNdDxcaqkij3f4Aj/view?usp=share_link" target="_blank">Context-free Languages (last year)</a>
       </td>
       <td></td>
       <td>
@@ -430,7 +430,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Regular Tree Languages</b></td>
       <td>Weighted Tree Automata</td>
       <td>
-      <a href="https://drive.google.com/file/d/1AY0zNLxz6uBZ6NB1qh642xyCUrQxET-7/view?usp=share_link" target="_blank">Regular Tree Languages (last year)</a>
+      <a href="https://drive.google.com/file/d/1KgcJ8T_fqApa3aYJx6lMiBGPGezAf314/view?usp=share_link" target="_blank">Regular Tree Languages (last year)</a>
       </td>
       <td></td>
       <td>
@@ -651,20 +651,21 @@ The assignments can change slightly as we update them this year, however, *the q
 
 **Assignment instructions**:
 
-- [Assignment 1 (last year)](https://drive.google.com/file/d/1f7Lzl-bzc3QPK9PCPpHEZYlXTgNbMLDG/view?usp=share_link)  
-- [Assignment 2 (last year)](https://drive.google.com/file/d/19xPcUJ1vZdYJ8Hjytu-pHUYvIlwxYukG/view?usp=share_link)  
-- [Assignment 3 (last year)](https://drive.google.com/file/d/15cXSRpduhbGi2ad_F52X81ua_g2B2JAU/view?usp=share_link)  
-- [Assignment 4 (last year)](https://drive.google.com/file/d/1LHsc3d01d5nCjKjcxLtgpqz7a5TA7bRv/view?usp=share_link)  
-- [Assignment 5 (last year)](https://drive.google.com/file/d/1GXcZzgYdoXpBIZvvZG2mYXUQqLquRuQv/view?usp=share_link)  
-- [Assignment 6 (last year)](https://drive.google.com/file/d/1QGH8ra9wGxUDVynqLWud1sSHRP9kEVy_/view?usp=share_link)  
-- [Assignment 7 (last year)](https://drive.google.com/file/d/1dGzsnxFgMTRgIw1IXRxOtG-xU-i1cYy1/view?usp=share_link)  
-- [Assignment 8 (last year)](https://drive.google.com/file/d/1_iEicLn0c2207SWV7hPGrJux5Me2Qt04/view?usp=share_link)  
-- [Assignment 9 (last year)](https://drive.google.com/file/d/1WxMT1qPI8lkWzgPIzQwHPrCcgt8TxT20/view?usp=share_link)  
-- [Assignment 10 (last year)](https://drive.google.com/file/d/1xSrZqAPHTXDRwXN3uwHOYDi02NIaFBga/view?usp=share_link)  
+- [Assignment 1 (last year)](https://drive.google.com/file/d/11j8KMW7NZYPUHaYUOy8OjX-qVcUpzjnU/view?usp=share_link)  
+- [Assignment 2 (last year)](https://drive.google.com/file/d/1LB47eySJR9rnuh9Cl_usrGQoFCPonWNd/view?usp=share_link)  
+- [Assignment 3 (last year)](https://drive.google.com/file/d/1eJxlUoDXif_eGVX4FBooVowmVDu4e2hb/view?usp=share_link)  
+- [Assignment 4 (last year)](https://drive.google.com/file/d/1cDE8q3ZgpsAUXsKe3mKmfED44caiD8m1/view?usp=share_link)  
+- [Assignment 5 (last year)](https://drive.google.com/file/d/1FaUmRETr7XVulYrnuUUj2p0qWcHhPYrZ/view?usp=share_link)  
+- [Assignment 6 (last year)](https://drive.google.com/file/d/1ccExMucNwIvuI7S7c1NfNLJwbAwXiZCv/view?usp=share_link)  
+- [Assignment 7 (last year)](https://drive.google.com/file/d/1pBvKUwWr6IXm5wFsT0XehFOSrjy5h0Ol/view?usp=share_link)  
+- [Assignment 8 (last year)](https://drive.google.com/file/d/1K0BryGg9fmHinC_eb6yuKaX_RcUXSJYq/view?usp=share_link)  
+- [Assignment 9 (last year)](https://drive.google.com/file/d/1ti9B3CN6QQ9faKVWJ7x-gXLFgS8aS8aD/view?usp=share_link)  
+- [Assignment 10 (last year)](https://drive.google.com/file/d/1O9bUCWNeMlc0lXex8THkaW0QMGrH7b18/view?usp=share_link)  
 
-**Important**: The deadline for the projects and all assignments is **shortly before the end of the Summer examination period**---**15. 8. 2023**.
+**Important**: There will be two separate dates for assignments submission, one **shortly before the end of the semester (30. 5. 2024)** for the first half, and one **shortly before the Summer examination period (5. 8. 2024)** for the second half.
+The deadline for the project submission will be **shortly before the Summer examination period (5. 8. 2024)**.
 The submissions will be done through the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=21954).
-Keep in mind that due to how late this deadline is, we *cannot extend it*---we are counting on you to be organised and submit the work in time.
+Keep in mind that due to how late the second deadline is, we *cannot extend it*---we are counting on you to be organised and submit the work in time.
 
 ### Course Project
 
