@@ -20,6 +20,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
+interests:
+- Cognitive modeling
+- Formal language theory
+- Interpretability
+- Reasoning
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -29,6 +34,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:aopedal@student.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
+- icon: portrait
+  icon_pack: fas
+  link: https://opedal.github.io/
+- icon: google
+  icon_pack: fab
+  link: https://scholar.google.com/citations?user=ObSluYUAAAAJ&hl=en&oi=ao
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/OpedalAndreas
+- icon: github
+  icon_pack: fab
+  link: https://github.com/opedal
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -42,5 +59,9 @@ user_groups:
 - Teaching Assistants AFLT S24
 ---
 
-Andreas is a Data Science MSc student. He previously attended Chalmers & UC Berkeley.
-His interests include NLP, causality, representation learning and computational social science
+Andreas is a second-year PhD student at ETH and a fellow at the Max Planck ETH Center for Learning Systems. 
+He obtained a BSc in Industrial Engineering from Chalmers University of Technology and an MSc in Data Science from ETH. 
+He enjoys learning about formal models of language, computational tools for cognitive modeling, and NLP algorithms in general. 
+Currently, his research focuses broadly on parsing and reasoning.
+
+Native Language: Swedish
