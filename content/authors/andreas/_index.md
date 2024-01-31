@@ -33,7 +33,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:aopedal@student.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:andreas.opedal@inf.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
 - icon: portrait
   icon_pack: fas
   link: https://opedal.github.io/
@@ -57,6 +57,7 @@ user_groups:
 - Teaching Assistants
 - Teaching Assistants AFLT
 - Teaching Assistants AFLT S24
+- PhD Students
 ---
 
 Andreas is a second-year PhD student at ETH and a fellow at the Max Planck ETH Center for Learning Systems. 
