@@ -63,4 +63,5 @@ user_groups:
 - Teaching Assistants AFLT
 - ESSLLI 2023 Teaching Assistants
 ---
-Franz is a MSc Computer Science student at ETH Zürich, majoring in Machine Intelligence. Before joining ETH, he did a bachelor's degree in Computer Science at Cambridge, doing his final project on machine learning applied to database indexing. His hobbies include jazz piano, chess, and free diving.
+Franz is a PhD student in Natural Language Processing at ETH Zürich, supervised by Ryan Cotterell. 
+He did his Bachelor's degree in Computer Science at Cambridge, followed by a Master's degree in Computer Science at ETH. His main research interest is the formal investigation of neural network architectures, such as RNNs and transformers.
