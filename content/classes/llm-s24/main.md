@@ -79,12 +79,12 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
   <tbody>
     <tr>
       <!-- <td>21. 2. 2023 (1 hour)</td> -->
-      <td>21. 2. 2023</td>
+      <td>20. 2. 2024</td>
       <td>1 hour</td>
       <td></td>
       <td>Introduction and Overview</td>
       <td>
-      Ryan/Mrinmaya/Ce/Florian
+      Ryan/Mrinmaya/Florian
       </td>
       <td>
       <div id="summary1" style="display:none">
@@ -102,8 +102,8 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
     </tr>    
     <tr>
-      <!-- <td>21. 2. 2023 (1 hour)</td> -->
-      <td>21. 2. 2023</td>
+      <!-- <td>21. 2. 2024 (1 hour)</td> -->
+      <td>20. 2. 2024</td>
       <td>1 hour</td>
       <td rowspan="3" style="vertical-align : middle;text-align:center;" align="center"><b>Probabilistic Foundations</b></td>
       <td>Basic Measure Theory</td>
@@ -122,13 +122,13 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <td>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view" target="_blank">Course Notes, &sect;&sect; 2.1 and 2.2</a> <br>
+      <a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view" target="_blank">Course Notes, &sect;&sect; 2.1 and 2.2,</a> <br>
       <a href="https://aclanthology.org/2023.acl-long.543.pdf" target="_blank">Du, Li, et al. A Measure-Theoretic Characterization of Tight Language Models.</a>
       </td>
     </tr>  
     <tr>
-      <!-- <td>24. 2. 2023 (1 hour)</td> -->
-      <td>24. 2. 2023</td>
+      <!-- <td>24. 2. 2024 (1 hour)</td> -->
+      <td>23. 2. 2024</td>
       <td>1 hour</td>
       <td>Defining a Language Model</td>
       <td>
@@ -146,13 +146,13 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <td>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view" target="_blank">Course Notes, &sect;&sect; 2.3 and 2.4</a> <br>
-      <a href="https://aclanthology.org/2023.acl-long.543.pdf" target="_blank">Du, Li, et al. A Measure-Theoretic Characterization of Tight Language Models.</a>
+      <a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view" target="_blank">Course Notes, &sect;&sect; 2.3 and 2.4,</a> <br>
+      <a href="https://aclanthology.org/2023.acl-long.543.pdf" target="_blank">Du, Li, et al. A Measure-Theoretic Characterization of Tight Language Models</a>
       </td>
     </tr>   
     <tr>
-      <!-- <td>28. 2. 2023 (2 hours)</td> -->
-      <td>28. 2. 2023</td>
+      <!-- <td>28. 2. 2024 (2 hours)</td> -->
+      <td>27. 2. 2024</td>
       <td>2 hours</td>
       <td>Tight Language Models</td>
       <td>
@@ -169,16 +169,16 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <td>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view" target="_blank">Course Notes, &sect; 2.5</a> <br>
-      <a href="https://aclanthology.org/2023.acl-long.543.pdf" target="_blank">Du, Li, et al. A Measure-Theoretic Characterization of Tight Language Models.</a>
-      <a href="https://arxiv.org/abs/1711.05408" target="_blank">Chen, Yining, et al. Recurrent Neural Networks as Weighted Language Recognizers.</a>
+      <a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view" target="_blank">Course Notes, &sect; 2.5,</a> <br>
+      <a href="https://aclanthology.org/2023.acl-long.543.pdf" target="_blank">Du, Li, et al. A Measure-Theoretic Characterization of Tight Language Models,</a> <br>
+      <a href="https://arxiv.org/abs/1711.05408" target="_blank">Chen, Yining, et al. Recurrent Neural Networks as Weighted Language Recognizers</a>
       </td>
     </tr>   
     <tr>
-      <!-- <td>3. 3. 2023 (1 hour)</td> -->
-      <td>3. 3. 2023</td>
+      <!-- <td>3. 3. 2024 (1 hour)</td> -->
+      <td>1. 3. 2024</td>
       <td>1 hour</td>
-      <td rowspan="3" style="vertical-align : middle;text-align:center;" align="center"><b>Modeling Foundations</b></td>
+      <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Modeling Foundations</b></td>
       <td>The Language Modeling Task</td>
       <td>
       Ryan
@@ -198,8 +198,8 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
     </tr>  
     <tr>
-      <!-- <td>7. 3. 2023 (2 hours)</td> -->
-      <td>7. 3. 2023</td>
+      <!-- <td>7. 3. 2024 (2 hours)</td> -->
+      <td>5. 3. 2024</td>
       <td>2 hours</td>
       <td>Finite-State Language Models</td>
       <td>
@@ -220,9 +220,8 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf" target="_blank">Bengio, Yoshua, et al. A neural probabilistic language model.</a>
       </td>
     </tr>
-    <tr>
-      <!-- <td>10. 3. 2023 (1 hour)</td> -->
-      <td>10. 3. 2023</td>
+    <!-- <tr>
+      <td>8. 3. 2024</td>
       <td>1 hour</td>
       <td>Pushdown Language Models</td>
       <td>
@@ -241,18 +240,19 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <td>
       <a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view" target="_blank">Course Notes, &sect; 4.2</a>
       </td>
-    </tr>  
+    </tr>
+    -->
     <tr>
-      <td>14. 3. 2023</td>
-      <td>2 hours</td>
-      <td rowspan="6" style="vertical-align : middle;text-align:center;" align="center"><b>Neural Network Modeling</b></td>
+      <td>8. 3. 2024</td>
+      <td>1 hours</td>
+      <td rowspan="5" style="vertical-align : middle;text-align:center;" align="center"><b>Neural Network Modeling</b></td>
       <td>Recurrent Neural Language Models</td>
       <td>
       Ryan
       </td>
       <td> 
       <div id="summary7" style="display:none">
-      Finite-state language models, by construction, can only look at a finite amount of context. Recurrent neural networks are a formalism that overcomes this limitation. In this lecture, we give a formal definition of a recurrent neural language model (RNNLM). We give examples of tight and non-tight RNNLMs as well as characterize the vanishing gradient problem. 
+      Finite-state language models, by construction, can only look at a finite amount of context. Recurrent neural networks are a formalism that overcomes this limitation. In this lecture, we give a formal definition of a recurrent neural language model (RNNLM). We give examples of tight and non-tight RNN LMs as well as characterize the vanishing gradient problem. 
       <br/>
       <br/>
       </div>
@@ -264,11 +264,10 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view" target="_blank">Course Notes, &sect;&sect; 5.1.1&ndash;5.1.4</a>
       </td>
     </tr>  
-    <tr>
-      <!-- <td>17. 3. 2023 (1 hour)</td> -->
-      <td>17. 3. 2023</td>
+    <!-- <tr>
+      <td>15. 3. 2024</td>
       <td>1 hour</td>
-      <td>Variants of RNNLMs</td>
+      <td>Variants of RNN LMs</td>
       <td>
       Ryan
       </td>
@@ -285,18 +284,18 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <td>
       <a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view" target="_blank">Course Notes, &sect; 5.1.5</a>
       </td>
-    </tr>
+    </tr> -->
     <tr>
-      <td>21. 3. 2023</td>
-      <td>2 hours</td>
+      <td>12. 3. 2024</td>
+      <td>1 hours</td>
       <!-- <td rowspan="5" style="vertical-align : middle;text-align:center;" align="center"><b>Neural Network Modeling</b></td> -->
-      <td>Representational Capacity of RNNLMs</td>
+      <td>Representational Capacity of RNN LMs</td>
       <td>
       Ryan
       </td>
       <td>
       <div id="summary8" style="display:none">
-      In this lecture, we explore the representational capacity of RNNLMs. We show that, if the activation function is a hard thresholding operation, then RNNLMs have the same expressive capacity as a finite-state LM. However, we show that RNNLMs can implicitly represent finite-state LMs that are much larger. Additionally, if the activation function is a saturated sigmoid or a ReLu and we assume infinite precision arithmetic, we show how an RNN can emulate a Turing machine.
+      In this lecture, we explore the representational capacity of RNN LMs. We show that, if the activation function is a hard thresholding operation, then RNN LMs have the same expressive capacity as a finite-state LM. However, we show that RNN LMs can implicitly represent finite-state LMs that are much larger. Additionally, if the activation function is a saturated sigmoid or a ReLu and we assume infinite precision arithmetic, we show how an RNN can emulate a Turing machine.
       <br/>
       <br/>
       </div>
@@ -305,16 +304,16 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <td>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view" target="_blank">Course Notes, &sect; 5.1.6</a> <br>
-      <a href="https://aclanthology.org/2023.emnlp-main.502.pdf" target="_blank">Svete et al., Recurrent Neural Language Models as Probabilistic Finite-state Automata.</a>,
-      <a href="https://aclanthology.org/2023.emnlp-main.434.pdf" target="_blank">Nowak et al., On the Representational Capacity of Recurrent Neural Language Models.</a>,
+      <a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view" target="_blank">Course Notes, &sect; 5.1.6,</a> <br>
+      <a href="https://aclanthology.org/2023.emnlp-main.502.pdf" target="_blank">Svete et al., Recurrent Neural Language Models as Probabilistic Finite-state Automata.</a>, <br>
+      <a href="https://aclanthology.org/2023.emnlp-main.434.pdf" target="_blank">Nowak et al., On the Representational Capacity of Recurrent Neural Language Models.</a>, <br>
       <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf" target="_blank">Siegelmann H. T. and Sontag E. D. On the computational power of neural nets. 
       </a>
       </td>
     </tr>
     <tr>
-      <!-- <td>21. 3. 2023 (2 hours)</td> -->
-      <td>24. 3. 2023</td>
+      <!-- <td>21. 3. 2024 (2 hours)</td> -->
+      <td>12. 3. 2024</td>
       <td>1 hour</td>
       <td>Transformer-based Language Models</td>
       <td>
@@ -331,12 +330,31 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <td>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view" target="_blank">Course Notes, &sect; 5.2</a>
+      <a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view" target="_blank">Course Notes, &sect; 5.2, </a> <br>
+      <a href="https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf" target="_blank">Radford et al., Language Models are Unsupervised Multitask Learners, </a> <br>
+      <a href="https://arxiv.org/pdf/1706.03762.pdf" target="_blank">Vaswani et al., Attention Is All You Need,</a> <br>
+      <a href="https://jalammar.github.io/illustrated-transformer" target="_blank">The Illustrated Transformer,</a> <br>
+      <a href="https://jalammar.github.io/illustrated-gpt2" target="_blank">The Illustrated GPT-2,</a> <br>
+      <a href="https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)#Decoder" target="_blank">Transformer decoder (Wikipedia)</a>
       </td>
     </tr>
     <tr>
-      <!-- <td>24. 3. 2023 (1 hour)</td> -->
-      <td>28. 3. 2023</td>
+      <!-- <td>21. 3. 2024 (2 hours)</td> -->
+      <td>15. 3. 2024</td>
+      <td>1 hour</td>
+      <td>Transformer-based Language Models</td>
+      <td>
+      Ryan
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <!-- <tr>
+      <td>28. 3. 2024</td>
       <td>2 hours</td>
       <td>Efficient Attention</td>
       <td>
@@ -354,10 +372,10 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
       <td>
       </td>
-    </tr>
+    </tr> -->
     <tr>
-      <!-- <td>28. 3. 2023 (2 hours)</td> -->
-      <td>31. 3. 2023</td>
+      <!-- <td>28. 3. 2024 (2 hours)</td> -->
+      <td>19. 3. 2024</td>
       <td>1 hour</td>
       <td>Representational Capacity of Transformer-based Language Models</td>
       <td>
@@ -378,10 +396,10 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
     </tr>
     <tr>
-      <!-- <td>4. 4. 2023 (2 hours)</td> -->
-      <td>4. 4. 2023</td>
-      <td>2 hours</td>
-      <td rowspan="1" style="vertical-align : middle;text-align:center;" align="center"><b>Modeling Potpourri</b></td>
+      <!-- <td>4. 4. 2024 (2 hours)</td> -->
+      <td>19. 3. 2024</td>
+      <td>1 hour</td>
+      <td rowspan="3" style="vertical-align : middle;text-align:center;" align="center"><b>Modeling Potpourri</b></td>
       <td>Tokenization</td>
       <td>
       Ryan
@@ -400,26 +418,10 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
     </tr>
     <tr>
-      <td></td>
-      <td>
-      </td>
-      <td style="vertical-align : middle;text-align:center;" align="center"><b>Easter Break</b></td>
-      <td>
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <!-- <td>31. 3. 2023 (1 hour)</td> -->
-      <td>18. 4. 2023</td>
-      <td>2 hours</td>
-      <td rowspan="1" style="vertical-align : middle;text-align:center;" align="center"><b>Modeling Potpourri</b></td>
+      <!-- <td>31. 3. 2024 (1 hour)</td> -->
+      <td>19. 3. 2024</td>
+      <td>1 hour</td>
+      <!-- <td rowspan="1" style="vertical-align : middle;text-align:center;" align="center"><b>Modeling Potpourri</b></td> -->
       <td>Generating Text from a Language Model</td>
       <td>
       Ryan
@@ -438,9 +440,31 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
     </tr>  
     <tr>
-      <td>21. 4. 2023</td>
+      <!-- <td>31. 3. 2024 (1 hour)</td> -->
+      <td>22. 3. 2024</td>
       <td>1 hour</td>
-      <td rowspan="3" style="vertical-align : middle;text-align:center;" align="center"><b>Training, Fine Tuning and Inference</b></td>
+      <!-- <td rowspan="1" style="vertical-align : middle;text-align:center;" align="center"><b>Modeling Potpourri</b></td> -->
+      <td>Generating Text from a Language Model</td>
+      <td>
+      Ryan
+      </td>
+      <td>
+      <div id="summary13" style="display:none">
+      A popular use case for language modeling is the generation of text. This lecture overviews various strategies for deterministically and stochastically generating text. We discuss beam search, ancestral sampling, as well as various sampling adaptors, e.g., top-k, nucleus, and locally typical sampling.
+      <br/>
+      <br/>
+      </div>
+      <button id="button13" style="border:none;" onclick="myFunction('13')">Show</button>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>  
+    <tr>
+      <td>26. 3. 2024</td>
+      <td>2 hours</td>
+      <td rowspan="1" style="vertical-align : middle;text-align:center;" align="center"><b>Training, Fine Tuning and Inference</b></td>
       <td>Transfer Learning</td>
       <td>
       Mrinmaya
@@ -459,8 +483,25 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
     </tr>  
     <tr>
-      <td>25. 4. 2023</td>
+      <td></td>
+      <td>
+      </td>
+      <td style="vertical-align : middle;text-align:center;" align="center"><b>Easter Break</b></td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>9. 4. 2024</td>
       <td>2 hours</td>
+      <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Training, Fine Tuning and Inference</b></td>
       <td>Parameter efficient finetuning</td>
       <td>
       Mrinmaya
@@ -479,7 +520,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
     </tr>
     <tr>
-      <td>28. 4. 2023</td>
+      <td>12. 4. 2024</td>
       <td>1 hour</td>
       <td>Prompting and zero-shot inference</td>
       <td>
@@ -498,9 +539,8 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <td>
       </td>
     </tr>
-    <tr>
-      <!-- <td>11. 4. 2023 (2 hours)</td> -->
-      <td>2. 5. 2023</td>
+    <!-- <tr>
+      <td>16. 4. 2024</td>
       <td>2 hours</td>
       <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Parallelism and Scaling up</b></td>
       <td>Scaling up</td>
@@ -521,8 +561,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
     </tr>
     <tr>
-      <!-- <td>7. 4. 2023 (1 hour)</td> -->
-      <td>5. 5. 2023</td>
+      <td>5. 5. 2024</td>
       <td>1 hour</td>
       <td>Parallelism</td>
       <td>
@@ -540,9 +579,9 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
       <td>
       </td>
-    </tr>  
+    </tr>   -->
     <tr>
-      <td>9. 5. 2023</td>
+      <td>16. 4. 2024</td>
       <td>2 hours</td>
       <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Applications and the Benefits of Scale</b></td>
       <td>Multimodality</td>
@@ -557,13 +596,12 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <button id="button19" style="border:none;" onclick="myFunction('19')">Show</button>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/1OLvZ80mMKD1pKyThEw-RRgDw_xPVXy-Z/view?usp=share_link" target="_blank">Slides</a>
       </td>
       <td>
       </td>
     </tr>
     <tr>
-      <td>12. 5. 2023</td>
+      <td>19. 4. 2024</td>
       <td>1 hour</td>
       <td>Additional Topics</td>
       <td>
@@ -577,13 +615,51 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <button id="button21" style="border:none;" onclick="myFunction('21')">Show</button>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/11kdbZlDyMZYfzdh4ACW_3-m8Bf9TQJRl/view?usp=share_link" target="_blank">Slides</a>
       </td>
       <td>
       </td>
     </tr>
     <tr>
-      <td>16. 5. 2023</td>
+      <td>23. 4. 2024</td>
+      <td>1 hour</td>
+      <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>TBD</b></td>
+      <td>TBD</td>
+      <td>
+      Mrinmaya
+      </td>
+      <td>
+      <div id="summary22" style="display:none">
+      <br/>
+      <br/>
+      </div>
+      <button id="button22" style="border:none;" onclick="myFunction('22')">Show</button>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>26. 4. 2024</td>
+      <td>1 hour</td>
+      <td>TBD</td>
+      <td>
+      Mrinmaya
+      </td>
+      <td>
+      <div id="summary23" style="display:none">
+      <br/>
+      <br/>
+      </div>
+      <button id="button23" style="border:none;" onclick="myFunction('22')">Show</button>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <!--<tr>
+      <td>23. 4. 2024</td>
       <td>2 hours</td>
       <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Analysis</b></td>
       <td>Analysis and Probing</td>
@@ -605,7 +681,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
     </tr>
     <tr>
-      <td>19. 5. 2023</td>
+      <td>26. 4. 2024</td>
       <td>1 hour</td>
       <td>Cognitive Modeling</td>
       <td>
@@ -625,12 +701,12 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
       <td>
       </td>
-    </tr>
+    </tr> -->
     <tr>
-      <td>23. 5. 2023</td>
+      <td>30. 4. 2024</td>
       <td>2 hours</td>
-      <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Security and Misuse</b></td>
-      <td>Security and Misuse</td>
+      <td rowspan="9" style="vertical-align : middle;text-align:center;" align="center"><b>Security</b></td>
+      <td>Security</td>
       <td>
       Florian
       </td>
@@ -649,9 +725,23 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
     </tr>
     <tr>
-      <td>26. 5. 2023</td>
+      <td>3. 5. 2024</td>
       <td>1 hour</td>
-      <td>Harms and Ethical Concerns</td>
+      <td>Security</td>
+      <td>
+      Florian
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>7. 5. 2024</td>
+      <td>2 hour</td>
+      <td>Misuse, Harms, and Ethical Concerns</td>
       <td>
       Florian
       </td>
@@ -670,30 +760,9 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
     </tr>  
     <tr>
-      <td>30. 5. 2023</td>
-      <td>2 hours</td>
-      <td>Memorization and Privacy</td>
-      <td>
-      Florian
-      </td>
-      <td>
-      <div id="summary27" style="display:none">
-      We look into language models’ remarkable ability to memorize training data, and the risks this may pose for privacy or copyright. We will look at different ways to define memorization and privacy for textual models, and understand the different threats they aim to address. We will then review methods for provably guaranteeing the confidentiality and privacy of machine learning systems, and debate their adequacy in the context of textual models.
-      <br/>
-      <br/>
-      </div>
-      <button id="button27" style="border:none;" onclick="myFunction('27')">Show</button>
-      </td>
-      <td>
-      <a href="https://drive.google.com/file/d/1-5RA-omzSxuyKtb4jhOII5i42zJJTwMX/view?usp=share_link" target="_blank">Slides</a>
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td>2. 6. 2023</td>
+      <td>10. 5. 2024</td>
       <td>1 hour</td>
-      <td>The data lifecycle</td>
+      <td>The Data Lifecycle</td>
       <td>
       Florian
       </td>
@@ -711,8 +780,131 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <td>
       </td>
     </tr>
+    <tr>
+      <td>14. 5. 2024</td>
+      <td>2 hours</td>
+      <td>Failure Modes</td>
+      <td>
+      Florian
+      </td>
+      <td>
+      <div id="summary28" style="display:none">
+      <br/>
+      <br/>
+      </div>
+      <button id="button28" style="border:none;" onclick="myFunction('27')">Show</button>
+      </td>
+      <td>
+      <!-- <a href="https://drive.google.com/file/d/1-5RA-omzSxuyKtb4jhOII5i42zJJTwMX/view?usp=share_link" target="_blank">Slides</a> -->
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>17. 5. 2024</td>
+      <td>1 hour</td>
+      <td>Evaluating Safety</td>
+      <td>
+      Florian
+      </td>
+      <td>
+      <div id="summary29" style="display:none">
+      <br/>
+      <br/>
+      </div>
+      <button id="button29" style="border:none;" onclick="myFunction('29')">Show</button>
+      </td>
+      <td>
+      <!-- <a href="https://drive.google.com/file/d/1xCXi1z82RvFBq0gv3wWyNKQbygpnvs2p/view?usp=sharing" target="_blank">Slides</a> -->
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>21. 5. 2024</td>
+      <td>2 hours</td>
+      <td>Memorization and Privacy</td>
+      <td>
+      Florian
+      </td>
+      <td>
+      <div id="summary30" style="display:none">
+      We look into language models’ remarkable ability to memorize training data, and the risks this may pose for privacy or copyright. We will look at different ways to define memorization and privacy for textual models, and understand the different threats they aim to address. We will then review methods for provably guaranteeing the confidentiality and privacy of machine learning systems, and debate their adequacy in the context of textual models.
+      <br/>
+      <br/>
+      </div>
+      <button id="button30" style="border:none;" onclick="myFunction('30')">Show</button>
+      </td>
+      <td>
+      <a href="https://drive.google.com/file/d/1-5RA-omzSxuyKtb4jhOII5i42zJJTwMX/view?usp=share_link" target="_blank">Slides</a>
+      <!-- <a href="https://drive.google.com/file/d/1-5RA-omzSxuyKtb4jhOII5i42zJJTwMX/view?usp=share_link" target="_blank">Slides</a> -->
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>24. 5. 2024</td>
+      <td>1 hour</td>
+      <td>Differential Privacy</td>
+      <td>
+      Florian
+      </td>
+      <td>
+      <div id="summary31" style="display:none">
+      <br/>
+      <br/>
+      </div>
+      <button id="button31" style="border:none;" onclick="myFunction('31')">Show</button>
+      </td>
+      <td>
+      <!-- <a href="https://drive.google.com/file/d/1xCXi1z82RvFBq0gv3wWyNKQbygpnvs2p/view?usp=sharing" target="_blank">Slides</a> -->
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>28. 5. 2024</td>
+      <td>2 hours</td>
+      <td>Explainability and Interpretability</td>
+      <td>
+      Florian
+      </td>
+      <td>
+      <div id="summary32" style="display:none">
+      <br/>
+      <br/>
+      </div>
+      <button id="button32" style="border:none;" onclick="myFunction('32')">Show</button>
+      </td>
+      <td>
+      <!-- <a href="https://drive.google.com/file/d/1-5RA-omzSxuyKtb4jhOII5i42zJJTwMX/view?usp=share_link" target="_blank">Slides</a> -->
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>31. 5. 2024</td>
+      <td>1 hour</td>
+      <td rowspan="1" style="vertical-align : middle;text-align:center;" align="center"><b>Guest Lecture</b></td>
+      <td>Guest Lecture</td>
+      <td>
+      Florian
+      </td>
+      <td>
+      <div id="summary33" style="display:none">
+      <br/>
+      <br/>
+      </div>
+      <button id="button33" style="border:none;" onclick="myFunction('33')">Show</button>
+      </td>
+      <td>
+      <!-- <a href="https://drive.google.com/file/d/1xCXi1z82RvFBq0gv3wWyNKQbygpnvs2p/view?usp=sharing" target="_blank">Slides</a> -->
+      </td>
+      <td>
+      </td>
+    </tr>
     <!-- <tr>
-      <td>2. 6. 2023</td>
+      <td>2. 6. 2024</td>
       <td></td>
       <td>Conclusion and Group Discussion</td>
       <td>
@@ -732,6 +924,124 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     </tr>   -->
   </tbody>
 </table>
+
+### Tutorial Schedule
+<table class="table">
+  <head>
+    <base target="_blank">
+  </head>
+  <thead>
+    <tr>
+      <th scope="col" style='white-space:nowrap'>Week</th>
+      <th scope="col" style='white-space:nowrap'>Date&emsp;&emsp;</th>
+      <th scope="col" style='white-space:nowrap'>Topic</th>
+      <th scope="col" style='white-space:nowrap'>Teaching Assistant</th>
+      <th scope="col" style='white-space:nowrap'>Material</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>22. 2. 2024</td>
+      <td>Course Logistics (1 hour)</td>
+      <td>Anej Svete</td>
+      <td><a href="" target="_blank">Introduction Slides</a></td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>29. 2. 2024</td>
+      <td>Fundamentals of Natural Language Processing and Language Modeling, <br> Measure Theory, Generation</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>7. 3. 2024</td>
+      <td>Classical Language Models: $n$-grams and Context-free Grammars</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>14. 3. 2024</td>
+      <td>RNN Language Models</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">5</th>
+      <td>21. 3. 2024</td>
+      <td>Transformer Language Models</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">6</th>
+      <td>28. 3. 2024</td>
+      <td>Tokenization and Generation</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">7</th>
+      <td>11. 4. 2024</td>
+      <td>Assignment 1 Q&A</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">8</th>
+      <td>18. 4. 2024</td>
+      <td>TBD</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">9</th>
+      <td>25. 4. 2024</td>
+      <td>TBD</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">10</th>
+      <td>2. 5. 2024</td>
+      <td>TBD</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">11</th>
+      <td>9. 5. 2024</td>
+      <td>TBD</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">12</th>
+      <td>16. 5. 2024</td>
+      <td>TBD</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">13</th>
+      <td>23. 5. 2024</td>
+      <td>TBD</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">14</th>
+      <td>30. 5. 2024</td>
+      <td>Assignment 2 Q&A</td>
+      <td></td>
+      <td></td>
+    </tr>
+    
+  </tbody>
+</table> 
+
 
 ## Organisation
 
@@ -815,115 +1125,5 @@ The second assignment will be of more practical nature and will be released in t
 
 
 ##### Assignment Deadlines
-Both assignments are due on **Tuesday, August 15th** at 23:59.
-
-<!-- 
-## Tutorial Schedule
-<table class="table">
-  <head>
-    <base target="_blank">
-  </head>
-  <thead>
-    <tr>
-      <th scope="col" style='white-space:nowrap'>Week</th>
-      <th scope="col" style='white-space:nowrap'>Date&emsp;&emsp;</th>
-      <th scope="col" style='white-space:nowrap'>Topic</th>
-      <th scope="col" style='white-space:nowrap'>Teaching Assistant</th>
-      <th scope="col" style='white-space:nowrap'>Material</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">1</th>
-      <td>28. 9. 2023</td>
-      <td>Course Logistics and Introduction of the TA Team</td>
-      <td>All TAs</td>
-      <td><a href="https://drive.google.com/file/d/1dGaClf-2FVsDoIzyyxYueQEvUZNy48yn/view?usp=sharing" target="_blank">Introduction Slides</a></td>
-    </tr>
-    <tr>
-      <th scope="row">2</th>
-      <td>5. 10. 2023</td>
-      <td>Assignment 1</td>
-      <td>Niklas Stoehr</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">3</th>
-      <td>12. 10. 2023</td>
-      <td>Assignment 1</td>
-      <td>Niklas Stoehr</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">4</th>
-      <td>19. 10. 2023</td>
-      <td><b>No tutorials</b></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">5</th>
-      <td>26. 10. 2023</td>
-      <td><b>No tutorials</b></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">6</th>
-      <td>2. 11. 2023</td>
-      <td>Assignment 2 and Assignment 3</td>
-      <td>David Wissel, Alexandra Butoi, and Anej Svete</td>
-      <td><a href="https://drive.google.com/file/d/1Xv5pmNVhZUQmO_BehWn6DCpMwQWZOOPm/view?usp=share_link" target="_blank">Assignment 2 Slides</a></td>
-    </tr>
-    <tr>
-      <th scope="row">7</th>
-      <td>9. 11. 2023</td>
-      <td>Assignment 2 and Assignment 3</td>
-      <td>David Wissel, Alexandra Butoi, and Anej Svete</td>
-      <td><a href="https://drive.google.com/file/d/12o9AwmW9wwzreday7kLs-7F63WwnFoTC/view?usp=share_link" target="_blank">Transliteration Slides</a></td>
-    </tr>
-    <tr>
-      <th scope="row">8</th>
-      <td>16. 11. 2023</td>
-      <td>Assignment 4</td>
-      <td>Franz Nowak</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">9</th>
-      <td>23. 11. 2023</td>
-      <td>Assignment 4</td>
-      <td>Franz Nowak</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">10</th>
-      <td>30. 11. 2023</td>
-      <td>Assignment 5</td>
-      <td>Benjamin Dayan</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">11</th>
-      <td>7. 12. 2023</td>
-      <td>Assignment 6</td>
-      <td>Luca Malagutti</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">12</th>
-      <td>14. 12. 2023</td>
-      <td>Assignment 5</td>
-      <td>Benjamin Dayan</td>
-      <td></td>
-    </tr>
-    <tr>
-      <th scope="row">13</th>
-      <td>21. 12. 2023</td>
-      <td>Assignment 6</td>
-      <td>Luca Malagutti</td>
-      <td></td>
-    </tr>
-    
-  </tbody>
-</table> -->
+First assignment is due on **Monday, April 15th** at 23:59.
+The second assignment is due on **Thursday, August 15th** at 23:59.

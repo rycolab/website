@@ -65,10 +65,13 @@ subtitle = "[SEE ALL CLASSES](/classes)"
   fractions = false
 +++
 
+## [Large Language Models](/classes/llm-s24) 
+**ETH Zürich** <span class="middot-divider"></span> **Spring 2024**
+Large language models have become one of the most commonly deployed NLP inventions. In the past half-decade, their integration into core natural language processing tools has dramatically increased the performance of such tools, and they have entered the public discourse surrounding artificial intelligence. In this course, we start with the probabilistic foundations of language models, i.e., covering what constitutes a language model from a formal, theoretical perspective. We then discuss how to construct and curate training corpora, and introduce many of the neural-network architectures often used to instantiate language models at scale. The course covers aspects of systems programming, discussion of privacy and harms, as well as applications of language models in NLP and beyond.
+
 ## [Advanced Formal Language Theory](/classes/aflt-s24) 
 **ETH Zürich** <span class="middot-divider"></span> **Spring 2024**
 This course serves as an introduction to various advanced topics in formal language theory. The primary focus of the course is on weighted formalisms, which can easily be applied in machine learning. Topics include finite-state machines as well as the algorithms that are commonly used for their manipulation. We will also cover weighted context-free grammars, weighted pushdown automata, weighted tree automata, and weighted mildly context-sensitive formalisms.
-
 
 ## [Natural Language Processing](/classes/intro-nlp-f23) 
 **ETH Zürich** <span class="middot-divider"></span> **Fall 2023**
@@ -78,18 +81,13 @@ This course introduces modern techniques in NLP, primarily focusing on statistic
 **ACL (Toronto)** <span class="middot-divider"></span> **July 2023**
 In this tutorial, we will provide a centralized and cohesive discussion of critical considerations when choosing how to generate text from a language model. We will cover a wide range of empirically-observed problems (like degradation, hallucination, repetition) and their corresponding proposed algorithmic solutions from recent research (like top-p sampling and its successors). We will then cover methods in controlled generation, that go beyond just ensuring coherence to ensure text exhibits specific desired properties.
 
-
 ## [Advanced Formal Language Theory](/classes/aflt-s23) 
 **ETH Zürich** <span class="middot-divider"></span> **Spring 2023**
 This course serves as an introduction to various advanced topics in formal language theory. The primary focus of the course is on weighted formalisms, which can easily be applied in machine learning. Topics include finite-state machines as well as the algorithms that are commonly used for their manipulation. We will also cover weighted context-free grammars, weighted tree automata, and weighted mildly context-sensitive formalisms.
-
-## [Large Language Models](/classes/llm-s24) 
-**ETH Zürich** <span class="middot-divider"></span> **Spring 2024**
-Large language models have become one of the most commonly deployed NLP inventions. In the past half-decade, their integration into core natural language processing tools has dramatically increased the performance of such tools, and they have entered the public discourse surrounding artificial intelligence. In this course, we start with the probabilistic foundations of language models, i.e., covering what constitutes a language model from a formal, theoretical perspective. We then discuss how to construct and curate training corpora, and introduce many of the neural-network architectures often used to instantiate language models at scale. The course covers aspects of systems programming, discussion of privacy and harms, as well as applications of language models in NLP and beyond.
 
 ## [Philosophy of Language and Computation II](/classes/phil-s23) 
 **ETH Zürich** <span class="middot-divider"></span> **Spring 2023**
 This graduate class, taught like a seminar, is designed to help you understand the philosophical underpinnings of modern work in natural language processing (NLP), most of which centered around statistical machine learning applied to natural language data.
 
-## [ESSLLI 2023 Tutorial: Formal Language Theory and Neural Networks](/classes/esslli-23) 
-**ETH Zürich** <span class="middot-divider"></span> **Spring 2023**
+## [Formal Language Theory and Neural Networks](/classes/esslli-23) 
+**ESSLLI (Ljubljana, Slovenia)** <span class="middot-divider"></span> **Spring 2023**

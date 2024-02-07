@@ -51,7 +51,6 @@ user_groups:
 - Teaching Assistants
 - Teaching Assistants NLP F22
 - Teaching Assistants NLP F23
-- Large Language Models Teaching Assistants
 - Tutorial Leaders
 # - Current
 ---

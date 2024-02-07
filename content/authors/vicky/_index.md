@@ -44,5 +44,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Teaching Assistants NLP F23
+- Large Language Models Teaching Assistants
 ---
 Vasiliki is a MSc Data Science student at ETH Zürich. She received her Diploma in Electrical and Computer Engineering in National Technical University of Athens, where her diploma thesis focused on the semantic enrichment of pre-trained models with knowledge graph representation. She is interested in a variety of topics around NLP, including formal language theory and modern language models. In her spare time, she enjoys reading books, traveling and painting, while in summer she likes island hopping in Greece.
