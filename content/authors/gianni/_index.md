@@ -54,7 +54,6 @@ user_groups:
 - Philosophy of Language and Computation Lecturers
 - Teaching Assistants NLP F23
 ---
-
 Juan Luis Gastaldi (Gianni) is a philosopher of science, specialized in the philosophy of language and formal sciences (mathematics, logic, and computer science). After being a Professor in Philosophy and History of Ideas at MOCO.ESBA (Montpellier, France) and a Marie Skłodowska-Curie Postdoctoral Fellow at ETH (D-GESS), he is now pursuing a second PhD in Natural Language Processing at the Computer Science Department of ETH.
 
 Gianni's interests revolve around the linguistic aspects of formal sciences and the formal aspects of language and other sign systems, from a technical, philosophical, and historical perspective. He is also interested in the relationship between language and thought, the nature of meaning, and the possibility that a theory of language can inform both a theory of culture and a theory of science. His current research focuses on the computational and conceptual aspects of segmentation (and tokenization) and their relation to linguistic structure and meaning.

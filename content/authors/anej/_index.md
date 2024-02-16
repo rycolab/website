@@ -66,10 +66,8 @@ user_groups:
 - Large Language Models Teaching Assistants
 - ESSLLI 2023 Teaching Assistants
 - Members
-- Philosophy of Language and Computation Teaching Assistants
 - Current
 ---
-
 Anej is a first-year PhD fellow at the [ETH AI Center](ai.ethz.ch), where he is co-advised by Ryan and [prof. Valentina Boeva](http://boevalab.inf.ethz.ch/index.html).
 He completed his Bachelor's degree in Computer Science and Mathematics in Ljubljana, Slovenia, and obtained his Master's degree in Data Science at ETH Zürich.
 He now helps with teaching the Large Language Models, Advanced Formal Language Theory, and Natural Language Processing courses.
@@ -79,7 +77,6 @@ He is also interested in representation learning and its interpretability.
 
 If you ask him about his hobbies you will find out he likes to read (you may also learn a lot about [John Kennedy Toole](https://en.wikipedia.org/wiki/John_Kennedy_Toole) and [Christopher Moore](https://en.wikipedia.org/wiki/Christopher_Moore_(author))), run, hike, and [aquascape](https://aquascapinglove.com/learn-aquascaping/what-is-aquascaping/).
 As a true Slovene, he can also bake [potica](https://www.youtube.com/watch?v=qN_Oy0D0GLY).
-
 
 Native Language: Slovene
 
