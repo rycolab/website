@@ -32,6 +32,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Philosophy of Language and Computation Teaching Assistants
+# - Philosophy of Language and Computation Teaching Assistants
 ---
 Samuel is a MA student at ETH

@@ -22,7 +22,7 @@ weight = 20
 
 This graduate class, partly taught like a seminar, is designed to help you understand the philosophical underpinnings of modern work in natural language processing (NLP), most of which centered around statistical machine learning applied to natural language data. The course will alternate between presentations given by the professors and by students enrolled in the course, followed by discussion-based teaching on the topics of each class. The course is a year-long journey, but the second half (Autumn 2024) does not depend on the first (Spring 2024) and thus either half may be taken independently. In each semester, we divide the class time into three modules. Each module is centered around a philosophical topic. In the first semester we will discuss logicism, structuralism, and generative linguistics, and in the second semester we will focus on language games, information and pragmatics. The modules will be four weeks long, where we will read and discuss original texts and supplementary criticism together with recent NLP papers and discuss how the authors of those works are building on philosophical insights into our conception of language—perhaps implicitly or unwittingly.
 
-The course will require a weekly reading of around 20 pages (with relatively high variance) and a weekly task (free-form response) related to the reading, which is to be completed online. The weekly tasks are short and not graded, but, in order to pass the class, at least 70% of the tasks must be completed. See [this document](https://moodle-app2.let.ethz.ch/mod/resource/view.php?id=792791) for the guidelines on the free-form responses. The final grade will be based on one class presentation and one term paper (around 5-10 pages) which is to be turned in at the end of the semester. The term paper ideally corresponds to one of the three modules and the students will be expected to explore the relation of the topics discussed in class to work not presented in the class. For example, discussing how three recent NLP papers implicitly assumed a structuralist perspective on language would be a good topic.
+The course will require a weekly reading of around 20 pages (with relatively high variance) and a weekly task (free-form response) related to the reading, which is to be completed online. The weekly tasks are short and not graded, but, in order to pass the class, at least 70% of the tasks must be completed. See [this document](https://drive.google.com/file/d/1Nzse9BFdJJDCcYaIq--5r5rbw-Xi8Or1/view?usp=share_link) for the guidelines on the free-form responses. The final grade will be based on one class presentation and one term paper (around 5-10 pages) which is to be turned in at the end of the semester. The term paper ideally corresponds to one of the three modules and the students will be expected to explore the relation of the topics discussed in class to work not presented in the class. For example, discussing how three recent NLP papers implicitly assumed a structuralist perspective on language would be a good topic.
 
 #### Grading
 
@@ -33,8 +33,8 @@ Marks for the course will be determined by the following formula:
 
 More detailed instructions about the paper and presentation requirements can be found here:
 
-- [Paper grading rubric](https://drive.google.com/file/d/1_eVqNs1wjZKTQnnjBTcnw2hP7OHJXFHq/view?usp=share_link)
-- [Presentation grading rubric](https://drive.google.com/file/d/1G3dwv8bs8oTVtCiCXLqIJF2GmXFs2Ac3/view?usp=sharing)
+- [Paper grading rubric](https://drive.google.com/file/d/1v0cMyMxNMudCV7bLjNk-4tGw7elSZKAz/view?usp=share_link)
+- [Presentation grading rubric](https://drive.google.com/file/d/1hpwVomtQisuLORMcdhYHh0OCQnC43isZ/view?usp=share_link)
 
 ### Organization
 
@@ -54,9 +54,9 @@ Moodle will be the main communication hub for the course. You are responsible fo
 
 ### Class Materials
 
-- [Paper grading rubric](https://drive.google.com/file/d/1_eVqNs1wjZKTQnnjBTcnw2hP7OHJXFHq/view?usp=share_link)
-- [Presentation grading rubric](https://drive.google.com/file/d/1G3dwv8bs8oTVtCiCXLqIJF2GmXFs2Ac3/view?usp=sharing)
-- [Guidelines for Free-Form Responses](https://drive.google.com/file/d/1fd8FTKawXetAarmZAj1WFCtpZ2RNoG9w/view?usp=share_link)
+- [Paper grading rubric](https://drive.google.com/file/d/1v0cMyMxNMudCV7bLjNk-4tGw7elSZKAz/view?usp=share_link)
+- [Presentation grading rubric](https://drive.google.com/file/d/1hpwVomtQisuLORMcdhYHh0OCQnC43isZ/view?usp=share_link)
+- [Guidelines for Free-Form Responses](https://drive.google.com/file/d/1Nzse9BFdJJDCcYaIq--5r5rbw-Xi8Or1/view?usp=share_link)
 
 ## News
 
