@@ -119,40 +119,40 @@ Moodle will be the main communication hub for the course. You are responsible fo
       <!-- <a href="https://drive.google.com/file/d/1XE3jPBGyoMfyGAhvV3eBdxlJqCoG89f4/view?usp=sharing" target="_blank">Ajdukiewicz Presentation Slides</a>,
       <a href="https://drive.google.com/file/d/18uYUOAOrmpoZ1d2B9qmdp5FrvX02nw9J/view?usp=sharing" target="_blank">Montague Presentation Slides</a></td> -->
       <td>
-        <!-- <a href="https://drive.google.com/file/d/1Mx5ue6RsajlMual7L3OfSGECbxx0Qzwq/view?usp=sharing" target="_blank"><b>Ajdukiewicz (1936)</b></a>, 
-        <a href="https://drive.google.com/file/d/1CsT6qzW4QwYVl_8uKLqSWc4Yy1QA2OtG/view?usp=sharing" target="_blank">Carnap (1947)</a>, 
-        <a href="https://drive.google.com/file/d/1JvDkWoJd8gCb53klrOLtcM8WbfQ2xKfa/view?usp=sharing" target="_blank">Lambek (1958)</a>, 
-        <a href="https://drive.google.com/file/d/1bn8TNPz5a7gM9IjL9xPQtwnaiM04D1I7/view?usp=sharing" target="_blank">Davidson (1967)</a>, 
-        <a href="https://drive.google.com/file/d/13mSSy0YdUVmhPNvy2G0g0HAYGpnJQMKw/view?usp=sharing" target="_blank">Lewis (1970)</a>,
-        <a href="https://drive.google.com/file/d/1jBMNJNtxXJTT3mWnG102YYJEX44C_vgW/view?usp=sharing" target="_blank"><b>Montague (1970)</b></a>  -->
+        <!-- <a href="https://drive.google.com/file/d/1Mx5ue6RsajlMual7L3OfSGECbxx0Qzwq/view?usp=sharing" target="_blank"><b>Ajdukiewicz (1936)</b></a>,  -->
+        <a href="https://drive.google.com/file/d/10q6mmr5BWmgK9j83S1QxkWD1oxqI75Dp/view?usp=sharing" target="_blank"><b>Carnap (1955)</b></a>, 
+        <!-- <a href="https://drive.google.com/file/d/1JvDkWoJd8gCb53klrOLtcM8WbfQ2xKfa/view?usp=sharing" target="_blank">Lambek (1958)</a>,  -->
+        <!-- <a href="https://drive.google.com/file/d/1bn8TNPz5a7gM9IjL9xPQtwnaiM04D1I7/view?usp=sharing" target="_blank">Davidson (1967)</a>,  -->
+        <!-- <a href="https://drive.google.com/file/d/13mSSy0YdUVmhPNvy2G0g0HAYGpnJQMKw/view?usp=sharing" target="_blank">Lewis (1970)</a>, -->
+        <a href="https://drive.google.com/file/d/1jBMNJNtxXJTT3mWnG102YYJEX44C_vgW/view?usp=sharing" target="_blank"><b>Montague (1970)</b></a> 
       </td>
     </tr>   
     <tr>
       <th scope="row">4</th>
       <td>12.03.24</td>
-      <td>Artificial Language Learning</td>
+      <td>Semantic Compositionality in Distributional Settings</td>
       <td>
       <!-- <a href="https://drive.google.com/file/d/1Y7oop5qD42EZqvGPGWcB92dymWgb5bR2/view?usp=share_link" target="_blank">Modelling Artificial and Natural Languages Presentation Slides</a> -->
       </td>
       <td>
+        <a href="https://aclanthology.org/2014.lilt-9.5.pdf" target="_blank"><b>Baroni et al. (2014)</b></a>
         <!-- <a href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00113/43379/The-Galactic-Dependencies-Treebanks-Getting-More" target="_blank">Wang and Eisner (2016)</a>, 
         <a href="https://aclanthology.org/N19-1356/" target="_blank">Ravfogel et al. (2019)</a>, 
-        <a href="https://aclanthology.org/2021.acl-long.38.pdf" target="_blank"><b>White and Cotterell (2021)</b></a>, 
-        <a href="https://arxiv.org/pdf/2207.02098.pdf" target="_blank"><b>Delétang et al. (2022)</b></a>  -->
+        <a href="https://aclanthology.org/2021.acl-long.38.pdf" target="_blank"><b>White and Cotterell (2021)</b></a> -->
       </td>
     </tr>  
     <tr>
       <th scope="row">5</th>
       <td>19.03.24</td>
-      <td>Compositionality and Combinatory Categorial Grammar</td>
+      <td>Logic, Compositionality, and Neural Nets</td>
       <td>
         <!-- <a href="https://drive.google.com/file/d/1JZqqMI31pOtcEZC2fGbUYCeI1dkGFRtR/view?usp=sharing" target="_blank">CCG Presentation Slides</a> -->
       </td>
       <td>
-        <!-- <a href="https://www.inf.ed.ac.uk/teaching/courses/nlg/readings/ccgintro.pdf" target="_blank">Steedman (1996)</a>, 
+        <!-- <a href="https://www.inf.ed.ac.uk/teaching/courses/nlg/readings/ccgintro.pdf" target="_blank">Steedman (1996)</a>,  -->
         <a href="https://homes.cs.washington.edu/~lsz/papers/zc-uai05.pdf" target="_blank"><b>Zettlemoyer and Collins (2005)</b></a>, 
-        <a href="https://arxiv.org/abs/1711.00350" target="_blank"><b>Lake and Baroni (2018)</b></a>, 
-        <a href="https://arxiv.org/abs/1902.07181" target="_blank">Andreas (2019)</a>  -->
+        <!-- <a href="https://arxiv.org/abs/1711.00350" target="_blank"><b>Lake and Baroni (2018)</b></a>,  -->
+        <a href="https://arxiv.org/pdf/1902.07181.pdf" target="_blank"><b>Andreas (2019)</b></a> 
       </td>
     </tr>  
     <tr>
@@ -165,101 +165,101 @@ Moodle will be the main communication hub for the course. You are responsible fo
       <a href="https://drive.google.com/file/d/19qx9A9w3pjBVHHIt785lMEicGqYGaoeF/view?usp=sharing" target="_blank">Origin of Speech Presentation Slides</a> -->
       </td>
       <td>
-        <!-- <a href="https://drive.google.com/file/d/1adLFTigLCJumeEi7D8gDzPprgP1eA_Uu/view?usp=sharing" target="_blank"><b>Saussure (1916)</b></a>, 
+        <a href="https://drive.google.com/file/d/1adLFTigLCJumeEi7D8gDzPprgP1eA_Uu/view?usp=sharing" target="_blank"><b>Saussure (1916)</b></a>, 
         <a href="https://drive.google.com/file/d/1Dp-AQVrZ5JBZNQW0sIqp-ANrnhldBpIr/view?usp=sharing" target="_blank">Saussure (1916) in French</a>, 
-        <a href="https://drive.google.com/file/d/1ymIuj8WsWFwr9rP-v3dFA-MC8TrrhVfg/view?usp=sharing" target="_blank">Harris (1951)</a>,
-        <a href="https://drive.google.com/file/d/1nlOT3JAqTYRdN0z1yKVI2YcfTdx21Z28/view?usp=sharing" target="_blank"><b>Hocket (1960)</b></a>  -->
+        <!-- <a href="https://drive.google.com/file/d/1nlOT3JAqTYRdN0z1yKVI2YcfTdx21Z28/view?usp=sharing" target="_blank"><b>Hocket (1960)</b></a>  -->
       </td>
     </tr>  
     <tr>
       <th scope="row">7</th>
       <td>09.04.24</td>
-      <td>Linguistic Units</td>
+      <td>Structure and Meaning</td>
       <td>
       <!-- <a href="https://drive.google.com/file/d/1OXI1GGidvmn7_7sxgpuXhLOh_D_N_zsq/view?usp=share_link" target="_blank">Linguistic Units Presentation Slides</a>, <a href="https://drive.google.com/file/d/1fMVH7Cxroyd_gOA7oIHqoZ2FCtuyox4e/view?usp=share_link" target="_blank">Greimas (1966) Presentation Slides</a>  -->
       </td>
       <td>
-        <!-- <a href="https://drive.google.com/file/d/1HGu3-ttI0TfJyOwW8e47BPqOrd7mir-0/view?usp=sharing" target="_blank">Hjelmslev (1943)</a>, 
+        <!-- <a href="https://drive.google.com/file/d/1ymIuj8WsWFwr9rP-v3dFA-MC8TrrhVfg/view?usp=sharing" target="_blank"><b>Harris</b> (1951)</a>, -->
+        <!-- <a href="https://drive.google.com/file/d/1HGu3-ttI0TfJyOwW8e47BPqOrd7mir-0/view?usp=sharing" target="_blank">Hjelmslev (1943)</a>,  -->
         <a href="https://drive.google.com/file/d/1fhWpIoLyEVKxKnXh04EYhgqTZ6vlp1yl/view?usp=sharing" target="_blank"><b>Harris (1954)</b></a>, 
-        <a href="https://drive.google.com/file/d/1Hwlv-KdYOgedGiK1JT5-gaUFxLTE_jJp/view?usp=sharing" target="_blank">Firth (1957)</a>, 
+        <!-- <a href="https://drive.google.com/file/d/1Hwlv-KdYOgedGiK1JT5-gaUFxLTE_jJp/view?usp=sharing" target="_blank">Firth (1957)</a>,  -->
         <a href="https://drive.google.com/file/d/1__98RMeryoF9zrNdcThf98rIC7dk_g9t/view?usp=sharing" target="_blank"><b>Greimas (1966)</b></a>,
-        <a href="https://drive.google.com/file/d/1Dp-AQVrZ5JBZNQW0sIqp-ANrnhldBpIr/view?usp=sharing" target="_blank">Greimas (1966) in French</a>  -->
+        <a href="https://drive.google.com/file/d/1Dp-AQVrZ5JBZNQW0sIqp-ANrnhldBpIr/view?usp=sharing" target="_blank">Greimas (1966) in French</a> 
       </td>
     </tr>  
     <tr>
       <th scope="row">8</th>
       <td>16.04.24</td>
-      <td>Meaning and Form</td>
+      <td>The Right Linguistic Units</td>
       <td>
       <!-- <a href="https://drive.google.com/file/d/1X9H8Kf3FgQR5WsNPVYukbvMPidLJZDdZ/view?usp=share_link" target="_blank">Goldsmith Presentation Slides</a>,
       <a href="https://drive.google.com/file/d/1brPADXb77KwWNx0C_WxW0Xo4gtmklWHe/view?usp=share_link" target="_blank">Pimentel et al. (2021) Presentation Slides</a></td> -->
       <td>
-        <!-- <a href="https://aclanthology.org/J01-2001.pdf" target="_blank"><b>Goldsmith (2001)</b></a>, 
-        <a href="https://www.mit.edu/~rplevy/papers/gutierrez-levy-bergen-2016-acl.pdf" target="_blank">Gutiérrez et al. (2016)</a>, 
-        <a href="https://aclanthology.org/P19-1171.pdf" target="_blank">Pimentel et al. (2019)</a>, 
-        <a href="https://ojs.aaai.org//index.php/AAAI/article/view/4660" target="_blank">Mielke and Eisner (2019)</a>, 
-        <a href="https://aclanthology.org/2021.naacl-main.349/" target="_blank"><b>Pimentel et al. (2021)</b></a>, 
-        <a href="https://aclanthology.org/2021.findings-acl.326.pdf" target="_blank">Nikkarinen et al. (2021)</a>  -->
+        <a href="https://aclanthology.org/J01-2001.pdf" target="_blank">Goldsmith (2001)</a>, 
+        <!-- <a href="https://ojs.aaai.org//index.php/AAAI/article/view/4660" target="_blank">Mielke and Eisner (2019)</a>,  -->
+        <a href="https://arxiv.org/pdf/1508.06615.pdf" target="_blank"><b>Kim et al. (2015)</b></a>, 
+        <a href="https://aclanthology.org/P16-1162/" target="_blank"><b>Sennrich et al. (2016)</b></a>, 
+        <a href="https://aclanthology.org/D18-1278.pdf" target="_blank"><b>Vania et al. (2018)</b></a>,
+        <a href="https://arxiv.org/pdf/2211.09761.pdf" target="_blank"><b>Nawrot et al. (2023)</b></a>
+        <!-- <a href="https://arxiv.org/pdf/2112.10508.pdf" target="_blank">Mielke et al. (2021)</a>  -->
       </td>
     </tr>  
     <tr>
       <th scope="row">9</th>
       <td>23.04.24</td>
-      <td>Words, Characters, or Something In Between</td>
+      <td>Arbitrariness of the Sign</td>
       <td>
       <!-- <a href="https://drive.google.com/file/d/1y1-JnicQhzBxu-07aI6eTb710IlqUpPb/view?usp=share_link" target="_blank">Neural Machine Translation Presentation Slides</a>,
       <a href="https://drive.google.com/file/d/19vfDWyneU82AFRiXGrPRQ9PcC2_eM9cZ/view?usp=share_link" target="_blank">Character-Based Modeling Presentation Slides</a> -->
       </td>
       <td>
-        <!-- <a href="https://arxiv.org/abs/1508.06615" target="_blank"><b>Kim et al. (2015)</b></a>, 
-        <a href="https://aclanthology.org/P16-1162/" target="_blank"><b>Sennrich et al. (2016)</b></a>, 
-        <a href="https://aclanthology.org/D18-1278.pdf" target="_blank"><b>Vania et al. (2018)</b></a>, 
-        <a href="https://arxiv.org/abs/2112.10508" target="_blank">Mielke et al. (2021)</a>  -->
+        <a href="https://www.mit.edu/~rplevy/papers/gutierrez-levy-bergen-2016-acl.pdf" target="_blank"><b>Gutiérrez et al. (2016)<b></a>, 
+        <a href="https://aclanthology.org/P19-1171.pdf" target="_blank"><b>Pimentel et al. (2019)</b></a>,
+        <a href="https://aclanthology.org/2021.naacl-main.349/" target="_blank"><b>Pimentel et al. (2021)</b></a>
       </td>
     </tr>   
     <tr>
       <th scope="row">10</th>
       <td>30.04.24</td>
       <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Recursive Structure:<br>The Escherian Nature of Language</b></td>
-      <td>Syntax and Computation</td>
+      <td>Syntax vs. Distribution, Logic, and Behavior</td>
       <td>
       <!-- <a href="https://drive.google.com/file/d/1LuP3bhivuvJAwgvn80jpe4J8hXoLs263/view?usp=share_link" target="_blank">Chomsky (1953) Presentation Slides</a>, -->
       <!-- <a href="https://drive.google.com/file/d/1uSiXKMfBanbrm57mbMbjTI6vZxpWqryN/view?usp=share_link" target="_blank">Chomsky (1955) Presentation Slides</a>  -->
       </td>
       <td>
-        <!-- <a href="https://drive.google.com/file/d/1fp4e3d5aZRhjT0Vmc3MTNJmTVJaVatrV/view?usp=sharing" target="_blank"><b>Chomsky (1953)</b></a>, 
-        <a href="https://drive.google.com/file/d/194dcoT3yT-lz6yH1aoN2k43ICIu1XVE7/view?usp=sharing" target="_blank"><b>Chomsky (1955)</b></a>  -->
+        <a href="https://drive.google.com/file/d/1fp4e3d5aZRhjT0Vmc3MTNJmTVJaVatrV/view?usp=sharing" target="_blank"><b>Chomsky (1953)</b></a>, 
+        <a href="https://drive.google.com/file/d/194dcoT3yT-lz6yH1aoN2k43ICIu1XVE7/view?usp=sharing" target="_blank"><b>Chomsky (1955)</b></a>,
+        <a href="https://drive.google.com/file/d/1DOGtoO1dSWD59zEYQ6_RCCw7759sY_8M/view?usp=sharing" target="_blank"><b>Chomsky (1959)</b></a> 
       </td>
     </tr>  
     <tr>
       <th scope="row">11</th>
       <td>04.04.24</td>
-      <td>Syntax and Cognition</td>
+      <td>Syntactic Structures</td>
       <td>
       <!-- <a href="https://drive.google.com/file/d/1MUWJOlOf1HZUeluqzFHsgeGSJUtG84Cu/view?usp=share_link" target="_blank">Chomsky (1957) Presentation Slides</a>, 
       <a href="https://drive.google.com/file/d/1ObbtbibTBuUuIljnNOHSYmCeQGhHbMA9/view?usp=share_link" target="_blank">Chomsky (1959) Presentation Slides</a> -->
       </td>
       <td>
-        <!-- <a href="https://drive.google.com/file/d/1bLC898DAJhYsBl6HsEJQOZBfWOp1y9QC/view?usp=sharing" target="_blank"><b>Chomsky (1957)</b></a>, 
-        <a href="https://drive.google.com/file/d/1FOjOv66b_RC1F_oCTR7IDUfbV3aOFfeu/view?usp=sharing" target="_blank">Chomsky (1956)</a>, 
-        <a href="https://drive.google.com/file/d/1DOGtoO1dSWD59zEYQ6_RCCw7759sY_8M/view?usp=sharing" target="_blank"><b>Chomsky (1959)</b></a>  -->
+        <a href="https://drive.google.com/file/d/1bLC898DAJhYsBl6HsEJQOZBfWOp1y9QC/view?usp=sharing" target="_blank"><b>Chomsky (1957)</b></a>, 
+        <a href="https://drive.google.com/file/d/1FOjOv66b_RC1F_oCTR7IDUfbV3aOFfeu/view?usp=sharing" target="_blank">Chomsky (1956)</a>,
       </td>
     </tr>   
     <tr>
       <th scope="row">12</th>
       <td>14.05.24</td>
-      <td>Parsing—NLP’s Original Leaderboard</td>
+      <td>Syntactic Parsing—NLP’s Original Leaderboard</td>
       <td>
       <!-- <a href="https://drive.google.com/file/d/1HgfGhPFmH7u77C-COqTWTsXXbPaZljDu/view?usp=share_link" target="_blank">Grammar in NLP Presentation Slides</a>,
       <a href="https://drive.google.com/file/d/1X1fwg6JfaWZAO_9gZx9k1SXv5kYLP7SD/view?usp=share_link" target="_blank">Charniak (2000, Klein and Manning (2003) Presentation Slides</a> -->
       </td>
       <td>
-        <!-- <a href="https://aclanthology.org/A00-2018.pdf" target="_blank"><b>Charniak (2000)</b></a>, 
-        <a href="https://aclanthology.org/P03-1054/" target="_blank"><b>Klein and Manning (2003)</b></a>, 
-        <a href="https://aclanthology.org/P14-1022.pdf" target="_blank">Hall et al. (2014)</a>, 
+        <a href="https://aclanthology.org/A00-2018.pdf" target="_blank"><b>Charniak (2000)</b></a>, 
+        <!-- <a href="https://aclanthology.org/P03-1054/" target="_blank"><b>Klein and Manning (2003)</b></a>,  -->
+        <a href="https://aclanthology.org/P14-1022.pdf" target="_blank"><b>Hall et al. (2014)</b></a>, 
         <a href="https://arxiv.org/abs/1412.7449" target="_blank"><b>Vinyals et al. (2014)</b></a>, 
         <a href="https://arxiv.org/abs/1602.07776" target="_blank"><b>Dyer et al. (2016)</b></a>, 
-        <a href="https://aclanthology.org/2022.acl-long.220.pdf" target="_blank">Kitaev et al. (2022)</a>  -->
+        <!-- <a href="https://aclanthology.org/2022.acl-long.220.pdf" target="_blank">Kitaev et al. (2022)</a>  -->
       </td>
     </tr>   
     <tr>
@@ -270,10 +270,11 @@ Moodle will be the main communication hub for the course. You are responsible fo
       <!-- <a href="https://drive.google.com/file/d/16CtlHglfKNtmqEM7JtlXh_dcB8iHnU3o/view?usp=share_link" target="_blank">Computational Approaches to Human Syntactic Processing Presentation Slides</a> -->
       </td>
       <td>
-        <!-- <a href="https://aclanthology.org/N01-1021/" target="_blank"><b>Hale (2001)</b></a>, 
-        <a href="http://www.mit.edu/~rplevy/papers/levy-jaeger-2007.pdf" target="_blank"><b>Levy and Jaeger (2007)</b></a>, 
         <a href="https://compass.onlinelibrary.wiley.com/doi/10.1111/lnc3.12196" target="_blank"><b>Hale (2016)</b></a>, 
-        <a href="https://aclanthology.org/2021.emnlp-main.74.pdf" target="_blank"><b>Meister et al. (2021)</b></a>  -->
+        <a href="https://aclanthology.org/N01-1021/" target="_blank"><b>Hale (2001)</b></a>, 
+        <a href="http://www.mit.edu/~rplevy/papers/levy-jaeger-2007.pdf" target="_blank"><b>Levy and Jaeger (2007)</b></a>, 
+        <a href="https://arxiv.org/pdf/2207.02098.pdf" target="_blank"><b>Delétang et al. (2022)</b></a> 
+        <!-- <a href="https://aclanthology.org/2021.emnlp-main.74.pdf" target="_blank"><b>Meister et al. (2021)</b></a>  -->
       </td>
     </tr> 
         <tr>
