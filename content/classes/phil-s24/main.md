@@ -234,7 +234,7 @@ Moodle will be the main communication hub for the course. You are responsible fo
     </tr>  
     <tr>
       <th scope="row">11</th>
-      <td>04.04.24</td>
+      <td>07.05.24</td>
       <td>Syntactic Structures</td>
       <td>
       <!-- <a href="https://drive.google.com/file/d/1MUWJOlOf1HZUeluqzFHsgeGSJUtG84Cu/view?usp=share_link" target="_blank">Chomsky (1957) Presentation Slides</a>, 
