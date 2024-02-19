@@ -522,7 +522,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <td>12. 4. 2024</td>
       <td>1 hour</td>
-      <td>Prompting and zero-shot inference</td>
+      <td>In-context learning, Prompting, zero-shot, instruction tuning </td>
       <td>
       Mrinmaya
       </td>
@@ -583,7 +583,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <td>16. 4. 2024</td>
       <td>2 hours</td>
-      <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Applications and the Benefits of Scale</b></td>
+      <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Applications and the Benefits of Scale</b></td>
       <td>Multimodality</td>
       <td>
       Mrinmaya
@@ -603,7 +603,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <td>19. 4. 2024</td>
       <td>1 hour</td>
-      <td>Additional Topics</td>
+      <td>Instruction tuning and RLHF</td>
       <td>
       Mrinmaya
       </td>
@@ -621,9 +621,8 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     </tr>
     <tr>
       <td>23. 4. 2024</td>
-      <td>1 hour</td>
-      <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>TBD</b></td>
-      <td>TBD</td>
+      <td>2 hours</td>
+      <td>Instruction tuning and RLHF</td>
       <td>
       Mrinmaya
       </td>
@@ -642,7 +641,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <td>26. 4. 2024</td>
       <td>1 hour</td>
-      <td>TBD</td>
+      <td>Calibration</td>
       <td>
       Mrinmaya
       </td>
@@ -951,35 +950,35 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <th scope="row">2</th>
       <td>29. 2. 2024</td>
       <td>Fundamentals of Natural Language Processing and Language Modeling, <br> Measure Theory, Generation</td>
-      <td></td>
+      <td>Giovanni Acampa</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">3</th>
       <td>7. 3. 2024</td>
       <td>Classical Language Models: $n$-grams and Context-free Grammars</td>
-      <td></td>
+      <td>Vasiliki Xefteri</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">4</th>
       <td>14. 3. 2024</td>
       <td>RNN Language Models</td>
-      <td></td>
+      <td>Valentin Bieri</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">5</th>
       <td>21. 3. 2024</td>
       <td>Transformer Language Models</td>
-      <td></td>
+      <td>Josep Borrell Tatché</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">6</th>
       <td>28. 3. 2024</td>
       <td>Tokenization and Generation</td>
-      <td></td>
+      <td>Manuel de Prada Corral</td>
       <td></td>
     </tr>
     <tr>
@@ -992,7 +991,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <th scope="row">8</th>
       <td>18. 4. 2024</td>
-      <td>TBD</td>
+      <td>Assignment 1 Q&A</td>
       <td></td>
       <td></td>
     </tr>
@@ -1013,21 +1012,21 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <th scope="row">11</th>
       <td>9. 5. 2024</td>
-      <td>TBD</td>
+      <td>Jailbreaking</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">12</th>
       <td>16. 5. 2024</td>
-      <td>TBD</td>
+      <td>Decoding and Watermarking</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">13</th>
       <td>23. 5. 2024</td>
-      <td>TBD</td>
+      <td>Assignment 2 Q&A</td>
       <td></td>
       <td></td>
     </tr>
