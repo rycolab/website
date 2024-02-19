@@ -1124,5 +1124,5 @@ The second assignment will be of more practical nature and will be released in t
 
 
 ##### Assignment Deadlines
-First assignment is due on **Monday, April 15th** at 23:59.
-The second assignment is due on **Thursday, August 15th** at 23:59.
+First assignment is due on **Tuesday, April 30th** at 23:59.
+The second assignment is due on **Sunday, June 30th** at 23:59.
