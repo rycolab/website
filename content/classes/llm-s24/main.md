@@ -1117,10 +1117,10 @@ The first assignment will be of more theoretical nature and will be released sho
 The second assignment will be of more practical nature and will be released in the second half of the semester.
 
 
-<!-- 
+
 **Assignment instructions sheets**:
-- [Assignment 1 Instructions](https://drive.google.com/file/d/1_rEq3tZIp7sOMoL981iuYRQXGwdkH1eZ/view?usp=share_link)  
-- [Assignment 2 Instructions](https://drive.google.com/file/d/17RXO1IAFVgRNyPveZCiMMmKi267XpGds/view?usp=share_link), [LaTeX source code](https://drive.google.com/file/d/1xYiv7tHSZAa8wRf68sjGp93uYXOUtGkV/view?usp=share_link)   -->
+- [Assignment 1 Instructions (last year)](https://drive.google.com/file/d/1_rEq3tZIp7sOMoL981iuYRQXGwdkH1eZ/view?usp=share_link)  
+- [Assignment 2 Instructions (last year)](https://drive.google.com/file/d/17RXO1IAFVgRNyPveZCiMMmKi267XpGds/view?usp=share_link), [LaTeX source code](https://drive.google.com/file/d/1xYiv7tHSZAa8wRf68sjGp93uYXOUtGkV/view?usp=share_link)  
 
 
 ##### Assignment Deadlines
