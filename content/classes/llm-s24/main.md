@@ -95,7 +95,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <button id="button1" style="border:none;" onclick="myFunction('1')">Show</button>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/10X0oEJGLnK6JhoMkY3LRRpON0tcpBiUD/view?usp=share_link" target="_blank">Introductory Slides</a>
+      <a href="https://drive.google.com/file/d/1NIaVqfPqCfWam0n8oFa8_pY70Su_RgWH/view?usp=sharing" target="_blank">Introductory Slides</a>
       </td>
       <td>
       <a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view" target="_blank">Course Notes, &sect; 1</a>
@@ -944,7 +944,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <td>22. 2. 2024</td>
       <td>Course Logistics (1 hour)</td>
       <td>Anej Svete</td>
-      <td><a href="" target="_blank">Introduction Slides</a></td>
+      <td><a href="https://drive.google.com/file/d/1AslCHM0FrqMSrr1c5ZsIUdM4-4gQskcf/view?usp=sharing" target="_blank">Introduction Slides</a></td>
     </tr>
     <tr>
       <th scope="row">2</th>
@@ -1118,9 +1118,10 @@ The second assignment will be of more practical nature and will be released in t
 
 
 
-**Assignment instructions sheets**:
-- [Assignment 1 Instructions (last year)](https://drive.google.com/file/d/1_rEq3tZIp7sOMoL981iuYRQXGwdkH1eZ/view?usp=share_link)  
-- [Assignment 2 Instructions (last year)](https://drive.google.com/file/d/17RXO1IAFVgRNyPveZCiMMmKi267XpGds/view?usp=share_link), [LaTeX source code](https://drive.google.com/file/d/1xYiv7tHSZAa8wRf68sjGp93uYXOUtGkV/view?usp=share_link)  
+**Assignment instructions sheets**:  
+
+- [Assignment 1 Instructions (last year)](https://drive.google.com/file/d/1_rEq3tZIp7sOMoL981iuYRQXGwdkH1eZ/view?usp=sharing)  
+- [Assignment 2 Instructions (last year)](https://drive.google.com/file/d/17RXO1IAFVgRNyPveZCiMMmKi267XpGds/view?usp=sharing), [LaTeX source code](https://drive.google.com/file/d/1xYiv7tHSZAa8wRf68sjGp93uYXOUtGkV/view?usp=sharing)  
 
 
 ##### Assignment Deadlines
