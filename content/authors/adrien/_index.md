@@ -34,4 +34,4 @@ email: ""
 user_groups:
 - Philosophy of Language and Computation Teaching Assistants
 ---
-Adrien is a MA student at ETH
+Adrien is a Master's student in physics currently pursuing a thesis at the chair for the History and Philosophy of Mathematics. He focuses on the histories of type theories and their relations to contemporary logic.
