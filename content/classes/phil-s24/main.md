@@ -85,7 +85,7 @@ Moodle will be the main communication hub for the course. You are responsible fo
       <td style="vertical-align : middle;text-align:center;" align="center"><b>Introduction</b></td>
       <td>Images of Language</td>
       <td>
-        <!-- <a href="https://drive.google.com/file/d/1ZE1kE5JpE37VGue-udAevARFczdrN29v/view?usp=sharing" target="_blank">Introduction Slides</a> -->
+        <a href="https://drive.google.com/file/d/1czs0zWBTaMhfnC2yncyzXEdYbfJbynNF/view?usp=share_link" target="_blank">Introduction Slides</a>
       </td>
       <td>
         <a href="https://drive.google.com/file/d/1e5EXN7zvN6ZXSO2lWZLaafQxlDUQfceb/view?usp=sharing" target="_blank">Borges (1940a)</a>, 
