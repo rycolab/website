@@ -81,16 +81,23 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
   <tbody>
     <tr>
       <td>21. 2. 2023</td>
+      <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Introduction</b></td>
+      <td>Course Logistics</td>
       <td></td>
-      <td>Introduction and Overview</td>
-      <td></td>
-      <td><a href="https://drive.google.com/file/d/1UNsMmHAAhEQ1iLsq_1f0MQ-BuVhRrmFq/view?usp=share_link" target="_blank">Introductory Slides (last year)</a></td>
+      <td><a href="https://drive.google.com/file/d/1XDotCwzSxNi-fIKIMF08Z9vqPXCGzbhy/view?usp=share_link" target="_blank">Introductory Slides</a></td>
       <td></td>
     </tr>
     <tr>
-      <td>21. 2. 2023</td>
-      <td rowspan="11" style="vertical-align : middle;text-align:center;" align="center"><b>Regular Languages</b></td>
-      <td>Introduction and Overview, Weighted Formal Languages and Semiring Theory</td>
+      <td>22. 2. 2023</td>
+      <td>No class</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>28. 2. 2023</td>
+      <td rowspan="9" style="vertical-align : middle;text-align:center;" align="center"><b>Regular Languages</b></td>
+      <td>Weighted Formal Languages and Semiring Theory</td>
       <td>
       <a href="https://drive.google.com/file/d/1wXv-e5tL6WxwK7vzBuVSDySYjkuoGW7f/view?usp=share_link" target="_blank">Regular Languages (last year)</a>
       </td>
@@ -107,7 +114,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       </td>
     </tr>
     <tr>
-      <td>22. 2. 2023</td>
+      <td>29. 2. 2023</td>
       <td>Regular Languages, Weighted Finite-State Acceptors</td>
       <td>
       </td>
@@ -125,7 +132,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       </td>
     </tr>
     <tr>
-      <td>28. 2. 2023</td>
+      <td>6. 3. 2023</td>
       <td>Closed Semirings, The Algebraic Path Problem</td>
       <td>
       <td></td>
@@ -142,19 +149,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       </td>
     </tr>
     <tr>
-      <td>29. 2. 2023</td>
-      <td>The Algebraic Path Problem (cont.)</td>
-      <td></td>
-      <td></td>
-      <td>
-      <div id="literature4" style="display:none">
-      <br/>  
-      </div>
-      <button id="button4" style="border:none;" onclick="myFunction('4')">Show</button>
-      </td>
-    </tr>
-    <tr>
-      <td>6. 3. 2023</td>
+      <td>7. 3. 2023</td>
       <td>Homomorphisms, Weighted Finite-State Transducers</td>
       <td>
       </td>
@@ -170,7 +165,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       </td>
     </tr>
     <tr>
-      <td>7. 3. 2023</td>
+      <td>13. 3. 2023</td>
       <td>Nullary Removal, Determinization of Weighted Finite-state Automata</td>
       <td></td>
       <td></td>
@@ -181,21 +176,6 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <br/>  
       </div>
       <button id="button6" style="border:none;" onclick="myFunction('6')">Show</button>
-      </td>
-    </tr>
-    <tr>
-      <td>13. 3. 2023</td>
-      <td>Determinization of Weighted Finite-state Automata (cont.)</td>
-      <td>
-      </td>
-      </td>
-      <td>
-      <td>
-      <div id="literature7" style="display:none">
-        <a href="https://link.springer.com/content/pdf/10.1007/978-3-642-01492-5_6.pdf" target="_blank">Mohri (2009; §7.2)</a></br>
-      <br/>  
-      </div>
-      <button id="button7" style="border:none;" onclick="myFunction('7')">Show</button>
       </td>
     </tr>
     <tr>
@@ -291,14 +271,14 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
     <tr>
       <td>3. 4. 2023</td>
       <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Easter Break</b></td>
-      <td></td>
+      <td>No class</td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>4. 4. 2023</td>
-      <td></td>
+      <td>No class</td>
       <td></td>
       <td></td>
       <td></td>
@@ -420,7 +400,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
     <tr>
       <td>1. 5. 2023</td>
       <td rowspan="1" style="vertical-align : middle;text-align:center;" align="center"><b>Labour Day</b></td>
-      <td></td>
+      <td>No class</td>
       <td></td>
       <td></td>
       <td></td>
@@ -464,7 +444,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
     <tr>
       <td>9. 5. 2023</td>
       <td rowspan="1" style="vertical-align : middle;text-align:center;" align="center"><b>Ascension Day</b></td>
-      <td></td>
+      <td>No class</td>
       <td></td>
       <td></td>
       <td></td>
@@ -670,7 +650,7 @@ Keep in mind that due to how late the second deadline is, we *cannot extend it*-
 ### Course Project
 
 The course project is optional, but it is a great way to get a deeper understanding of the course material and to apply it to a real-world problem.
-We expect you to complete the project in a group of **3-5** students---to make supervising the projects manageable, we will *not accept* groups with fewer than 3 students. 
+We expect you to complete the project in a group of **2-5** students---to make supervising the projects manageable, we will *not accept* groups with fewer than 2 students. 
 
 You can find more information on the course project and the detailed instructions for it in the [Course project instructions](https://docs.google.com/document/d/1HXOtGnkiAsDGBC_hYMYSxQJdNWQ9xSFozcTFIvg4XwE/edit?usp=sharing).
 To give early feedback, a *proposal* is due midway through the course (**15.4.2024**).
