@@ -262,7 +262,10 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td></td>
       <td>
       <div id="literature12" style="display:none">
+        <a href="https://www.degruyter.com/document/doi/10.1524/stuf.1961.14.14.143/html" target="_blank">Bar-Hillel et al. (1961)</a></br>
+        <a href="https://ce.sharif.edu/courses/94-95/1/ce414-2/resources/root/Text%20Books/Automata/John%20E.%20Hopcroft,%20Rajeev%20Motwani,%20Jeffrey%20D.%20Ullman-Introduction%20to%20Automata%20Theory,%20Languages,%20and%20Computations-Prentice%20Hall%20(2006).pdf" target="_blank">Hopcroft et al. (2006)</a></br>
         <a href="https://link.springer.com/article/10.1007/s11168-008-9052-8" target="_blank">Nederhof and Satta (2008)</a></br>
+        <a href="https://aclanthology.org/2023.eacl-main.52/" target="_blank">Pasti et al. (2023)</a></br>
       <br/>  
       </div>
       <button id="button12" style="border:none;" onclick="myFunction('12')">Show</button>
@@ -292,11 +295,8 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td></td>
       <td>
       <div id="literature13" style="display:none">
-        <a href="https://www.cs.jhu.edu/~jason/papers/eisner+blatz.fg06.pdf" target="_blank">Eisner and Blatz (2006; §6.3)</a></br>
-        <a href="https://www.cs.jhu.edu/~jason/papers/eisner+blatz.fg06.pdf" target="_blank">Eisner and Blatz (2006; §6.5)</a></br>
-        <a href="https://ieeexplore.ieee.org/document/4569645/authors#authors" target="_blank">Rosenkranz and Lewis (1970)</a></br>
-        <!-- <a href="https://www.sciencedirect.com/science/article/pii/S001999586780007X?via%3Dihub" target="_blank">Johnson (1996)</a></br> -->
-        <a href="https://aclanthology.org/C00-1052/" target="_blank">Johnson and Roark (2000)</a></br>
+        <a href="https://link.springer.com/chapter/10.1007/978-3-540-70918-3_26" target="_blank">Esparza et al. (2007)</a></br>
+        <a href="https://jscholarship.library.jhu.edu/items/f78cc5e6-9dba-451f-b45c-6a390a255355" target="_blank">Vieira (2023)</a></br>
       <br/>  
       </div>
       <button id="button13" style="border:none;" onclick="myFunction('13')">Show</button>
@@ -310,7 +310,6 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td></td>
       <td>
       <div id="literature14" style="display:none">
-        <a href="https://aclanthology.org/J95-2002/" target="_blank">Stolcke (1995)</a></br>
         <a href="https://aclanthology.org/N09-1039.pdf" target="_blank">Schuler (2009)</a></br>
         <a href="https://aclanthology.org/J95-2002/" target="_blank">Stolcke (1995; §4.7)</a></br>
         <a href="https://aclanthology.org/1997.iwpt-1.18.pdf" target="_blank">Manning and Carptener (1997)</a></br>
@@ -318,10 +317,9 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
         <a href="https://www.sciencedirect.com/science/article/pii/S001999586780007X?via%3Dihub" target="_blank">Younger (1967)</a></br>
         <a href="http://www.softwarepreservation.org/projects/FORTRAN/CockeSchwartz_ProgLangCompilers.pdf" target="_blank">Cocke and Schwartz (1970)</a></br>
         <a href="https://www.sciencedirect.com/science/article/abs/pii/0020019077900023" target="_blank">Knuth (1977)</a></br>
-        <a href="https://www.proquest.com/openview/fb41296047fb7453dcb1de182b4aa0b6/1?pq-origsite=gscholar&cbl=1817266" target="_blank">Bar-Hillel et al. (1961)</a></br>
         <a href="https://www.cambridge.org/core/journals/theory-and-practice-of-logic-programming/article/abs/products-of-weighted-logic-programs/5E2207BED192B119DC0034BE15B242E1" target="_blank">Cohen et al. (2011)</a></br>
         <a href="https://aclanthology.org/P11-2124/" target="_blank">Goldberg and Elhadad (2011)</a></br>
-        <a href="https://dl.acm.org/doi/10.1145/362007.362035" target="_blank">Earley (1970)</a></br>
+        <a href="https://arxiv.org/pdf/2311.16258.pdf" target="_blank">Opedal et al. (2023)</a></br>
       <br/>  
       </div>
       <button id="button14" style="border:none;" onclick="myFunction('14')">Show</button>
@@ -335,6 +333,9 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td></td>
       <td>
       <div id="literature15" style="display:none">
+        <a href="https://dl.acm.org/doi/10.1145/362007.362035" target="_blank">Earley (1970)</a></br>
+        <a href="https://aclanthology.org/J95-2002/" target="_blank">Stolcke (1995)</a></br>
+        <a href="https://arxiv.org/pdf/2307.02982.pdf" target="_blank">Opedal et al. (2023)</a></br>
       <br/>  
       </div>
       <button id="button15" style="border:none;" onclick="myFunction('15')">Show</button>
