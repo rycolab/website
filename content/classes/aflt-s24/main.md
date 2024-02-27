@@ -99,7 +99,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td rowspan="9" style="vertical-align : middle;text-align:center;" align="center"><b>Regular Languages</b></td>
       <td>Weighted Formal Languages and Semiring Theory</td>
       <td>
-      <a href="https://drive.google.com/file/d/1wXv-e5tL6WxwK7vzBuVSDySYjkuoGW7f/view?usp=share_link" target="_blank">Regular Languages (last year)</a>
+      <a href="https://drive.google.com/file/d/1wXv-e5tL6WxwK7vzBuVSDySYjkuoGW7f/view?usp=share_link" target="_blank">Regular Languages</a>
       </td>
       <td>
       </td>
@@ -632,8 +632,8 @@ The assignments can change slightly as we update them this year, however, *the q
 
 **Assignment instructions**:
 
-- [Assignment 1 (last year)](https://drive.google.com/file/d/11j8KMW7NZYPUHaYUOy8OjX-qVcUpzjnU/view?usp=share_link)  
-- [Assignment 2 (last year)](https://drive.google.com/file/d/1LB47eySJR9rnuh9Cl_usrGQoFCPonWNd/view?usp=share_link)  
+- [Assignment 1](https://drive.google.com/file/d/11j8KMW7NZYPUHaYUOy8OjX-qVcUpzjnU/view?usp=share_link)  
+- [Assignment 2](https://drive.google.com/file/d/1LB47eySJR9rnuh9Cl_usrGQoFCPonWNd/view?usp=share_link)  
 - [Assignment 3 (last year)](https://drive.google.com/file/d/1eJxlUoDXif_eGVX4FBooVowmVDu4e2hb/view?usp=share_link)  
 - [Assignment 4 (last year)](https://drive.google.com/file/d/1cDE8q3ZgpsAUXsKe3mKmfED44caiD8m1/view?usp=share_link)  
 - [Assignment 5 (last year)](https://drive.google.com/file/d/1FaUmRETr7XVulYrnuUUj2p0qWcHhPYrZ/view?usp=share_link)  

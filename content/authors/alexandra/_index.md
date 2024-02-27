@@ -22,7 +22,8 @@ bio:
 
 interests:
 - Formal language theory
-- Algorithms 
+- Parsing
+- Formal methods in NLP
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -56,6 +57,8 @@ user_groups:
 - Current
 ---
 
-Alexandra is a MSc Data Science student at ETH Zürich. Prior to joining ETH, she did a bachelor’s degree in Software Engineering at The University of Sheffield, United Kingdom, where she focused mostly on theoretical computer science and machine learning. She is currently working on formalisms for mildly context-sensitive languages for her MSc thesis. She enjoys a variety of topics, including formal language theory, algorithms, machine translation, stats and is trying to learn more about others as well, in search of a primary research interest. 
+Alexandra is a first-year PhD student at ETH Zürich, supervised by Ryan. 
+Prior to her PhD, she did a bachelor’s degree in Software Engineering at The University of Sheffield, United Kingdom, and her master's degree in Data Science at ETH Zürich. 
+She is currently working on formalisms for mildly context-sensitive languages. 
 
 Native Language: Romanian
