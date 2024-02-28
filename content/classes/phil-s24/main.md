@@ -102,8 +102,7 @@ Moodle will be the main communication hub for the course. You are responsible fo
       <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Language and Logic:<br>Formal Representations of Meaning</b></td>
       <td>Meaning: Between Sense and Denotation</td>
       <td>
-        <!-- <a href="https://drive.google.com/file/d/11XczrgPyj6FIrUEjP13a83u1HqocbcEL/view?usp=sharing" target="_blank">Frege Presentation Slides</a>, 
-        <a href="https://drive.google.com/file/d/1_5l7JosB2klXYNKFg7XQl1m25LJmqa0E/view?usp=sharing" target="_blank">Russell Presentation Slides</a>  -->
+        <a href="https://drive.google.com/file/d/1Us_rng1JBLnYNhG3CHz5h2ITKr8LsvDF/view?usp=share_link" target="_blank">Intro to Module 1 Slides</a>
       </td>
       <td>
         <a href="https://drive.google.com/file/d/1BU3dlFUepcXWFf1jNfjiJ0EObN0N6GaB/view?usp=sharing" target="_blank"><b>Frege (1892)</b></a>, 
