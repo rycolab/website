@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T23:16:48.607182Z'
+publishDate: '2024-02-28T20:04:41.406562Z'
 publication_types:
 - '1'
 abstract: We present Earley’s (1970) context-free parsing algorithm as a deduction

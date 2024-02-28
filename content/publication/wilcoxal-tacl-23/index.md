@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T23:16:50.733937Z'
+publishDate: '2024-02-28T20:04:43.467096Z'
 publication_types:
 - '2'
 abstract: "A fundamental result in psycholinguistics is that less predictable words\

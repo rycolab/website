@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T23:16:45.450658Z'
+publishDate: '2024-02-28T20:04:38.307025Z'
 publication_types:
 - '1'
 abstract: "Many dynamical systems in the real world are naturally described by latent\

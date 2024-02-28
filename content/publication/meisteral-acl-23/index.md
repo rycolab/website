@@ -13,7 +13,7 @@ tags: []
 categories: []
 date: '2023-07-01'
 lastmod: 2023-07-09T16:30:26+02:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T23:16:49.416216Z'
+publishDate: '2024-02-28T20:04:42.180531Z'
 publication_types:
 - '1'
 abstract: 'Sampling-based decoding strategies are widely employed for generating text

@@ -29,9 +29,23 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T23:16:52.281764Z'
+publishDate: '2024-02-28T20:04:44.989005Z'
 publication_types:
 - '0'
-abstract: ''
+abstract: Gradient-based sampling algorithms have demonstrated their effectiveness
+  in text generation, especially in the context of controlled text generation. However,
+  there exists a lack of theoretically grounded and principled approaches for this
+  task. In this paper, we take an important step toward building a principled approach
+  for sampling from language models with gradient-based methods. We use discrete distributions
+  given by language models to define densities and develop an algorithm based on Hamiltonian
+  Monte Carlo to sample from them. We name our gradient-based technique Structured
+  Voronoi Sampling (SVS). In an experimental setup where the reference distribution
+  is known, we show that the empirical distribution of SVS samples is closer to the
+  reference distribution compared to alternative sampling schemes. Furthermore, in
+  a controlled generation task, SVS is able to generate fluent and diverse samples
+  while following the control targets significantly better than other methods.
 publication: ''
+links:
+- name: URL
+  url: https://arxiv.org/abs/2306.03061
 ---

@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T23:16:48.077145Z'
+publishDate: '2024-02-28T20:04:40.886520Z'
 publication_types:
 - '1'
 abstract: Multiple algorithms are known for efficiently calculating the prefix probability

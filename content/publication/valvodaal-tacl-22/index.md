@@ -1,16 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: On the Role of Negative Precedent in Legal Outcome Prediction
+title: The Ethics of Automating Legal Actors
 subtitle: ''
 summary: ''
 authors:
 - Josef Valvoda
-- Simone Teufel
+- Alec Thompson
 - Ryan Cotterell
+- Simone Teufel
 tags: []
 categories: []
-date: '2023-01-01'
+date: '2023-12-01'
 lastmod: 2022-11-21T00:29:32+01:00
 featured: false
 draft: false
@@ -29,25 +30,23 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T23:16:51.508343Z'
+publishDate: '2024-02-28T20:04:44.226549Z'
 publication_types:
-- '2'
-abstract: Every legal case sets a precedent by devel- oping the law in one of the
-  following two ways. It either expands its scope, in which case it sets positive
-  precedent, or it narrows it down, in which case it sets negative precedent. While
-  legal outcome prediction, which is nothing other than the prediction of positive
-  precedents, is an increasingly pop- ular task in AI, we are the first to investigate
-  negative precedent prediction by focusing on negative outcomes. We discover an asymmetry
-  in existing models’ ability to predict positive and negative outcomes. Where state-of-the-art
-  outcome prediction models predicts positive outcomes at 75.06 F1, they predicts
-  negative outcomes at only 10.09 F1, worse than a random baseline. To address this
-  performance gap, we develop two new models inspired by the dynamics of a court process.
-  Our first model significantly improves positive outcome prediction score to 77.15
-  F1 and our second model more than doubles the negative outcome prediction performance
-  to 24.01 F1. Despite this improvement, shifting focus to negative outcomes reveals
-  that there is still plenty of room to grow when it comes to modelling law.
-publication: '*Transactions of the Association for Computational Linguistics*'
-url_pdf: papers/valvoda+al.tacl22.pdf
+- '0'
+abstract: The introduction of large public legal datasets has brought about a renaissance
+  in legal NLP. Many of these datasets are comprised of legal judgements – the product
+  of judges deciding cases. This fact, together with the way machine learning works,
+  means that several legal NLP models are models of judges. While some have argued
+  for the automation of judges, in this position piece, we argue that automating the
+  role of the judge raises difficult ethical challenges, in particular for common
+  law legal systems. Our argument follows from the social role of the judge in actively
+  shaping the law, rather than merely applying it. Since current NLP models come nowhere
+  close to having the facilities necessary for this task, they should not be used
+  to automate judges. Furthermore, even in the case the models could achieve human-level
+  capabilities, there would still be remaining ethical concerns inherent in the automation
+  of the legal process.
+publication: '*Association for Computational Linguistics*'
+url_pdf: https://arxiv.org/pdf/2312.00584.pdf
 links:
 - name: URL
   url: https://arxiv.org/abs/2208.08225
