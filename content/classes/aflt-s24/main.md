@@ -33,7 +33,7 @@ The homework will be released throughout the semester in assignments with 3–4 
 #### Lectures
 
 There are two lecture slots for AFLT each week: Wednesdays 16-18 [(HG D 5.2)](https://www.rauminfo.ethz.ch/Rauminfo/RauminfoPre.do?region=Z&areal=Z&gebaeude=HG&geschoss=D&raumNr=5.2) and Thursdays 12-14 [(ML F 39)](http://www.rauminfo.ethz.ch/Rauminfo/RauminfoPre.do?region=Z&areal=Z&gebaeude=ML&geschoss=F&raumNr=39). 
-Both lectures will be given in person and live broadcast on [Zoom](https://ethz.zoom.us/j/66986788370); the password is available on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=21954).
+Both lectures will be given in person and live broadcast on [Zoom](https://ethz.zoom.us/j/65486471145?pwd=QVNjQ2Q4UjdleXZoVDBtdVQ5bkY0UT09); the password is available on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=21954).
 
 Lectures will be recorded---link to the Zoom recordings will be posted on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=21954).
 
