@@ -34,7 +34,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:clemente.pasti@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:clemente.pasti@inf.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/clementepasti
@@ -53,6 +53,7 @@ user_groups:
 - Members
 - Research Assistants
 - ESSLLI 2023 Teaching Assistants
+- Teaching Assistant NLP in the Wild
 ---
 
 Clemente is a Research Assistant at Rycolab. Clemente did his Bachelor’s degree in Mathematical Engineering at Politecnico in Milano, Italy, and his master’s in Informatics at Università della Svizzera Italian in Lugano, Switzerland. He spent the last year of his master’s at ETH.
