@@ -951,7 +951,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <td>29. 2. 2024</td>
       <td>Fundamentals of Natural Language Processing and Language Modeling, <br> Measure Theory, Generation</td>
       <td>Giovanni Acampa</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1NDnqkEiS-DiwjOnpoQmbpevnYF3v995j/view?usp=sharing" target="_blank">Exercises</a>, <a href="https://drive.google.com/file/d/11bfdjVtC5-9FhCfnnesbosYDrTQUN14Z/view?usp=sharing" target="_blank">Exercises with solutions</a></td>
     </tr>
     <tr>
       <th scope="row">3</th>
