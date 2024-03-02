@@ -20,6 +20,7 @@ Large language models have become one of the most commonly deployed NLP inventio
 ## News
 
 **27. 12. 2023** &emsp; Class website is online!  
+**2. 3. 2024** &emsp; [Assignment 1 Submission Template](https://www.overleaf.com/read/fyqmmyxkzzfd#e5ebaf) released.
 
 ## Syllabus and Schedule
 
@@ -1122,6 +1123,9 @@ The second assignment will be of more practical nature and will be released in t
 **Assignment instructions sheets**:  
 
 - [Assignment 1 Instructions (last year)](https://drive.google.com/file/d/1_rEq3tZIp7sOMoL981iuYRQXGwdkH1eZ/view?usp=sharing)  
+- [Assignment 1 Submission Template](https://www.overleaf.com/read/fyqmmyxkzzfd#e5ebaf).
+While not strictly necessary, we highly advise you use this template when preparing your submission. It also includes a large number of LaTeX macros which can make your writing faster and easier to read. 
+**Important**: Even if you don't use this template, you should copy the Declaration of originality from the front page into your own submission!  
 - [Assignment 2 Instructions (last year)](https://drive.google.com/file/d/17RXO1IAFVgRNyPveZCiMMmKi267XpGds/view?usp=sharing), [LaTeX source code](https://drive.google.com/file/d/1xYiv7tHSZAa8wRf68sjGp93uYXOUtGkV/view?usp=sharing)  
 
 
