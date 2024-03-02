@@ -67,7 +67,7 @@ subtitle = "[SEE ALL CLASSES](/classes)"
 
 ## [NLP in the Wild](classes/nlp-bachelor-seminar-s24)
 **ETH Zürich** <span class="middot-divider"></span> **Spring 2024**
-What is the impact of AI chatbots on the way we learn? Can we trust what ChatGPT says? Are AI chatbots "ethical"? In this seminar, we will delve into the questions that have crossed each of our minds in the era of AI, exploring these and other inquiries.
+In recent years, NLP has become a part of our daily lives. Many of us use tools like Google Translate to understand sentences in languages we don’t know,  and chatbots like ChatGPT to help draft essays and answer basic questions. However, even though most people recognize the utility of such tools, there are still many questions to be answered about their reliability and their impact on society. For example, to what extent can we or should we trust what ChatGPT says? Should chatbots ever be used in legal decision-making? What is the role that NLP should play in the education system? In this open-ended seminar, we will read and discuss opinions on the proper use of NLP in the real world, or as we term it,  NLP in the wild!
 
 ## [Large Language Models](/classes/llm-s24) 
 **ETH Zürich** <span class="middot-divider"></span> **Spring 2024**
