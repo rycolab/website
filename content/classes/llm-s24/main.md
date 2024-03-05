@@ -959,7 +959,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <td>7. 3. 2024</td>
       <td>Classical Language Models: $n$-grams and Context-free Grammars</td>
       <td>Vasiliki Xefteri</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1KtcPXjwX-eFnCnMReM8na-3CS8x6OsDk/view?usp=sharing" target="_blank">Exercises</a>, <a href="https://drive.google.com/file/d/19uVWQtXECEZBscthrAo7AKj2f-T-9ipv/view?usp=sharing" target="_blank">Exercises with solutions</a></td>
     </tr>
     <tr>
       <th scope="row">4</th>
@@ -999,14 +999,14 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <th scope="row">9</th>
       <td>25. 4. 2024</td>
-      <td>TBD</td>
+      <td>Common language models, Parameter-efficient fine-tuning</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">10</th>
       <td>2. 5. 2024</td>
-      <td>TBD</td>
+      <td>Prompting and calibration</td>
       <td></td>
       <td></td>
     </tr>
@@ -1084,12 +1084,12 @@ Please report all errata to the teaching staff; we created an [errata channel](h
 **Links to the course notes**:
 
 - [LLM Course Notes Part 1](https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view?usp=share_link)  
-- [iPad Notes Part 1](https://drive.google.com/file/d/1dv1mWIFlLmhN9czr2VujMTxEieSoSWC7/view?usp=sharing)  
+- [iPad Notes Part 1 (Anej)](https://drive.google.com/file/d/1dv1mWIFlLmhN9czr2VujMTxEieSoSWC7/view?usp=sharing)  
 - [LLM Course Notes Part 2](https://drive.google.com/file/d/1PtxuMe6JZyBXBuuGkgDnnD3JRs_JEl5j/view?usp=share_link)
 
 Other useful literature: 
 
-- [iPad class notes](https://drive.google.com/file/d/1bcyaChQHcOzbdxvJTE7auOV73gpmKGqW/view?usp=share_link)  
+- [iPad class notes (last year)](https://drive.google.com/file/d/1Ndl94DdM-EGpCRY3yQpP0V-j7zrXpKav/view?usp=sharing)  
 - [Introduction to Natural Language Processing (Eisenstein)](https://www.amazon.de/Jacob-Eisenstein/dp/0262042843/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=30OMHV1C018JY&dchild=1&keywords=introduction+to+natural+language+processing&qid=1598878964&sprefix=introduction+to+na%2Caps%2C148&sr=8-1)  
 - [Deep Learning (Goodfellow, Bengio and Courville)](https://www.deeplearningbook.org/)  
 - [AFLT Course Notes](https://rycolab.io/classes/aflt-s23/)  
