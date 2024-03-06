@@ -24,7 +24,13 @@ The homework will be released throughout the semester in assignments with 3–4 
 
 ## News
 
-**19.1.** &emsp; Class website is online!  
+**19.1.** &emsp; Class website is online!
+
+**28.2.** &emsp; Assignment template (see RocketChat) is released!
+
+**6.3.** &emsp; [Assignment 1](https://drive.google.com/file/d/11j8KMW7NZYPUHaYUOy8OjX-qVcUpzjnU/view?usp=share_link) is released!
+
+**6.3.** &emsp; [Assignment 2](https://drive.google.com/file/d/1LB47eySJR9rnuh9Cl_usrGQoFCPonWNd/view?usp=share_link)  is released!
 
 [comment]: <> (**9.3.** &emsp; The [iPad class notes]&#40;https://drive.google.com/file/d/1MgKixnb4v8TWXTR5m5MN0NOPZmEzyZD6/view?usp=share_link&#41; have been posted. The same link will contain updated notes for the first part of the course throughout the semester.    )
 
@@ -37,7 +43,7 @@ Both lectures will be given in person and live broadcast on [Zoom](https://ethz.
 
 Lectures will be recorded---link to the Zoom recordings will be posted on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=21954).
 
-We also regularly publish Ryan's [iPad class notes (last year)](https://drive.google.com/file/d/1MgKixnb4v8TWXTR5m5MN0NOPZmEzyZD6/view?usp=share_link).
+[comment]: <> (We also regularly publish Ryan's [iPad class notes &#40;last year&#41;]&#40;https://drive.google.com/file/d/1MgKixnb4v8TWXTR5m5MN0NOPZmEzyZD6/view?usp=share_link&#41;.)
 
 #### Discussion Sections
 
