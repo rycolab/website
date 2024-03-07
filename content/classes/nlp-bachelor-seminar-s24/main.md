@@ -85,7 +85,7 @@ The structure of this seminar is one of open-ended debate. Cum tempore, the semi
         <tr>
       <th scope="row">5</th>
       <td>20.03.24</td>
-      <td> </td>
+      <td> Will AI make journalism obsolete? </td>
       <td>
       </td>
       <td>
