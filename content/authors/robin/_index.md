@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master's Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -22,10 +22,10 @@ organizations:
 bio: 
 
 interests:
-- LLM applications
-- Constrained decoding
-- Biases in language models
+- Human-AI interaction
 - Visualization
+- Biases in LLMs
+- Formal language theory
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -50,5 +50,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Teaching Assistants NLP F23
+- PhD Students
 ---
-Robin is a recent ETH Data Science MSc graduate and an NLP TA. He wrote his thesis at IBM Research under the supervision of Ryan, working on out-of-distribution generalization of LLMs and constrained generation.
+Robin is a PhD student co-supervised by Menna El-Assady and Ryan. He wrote his thesis at IBM Research under the supervision of Ryan, working on out-of-distribution generalization of LLMs and constrained generation.
