@@ -966,7 +966,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <td>14. 3. 2024</td>
       <td>RNN Language Models</td>
       <td>Valentin Bieri</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1XwYRz1QAz1_itU-7nWtRAN8L2gvRPTlq/view?usp=sharing" target="_blank">Exercises</a>, <a href="https://drive.google.com/file/d/1ODY6kclcTD5iSxG8dKTsWAbdYmZ62TZO/view?usp=sharing" target="_blank">Exercises with solutions</a></td>
     </tr>
     <tr>
       <th scope="row">5</th>
@@ -1122,7 +1122,7 @@ The second assignment will be of more practical nature and will be released in t
 
 **Assignment instructions sheets**:  
 
-- [Assignment 1 Instructions (last year)](https://drive.google.com/file/d/1_rEq3tZIp7sOMoL981iuYRQXGwdkH1eZ/view?usp=sharing)  
+- [Assignment 1 Instructions](https://drive.google.com/file/d/1EGO6YD6Ldlhw-qUtzasjphOx5KVSpEBG/view?usp=sharing)  
 - [Assignment 1 Submission Template](https://www.overleaf.com/read/fyqmmyxkzzfd#e5ebaf).
 While not strictly necessary, we highly advise you use this template when preparing your submission. It also includes a large number of LaTeX macros which can make your writing faster and easier to read. 
 **Important**: Even if you don't use this template, you should copy the Declaration of originality from the front page into your own submission!  
