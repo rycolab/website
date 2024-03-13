@@ -992,21 +992,21 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <th scope="row">8</th>
       <td>18. 4. 2024</td>
-      <td>Assignment 1 Q&A</td>
+      <td>Common language models, Parameter-efficient fine-tuning</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">9</th>
       <td>25. 4. 2024</td>
-      <td>Common language models, Parameter-efficient fine-tuning</td>
+      <td>Prompting and calibration</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">10</th>
       <td>2. 5. 2024</td>
-      <td>Prompting and calibration</td>
+      <td>Hallucinations, Retrieval-augmented generation</td>
       <td></td>
       <td></td>
     </tr>
@@ -1034,7 +1034,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <th scope="row">14</th>
       <td>30. 5. 2024</td>
-      <td>Assignment 2 Q&A</td>
+      <td>Assignment 3 Q&A</td>
       <td></td>
       <td></td>
     </tr>
