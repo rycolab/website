@@ -32,7 +32,7 @@ The homework will be released throughout the semester in assignments with 3–4 
 
 **6.3.** &emsp; [Assignment 2](https://drive.google.com/file/d/1LB47eySJR9rnuh9Cl_usrGQoFCPonWNd/view?usp=share_link)  is released!
 
-[comment]: <> (**9.3.** &emsp; The [iPad class notes]&#40;https://drive.google.com/file/d/1MgKixnb4v8TWXTR5m5MN0NOPZmEzyZD6/view?usp=share_link&#41; have been posted. The same link will contain updated notes for the first part of the course throughout the semester.    )
+**13.3.** &emsp; The [class notes](https://drive.google.com/file/d/1ianzRjdodvAFiaIP7WTJuR1lnt5Y_AWm/view?usp=sharing) have been posted. The same link will contain updated notes throughout the semester.    
 
 ## Syllabus and Schedule
 ### On the Use of Class Time
@@ -43,7 +43,7 @@ Both lectures will be given in person and live broadcast on [Zoom](https://ethz.
 
 Lectures will be recorded---link to the Zoom recordings will be posted on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=21954).
 
-[comment]: <> (We also regularly publish Ryan's [iPad class notes &#40;last year&#41;]&#40;https://drive.google.com/file/d/1MgKixnb4v8TWXTR5m5MN0NOPZmEzyZD6/view?usp=share_link&#41;.)
+We also regularly publish Ryan's [iPad class notes](https://drive.google.com/file/d/1ianzRjdodvAFiaIP7WTJuR1lnt5Y_AWm/view?usp=sharing).
 
 #### Discussion Sections
 
@@ -640,7 +640,7 @@ The assignments can change slightly as we update them this year, however, *the q
 
 - [Assignment 1](https://drive.google.com/file/d/11j8KMW7NZYPUHaYUOy8OjX-qVcUpzjnU/view?usp=share_link)  
 - [Assignment 2](https://drive.google.com/file/d/1LB47eySJR9rnuh9Cl_usrGQoFCPonWNd/view?usp=share_link)  
-- [Assignment 3 (last year)](https://drive.google.com/file/d/1eJxlUoDXif_eGVX4FBooVowmVDu4e2hb/view?usp=share_link)  
+- [Assignment 3](https://drive.google.com/file/d/1eJxlUoDXif_eGVX4FBooVowmVDu4e2hb/view?usp=share_link)  
 - [Assignment 4 (last year)](https://drive.google.com/file/d/1cDE8q3ZgpsAUXsKe3mKmfED44caiD8m1/view?usp=share_link)  
 - [Assignment 5 (last year)](https://drive.google.com/file/d/1FaUmRETr7XVulYrnuUUj2p0qWcHhPYrZ/view?usp=share_link)  
 - [Assignment 6 (last year)](https://drive.google.com/file/d/1ccExMucNwIvuI7S7c1NfNLJwbAwXiZCv/view?usp=share_link)  
