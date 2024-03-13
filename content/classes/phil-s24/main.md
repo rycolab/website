@@ -115,8 +115,8 @@ Moodle will be the main communication hub for the course. You are responsible fo
       <td>05.03.24</td>
       <td>Formal and Natural Language</td>
       <td>
-      <!-- <a href="https://drive.google.com/file/d/1XE3jPBGyoMfyGAhvV3eBdxlJqCoG89f4/view?usp=sharing" target="_blank">Ajdukiewicz Presentation Slides</a>,
-      <a href="https://drive.google.com/file/d/18uYUOAOrmpoZ1d2B9qmdp5FrvX02nw9J/view?usp=sharing" target="_blank">Montague Presentation Slides</a></td> -->
+      <a href="https://drive.google.com/file/d/18kxSYzHSPLB8RDF1nxx1arIaCuOcYbeg/view?usp=share_link" target="_blank">Carnap Slides</a>, 
+      <a href="https://drive.google.com/file/d/1jRhD8se5bzSBIM2Gmy2XK_GpKu58hocx/view?usp=share_link" target="_blank">Montague Slides</a>
       <td>
         <!-- <a href="https://drive.google.com/file/d/1Mx5ue6RsajlMual7L3OfSGECbxx0Qzwq/view?usp=sharing" target="_blank"><b>Ajdukiewicz (1936)</b></a>,  -->
         <a href="https://drive.google.com/file/d/10q6mmr5BWmgK9j83S1QxkWD1oxqI75Dp/view?usp=sharing" target="_blank"><b>Carnap (1955)</b></a>, 
@@ -131,7 +131,8 @@ Moodle will be the main communication hub for the course. You are responsible fo
       <td>12.03.24</td>
       <td>Semantic Compositionality in Distributional Settings</td>
       <td>
-      <!-- <a href="https://drive.google.com/file/d/1Y7oop5qD42EZqvGPGWcB92dymWgb5bR2/view?usp=share_link" target="_blank">Modelling Artificial and Natural Languages Presentation Slides</a> -->
+      <a href="https://drive.google.com/file/d/12DG5XuHBXtzossuB2CpzSm8rUPOe59Wo/view?usp=share_link" target="_blank">Baroni et al. Slides 1</a>, 
+      <a href="https://drive.google.com/file/d/1wAqy007zVst-aeB90xVxZekvtPkwJ3Ky/view?usp=share_link" target="_blank">Baroni et al. Slides 2</a>
       </td>
       <td>
         <a href="https://aclanthology.org/2014.lilt-9.5.pdf" target="_blank"><b>Baroni et al. (2014)</b></a>
