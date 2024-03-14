@@ -34,6 +34,8 @@ The homework will be released throughout the semester in assignments with 3–4 
 
 **13.3.** &emsp; The [class notes](https://drive.google.com/file/d/1ianzRjdodvAFiaIP7WTJuR1lnt5Y_AWm/view?usp=sharing) have been posted. The same link will contain updated notes throughout the semester.    
 
+**14.3.** &emsp; [Assignment 3](https://drive.google.com/file/d/1eJxlUoDXif_eGVX4FBooVowmVDu4e2hb/view?usp=share_link)  is released!
+
 ## Syllabus and Schedule
 ### On the Use of Class Time
 #### Lectures
