@@ -139,7 +139,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
     </tr>
     <tr>
       <td>6. 3. 2023</td>
-      <td>Closed Semirings, The Algebraic Path Problem</td>
+      <td>Weighted Finite-State Acceptors (cont.), Intersection</td>
       <td>
       <td></td>
       <td>
@@ -156,7 +156,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
     </tr>
     <tr>
       <td>7. 3. 2023</td>
-      <td>Homomorphisms, Weighted Finite-State Transducers</td>
+      <td>Closed Semirings, The Algebraic Path Problem</td>
       <td>
       </td>
       <td></td>
@@ -172,7 +172,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
     </tr>
     <tr>
       <td>13. 3. 2023</td>
-      <td>Nullary Removal, Determinization of Weighted Finite-state Automata</td>
+      <td>The Algebraic Path Problem (cont.), Weighted Finite-State Transducers</td>
       <td></td>
       <td></td>
       <td>
@@ -186,7 +186,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
     </tr>
     <tr>
       <td>14. 3. 2023</td>
-      <td>Weight Pushing</td>
+      <td>Nullary Removal, Determinization of Weighted Finite-state Automata</td>
       <td>
       </td>
       <td></td>
@@ -205,7 +205,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
     </tr>
     <tr>
       <td>20. 3. 2023</td>
-      <td>Minimization of Weighted Finite-state Automata</td>
+      <td>Weight Pushing, Minimization of Weighted Finite-state Automata</td>
       <td>
       </td>
       <td></td>
