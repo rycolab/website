@@ -89,6 +89,10 @@ The structure of this seminar is one of open-ended debate. Cum tempore, the semi
       <td>
       </td>
       <td>
+      <a href=https://aclanthology.org/2022.emnlp-main.397.pdf target="_blank"><b> Glockner et al. (2022)</b></a>,
+       <a href=https://reutersinstitute.politics.ox.ac.uk/news/ai-and-journalism-whats-next target="_blank"><b> Caswell (2023)</b></a>,
+       <a href=https://www.techpolicy.press/ai-hurts-consumers-and-workers-and-isnt-intelligent/ target="_blank"><b> Hanna and Bender (2023)</b></a>,
+       <a href=https://www.republik.ch/2023/09/28/chronologie-der-schweizer-medienkonzentration target="_blank"><b> Bühler and Moser (2018-2024)</b></a>
       </td>
     </tr>  
   </tbody>
