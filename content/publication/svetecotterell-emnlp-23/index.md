@@ -1,13 +1,11 @@
 ---
-title: On the Representational Capacity of Recurrent Neural Language Models
+title: Recurrent Neural Language Models as Probabilistic Finite-state Automata
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Franz Nowak
 - Anej Svete
-- Li Du
 - Ryan Cotterell
 
 # Author notes (such as 'Equal Contribution')
@@ -17,7 +15,7 @@ date: '2023-12-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-03-17T12:31:16.203435Z'
+publishDate: '2024-03-17T12:31:16.440680Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,18 +29,21 @@ publication: '*Proceedings of the 2023 Conference on Empirical Methods in Natura
   Language Processing*'
 publication_short: ''
 
-abstract: This work investigates the computational expressivity of language models
-  (LMs) based on recurrent neural networks (RNNs). Siegelmann and Sontag (1992) famously
-  showed that RNNs with rational weights and hidden states and unbounded computation
-  time are Turing complete. However, LMs define weightings over strings in addition
-  to just (unweighted) language membership and the analysis of the computational power
-  of RNN LMs (RLMs) should reflect this. We extend the Turing completeness result
-  to the probabilistic case, showing how a rationally weighted RLM with unbounded
-  computation time can simulate any probabilistic Turing machine (PTM). Since, in
-  practice, RLMs work in real-time, processing a symbol at every time step, we treat
-  the above result as an upper bound on the expressivity of RLMs. We also provide
-  a lower bound by showing that under the restriction to real-time computation, such
-  models can simulate deterministic real-time rational PTMs.
+abstract: Studying language models (LMs) in terms of well-understood formalisms allows
+  us to precisely characterize their abilities and limitations. Previous work has
+  investigated the representational capacity of recurrent neural network (RNN) LMs
+  in terms of their capacity to recognize unweighted formal languages. However, LMs
+  do not describe unweighted formal languages -- rather, they define emphprobability
+  distributions over strings. In this work, we study what classes of such probability
+  distributions RNN LMs can represent, which allows us to make more direct statements
+  about their capabilities. We show that simple RNNs are equivalent to a subclass
+  of probabilistic finite-state automata, and can thus model a strict subset of probability
+  distributions expressible by finite-state models. Furthermore, we study the space
+  complexity of representing finite-state LMs with RNNs. We show that, to represent
+  an arbitrary deterministic finite-state LM with $N$ states over an alphabet $Σ$,
+  an RNN requires $Ømegałeft(N |Σ|i̊ght)$ neurons. These results present a first step
+  towards characterizing the classes of distributions RNN LMs can represent and thus
+  help us understand their capabilities and limitations.
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -50,7 +51,7 @@ summary: ''
 tags: []
 
 # Display this page in a list of Featured pages?
-featured: true
+featured: false
 
 # Links
 url_pdf: ''
@@ -82,7 +83,7 @@ image:
 projects: []
 links:
 - name: URL
-  url: https://arxiv.org/abs/2310.12942
+  url: https://arxiv.org/abs/2310.05161
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
