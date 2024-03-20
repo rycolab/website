@@ -98,3 +98,7 @@ The structure of this seminar is one of open-ended debate. Cum tempore, the semi
   </tbody>
 </table>
 
+
+**Resources:** <a href=https://docs.google.com/spreadsheets/d/1-JR-_ILB5Rh3Sd2HuK8sa5FMv4TEnjU7ctHjKngis_0/edit?usp=sharing target="_blank"> prompt link </a>
+
+
