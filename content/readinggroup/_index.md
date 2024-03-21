@@ -26,19 +26,20 @@ profile = false
 
 | Date      | Presenter |  | Title | Slides |
 | ----------- | ----------- | ----------- |----------- |--------- |
-| <nobr> January 24 </nobr> | Julian | | Looking for meaning in LM Embedding Spaces (Master's thesis) | |
-| <nobr> February 21 </nobr> | Afra | | Direct Preference Optimization (DPO) and its extensions | |
-| <nobr> February 28 </nobr> | Lennart | | Interactive Learning (Master's thesis) | |
-| <nobr> March 6 </nobr> | Eleftheria | | Surprisal Curves of Discourse | |
-| <nobr> March 13 </nobr> | Alex | | UnImplicit - Workshop Keynote on Pragmatics | |
-| <nobr> March 19 </nobr> | Gianni & Brian | | An Algorithm for Bijective WordPiece Tokenization | |
-| <nobr> March 26 </nobr> | Jiaoda | | Stack Attention | |
-| <nobr> April 9 </nobr> | Anej | | A Look at the Inductive Biases of RNN LMs | |
-| <nobr> April 16 </nobr> | Gianni | | Unambiguous Tokenization | |
-| <nobr> April 23 </nobr> | Kevin | | Measuring LM Entity Susceptibility / Context Persuasiveness | |
-| <nobr> April 23 </nobr> | Tianyu | | Language Models and Distributions | |
-| <nobr> April 30 </nobr> | Mario | | On Measures of Information | |
 | <nobr> May 7 </nobr> | Nik | | Localizing Memorization in LMs | |
+| <nobr> April 30 </nobr> | Mario | | On Measures of Information | |
+| <nobr> April 23 </nobr> | Tianyu | | Language Models and Distributions | |
+| <nobr> April 23 </nobr> | Kevin | | Measuring LM Entity Susceptibility / Context Persuasiveness | |
+| <nobr> April 16 </nobr> | Gianni | | Unambiguous Tokenization | |
+| <nobr> April 9 </nobr> | Anej | | A Look at the Inductive Biases of RNN LMs | |
+| <nobr> March 26 </nobr> | Jiaoda | | Stack Attention | |
+| <nobr> March 19 </nobr> | Gianni & Brian | | An Algorithm for Bijective WordPiece Tokenization | |
+| <nobr> March 13 </nobr> | Alex | | UnImplicit - Workshop Keynote on Pragmatics | |
+| <nobr> March 6 </nobr> | Eleftheria | | Surprisal Curves of Discourse | |
+| <nobr> February 28 </nobr> | Lennart | | Interactive Learning (Master's thesis) | |
+| <nobr> February 21 </nobr> | Afra | | Direct Preference Optimization (DPO) and its extensions | |
+| <nobr> January 24 </nobr> | Julian | | Looking for meaning in LM Embedding Spaces (Master's thesis) | |
+
 
 ## Reading List 2023
 
