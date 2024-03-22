@@ -38,7 +38,7 @@ profile = false
 | <nobr> March 6 </nobr> | Eleftheria | | Surprisal Curves of Discourse | |
 | <nobr> February 28 </nobr> | Lennart | | Interactive Learning (Master's thesis) | |
 | <nobr> February 21 </nobr> | Afra | | Direct Preference Optimization (DPO) and its extensions | |
-| <nobr> January 24 </nobr> | Julian | | Looking for meaning in LM Embedding Spaces (Master's thesis) | |
+| <nobr> January 24 </nobr> | Julian | | Looking for Meaning in Language Model Embedding Spaces (Master's thesis) | |
 
 
 ## Reading List 2023
