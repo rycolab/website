@@ -23,7 +23,7 @@ In recent years, NLP has become a part of our daily lives. Many of us use tools 
 
 ## Course Structure and Schedule
 
-The structure of this seminar is one of open-ended debate. Cum tempore, the seminar starts at 12:15. However, the teaching staff kindly requests the participants to arrive at 12:05 so we can arrange the desks in a circle. The purpose of this seminar is not to be lectured at by the instructor, but rather for the participants to learn about the views of their peers and discover hitherto unnoticed agreements and disagreements with them on the proper use of NLP in society. Each week, there will be a topic under discussion. The week before, the lecturer will select a series of texts that represent different viewpoints pertaining to that topic. One or two students will take the lead in arguing the “pro” side and one or two students will take the lead in arguing hte “con” side. Grading is purely based on participation. Note we must return the classroom to its normal state after we leave, so we may wrap up 5 to 10 minutes early to re-arrange the room.
+The structure of this seminar is one of open-ended debate. Cum tempore, the seminar starts at 12:15. However, the teaching staff kindly requests the participants to arrive at 12:05 so we can arrange the desks in a circle. The purpose of this seminar is not to be lectured at by the instructor, but rather for the participants to learn about the views of their peers and discover hitherto unnoticed agreements and disagreements with them on the proper use of NLP in society. Each week, there will be a topic under discussion. The week before, the lecturer will select a series of texts that represent different viewpoints pertaining to that topic. One or two students will take the lead in arguing the “pro” side and one or two students will take the lead in arguing the “con” side. Grading is purely based on participation. Note we must return the classroom to its normal state after we leave, so we may wrap up 5 to 10 minutes early to re-arrange the room.
 
 <table class="table">
   <head>
@@ -95,10 +95,47 @@ The structure of this seminar is one of open-ended debate. Cum tempore, the semi
        <a href=https://www.republik.ch/2023/09/28/chronologie-der-schweizer-medienkonzentration target="_blank"><b> Bühler and Moser (2018-2024)</b></a>
       </td>
     </tr>  
+     <tr>
+      <th scope="row">5</th>
+      <td>27.03.24</td>
+      <td> AI Regulation </td>
+      <td>
+      </td>
+      <td>
+      <a href=https://futureoflife.org/open-letter/pause-giant-ai-experiments/ target="_blank"><b> Bengio et al. (2023)</b></a>,
+      <a href=https://openai.com/blog/planning-for-agi-and-beyond target="_blank"><b> Altman (2023)</b></a>,
+      <a href =https://data.consilium.europa.eu/doc/document/ST-5662-2024-INIT/en/pdf target="_blank"><b> The Council of the European Union (2024)</b></a>
+      </td>
+    </tr>  
+    <tr>
+      <th scope="row">5</th>
+      <td>3.04.24</td>
+      <td> Easter Break </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>  
+    <tr>
+      <th scope="row">5</th>
+      <td>10.04.24</td>
+      <td> Coding with LMs </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>  
+    <tr>
+      <th scope="row">5</th>
+      <td>17.04.24</td>
+      <td> Hallucination in NLP </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>  
   </tbody>
 </table>
 
-
-**Resources:** <a href=https://docs.google.com/spreadsheets/d/1-JR-_ILB5Rh3Sd2HuK8sa5FMv4TEnjU7ctHjKngis_0/edit?usp=sharing target="_blank"> prompt link </a>
 
 
