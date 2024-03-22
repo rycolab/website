@@ -96,7 +96,7 @@ The structure of this seminar is one of open-ended debate. Cum tempore, the semi
       </td>
     </tr>  
      <tr>
-      <th scope="row">5</th>
+      <th scope="row">6</th>
       <td>27.03.24</td>
       <td> AI Regulation </td>
       <td>
@@ -108,7 +108,7 @@ The structure of this seminar is one of open-ended debate. Cum tempore, the semi
       </td>
     </tr>  
     <tr>
-      <th scope="row">5</th>
+      <th scope="row">7</th>
       <td>3.04.24</td>
       <td> Easter Break </td>
       <td>
@@ -117,7 +117,7 @@ The structure of this seminar is one of open-ended debate. Cum tempore, the semi
       </td>
     </tr>  
     <tr>
-      <th scope="row">5</th>
+      <th scope="row">8</th>
       <td>10.04.24</td>
       <td> Coding with LMs </td>
       <td>
@@ -126,7 +126,7 @@ The structure of this seminar is one of open-ended debate. Cum tempore, the semi
       </td>
     </tr>  
     <tr>
-      <th scope="row">5</th>
+      <th scope="row">9</th>
       <td>17.04.24</td>
       <td> Hallucination in NLP </td>
       <td>
