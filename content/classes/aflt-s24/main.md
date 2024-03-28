@@ -108,7 +108,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
     </tr>
     <tr>
       <td>28. 2. 2023</td>
-      <td rowspan="9" style="vertical-align : middle;text-align:center;" align="center"><b>Regular Languages</b></td>
+      <td rowspan="10" style="vertical-align : middle;text-align:center;" align="center"><b>Regular Languages</b></td>
       <td>Weighted Formal Languages and Semiring Theory</td>
       <td>
       <a href="https://drive.google.com/file/d/1wXv-e5tL6WxwK7vzBuVSDySYjkuoGW7f/view?usp=share_link" target="_blank">Regular Languages</a>
@@ -211,7 +211,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
     </tr>
     <tr>
       <td>20. 3. 2023</td>
-      <td>Weight Pushing, Minimization of Weighted Finite-state Automata</td>
+      <td>Determinization of Weighted Finite-state Automata (cont.)</td>
       <td>
       </td>
       <td></td>
@@ -231,7 +231,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
     </tr>
     <tr>
       <td>21. 3. 2023</td>
-      <td>Superior Semirings, Dijkstra's Algorithm, Johnson's Algorithm</td>
+      <td>Weight Pushing</td>
       <td>
       </td>
       <td></td>
@@ -252,7 +252,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
     </tr>
     <tr>
       <td>27. 3. 2023</td>
-      <td>Weighted Regular Expressions</td>
+      <td>Minimization of Weighted Finite-state Automata</td>
       <td>
       </td>
       <td></td>
@@ -266,11 +266,8 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
     </tr>
     <tr>
       <td>28. 3. 2023</td>
-      <td rowspan="1" style="vertical-align : middle;text-align:center;" align="center"><b>Context-Free Languages</b></td>
-      <td>Weighted Context-Free Grammars</td>
-      <td>
-      <a href="https://drive.google.com/file/d/18Umozma8ycrkAErhmNdDxcaqkij3f4Aj/view?usp=share_link" target="_blank">Context-free Languages (last year)</a>
-      </td>
+      <td>Minimization of Weighted Finite-state Automata (cont.)</td>
+      <td></td>
       <td></td>
       <td>
       <div id="literature12" style="display:none">
@@ -303,6 +300,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td rowspan="6" style="vertical-align : middle;text-align:center;" align="center"><b>Context-Free Languages</b></td>
       <td>Newton's Algorithm and Nullary Removal</td>
       <td>
+      <a href="https://drive.google.com/file/d/18Umozma8ycrkAErhmNdDxcaqkij3f4Aj/view?usp=share_link" target="_blank">Context-free Languages (last year)</a>
       </td>
       <td></td>
       <td>
