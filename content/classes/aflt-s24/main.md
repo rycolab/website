@@ -32,11 +32,13 @@ The homework will be released throughout the semester in assignments with 3–4 
 
 **6.3.** &emsp; [Assignment 2](https://drive.google.com/file/d/1LB47eySJR9rnuh9Cl_usrGQoFCPonWNd/view?usp=share_link)  is released!
 
-**13.3.** &emsp; The [class notes](https://drive.google.com/file/d/1ianzRjdodvAFiaIP7WTJuR1lnt5Y_AWm/view?usp=sharing) have been posted. The same link will contain updated notes throughout the semester.    
+**13.3.** &emsp; The [class notes](https://drive.google.com/drive/folders/1nB84xons1oxn42RFMVZSacOP5b-FnQH5?usp=share_link) have been posted. The same link will contain updated notes throughout the semester.    
 
 **14.3.** &emsp; [Assignment 3](https://drive.google.com/file/d/1eJxlUoDXif_eGVX4FBooVowmVDu4e2hb/view?usp=share_link)  is released!
 
 **21.3.** &emsp; [Assignment 4](https://drive.google.com/file/d/1cDE8q3ZgpsAUXsKe3mKmfED44caiD8m1/view?usp=share_link)  is released!
+
+[comment]: <> (**28.3.** &emsp; [Assignment 5]&#40;https://drive.google.com/file/d/1FaUmRETr7XVulYrnuUUj2p0qWcHhPYrZ/view?usp=share_link&#41;  is released!)
 
 ## Syllabus and Schedule
 ### On the Use of Class Time
@@ -47,7 +49,7 @@ Both lectures will be given in person and live broadcast on [Zoom](https://ethz.
 
 Lectures will be recorded---link to the Zoom recordings will be posted on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=21954).
 
-We also regularly publish Ryan's [iPad class notes](https://drive.google.com/file/d/1ianzRjdodvAFiaIP7WTJuR1lnt5Y_AWm/view?usp=sharing).
+We also regularly publish Ryan's [iPad class notes](https://drive.google.com/drive/folders/1nB84xons1oxn42RFMVZSacOP5b-FnQH5?usp=share_link).
 
 #### Discussion Sections
 
@@ -574,7 +576,7 @@ All data from the chat will be deleted from ETH servers at the course’s conclu
 To make the moderation of the chat more easily manageable, we have created a number of other channels on `RocketChat`.
 The full list is:
 
-- [AFLT General Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2Fh48tRp) for the general organisational discussions.
+- [AFLT Main Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2Fh48tRp) for the general organisational discussions.
 - [AFLT Announcements Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2F3xECCq) for the announcements by the teaching team.
 - [AFLT Content Questions](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FRRQpra) for your questions about the content of the course.
 **Important**: Please prepend your question with a "tag" about the content of your question in square brackets. 
@@ -646,7 +648,7 @@ The assignments can change slightly as we update them this year, however, *the q
 - [Assignment 2](https://drive.google.com/file/d/1LB47eySJR9rnuh9Cl_usrGQoFCPonWNd/view?usp=share_link)  
 - [Assignment 3](https://drive.google.com/file/d/1eJxlUoDXif_eGVX4FBooVowmVDu4e2hb/view?usp=share_link)  
 - [Assignment 4](https://drive.google.com/file/d/1cDE8q3ZgpsAUXsKe3mKmfED44caiD8m1/view?usp=share_link)  
-- [Assignment 5 (last year)](https://drive.google.com/file/d/1FaUmRETr7XVulYrnuUUj2p0qWcHhPYrZ/view?usp=share_link)  
+- [Assignment 5](https://drive.google.com/file/d/1FaUmRETr7XVulYrnuUUj2p0qWcHhPYrZ/view?usp=share_link)  
 - [Assignment 6 (last year)](https://drive.google.com/file/d/1ccExMucNwIvuI7S7c1NfNLJwbAwXiZCv/view?usp=share_link)  
 - [Assignment 7 (last year)](https://drive.google.com/file/d/1pBvKUwWr6IXm5wFsT0XehFOSrjy5h0Ol/view?usp=share_link)  
 - [Assignment 8 (last year)](https://drive.google.com/file/d/1K0BryGg9fmHinC_eb6yuKaX_RcUXSJYq/view?usp=share_link)  
@@ -667,7 +669,8 @@ You can find more information on the course project and the detailed instruction
 To give early feedback, a *proposal* is due midway through the course (**15.4.2024**).
 See the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=21954) for the submission link.
 
-The teaching staff has compiled a list of recent papers, listed below, whose replication would make for a great project, but students should feel free to come up with other ideas as well. 
+The teaching staff has compiled a list of recent papers, listed below, whose replication would make for a great project, and some additional [project ideas](https://docs.google.com/document/d/1UR11TA2DUmyhYmKxzA2m8KFKyr2YYdP1AeAubnLqmfc/edit?usp=sharing).
+However, students should feel free to come up with other ideas as well!
 <table class="table">
   <head>
     <base target="_blank">
