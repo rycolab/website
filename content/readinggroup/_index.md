@@ -26,12 +26,12 @@ profile = false
 
 | Date      | Presenter |  | Title | Slides |
 | ----------- | ----------- | ----------- |----------- |--------- |
-| <nobr> May 7 </nobr> | Nik | | Localizing Memorization in LMs | |
-| <nobr> April 30 </nobr> | Mario | | On Measures of Information | |
+| <nobr> May 7 </nobr> | Mario | | On Measures of Information  | |
+| <nobr> April 30 </nobr> | Anej | | A Look at the Inductive Biases of RNN LMs | |
 | <nobr> April 23 </nobr> | Tianyu | | Language Models and Distributions | |
 | <nobr> April 23 </nobr> | Kevin | | Measuring LM Entity Susceptibility / Context Persuasiveness | |
 | <nobr> April 16 </nobr> | Gianni | | Unambiguous Tokenization | |
-| <nobr> April 9 </nobr> | Anej | | A Look at the Inductive Biases of RNN LMs | |
+| <nobr> April 9 </nobr> | Nik | | Localizing Memorization in LMs | |
 | <nobr> March 26 </nobr> | Jiaoda | | Stack Attention | |
 | <nobr> March 19 </nobr> | Gianni & Brian | | An Algorithm for Bijective WordPiece Tokenization | |
 | <nobr> March 13 </nobr> | Alex | | UnImplicit - Workshop Keynote on Pragmatics | |
