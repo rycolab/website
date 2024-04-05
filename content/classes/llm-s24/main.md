@@ -973,14 +973,14 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <td>21. 3. 2024</td>
       <td>Transformer Language Models</td>
       <td>Josep Borrell Tatché</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1fgmj8GZLEBEZQkpgBb-AfDTSFnusWhUU/view?usp=sharing" target="_blank">Exercises</a>, <a href="https://drive.google.com/file/d/10s0dPoJI5rnnpJG6KHhI9ubyvwoj5kSX/view?usp=drive_link" target="_blank">Exercises with solutions</a>, <a href="https://colab.research.google.com/drive/1Gywenp9vgqZlVVIO6fJP3rTtTSbXeG3q?usp=sharing" target="_blank">Jupyter Notebook</a></td>
     </tr>
     <tr>
       <th scope="row">6</th>
       <td>28. 3. 2024</td>
       <td>Tokenization and Generation</td>
       <td>Manuel de Prada Corral</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1X7SDxxe_wie6h2lsXYbKShXWWOE2btv_/view?usp=sharing" target="_blank">Exercises</a>, <a href="https://drive.google.com/file/d/19mlbNDqaX6_I-McJh7kCz9h1phkiFqUU/view?usp=sharing" target="_blank">Exercises with solutions</a>, <a href="https://drive.google.com/file/d/1QacSXop-6TI2paBR0sPb2IrlxljzVxLV/view?usp=sharing" target="_blank">Slides</a></td>
     </tr>
     <tr>
       <th scope="row">7</th>
