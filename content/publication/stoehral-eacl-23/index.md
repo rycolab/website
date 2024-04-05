@@ -1,37 +1,35 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Sentiment as an Ordinal Latent Variable
-subtitle: ''
-summary: ''
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
 authors:
 - Niklas Stoehr
 - Ryan Cotterell
 - Aaron Schein
-tags: []
-categories: []
+
+# Author notes (such as 'Equal Contribution')
+author_notes: []
+
 date: '2023-05-01'
-lastmod: 2023-07-09T16:30:23+02:00
-featured: false
-draft: false
+doi: ''
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
+# Schedule page publish date (NOT publication's date).
+publishDate: '2024-03-17T12:31:13.221338Z'
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2024-02-28T20:04:38.563166Z'
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
 publication_types:
 - '1'
+
+# Publication name and optional abbreviated publication name.
+publication: '*Proceedings of the 17th Conference of the European Chapter of the Association
+  for Computational Linguistics*'
+publication_short: ''
+
 abstract: 'Sentiment analysis has become a central tool in various disciplines outside
   of natural language processing. In particular in applied and domain-specific settings
   with strong requirements for interpretable methods, dictionary-based approaches
@@ -50,9 +48,46 @@ abstract: 'Sentiment analysis has become a central tool in various disciplines o
   to augment dictionary-based approaches with word embeddings to construct sentiment
   scales along new semantic axes. Second, we demonstrate a Latent Dirichlet Allocation-inspired
   variant of our model that learns document topics that are ordered by sentiment.'
-publication: '*Proceedings of the 17th Conference of the European Chapter of the Association
-  for Computational Linguistics*'
+
+# Summary. An optional shortened abstract.
+summary: ''
+
+tags: []
+
+# Display this page in a list of Featured pages?
+featured: false
+
+# Links
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+# Publication image
+# Add an image named `featured.jpg/png` to your page's folder then add a caption below.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
 links:
 - name: URL
   url: https://arxiv.org/abs/2212.04130
 ---
+
+Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

@@ -1,39 +1,37 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Language Model Quality Correlates with Psychometric Predictive Power in Multiple
   Languages
-subtitle: ''
-summary: ''
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
 authors:
 - Ethan Wilcox
 - Clara Meister
 - Ryan Cotterell
 - Tiago Pimentel
-tags: []
-categories: []
+
+# Author notes (such as 'Equal Contribution')
+author_notes: []
+
 date: '2023-12-01'
-lastmod: 2023-12-20T23:53:26+01:00
-featured: true
-draft: false
+doi: ''
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
+# Schedule page publish date (NOT publication's date).
+publishDate: '2024-03-17T12:31:12.875928Z'
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2024-02-28T20:04:37.785870Z'
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
 publication_types:
 - '1'
+
+# Publication name and optional abbreviated publication name.
+publication: '*Proceedings of the 2023 Conference on Empirical Methods in Natural
+  Language Processing*'
+publication_short: ''
+
 abstract: Surprisal theory (Hale, 2001; Levy, 2008) posits that a word’s reading time
   is proportional to its surprisal (i.e., to its negative log probability given the
   proceeding context). Since we are unable to access a word’s ground-truth probability,
@@ -50,6 +48,43 @@ abstract: Surprisal theory (Hale, 2001; Levy, 2008) posits that a word’s readi
   correlations between LM quality and power in eleven of these thirteen languages,
   suggesting that, within the range of model classes and sizes tested, better language
   models are indeed better predictors of human language processing behaviors.
-publication: '*Proceedings of the 2023 Conference on Empirical Methods in Natural
-  Language Processing*'
+
+# Summary. An optional shortened abstract.
+summary: ''
+
+tags: []
+
+# Display this page in a list of Featured pages?
+featured: true
+
+# Links
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+# Publication image
+# Add an image named `featured.jpg/png` to your page's folder then add a caption below.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
 ---
+
+Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

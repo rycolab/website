@@ -1,10 +1,10 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: 'Findings of the BabyLM Challenge: Sample-Efficient Pretraining on Developmentally
   Plausible Corpora'
-subtitle: ''
-summary: ''
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
 authors:
 - Alex Warstadt
 - Aaron Mueller
@@ -17,30 +17,28 @@ authors:
 - Adina Williams
 - Tal Linzen
 - Ryan Cotterell
-tags: []
-categories: []
+
+# Author notes (such as 'Equal Contribution')
+author_notes: []
+
 date: '2023-12-01'
-lastmod: 2024-02-28T21:04:45+01:00
-featured: true
-draft: false
+doi: ''
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
+# Schedule page publish date (NOT publication's date).
+publishDate: '2024-03-17T12:31:16.559937Z'
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2024-02-28T20:04:45.754212Z'
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
 publication_types:
 - '1'
+
+# Publication name and optional abbreviated publication name.
+publication: '*Proceedings of the BabyLM Challenge at the 27th Conference on Computational
+  Natural Language Learning*'
+publication_short: ''
+
 abstract: 'Children can acquire language from less than 100 million words of input.
   Large language models are far less data-efficient: they typically require 3 or 4
   orders of magnitude more data and still do not perform as well as humans on many
@@ -58,6 +56,43 @@ abstract: 'Children can acquire language from less than 100 million words of inp
   or training a student model on a pretrained teacher. Curriculum learning attempts,
   which accounted for a large number of submissions, were largely unsuccessful, though
   some showed modest improvements'
-publication: '*Proceedings of the BabyLM Challenge at the 27th Conference on Computational
-  Natural Language Learning*'
+
+# Summary. An optional shortened abstract.
+summary: ''
+
+tags: []
+
+# Display this page in a list of Featured pages?
+featured: true
+
+# Links
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+# Publication image
+# Add an image named `featured.jpg/png` to your page's folder then add a caption below.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
 ---
+
+Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
