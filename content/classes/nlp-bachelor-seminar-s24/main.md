@@ -123,6 +123,9 @@ The structure of this seminar is one of open-ended debate. Cum tempore, the semi
       <td>
       </td>
       <td>
+      <a href=https://arxiv.org/abs/2201.11227 target="_blank"><b> Poesia et al. (2022)</b></a>,
+      <a href=https://arxiv.org/abs/2108.07732 target="_blank"><b> Austin et al. (2021)</b></a>,
+      <a href=https://ieeexplore.ieee.org/document/8666786 target="_blank"><b> Meyer et al. (2019)</b></a>
       </td>
     </tr>  
     <tr>
