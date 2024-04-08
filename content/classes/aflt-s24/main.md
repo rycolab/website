@@ -647,9 +647,9 @@ The assignments can change slightly as we update them this year, however, *the q
 - [Assignment 3](https://drive.google.com/file/d/1eJxlUoDXif_eGVX4FBooVowmVDu4e2hb/view?usp=share_link)  
 - [Assignment 4](https://drive.google.com/file/d/1cDE8q3ZgpsAUXsKe3mKmfED44caiD8m1/view?usp=share_link)  
 - [Assignment 5](https://drive.google.com/file/d/1FaUmRETr7XVulYrnuUUj2p0qWcHhPYrZ/view?usp=share_link)  
-- [Assignment 6 (last year)](https://drive.google.com/file/d/1ccExMucNwIvuI7S7c1NfNLJwbAwXiZCv/view?usp=share_link)  
-- [Assignment 7 (last year)](https://drive.google.com/file/d/1pBvKUwWr6IXm5wFsT0XehFOSrjy5h0Ol/view?usp=share_link)  
-- [Assignment 8 (last year)](https://drive.google.com/file/d/1K0BryGg9fmHinC_eb6yuKaX_RcUXSJYq/view?usp=share_link)  
+- [Assignment 6](https://drive.google.com/file/d/1ccExMucNwIvuI7S7c1NfNLJwbAwXiZCv/view?usp=share_link)  
+- [Assignment 7](https://drive.google.com/file/d/1pBvKUwWr6IXm5wFsT0XehFOSrjy5h0Ol/view?usp=share_link)  
+- [Assignment 8](https://drive.google.com/file/d/1K0BryGg9fmHinC_eb6yuKaX_RcUXSJYq/view?usp=share_link)  
 - [Assignment 9 (last year)](https://drive.google.com/file/d/1ti9B3CN6QQ9faKVWJ7x-gXLFgS8aS8aD/view?usp=share_link)  
 - [Assignment 10 (last year)](https://drive.google.com/file/d/1O9bUCWNeMlc0lXex8THkaW0QMGrH7b18/view?usp=share_link)  
 
