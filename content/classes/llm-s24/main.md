@@ -478,7 +478,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <button id="button17" style="border:none;" onclick="myFunction('17')">Show</button>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/10GQ49fhbhj4rGpm4lTsJW1cS--TPO-Xz/view?usp=sharing" target="_blank">Slides</a>
+      <a href="https://drive.google.com/file/d/1Wh3hjLOyiyrWKJ72XCVfPR09Ke6IixQ7/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
       </td>
@@ -515,7 +515,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <button id="button18" style="border:none;" onclick="myFunction('18')">Show</button>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/1QQhP9vxHAWI_k77WjvmUtnetCQtTH-D4/view?usp=share_link" target="_blank">Slides</a>
+      <a href="https://drive.google.com/file/d/1Wh3hjLOyiyrWKJ72XCVfPR09Ke6IixQ7/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
       </td>
@@ -986,28 +986,28 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <th scope="row">7</th>
       <td>11. 4. 2024</td>
       <td>Assignment 1 Q&A</td>
-      <td></td>
+      <td>TAs</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">8</th>
       <td>18. 4. 2024</td>
-      <td>Common language models, Parameter-efficient fine-tuning</td>
-      <td></td>
+      <td>Common pre-trained language models, Parameter-efficient fine-tuning</td>
+      <td>Evžen Wybitul</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">9</th>
       <td>25. 4. 2024</td>
-      <td>Prompting and calibration</td>
-      <td></td>
+      <td>Retrieval-augmented generation</td>
+      <td>Pep Borrell</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">10</th>
       <td>2. 5. 2024</td>
-      <td>Hallucinations, Retrieval-augmented generation</td>
-      <td></td>
+      <td>Prompting, Chain-of-Thought Reasoning</td>
+      <td>Filippo Ficarra</td>
       <td></td>
     </tr>
     <tr>
@@ -1021,21 +1021,21 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <th scope="row">12</th>
       <td>16. 5. 2024</td>
       <td>Decoding and Watermarking</td>
-      <td></td>
+      <td>Iason Chalas</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">13</th>
       <td>23. 5. 2024</td>
       <td>Assignment 2 Q&A</td>
-      <td></td>
+      <td>TAs</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">14</th>
       <td>30. 5. 2024</td>
       <td>Assignment 3 Q&A</td>
-      <td></td>
+      <td>TAs</td>
       <td></td>
     </tr>
     
@@ -1085,7 +1085,8 @@ Please report all errata to the teaching staff; we created an [errata channel](h
 
 - [LLM Course Notes Part 1](https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view?usp=share_link)  
 - [iPad Notes Part 1 (Anej)](https://drive.google.com/file/d/1dv1mWIFlLmhN9czr2VujMTxEieSoSWC7/view?usp=sharing)  
-- [LLM Course Notes Part 2](https://drive.google.com/file/d/1PtxuMe6JZyBXBuuGkgDnnD3JRs_JEl5j/view?usp=share_link)
+- [LLM Course Notes Part 2 (last year)](https://drive.google.com/file/d/1PtxuMe6JZyBXBuuGkgDnnD3JRs_JEl5j/view?usp=share_link)
+- [LLM Course Notes Part 2 (up to date Overleaf link)](https://www.overleaf.com/read/mytbjbppbbsg#d6e94d)
 
 Other useful literature: 
 
