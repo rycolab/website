@@ -300,7 +300,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td rowspan="6" style="vertical-align : middle;text-align:center;" align="center"><b>Context-Free Languages</b></td>
       <td>Newton's Algorithm and Nullary Removal</td>
       <td>
-      <a href="https://drive.google.com/file/d/18Umozma8ycrkAErhmNdDxcaqkij3f4Aj/view?usp=share_link" target="_blank">Context-free Languages (last year)</a>
+      <a href="https://drive.google.com/file/d/18Umozma8ycrkAErhmNdDxcaqkij3f4Aj/view?usp=share_link" target="_blank">Context-free Languages</a>
       </td>
       <td></td>
       <td>
