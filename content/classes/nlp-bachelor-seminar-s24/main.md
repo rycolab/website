@@ -20,6 +20,8 @@ In recent years, NLP has become a part of our daily lives. Many of us use tools 
 
 **Location:** CAB G 52
 
+<a href=https://docs.google.com/document/d/1_A4HrXXspjX04Z_4QbGD74PfGpJeyZnztb9qMRXfS3o/edit?usp=sharing target="_blank"><b> **Prompt link** </b></a>
+
 
 ## Course Structure and Schedule
 
