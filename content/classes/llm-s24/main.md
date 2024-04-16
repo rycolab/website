@@ -597,6 +597,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <button id="button19" style="border:none;" onclick="myFunction('19')">Show</button>
       </td>
       <td>
+      <a href="https://drive.google.com/file/d/1ew_J5QplCWJerNQ4s8-FczR9k4fOdqa5/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
       </td>
