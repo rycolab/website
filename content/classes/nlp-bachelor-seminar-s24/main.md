@@ -20,7 +20,7 @@ In recent years, NLP has become a part of our daily lives. Many of us use tools 
 
 **Location:** CAB G 52
 
-<a href=https://docs.google.com/document/d/1_A4HrXXspjX04Z_4QbGD74PfGpJeyZnztb9qMRXfS3o/edit?usp=sharing target="_blank"><b> **Prompt link** </b></a>
+<a href=https://docs.google.com/document/d/1_A4HrXXspjX04Z_4QbGD74PfGpJeyZnztb9qMRXfS3o/edit?usp=sharing target="_blank"><b> **TODOs** </b></a>
 
 
 ## Course Structure and Schedule
@@ -133,6 +133,18 @@ The structure of this seminar is one of open-ended debate. Cum tempore, the semi
     <tr>
       <th scope="row">9</th>
       <td>17.04.24</td>
+      <td> Coding with LMs (Pt. 2) </td>
+      <td>
+      </td>
+      <td>
+      <a href=https://arxiv.org/abs/2201.11227 target="_blank"><b> Poesia et al. (2022)</b></a>,
+      <a href=https://arxiv.org/abs/2108.07732 target="_blank"><b> Austin et al. (2021)</b></a>,
+      <a href=https://ieeexplore.ieee.org/document/8666786 target="_blank"><b> Meyer et al. (2019)</b></a>
+      </td>
+    </tr>  
+    <tr>
+      <th scope="row">10</th>
+      <td>24.04.24</td>
       <td> Hallucination in NLP </td>
       <td>
       </td>
