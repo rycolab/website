@@ -585,7 +585,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <td>16. 4. 2024</td>
       <td>2 hours</td>
       <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Applications and the Benefits of Scale</b></td>
-      <td>Multimodality</td>
+      <td>In-context learning, Prompting, zero-shot, instruction tuning</td>
       <td>
       Mrinmaya
       </td>
@@ -605,7 +605,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <td>19. 4. 2024</td>
       <td>1 hour</td>
-      <td>Instruction tuning and RLHF</td>
+      <td>Multimodality</td>
       <td>
       Mrinmaya
       </td>
@@ -617,6 +617,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <button id="button21" style="border:none;" onclick="myFunction('21')">Show</button>
       </td>
       <td>
+      <a href="https://drive.google.com/file/d/1jkgo1FkQrEhqg-5lGVHJ_U4iiE053ocQ/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
       </td>
