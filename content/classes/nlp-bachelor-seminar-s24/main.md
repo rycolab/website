@@ -145,10 +145,11 @@ The structure of this seminar is one of open-ended debate. Cum tempore, the semi
     <tr>
       <th scope="row">10</th>
       <td>24.04.24</td>
-      <td> Hallucination in NLP </td>
+      <td> Coding with LMs (Pt. 3) </td>
       <td>
       </td>
       <td>
+      <a href=https://aclanthology.org/2023.acl-long.204 target="_blank"><b> Opedal et al. (2023)</b></a>
       </td>
     </tr>  
   </tbody>
