@@ -1080,8 +1080,8 @@ The full list is:
 - [Content Questions](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FGdj6PF) for your questions about the content of the course.
 - [Errata](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2F7Njm3P) for reporting typos and errors in the course lecture notes and the slides.
 - [Assignment 1](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FE8RDAF) for asking questions and discussing the first assignment.
-- [Assignment 2a](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FRGGSYT) for asking questions and discussing the second assignment.
-- [Assignment 2b](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FRGGSYT) for asking questions and discussing the third assignment.
+- [Assignment 2a](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FRGGSYT) for asking questions and discussing the assignment 2a.
+- [Assignment 2b](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FZA6d3p) for asking questions and discussing the assignment 2b.
 - [Find Assignment Partners](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FAwTb7Q) for finding teammates for the course assignments.
 
 If you feel like you would benefit from any other channel, feel free to suggest it to the teaching team!
