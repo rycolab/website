@@ -197,7 +197,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       </td>
       <td></td>
       <td>
-      <div id="literature8" style="display:none">
+      <div id="literature7" style="display:none">
         <a href="https://link.springer.com/content/pdf/10.1007/978-3-642-01492-5_6.pdf" target="_blank">Mohri (2009; §7.3)</a></br>
         <a href="https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-41/issue-1/A-Maximization-Technique-Occurring-in-the-Statistical-Analysis-of-Probabilistic/10.1214/aoms/1177697196.full" target="_blank">Baum et al. (1970)</a></br>
         <a href="https://ieeexplore.ieee.org/document/18626" target="_blank">Rabiner (1989)</a></br>
@@ -206,7 +206,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
         <a href="https://proceedings.neurips.cc/paper/2004/file/eb06b9db06012a7a4179b8f3cb5384d3-Paper.pdf" target="_blank">Sarawagi and Cohen (2004)</a></br>
       <br/>  
       </div>
-      <button id="button8" style="border:none;" onclick="myFunction('8')">Show</button>
+      <button id="button7" style="border:none;" onclick="myFunction('7')">Show</button>
       </td>
     </tr>
     <tr>
@@ -216,7 +216,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       </td>
       <td></td>
       <td>
-      <div id="literature9" style="display:none">
+      <div id="literature8" style="display:none">
         <a href="https://link.springer.com/content/pdf/10.1007/978-3-642-01492-5_6.pdf" target="_blank">Mohri (2009; §7.4)</a></br>
         <a href="https://www.sciencedirect.com/science/article/pii/0304397592901423" target="_blank">Revuz (1992)</a></br>
         <a href="https://www.di.ens.fr/~jv/HomePage/dea/MinimizeAutomata.pdf" target="_blank">Watson (1994)</a></br>
@@ -226,7 +226,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
         <a href="https://aclanthology.org/N03-1009.pdf" target="_blank">Eisner (2003)</a></br>
       <br/>  
       </div>
-      <button id="button9" style="border:none;" onclick="myFunction('9')">Show</button>
+      <button id="button8" style="border:none;" onclick="myFunction('8')">Show</button>
       </td>
     </tr>
     <tr>
@@ -236,7 +236,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       </td>
       <td></td>
       <td>
-      <div id="literature10" style="display:none">
+      <div id="literature9" style="display:none">
         <a href="http://www-m3.ma.tum.de/foswiki/pub/MN0506/WebHome/dijkstra.pdf" target="_blank">Dijkstra (1959)</a></br>
         <!-- <a href="https://aclanthology.org/W05-1506/" target="_blank">Huang (2008)</a></br> -->
         <a href="https://dl.acm.org/doi/10.1145/321992.321993" target="_blank">Johnson (1977)</a></br>
@@ -247,7 +247,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
         <a href="https://www.cs.jhu.edu/~jason/papers/eisner.spnlp16.pdf" target="_blank">Eisner (2016)</a></br>
       <br/>  
       </div>
-      <button id="button10" style="border:none;" onclick="myFunction('10')">Show</button>
+      <button id="button9" style="border:none;" onclick="myFunction('9')">Show</button>
       </td>
     </tr>
     <tr>
@@ -257,11 +257,11 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       </td>
       <td></td>
       <td>
-      <div id="literature11" style="display:none">
+      <div id="literature10" style="display:none">
         <a href="https://en.wikipedia.org/wiki/Thompson%27s_construction" target="_blank">Wikipedia</a></br>
       <br/>  
       </div>
-      <button id="button11" style="border:none;" onclick="myFunction('11')">Show</button>
+      <button id="button10" style="border:none;" onclick="myFunction('10')">Show</button>
       </td>
     </tr>
     <tr>
@@ -270,14 +270,14 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td></td>
       <td></td>
       <td>
-      <div id="literature12" style="display:none">
+      <div id="literature11" style="display:none">
         <a href="https://www.degruyter.com/document/doi/10.1524/stuf.1961.14.14.143/html" target="_blank">Bar-Hillel et al. (1961)</a></br>
         <a href="https://ce.sharif.edu/courses/94-95/1/ce414-2/resources/root/Text%20Books/Automata/John%20E.%20Hopcroft,%20Rajeev%20Motwani,%20Jeffrey%20D.%20Ullman-Introduction%20to%20Automata%20Theory,%20Languages,%20and%20Computations-Prentice%20Hall%20(2006).pdf" target="_blank">Hopcroft et al. (2006)</a></br>
         <a href="https://link.springer.com/article/10.1007/s11168-008-9052-8" target="_blank">Nederhof and Satta (2008)</a></br>
         <a href="https://aclanthology.org/2023.eacl-main.52/" target="_blank">Pasti et al. (2023)</a></br>
       <br/>  
       </div>
-      <button id="button12" style="border:none;" onclick="myFunction('12')">Show</button>
+      <button id="button11" style="border:none;" onclick="myFunction('11')">Show</button>
       </td>
     </tr>
     <tr>
@@ -298,23 +298,52 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
     <tr>
       <td>10. 4. 2023</td>
       <td rowspan="6" style="vertical-align : middle;text-align:center;" align="center"><b>Context-Free Languages</b></td>
-      <td>Newton's Algorithm and Nullary Removal</td>
+      <td>Context-Free Grammars</td>
       <td>
       <a href="https://drive.google.com/file/d/18Umozma8ycrkAErhmNdDxcaqkij3f4Aj/view?usp=share_link" target="_blank">Context-free Languages</a>
       </td>
       <td></td>
       <td>
+      <div id="literature12" style="display:none">
+        <a href="https://link.springer.com/article/10.1007/s11168-008-9052-8" target="_blank">Nederhof and Satta (2008)</a></br>
+      <br/>  
+      </div>
+      <button id="button12" style="border:none;" onclick="myFunction('12')">Show</button>
+      </td>
+    </tr>
+    <tr>
+      <td>11. 4. 2023</td>
+      <td>No class</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>17. 4. 2023</td>
+      <td>Properties of Grammar Transforms, Chomsky Normal Form, Unfold, Fold</td>
+      <td>
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>18. 4. 2023</td>
+      <td>Nullary Removal, Speculation, Left-Corner Transform</td>
+      <td>
+      </td>
+      <td></td>
+      <td>
       <div id="literature13" style="display:none">
-        <a href="https://link.springer.com/chapter/10.1007/978-3-540-70918-3_26" target="_blank">Esparza et al. (2007)</a></br>
-        <a href="https://jscholarship.library.jhu.edu/items/f78cc5e6-9dba-451f-b45c-6a390a255355" target="_blank">Vieira (2023)</a></br>
+        <a href="https://www.cs.jhu.edu/~jason/papers/eisner+blatz.fg06.pdf" target="_blank">Eisner and Blatz (2006; §6.3)</a></br>
+        <a href="https://arxiv.org/pdf/2311.16258.pdf" target="_blank">Opedal et al. (2023)</a></br>
       <br/>  
       </div>
       <button id="button13" style="border:none;" onclick="myFunction('13')">Show</button>
       </td>
     </tr>
     <tr>
-      <td>11. 4. 2023</td>
-      <td>Unary Removal, Binarization, Chomsky Normal Form, CKY</td>
+      <td>24. 4. 2023</td>
+      <td>Newton's Algorithm, Unary Removal, Binarization, Chomsky Normal Form (cont.), CKY</td>
       <td>
       </td>
       <td></td>
@@ -322,22 +351,21 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <div id="literature14" style="display:none">
         <a href="https://aclanthology.org/N09-1039.pdf" target="_blank">Schuler (2009)</a></br>
         <a href="https://aclanthology.org/J95-2002/" target="_blank">Stolcke (1995; §4.7)</a></br>
-        <a href="https://aclanthology.org/1997.iwpt-1.18.pdf" target="_blank">Manning and Carptener (1997)</a></br>
+        <a href="https://aclanthology.org/1997.iwpt-1.18.pdf" target="_blank">Manning and Carpenter (1997)</a></br>
         <a href="https://www.ideals.illinois.edu/handle/2142/74304" target="_blank">Kasami (1966)</a></br>
         <a href="https://www.sciencedirect.com/science/article/pii/S001999586780007X?via%3Dihub" target="_blank">Younger (1967)</a></br>
         <a href="http://www.softwarepreservation.org/projects/FORTRAN/CockeSchwartz_ProgLangCompilers.pdf" target="_blank">Cocke and Schwartz (1970)</a></br>
         <a href="https://www.sciencedirect.com/science/article/abs/pii/0020019077900023" target="_blank">Knuth (1977)</a></br>
         <a href="https://www.cambridge.org/core/journals/theory-and-practice-of-logic-programming/article/abs/products-of-weighted-logic-programs/5E2207BED192B119DC0034BE15B242E1" target="_blank">Cohen et al. (2011)</a></br>
         <a href="https://aclanthology.org/P11-2124/" target="_blank">Goldberg and Elhadad (2011)</a></br>
-        <a href="https://arxiv.org/pdf/2311.16258.pdf" target="_blank">Opedal et al. (2023)</a></br>
       <br/>  
       </div>
       <button id="button14" style="border:none;" onclick="myFunction('14')">Show</button>
       </td>
     </tr>
     <tr>
-      <td>17. 4. 2023</td>
-      <td>Earley's Algorithm</td>
+      <td>25. 4. 2023</td>
+      <td>Earley's Algorithm, Weighted Pushdown Automata</td>
       <td>
       </td>
       <td></td>
@@ -346,49 +374,30 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
         <a href="https://dl.acm.org/doi/10.1145/362007.362035" target="_blank">Earley (1970)</a></br>
         <a href="https://aclanthology.org/J95-2002/" target="_blank">Stolcke (1995)</a></br>
         <a href="https://arxiv.org/pdf/2307.02982.pdf" target="_blank">Opedal et al. (2023)</a></br>
+        <a href="https://rycolab.io/papers/butoi+al.emnlp22.pdf/" target="_blank">Butoi et al. (2022)</a></br>
+        <a href="https://aclanthology.org/P99-1070/" target="_blank">Abney et al. (1999)</a></br>
+        <a href="https://link.springer.com/chapter/10.1007/978-3-662-21545-6_18" target="_blank">Lang (1974)</a></br>
       <br/>  
       </div>
       <button id="button15" style="border:none;" onclick="myFunction('15')">Show</button>
       </td>
     </tr>
     <tr>
-      <td>18. 4. 2023</td>
-      <td>Weighted Pushdown Automata</td>
-      <td>
-      </td>
-      <td>
-      </td>
+      <td>1. 5. 2023</td>
+      <td rowspan="1" style="vertical-align : middle;text-align:center;" align="center"><b>Labour Day</b></td>
+      <td>No class</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2. 5. 2023</td>
+      <td rowspan="1" style="vertical-align : middle;text-align:center;" align="center"><b>Context-Free Languages</b></td>
+      <td>Newton's Algorithm for PDAs, Nullary Removal, Unary Removal, CNF for PDAs, Lang's Algorithm</td>
+      <td></td>
+      <td></td>
       <td>
       <div id="literature16" style="display:none">
-        <a href="https://rycolab.io/papers/butoi+al.emnlp22.pdf/" target="_blank">Butoi et al. (2022)</a></br>
-        <a href="https://aclanthology.org/P99-1070/" target="_blank">Abney et al. (1999)</a></br>
-        <a href="https://link.springer.com/chapter/10.1007/978-3-662-21545-6_18" target="_blank">Lang (1974)</a></br>
-      <br/>  
-      </div>
-      <button id="button16" style="border:none;" onclick="myFunction('16')">Show</button>
-      </td>
-    </tr>
-    <tr>
-      <td>24. 4. 2023</td>
-      <td>Newton's Algorithm for PDAs, Nullary Removal, Unary Removal</td>
-      <td>
-      </td>
-      <td>
-      </td>
-      <td>
-      <div id="literature17" style="display:none">
-      <br/>  
-      </div>
-      <button id="button17" style="border:none;" onclick="myFunction('17')">Show</button>
-        </td>
-    </tr>
-    <tr>
-      <td>25. 4. 2023</td>
-      <td>Chomsky Normal Form for PDAs, Lang's Algorithm</td>
-      <td></td>
-      <td></td>
-      <td>
-      <div id="literature18" style="display:none">
         <a href="https://aclanthology.org/W04-0308.pdf" target="_blank">Nivre (2004)</a></br>
         <a href="https://aclanthology.org/J08-4003.pdf" target="_blank">Nivre (2008)</a></br>
         <a href="https://dl.acm.org/doi/10.1145/321250.321254" target="_blank">Greichbach (1965)</a></br>
@@ -405,51 +414,31 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
         <a href="https://www.cs.jhu.edu/~jason/papers/eisner.iwptbook00.pdf" target="_blank">Eisner (2000)</a></br>
       <br/>  
       </div>
-      <button id="button18" style="border:none;" onclick="myFunction('18')">Show</button>
+      <button id="button16" style="border:none;" onclick="myFunction('16')">Show</button>
       </td>
     </tr>
     <tr>
-      <td>1. 5. 2023</td>
-      <td rowspan="1" style="vertical-align : middle;text-align:center;" align="center"><b>Labour Day</b></td>
-      <td>No class</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>2. 5. 2023</td>
-      <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Regular Tree Languages</b></td>
-      <td>Weighted Tree Automata</td>
+      <td>8. 5. 2023</td>
+      <td rowspan="1" style="vertical-align : middle;text-align:center;" align="center"><b>Regular Tree Languages</b></td>
+      <td>Weighted Tree Automata, Determinization of Weighted Tree Automata</td>
       <td>
       <a href="https://drive.google.com/file/d/1KgcJ8T_fqApa3aYJx6lMiBGPGezAf314/view?usp=share_link" target="_blank">Regular Tree Languages (last year)</a>
       </td>
       <td></td>
       <td>
-      <div id="literature20" style="display:none">
+      <div id="literature17" style="display:none">
         <a href="https://link.springer.com/book/10.1007/978-1-4612-1844-9" target="_blank">Dexter C. Kozen. 1997. Automata and Computability, 1st edition. Springer-Verlag, Berlin, Heidelberg.</a></br>
         <a href="https://hal.inria.fr/hal-03367725" target="_blank">Hubert Comon, Max Dauchet, Remi Gilleron, Florent Jacquemard, Denis Lugiez, Christof Loding, Sophie Tison, and Marc Tommasi. 2008. Tree Automata Techniques and Applications.</a></br>
         <a href="https://doi.org/10.48550/ARXIV.1510.02036" target="_blank">Joost Engelfriet. 2015. Tree automata and tree grammars.</a></br>
         <a href="https://doi.org/10.48550/ARXIV.1509.06233" target="_blank">Ferenc Gecseg and Magnus Steinby. 2015. Tree automata.</a></br>
-        <a href="https://doi.org/https://doi.org/10.1016/S0022-0000(67)80022-9 target="_blank">J.W. Thatcher. 1967. Characterizing derivation trees of context-free grammars through a generalization of finite automata theory. Journal of Computer and System Sciences, 1(4):317–322.</a></br>
+        <a href="https://doi.org/https://doi.org/10.1016/S0022-0000(67)80022-9" target="_blank">J.W. Thatcher. 1967. Characterizing derivation trees of context-free grammars through a generalization of finite automata theory. Journal of Computer and System Sciences, 1(4):317–322.</a></br>
         <a href="https://link.springer.com/chapter/10.1007/978-3-540-30586-6_1" target="_blank">Kevin Knight and Jonathan Graehl. 2005. An overview of probabilistic tree transducers for natural language processing. In Computational Linguistics and Intelligent Text Processing, pages 1–24, Berlin, Heidelberg. Springer Berlin Heidelberg.</a></br>
-      <br/>  
-      </div>
-      <button id="button20" style="border:none;" onclick="myFunction('20')">Show</button>
-      </td>
-    </tr>
-    <tr>
-      <td>8. 5. 2023</td>
-      <td>Determinization of Weighted Tree Automata</td>
-      <td></td>
-      <td></td>
-      <td>
-      <div id="literature21" style="display:none">
-        <a href="https://aclanthology.org/N06-1045/" target="_blank">Jonathan May and Kevin Knight. 2006. A better n-best list: Practical determinization of weighted finite tree automata. In Proceedings of the Human Language Technology Conference of the NAACL, Main Conference, pages 351–358, New York City, USA. Association for Computational Linguistics.</a></br>
+         <a href="https://aclanthology.org/N06-1045/" target="_blank">Jonathan May and Kevin Knight. 2006. A better n-best list: Practical determinization of weighted finite tree automata. In Proceedings of the Human Language Technology Conference of the NAACL, Main Conference, pages 351–358, New York City, USA. Association for Computational Linguistics.</a></br>
         <a href="https://www.inf.tu-dresden.de/content/institutes/thi/gdp/pubs/2010/determ.pdf" target="_blank">Matthias Buchse, Jonathan May, and Heiko Vogler. 2009. Determinization of weighted tree automata using factorizations.</a></br>
         <a href="https://aclanthology.org/W12-0802.pdf" target="_blank">Matthias Buchse and Anja Fischer. 2012. Deciding the twins property for weighted tree automata over extremal semifields. In Proceedings of the Workshop on Applications of Tree Automata Techniques in Natural Language Processing, ATANLP ’12, page 11–20, USA. Association for Computational Linguistics.</a></br>
       <br/>  
       </div>
-      <button id="button21" style="border:none;" onclick="myFunction('21')">Show</button>
+      <button id="button17" style="border:none;" onclick="myFunction('17')">Show</button>
       </td>
     </tr>
     <tr>
@@ -467,12 +456,12 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td></td>
       <td></td>
       <td>
-      <div id="literature22" style="display:none">
+      <div id="literature18" style="display:none">
         <a href="https://dl.acm.org/doi/10.5555/2034006.2034050" target="_blank">Maletti and Quernheim (2011)</a></br>
         <a href="https://arxiv.org/abs/1702.00304" target="_blank">Thomas Hanneforth, Andreas Maletti, and Daniel Quernheim. 2017. Pushing for weighted tree automata. CoRR.</a></br>
       <br/>  
       </div>
-      <button id="button22" style="border:none;" onclick="myFunction('22')">Show</button>
+      <button id="button18" style="border:none;" onclick="myFunction('18')">Show</button>
       </td>
     </tr>
     <tr>
@@ -481,14 +470,14 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td></td>
       <td></td>
       <td>
-      <div id="literature23" style="display:none">
+      <div id="literature19" style="display:none">
         <a href="https://link.springer.com/chapter/10.1007/3-540-45007-6_11" target="_blank">Bjorn Borchardt. 2003. The Myhill-Nerode theorem for recognizable tree series. In Developments in Language Theory, pages 146–158, Berlin, Heidelberg. Springer Berlin Heidelberg.</a></br>
         <a href="https://link.springer.com/chapter/10.1007/978-3-540-78773-0_10" target="_blank">Andreas Maletti. 2008. Myhill-nerode theorem for recognizable tree series revisited. In LATIN 2008: Theoretical Informatics, pages 106–120, Berlin, Heidelberg. Springer Berlin Heidelberg.</a></br>
         <a href="https://link.springer.com/chapter/10.1007/11812128_17" target="_blank">Parosh Aziz Abdulla, Lisa Kaati, and Johanna H ̈ogberg. 2006. Bisimulation minimization of tree automata. In Implementation and Application of Automata, pages 173–185, Berlin, Heidelberg. Springer Berlin Heidelberg.</a></br>
         <a href="https://arxiv.org/abs/1702.00304" target="_blank">Thomas Hanneforth, Andreas Maletti, and Daniel Quernheim. 2017. Pushing for weighted tree automata. CoRR.</a></br>
       <br/>  
       </div>
-      <button id="button23" style="border:none;" onclick="myFunction('23')">Show</button>
+      <button id="button19" style="border:none;" onclick="myFunction('19')">Show</button>
       </td>
     </tr>
     <tr>
@@ -499,12 +488,12 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       </td>
       <td></td>
       <td>
-      <div id="literature24" style="display:none">
+      <div id="literature20" style="display:none">
         <a href="https://link.springer.com/book/10.1007/978-3-642-14846-0" target="_blank">Kallmeyer (2010)</a></br>
         <a href="https://aclanthology.org/Q14-1032/" target="_blank">Kuhlmann, Satta (2014)</a></br>
       <br/>  
       </div>
-      <button id="button24" style="border:none;" onclick="myFunction('24')">Show</button>
+      <button id="button20" style="border:none;" onclick="myFunction('20')">Show</button>
       </td>
     </tr>
     <tr>
@@ -514,10 +503,10 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td>
       </td>
       <td>
-      <div id="literature25" style="display:none">
+      <div id="literature21" style="display:none">
       <br/>  
       </div>
-      <button id="button25" style="border:none;" onclick="myFunction('25')">Show</button>
+      <button id="button21" style="border:none;" onclick="myFunction('21')">Show</button>
       </td>
     </tr>
     <tr>
@@ -527,10 +516,10 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td>
       </td>
       <td>
-      <div id="literature26" style="display:none">
+      <div id="literature22" style="display:none">
       <br/>  
       </div>
-      <button id="button26" style="border:none;" onclick="myFunction('26')">Show</button>
+      <button id="button22" style="border:none;" onclick="myFunction('22')">Show</button>
       </td>
     </tr>
     <tr>
@@ -540,12 +529,12 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td>
       </td>
       <td>
-      <div id="literature27" style="display:none">
+      <div id="literature23" style="display:none">
       <a href="https://doi.org/https://doi.org/10.1016/0304-3975(92)90124-X" target="_blank">David J. Weir. 1992. A geometric hierarchy beyond context-free languages. Theoretical Computer Science, 104(2):235–261.</a>
       <a href="https://link.springer.com/article/10.1007/BF01303055" target="_blank">Michael A. Palis and Sunil M. Shende. 1995. Pumping lemmas for the control language hierarchy. Mathematical systems theory, 28:199–213.</a>
       <br/>  
       </div>
-      <button id="button27" style="border:none;" onclick="myFunction('27')">Show</button>
+      <button id="button23" style="border:none;" onclick="myFunction('23')">Show</button>
       </td>
     </tr>
   </tbody>
