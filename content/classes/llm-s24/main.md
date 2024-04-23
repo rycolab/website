@@ -584,7 +584,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <td>16. 4. 2024</td>
       <td>2 hours</td>
-      <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Applications and the Benefits of Scale</b></td>
+      <td rowspan="5" style="vertical-align : middle;text-align:center;" align="center"><b>Applications and the Benefits of Scale</b></td>
       <td>In-context learning, Prompting, zero-shot, instruction tuning</td>
       <td>
       Mrinmaya
@@ -625,7 +625,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <td>23. 4. 2024</td>
       <td>2 hours</td>
-      <td>Instruction tuning and RLHF</td>
+      <td>Retrieval augmented Language Models</td>
       <td>
       Mrinmaya
       </td>
@@ -637,6 +637,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <button id="button22" style="border:none;" onclick="myFunction('22')">Show</button>
       </td>
       <td>
+      <a href="https://drive.google.com/file/d/1Y3Dtz8rZtcddZvsY94PsZloBO3RKCBKg/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
       </td>
@@ -644,7 +645,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <td>26. 4. 2024</td>
       <td>1 hour</td>
-      <td>Calibration</td>
+      <td><b>No class</b></td>
       <td>
       Mrinmaya
       </td>
@@ -707,6 +708,25 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <td>30. 4. 2024</td>
       <td>2 hours</td>
+      <td>Instruction tuning and RLHF</td>
+      <td>
+      Mrinmaya
+      </td>
+      <td>
+      <div id="summary34" style="display:none">
+      <br/>
+      <br/>
+      </div>
+      <button id="button34" style="border:none;" onclick="myFunction('34')">Show</button>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>3. 5. 2024</td>
+      <td>1 hour</td>
       <td rowspan="9" style="vertical-align : middle;text-align:center;" align="center"><b>Security</b></td>
       <td>Security</td>
       <td>
@@ -727,29 +747,14 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
     </tr>
     <tr>
-      <td>3. 5. 2024</td>
-      <td>1 hour</td>
+      <td>7. 5. 2024</td>
+      <td>2 hour</td>
       <td>Security</td>
       <td>
       Florian
       </td>
       <td>
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td>7. 5. 2024</td>
-      <td>2 hour</td>
-      <td>Misuse, Harms, and Ethical Concerns</td>
-      <td>
-      Florian
-      </td>
-      <td>
       <div id="summary24" style="display:none">
-      Language models work extremely well, until they don’t! What are some of the harms that large-scale deployment of language models can bring? We will discuss ways in which models can perpetrate or exacerbate issues in training data (biases, toxicity, etc.) and the difficulty in aligning models with particular ethical principles or truths.
       <br/>
       <br/>
       </div>
@@ -764,13 +769,13 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <td>10. 5. 2024</td>
       <td>1 hour</td>
-      <td>The Data Lifecycle</td>
+      <td>Misuse, Harms, and Ethical Concerns</td>
       <td>
       Florian
       </td>
       <td>
       <div id="summary26" style="display:none">
-      So far, most of the course has been about models. But what would these models be without the right data? We will discuss the lifecycle of modern training sets for language models, to understand how design choices in the data collection and maintenance process influence the model’s “world view”. We will review emerging guidelines and best practices for managing and documenting machine learning datasets across their lifetime.
+      Language models work extremely well, until they don’t! What are some of the harms that large-scale deployment of language models can bring? We will discuss ways in which models can perpetrate or exacerbate issues in training data (biases, toxicity, etc.) and the difficulty in aligning models with particular ethical principles or truths.
       <br/>
       <br/>
       </div>
@@ -785,12 +790,13 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <td>14. 5. 2024</td>
       <td>2 hours</td>
-      <td>Failure Modes</td>
+      <td>The Data Lifecycle</td>
       <td>
       Florian
       </td>
       <td>
       <div id="summary28" style="display:none">
+      So far, most of the course has been about models. But what would these models be without the right data? We will discuss the lifecycle of modern training sets for language models, to understand how design choices in the data collection and maintenance process influence the model’s “world view”. We will review emerging guidelines and best practices for managing and documenting machine learning datasets across their lifetime.
       <br/>
       <br/>
       </div>
@@ -805,7 +811,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <td>17. 5. 2024</td>
       <td>1 hour</td>
-      <td>Evaluating Safety</td>
+      <td>Failure Modes</td>
       <td>
       Florian
       </td>
@@ -825,13 +831,12 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <td>21. 5. 2024</td>
       <td>2 hours</td>
-      <td>Memorization and Privacy</td>
+      <td>Evaluating Safety</td>
       <td>
       Florian
       </td>
       <td>
       <div id="summary30" style="display:none">
-      We look into language models’ remarkable ability to memorize training data, and the risks this may pose for privacy or copyright. We will look at different ways to define memorization and privacy for textual models, and understand the different threats they aim to address. We will then review methods for provably guaranteeing the confidentiality and privacy of machine learning systems, and debate their adequacy in the context of textual models.
       <br/>
       <br/>
       </div>
@@ -847,12 +852,13 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <td>24. 5. 2024</td>
       <td>1 hour</td>
-      <td>Differential Privacy</td>
+      <td>Memorization and Privacy</td>
       <td>
       Florian
       </td>
       <td>
       <div id="summary31" style="display:none">
+      We look into language models’ remarkable ability to memorize training data, and the risks this may pose for privacy or copyright. We will look at different ways to define memorization and privacy for textual models, and understand the different threats they aim to address. We will then review methods for provably guaranteeing the confidentiality and privacy of machine learning systems, and debate their adequacy in the context of textual models.
       <br/>
       <br/>
       </div>
@@ -867,7 +873,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <td>28. 5. 2024</td>
       <td>2 hours</td>
-      <td>Explainability and Interpretability</td>
+      <td>Differential Privacy</td>
       <td>
       Florian
       </td>
@@ -887,8 +893,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <td>31. 5. 2024</td>
       <td>1 hour</td>
-      <td rowspan="1" style="vertical-align : middle;text-align:center;" align="center"><b>Guest Lecture</b></td>
-      <td>Guest Lecture</td>
+      <td>Explainability and Interpretability</td>
       <td>
       Florian
       </td>
@@ -1003,7 +1008,9 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <td>25. 4. 2024</td>
       <td>Retrieval-augmented generation</td>
       <td>Pep Borrell</td>
-      <td></td>
+      <td>
+      <a href="https://colab.research.google.com/drive/19sD3mNVGBxyvDXheAwpAwnNO2XD2r3_l?usp=sharing" target="_blank">Google Colab Notebook</a>, <a href="https://drive.google.com/file/d/1375YNz9HWy4sShBA5XBnBrrhjGG9PIOB/view?usp=sharing" target="_blank">Slides</a>
+      </td>
     </tr>
     <tr>
       <th scope="row">10</th>
@@ -1050,7 +1057,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
 ### Live Chat
 In addition to class time, there will also be a `RocketChat`-based live chat hosted on ETH’s servers. 
 Students are free to ask questions of the teaching staff and of others in public or private (direct message). 
-There are specific channels for each of the two assignments as well as for reporting errata in the course notes and slides. 
+There are specific channels for each of the assignments as well as for reporting errata in the course notes and slides. 
 All data from the chat will be deleted from ETH servers at the course’s conclusion. 
 
 <span style="color: #ff5733;">**Important**</span>: There are a few important points you should keep in mind about the course live chat:  
@@ -1073,7 +1080,8 @@ The full list is:
 - [Content Questions](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FGdj6PF) for your questions about the content of the course.
 - [Errata](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2F7Njm3P) for reporting typos and errors in the course lecture notes and the slides.
 - [Assignment 1](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FE8RDAF) for asking questions and discussing the first assignment.
-- [Assignment 2](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FRGGSYT) for asking questions and discussing the second assignment.
+- [Assignment 2a](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FRGGSYT) for asking questions and discussing the second assignment.
+- [Assignment 2b](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FRGGSYT) for asking questions and discussing the third assignment.
 - [Find Assignment Partners](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FAwTb7Q) for finding teammates for the course assignments.
 
 If you feel like you would benefit from any other channel, feel free to suggest it to the teaching team!
@@ -1112,14 +1120,14 @@ The final exam is comprehensive and should be assumed to cover all the material 
 
 #### On the Class Assignments 
 
-There will be **2** larger assignments in the course. 
+There will be **two** larger assignments in the course, the second of which will be split into two parts. 
 <!-- We impose two firm deadlines for handing in your solutions: -->
 
 <span style="color: #ff5733;">We require the solutions to be properly typeset.</span>
-We recommend using `LaTeX` (with [`Overleaf`](https://www.overleaf.com)), but `markdown` files with `MathJax` for the mathematical expressions are also fine.
+We recommend using `LaTeX` (with [`Overleaf`](https://www.overleaf.com)), but `markdown` files with something like `MathJax` for the mathematical expressions are also fine.
 
 The first assignment will be of more theoretical nature and will be released shortly after the start of the semester.
-The second assignment will be of more practical nature and will be released in the second half of the semester.
+Assignments 2a and 2b will be of more practical nature and will be released in the second half of the semester.
 
 
 
@@ -1129,9 +1137,11 @@ The second assignment will be of more practical nature and will be released in t
 - [Assignment 1 Submission Template](https://www.overleaf.com/read/fyqmmyxkzzfd#e5ebaf).
 While not strictly necessary, we highly advise you use this template when preparing your submission. It also includes a large number of LaTeX macros which can make your writing faster and easier to read. 
 **Important**: Even if you don't use this template, you should copy the Declaration of originality from the front page into your own submission!  
-- [Assignment 2 Instructions (last year)](https://drive.google.com/file/d/17RXO1IAFVgRNyPveZCiMMmKi267XpGds/view?usp=sharing), [LaTeX source code](https://drive.google.com/file/d/1xYiv7tHSZAa8wRf68sjGp93uYXOUtGkV/view?usp=sharing)  
+- [Assignment 2a Instructions (last year)](https://drive.google.com/file/d/17RXO1IAFVgRNyPveZCiMMmKi267XpGds/view?usp=sharing), [LaTeX source code](https://drive.google.com/file/d/1xYiv7tHSZAa8wRf68sjGp93uYXOUtGkV/view?usp=sharing)  
+- [Assignment 2b Instructions](https://drive.google.com/file/d/1u6CF4llYzcMRbGEIA9h7CsXu1QdUDkLf/view)  
 
 
 ##### Assignment Deadlines
-First assignment is due on **Tuesday, April 30th** at 23:59.
-The second assignment is due on **Sunday, June 30th** at 23:59.
+Assignment 1 is due on **Tuesday, April 30th** at 23:59.
+Assignment 2a is due on **Thursday, May 30th** at 23:59.
+Assignment 2b is due on **Sunday, June 30th** at 23:59.
