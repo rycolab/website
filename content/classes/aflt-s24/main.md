@@ -38,7 +38,11 @@ The homework will be released throughout the semester in assignments with 3–4 
 
 **21.3.** &emsp; [Assignment 4](https://drive.google.com/file/d/1cDE8q3ZgpsAUXsKe3mKmfED44caiD8m1/view?usp=share_link)  is released!
 
-[comment]: <> (**28.3.** &emsp; [Assignment 5]&#40;https://drive.google.com/file/d/1FaUmRETr7XVulYrnuUUj2p0qWcHhPYrZ/view?usp=share_link&#41;  is released!)
+**28.3.** &emsp; [Assignment 5](https://drive.google.com/file/d/1FaUmRETr7XVulYrnuUUj2p0qWcHhPYrZ/view?usp=share_link)  is released!
+
+**18.4.** &emsp; [Assignment 6](https://drive.google.com/file/d/1ccExMucNwIvuI7S7c1NfNLJwbAwXiZCv/view?usp=share_link)  is released!
+
+**25.4.** &emsp; [Assignment 7](https://drive.google.com/file/d/1pBvKUwWr6IXm5wFsT0XehFOSrjy5h0Ol/view?usp=share_link) and [Assignment 8](https://drive.google.com/file/d/1K0BryGg9fmHinC_eb6yuKaX_RcUXSJYq/view?usp=share_link) are released!
 
 ## Syllabus and Schedule
 ### On the Use of Class Time
