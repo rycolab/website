@@ -347,7 +347,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
     </tr>
     <tr>
       <td>24. 4. 2023</td>
-      <td>Newton's Algorithm, Unary Removal, Binarization, Chomsky Normal Form (cont.), CKY</td>
+      <td> CKY, Agenda-based Parsing, Earley's Algorithm, Pushdown Automata</td>
       <td>
       </td>
       <td></td>
@@ -362,6 +362,12 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
         <a href="https://www.sciencedirect.com/science/article/abs/pii/0020019077900023" target="_blank">Knuth (1977)</a></br>
         <a href="https://www.cambridge.org/core/journals/theory-and-practice-of-logic-programming/article/abs/products-of-weighted-logic-programs/5E2207BED192B119DC0034BE15B242E1" target="_blank">Cohen et al. (2011)</a></br>
         <a href="https://aclanthology.org/P11-2124/" target="_blank">Goldberg and Elhadad (2011)</a></br>
+        <a href="https://dl.acm.org/doi/10.1145/362007.362035" target="_blank">Earley (1970)</a></br>
+        <a href="https://aclanthology.org/J95-2002/" target="_blank">Stolcke (1995)</a></br>
+        <a href="https://arxiv.org/pdf/2307.02982.pdf" target="_blank">Opedal et al. (2023)</a></br>
+        <a href="https://rycolab.io/papers/butoi+al.emnlp22.pdf/" target="_blank">Butoi et al. (2022)</a></br>
+        <a href="https://aclanthology.org/P99-1070/" target="_blank">Abney et al. (1999)</a></br>
+        <a href="https://link.springer.com/chapter/10.1007/978-3-662-21545-6_18" target="_blank">Lang (1974)</a></br>       
       <br/>  
       </div>
       <button id="button14" style="border:none;" onclick="myFunction('14')">Show</button>
@@ -369,39 +375,12 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
     </tr>
     <tr>
       <td>25. 4. 2023</td>
-      <td>Earley's Algorithm, Weighted Pushdown Automata</td>
+      <td>Weighted Pushdown Automata, Parsing with PDAs, Conversion of PDA to CFG, Unary Removal for WCFGs</td>
       <td>
       </td>
       <td></td>
       <td>
       <div id="literature15" style="display:none">
-        <a href="https://dl.acm.org/doi/10.1145/362007.362035" target="_blank">Earley (1970)</a></br>
-        <a href="https://aclanthology.org/J95-2002/" target="_blank">Stolcke (1995)</a></br>
-        <a href="https://arxiv.org/pdf/2307.02982.pdf" target="_blank">Opedal et al. (2023)</a></br>
-        <a href="https://rycolab.io/papers/butoi+al.emnlp22.pdf/" target="_blank">Butoi et al. (2022)</a></br>
-        <a href="https://aclanthology.org/P99-1070/" target="_blank">Abney et al. (1999)</a></br>
-        <a href="https://link.springer.com/chapter/10.1007/978-3-662-21545-6_18" target="_blank">Lang (1974)</a></br>
-      <br/>  
-      </div>
-      <button id="button15" style="border:none;" onclick="myFunction('15')">Show</button>
-      </td>
-    </tr>
-    <tr>
-      <td>1. 5. 2023</td>
-      <td rowspan="1" style="vertical-align : middle;text-align:center;" align="center"><b>Labour Day</b></td>
-      <td>No class</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>2. 5. 2023</td>
-      <td rowspan="1" style="vertical-align : middle;text-align:center;" align="center"><b>Context-Free Languages</b></td>
-      <td>Newton's Algorithm for PDAs, Nullary Removal, Unary Removal, CNF for PDAs, Lang's Algorithm</td>
-      <td></td>
-      <td></td>
-      <td>
-      <div id="literature16" style="display:none">
         <a href="https://aclanthology.org/W04-0308.pdf" target="_blank">Nivre (2004)</a></br>
         <a href="https://aclanthology.org/J08-4003.pdf" target="_blank">Nivre (2008)</a></br>
         <a href="https://dl.acm.org/doi/10.1145/321250.321254" target="_blank">Greichbach (1965)</a></br>
@@ -418,26 +397,46 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
         <a href="https://www.cs.jhu.edu/~jason/papers/eisner.iwptbook00.pdf" target="_blank">Eisner (2000)</a></br>
       <br/>  
       </div>
-      <button id="button16" style="border:none;" onclick="myFunction('16')">Show</button>
+      <button id="button15" style="border:none;" onclick="myFunction('15')">Show</button>
       </td>
     </tr>
     <tr>
-      <td>8. 5. 2023</td>
-      <td rowspan="1" style="vertical-align : middle;text-align:center;" align="center"><b>Regular Tree Languages</b></td>
-      <td>Weighted Tree Automata, Determinization of Weighted Tree Automata</td>
+      <td>1. 5. 2023</td>
+      <td rowspan="1" style="vertical-align : middle;text-align:center;" align="center"><b>Labour Day</b></td>
+      <td>No class</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2. 5. 2023</td>
+      <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Regular Tree Languages</b></td>
+      <td>Weighted Tree Automata</td>
       <td>
       <a href="https://drive.google.com/file/d/1KgcJ8T_fqApa3aYJx6lMiBGPGezAf314/view?usp=share_link" target="_blank">Regular Tree Languages (last year)</a>
       </td>
       <td></td>
       <td>
-      <div id="literature17" style="display:none">
+      <div id="literature16" style="display:none">
         <a href="https://link.springer.com/book/10.1007/978-1-4612-1844-9" target="_blank">Dexter C. Kozen. 1997. Automata and Computability, 1st edition. Springer-Verlag, Berlin, Heidelberg.</a></br>
         <a href="https://hal.inria.fr/hal-03367725" target="_blank">Hubert Comon, Max Dauchet, Remi Gilleron, Florent Jacquemard, Denis Lugiez, Christof Loding, Sophie Tison, and Marc Tommasi. 2008. Tree Automata Techniques and Applications.</a></br>
         <a href="https://doi.org/10.48550/ARXIV.1510.02036" target="_blank">Joost Engelfriet. 2015. Tree automata and tree grammars.</a></br>
         <a href="https://doi.org/10.48550/ARXIV.1509.06233" target="_blank">Ferenc Gecseg and Magnus Steinby. 2015. Tree automata.</a></br>
-        <a href="https://doi.org/https://doi.org/10.1016/S0022-0000(67)80022-9" target="_blank">J.W. Thatcher. 1967. Characterizing derivation trees of context-free grammars through a generalization of finite automata theory. Journal of Computer and System Sciences, 1(4):317–322.</a></br>
+        <a href="https://doi.org/https://doi.org/10.1016/S0022-0000(67)80022-9 target="_blank">J.W. Thatcher. 1967. Characterizing derivation trees of context-free grammars through a generalization of finite automata theory. Journal of Computer and System Sciences, 1(4):317–322.</a></br>
         <a href="https://link.springer.com/chapter/10.1007/978-3-540-30586-6_1" target="_blank">Kevin Knight and Jonathan Graehl. 2005. An overview of probabilistic tree transducers for natural language processing. In Computational Linguistics and Intelligent Text Processing, pages 1–24, Berlin, Heidelberg. Springer Berlin Heidelberg.</a></br>
-         <a href="https://aclanthology.org/N06-1045/" target="_blank">Jonathan May and Kevin Knight. 2006. A better n-best list: Practical determinization of weighted finite tree automata. In Proceedings of the Human Language Technology Conference of the NAACL, Main Conference, pages 351–358, New York City, USA. Association for Computational Linguistics.</a></br>
+      <br/>  
+      </div>
+      <button id="button16" style="border:none;" onclick="myFunction('16')">Show</button>
+      </td>
+    </tr>
+    <tr>
+      <td>8. 5. 2023</td>
+      <td>Determinization of Weighted Tree Automata</td>
+      <td></td>
+      <td></td>
+      <td>
+      <div id="literature17" style="display:none">
+        <a href="https://aclanthology.org/N06-1045/" target="_blank">Jonathan May and Kevin Knight. 2006. A better n-best list: Practical determinization of weighted finite tree automata. In Proceedings of the Human Language Technology Conference of the NAACL, Main Conference, pages 351–358, New York City, USA. Association for Computational Linguistics.</a></br>
         <a href="https://www.inf.tu-dresden.de/content/institutes/thi/gdp/pubs/2010/determ.pdf" target="_blank">Matthias Buchse, Jonathan May, and Heiko Vogler. 2009. Determinization of weighted tree automata using factorizations.</a></br>
         <a href="https://aclanthology.org/W12-0802.pdf" target="_blank">Matthias Buchse and Anja Fischer. 2012. Deciding the twins property for weighted tree automata over extremal semifields. In Proceedings of the Workshop on Applications of Tree Automata Techniques in Natural Language Processing, ATANLP ’12, page 11–20, USA. Association for Computational Linguistics.</a></br>
       <br/>  
