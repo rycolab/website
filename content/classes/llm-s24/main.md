@@ -1143,5 +1143,5 @@ While not strictly necessary, we highly advise you use this template when prepar
 
 ##### Assignment Deadlines
 Assignment 1 is due on **Tuesday, April 30th** at 23:59.
-Assignment 2a is due on **Thursday, May 30th** at 23:59.
+Assignment 2a is due on **Sunday, June 30th** at 23:59.
 Assignment 2b is due on **Sunday, June 30th** at 23:59.
