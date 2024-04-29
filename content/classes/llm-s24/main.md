@@ -124,7 +124,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
       <td>
       <a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view" target="_blank">Course Notes, &sect;&sect; 2.1 and 2.2,</a> <br>
-      <a href="https://aclanthology.org/2023.acl-long.543.pdf" target="_blank">Du, Li, et al. A Measure-Theoretic Characterization of Tight Language Models.</a>
+      <a href="https://aclanthology.org/2023.acl-long.543.pdf" target="_blank">Du et al. A Measure-Theoretic Characterization of Tight Language Models.</a>
       </td>
     </tr>  
     <tr>
@@ -148,7 +148,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
       <td>
       <a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view" target="_blank">Course Notes, &sect;&sect; 2.3 and 2.4,</a> <br>
-      <a href="https://aclanthology.org/2023.acl-long.543.pdf" target="_blank">Du, Li, et al. A Measure-Theoretic Characterization of Tight Language Models</a>
+      <a href="https://aclanthology.org/2023.acl-long.543.pdf" target="_blank">Du et al. A Measure-Theoretic Characterization of Tight Language Models</a>
       </td>
     </tr>   
     <tr>
@@ -171,7 +171,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
       <td>
       <a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view" target="_blank">Course Notes, &sect; 2.5,</a> <br>
-      <a href="https://aclanthology.org/2023.acl-long.543.pdf" target="_blank">Du, Li, et al. A Measure-Theoretic Characterization of Tight Language Models,</a> <br>
+      <a href="https://aclanthology.org/2023.acl-long.543.pdf" target="_blank">Du et al. A Measure-Theoretic Characterization of Tight Language Models,</a> <br>
       <a href="https://arxiv.org/abs/1711.05408" target="_blank">Chen, Yining, et al. Recurrent Neural Networks as Weighted Language Recognizers</a>
       </td>
     </tr>   
@@ -728,13 +728,13 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <td>3. 5. 2024</td>
       <td>1 hour</td>
       <td rowspan="9" style="vertical-align : middle;text-align:center;" align="center"><b>Security</b></td>
-      <td>Security</td>
+      <td>Harms & Ethics</td>
       <td>
       Florian
       </td>
       <td>
       <div id="summary25" style="display:none">
-      Machine learning models are remarkably brittle, and prone to all kinds of exploits. Language models are no different: we will see how tampering with model inputs or training data can lead to arbitrarily bad outcomes. We will also discuss how language models could be exploited for nefarious purposes such as large-scale spam campaigns. On the other hand, language models could also prove useful as a defensive tool, e.g., for automated online content moderation or for dispelling misinformation.
+      Language models work extremely well, until they don’t! What are some of the harms that large-scale deployment of language models can bring? We will discuss ways in which models can perpetrate or exacerbate issues in training data (biases, toxicity, etc.) and the difficulty in aligning models with particular ethical principles or truths.
       <br/>
       <br/>
       </div>
@@ -744,17 +744,19 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <a href="https://drive.google.com/file/d/1rko5iFyOAF4IlCBZbj3Qr2XwcxqFIQF4/view?usp=share_link" target="_blank">Slides</a>
       </td>
       <td>
+      <a href="https://arxiv.org/abs/2212.08073" target="_blank">Bai et al. Constitutional AI: Harmlessness from AI Feedback</a>
       </td>
     </tr>
     <tr>
       <td>7. 5. 2024</td>
       <td>2 hour</td>
-      <td>Security</td>
+      <td>Security & Adversarial examples</td>
       <td>
       Florian
       </td>
       <td>
       <div id="summary24" style="display:none">
+      Machine learning models are remarkably brittle, and prone to all kinds of exploits. Language models are no different: we will see how tampering with model inputs or training data can lead to arbitrarily bad outcomes. We will also discuss how language models could be exploited for nefarious purposes such as large-scale spam campaigns. On the other hand, language models could also prove useful as a defensive tool, e.g., for automated online content moderation or for dispelling misinformation.
       <br/>
       <br/>
       </div>
@@ -764,18 +766,19 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <a href="https://drive.google.com/file/d/1jEFJBYtPeHFDFrOd0E-9TGQwHE47E88z/view?usp=share_link" target="_blank">Slides</a>
       </td>
       <td>
+      <a href="https://arxiv.org/abs/2306.15447" target="_blank">Carlini et al. Are aligned neural networks adversarially aligned?</a>, 
+      <a href="https://arxiv.org/abs/2307.15043" target="_blank">Zou et al. Universal and Transferable Adversarial Attacks on Aligned Language Models</a>
       </td>
     </tr>  
     <tr>
       <td>10. 5. 2024</td>
       <td>1 hour</td>
-      <td>Misuse, Harms, and Ethical Concerns</td>
+      <td>Prompt injections</td>
       <td>
       Florian
       </td>
       <td>
       <div id="summary26" style="display:none">
-      Language models work extremely well, until they don’t! What are some of the harms that large-scale deployment of language models can bring? We will discuss ways in which models can perpetrate or exacerbate issues in training data (biases, toxicity, etc.) and the difficulty in aligning models with particular ethical principles or truths.
       <br/>
       <br/>
       </div>
@@ -785,18 +788,18 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <a href="https://drive.google.com/file/d/1xCXi1z82RvFBq0gv3wWyNKQbygpnvs2p/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
+      <a href="https://arxiv.org/abs/2302.12173" target="_blank">Greshake et al. Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection</a>
       </td>
     </tr>
     <tr>
       <td>14. 5. 2024</td>
       <td>2 hours</td>
-      <td>The Data Lifecycle</td>
+      <td>Data poisoning, backdoors and model stealing</td>
       <td>
       Florian
       </td>
       <td>
       <div id="summary28" style="display:none">
-      So far, most of the course has been about models. But what would these models be without the right data? We will discuss the lifecycle of modern training sets for language models, to understand how design choices in the data collection and maintenance process influence the model’s “world view”. We will review emerging guidelines and best practices for managing and documenting machine learning datasets across their lifetime.
       <br/>
       <br/>
       </div>
@@ -806,12 +809,14 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <!-- <a href="https://drive.google.com/file/d/1-5RA-omzSxuyKtb4jhOII5i42zJJTwMX/view?usp=share_link" target="_blank">Slides</a> -->
       </td>
       <td>
+      <a href="https://arxiv.org/abs/2302.10149" target="_blank">Carlini et al. Poisoning Web-Scale Training Datasets is Practical</a>, 
+      <a href="https://arxiv.org/abs/2004.15015" target="_blank">Wallace et al. Imitation Attacks and Defenses for Black-box Machine Translation Systems</a>
       </td>
     </tr>
     <tr>
       <td>17. 5. 2024</td>
       <td>1 hour</td>
-      <td>Failure Modes</td>
+      <td>Privacy in ML</td>
       <td>
       Florian
       </td>
@@ -826,17 +831,20 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <!-- <a href="https://drive.google.com/file/d/1xCXi1z82RvFBq0gv3wWyNKQbygpnvs2p/view?usp=sharing" target="_blank">Slides</a> -->
       </td>
       <td>
+      <a href="https://arxiv.org/abs/2011.05315" target="_blank">Carlini et al. Is Private Learning Possible with Instance Encoding?</a>, 
+      <a href="https://arxiv.org/abs/2110.13057" target="_blank">Fowl et al. Robbing the Fed: Directly Obtaining Private Data in Federated Learning with Modified Models</a>
       </td>
     </tr>
     <tr>
       <td>21. 5. 2024</td>
       <td>2 hours</td>
-      <td>Evaluating Safety</td>
+      <td>Memorization + Differential Privacy</td>
       <td>
       Florian
       </td>
       <td>
       <div id="summary30" style="display:none">
+      We look into language models’ remarkable ability to memorize training data, and the risks this may pose for privacy or copyright. We will look at different ways to define memorization and privacy for textual models, and understand the different threats they aim to address. We will then review methods for provably guaranteeing the confidentiality and privacy of machine learning systems, and debate their adequacy in the context of textual models.
       <br/>
       <br/>
       </div>
@@ -847,18 +855,20 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <!-- <a href="https://drive.google.com/file/d/1-5RA-omzSxuyKtb4jhOII5i42zJJTwMX/view?usp=share_link" target="_blank">Slides</a> -->
       </td>
       <td>
+      <a href="https://arxiv.org/abs/2311.17035" target="_blank">Nasr et al. Scalable Extraction of Training Data from (Production) Language Models</a>, 
+      <a href="https://arxiv.org/abs/1607.00133" target="_blank">Abadi et al. Deep Learning with Differential Privacy</a>
       </td>
     </tr>
     <tr>
       <td>24. 5. 2024</td>
       <td>1 hour</td>
-      <td>Memorization and Privacy</td>
+      <td>Data lifecycle</td>
       <td>
       Florian
       </td>
       <td>
       <div id="summary31" style="display:none">
-      We look into language models’ remarkable ability to memorize training data, and the risks this may pose for privacy or copyright. We will look at different ways to define memorization and privacy for textual models, and understand the different threats they aim to address. We will then review methods for provably guaranteeing the confidentiality and privacy of machine learning systems, and debate their adequacy in the context of textual models.
+      So far, most of the course has been about models. But what would these models be without the right data? We will discuss the lifecycle of modern training sets for language models, to understand how design choices in the data collection and maintenance process influence the model’s “world view”. We will review emerging guidelines and best practices for managing and documenting machine learning datasets across their lifetime.
       <br/>
       <br/>
       </div>
@@ -868,12 +878,13 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <!-- <a href="https://drive.google.com/file/d/1xCXi1z82RvFBq0gv3wWyNKQbygpnvs2p/view?usp=sharing" target="_blank">Slides</a> -->
       </td>
       <td>
+      <a href="https://arxiv.org/abs/1803.09010" target="_blank">Gebru et al. Datasheets for Datasets</a>
       </td>
     </tr>
     <tr>
       <td>28. 5. 2024</td>
       <td>2 hours</td>
-      <td>Differential Privacy</td>
+      <td>Explainability, Interpretability, AI Safety</td>
       <td>
       Florian
       </td>
@@ -888,12 +899,14 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <!-- <a href="https://drive.google.com/file/d/1-5RA-omzSxuyKtb4jhOII5i42zJJTwMX/view?usp=share_link" target="_blank">Slides</a> -->
       </td>
       <td>
+      <a href="https://arxiv.org/abs/2202.05262" target="_blank">Meng et al. Locating and Editing Factual Associations in GPT</a>, 
+      <a href="https://arxiv.org/abs/2210.13382" target="_blank">Li et al. Emergent World Representations: Exploring a Sequence Model Trained on a Synthetic Task</a>
       </td>
     </tr>
     <tr>
       <td>31. 5. 2024</td>
       <td>1 hour</td>
-      <td>Explainability and Interpretability</td>
+      <td>Guest Lecture</td>
       <td>
       Florian
       </td>
