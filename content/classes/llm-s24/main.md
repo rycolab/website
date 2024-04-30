@@ -1031,7 +1031,9 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <td>2. 5. 2024</td>
       <td>Prompting, Chain-of-Thought Reasoning</td>
       <td>Filippo Ficarra</td>
-      <td></td>
+      <td>
+      <a href="https://drive.google.com/file/d/13urg88otspYvU_nLvzB1Bj3RzHOfnW1r/view?usp=sharing" target="_blank">Exercises</a>
+      </td>
     </tr>
     <tr>
       <th scope="row">11</th>
