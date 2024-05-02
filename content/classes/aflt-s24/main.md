@@ -44,6 +44,8 @@ The homework will be released throughout the semester in assignments with 3–4 
 
 **25.4.** &emsp; [Assignment 7](https://drive.google.com/file/d/1pBvKUwWr6IXm5wFsT0XehFOSrjy5h0Ol/view?usp=share_link) and [Assignment 8](https://drive.google.com/file/d/1K0BryGg9fmHinC_eb6yuKaX_RcUXSJYq/view?usp=share_link) are released!
 
+**2.5.** &emsp; [Assignment 9](https://drive.google.com/file/d/1ti9B3CN6QQ9faKVWJ7x-gXLFgS8aS8aD/view?usp=share_link) and [Assignment 10](https://drive.google.com/file/d/1O9bUCWNeMlc0lXex8THkaW0QMGrH7b18/view?usp=share_link) are released!
+
 ## Syllabus and Schedule
 ### On the Use of Class Time
 #### Lectures
@@ -642,8 +644,8 @@ The assignments can change slightly as we update them this year, however, *the q
 - [Assignment 6](https://drive.google.com/file/d/1ccExMucNwIvuI7S7c1NfNLJwbAwXiZCv/view?usp=share_link)  
 - [Assignment 7](https://drive.google.com/file/d/1pBvKUwWr6IXm5wFsT0XehFOSrjy5h0Ol/view?usp=share_link)  
 - [Assignment 8](https://drive.google.com/file/d/1K0BryGg9fmHinC_eb6yuKaX_RcUXSJYq/view?usp=share_link)  
-- [Assignment 9 (last year)](https://drive.google.com/file/d/1ti9B3CN6QQ9faKVWJ7x-gXLFgS8aS8aD/view?usp=share_link)  
-- [Assignment 10 (last year)](https://drive.google.com/file/d/1O9bUCWNeMlc0lXex8THkaW0QMGrH7b18/view?usp=share_link)  
+- [Assignment 9](https://drive.google.com/file/d/1ti9B3CN6QQ9faKVWJ7x-gXLFgS8aS8aD/view?usp=share_link)  
+- [Assignment 10](https://drive.google.com/file/d/1O9bUCWNeMlc0lXex8THkaW0QMGrH7b18/view?usp=share_link)  
 
 **Important**: There will be two separate dates for assignments submission, one **shortly before the end of the semester (30. 5. 2024)** for the first half, and one **shortly before the Summer examination period (5. 8. 2024)** for the second half.
 The deadline for the project submission will be **shortly before the Summer examination period (5. 8. 2024)**.
