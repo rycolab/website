@@ -413,7 +413,7 @@ There will be no organized tutorial sessions for AFLT. However, the teaching sta
       <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Regular Tree Languages</b></td>
       <td>Weighted Tree Automata</td>
       <td>
-      <a href="https://drive.google.com/file/d/1KgcJ8T_fqApa3aYJx6lMiBGPGezAf314/view?usp=share_link" target="_blank">Regular Tree Languages (last year)</a>
+      <a href="https://drive.google.com/file/d/1KgcJ8T_fqApa3aYJx6lMiBGPGezAf314/view?usp=share_link" target="_blank">Regular Tree Languages</a>
       </td>
       <td></td>
       <td>
