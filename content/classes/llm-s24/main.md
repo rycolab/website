@@ -1153,7 +1153,7 @@ Assignments 2a and 2b will be of more practical nature and will be released in t
 - [Assignment 1 Submission Template](https://www.overleaf.com/read/fyqmmyxkzzfd#e5ebaf).
 While not strictly necessary, we highly advise you use this template when preparing your submission. It also includes a large number of LaTeX macros which can make your writing faster and easier to read. 
 **Important**: Even if you don't use this template, you should copy the Declaration of originality from the front page into your own submission!  
-- [Assignment 2a Instructions (last year)](https://drive.google.com/file/d/17RXO1IAFVgRNyPveZCiMMmKi267XpGds/view?usp=sharing), [LaTeX source code](https://drive.google.com/file/d/1xYiv7tHSZAa8wRf68sjGp93uYXOUtGkV/view?usp=sharing)  
+- [Assignment 2a Instructions](https://drive.google.com/file/d/1QqlJQIY2RcHjI_P-csXm85R-VEl09_1w/view?usp=sharing)  
 - [Assignment 2b Instructions](https://drive.google.com/file/d/1u6CF4llYzcMRbGEIA9h7CsXu1QdUDkLf/view)  
 
 
