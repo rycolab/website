@@ -742,7 +742,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <button id="button25" style="border:none;" onclick="myFunction('25')">Show</button>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/1rko5iFyOAF4IlCBZbj3Qr2XwcxqFIQF4/view?usp=share_link" target="_blank">Slides</a>
+      <a href="https://drive.google.com/file/d/1WJ0UNVJkr382ohh_SHr0P7D_5-Ux5Ivo/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
       <a href="https://arxiv.org/abs/2212.08073" target="_blank">Bai et al. Constitutional AI: Harmlessness from AI Feedback</a>
@@ -764,7 +764,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <button id="button24" style="border:none;" onclick="myFunction('24')">Show</button>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/1jEFJBYtPeHFDFrOd0E-9TGQwHE47E88z/view?usp=share_link" target="_blank">Slides</a>
+      <a href="https://drive.google.com/file/d/1YAs40D3AakS0PABrTyWX-2Yf85qk4pqw/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
       <a href="https://arxiv.org/abs/2306.15447" target="_blank">Carlini et al. Are aligned neural networks adversarially aligned?</a>, 
