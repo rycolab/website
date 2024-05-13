@@ -1038,7 +1038,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <th scope="row">11</th>
       <td>9. 5. 2024</td>
-      <td>Jailbreaking</td>
+      <td>No Tutorial</td>
       <td></td>
       <td></td>
     </tr>
@@ -1047,7 +1047,9 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <td>16. 5. 2024</td>
       <td>Decoding and Watermarking</td>
       <td>Iason Chalas</td>
-      <td></td>
+      <td>
+      <a href="https://drive.google.com/file/d/1Irh5ND-zCqLjC7F4gpFSfa2GPD8XhNiP/view?usp=sharing" target="_blank">Exercises</a>
+      </td>
     </tr>
     <tr>
       <th scope="row">13</th>
