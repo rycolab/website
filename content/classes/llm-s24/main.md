@@ -786,7 +786,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <button id="button26" style="border:none;" onclick="myFunction('26')">Show</button>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/1xCXi1z82RvFBq0gv3wWyNKQbygpnvs2p/view?usp=sharing" target="_blank">Slides</a>
+      <a href="https://drive.google.com/file/d/1Agg0EuB118KzEEGxe9W4IC-9vwEcmx7V/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
       <a href="https://arxiv.org/abs/2302.12173" target="_blank">Greshake et al. Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection</a>
@@ -807,7 +807,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <button id="button28" style="border:none;" onclick="myFunction('27')">Show</button>
       </td>
       <td>
-      <!-- <a href="https://drive.google.com/file/d/1-5RA-omzSxuyKtb4jhOII5i42zJJTwMX/view?usp=share_link" target="_blank">Slides</a> -->
+      <a href="https://drive.google.com/file/d/1xshkeQZx9K2Xyh_AOQSQa67hYRSVFQ6F/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
       <a href="https://arxiv.org/abs/2302.10149" target="_blank">Carlini et al. Poisoning Web-Scale Training Datasets is Practical</a>, 
