@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -51,12 +51,12 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Members
-- Research Assistants
+- PhD Students
 - ESSLLI 2023 Teaching Assistants
 - Teaching Assistant NLP in the Wild
 ---
 
-Clemente is a Research Assistant at Rycolab. Clemente did his Bachelor’s degree in Mathematical Engineering at Politecnico in Milano, Italy, and his master’s in Informatics at Università della Svizzera Italian in Lugano, Switzerland. He spent the last year of his master’s at ETH.
+Clemente is a PhD student at ETH Zürich. Clemente did his Bachelor’s degree in Mathematical Engineering at Politecnico in Milano, Italy, and his master’s in Informatics at Università della Svizzera Italian in Lugano, Switzerland. He spent the last year of his master’s at ETH.
 
 Clemente is interested in many areas of NLP, but he is currently focused on formal languages, and particularly in developing parsing algorithms. Some of his other interests are semantics, neuro-symbolic AI, and theory of computation.
 

@@ -149,9 +149,38 @@ The structure of this seminar is one of open-ended debate. Cum tempore, the semi
       <td>
       </td>
       <td>
-      <a href=https://aclanthology.org/2023.acl-long.204 target="_blank"><b> Opedal et al. (2023)</b></a>
       </td>
     </tr>  
+    <tr>
+      <th scope="row">10</th>
+      <td>1.05.24</td>
+      <td> No Lecture </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr> 
+    <tr>
+      <th scope="row">10</th>
+      <td>8.05.24</td>
+      <td> Earley's Algorithm (Pt. 1) </td>
+      <td>
+      </td>
+      <td>
+      <a href=https://aclanthology.org/2023.acl-long.204 target="_blank"><b> Opedal et al. (2023)</b></a>,
+      <a href=https://aclanthology.org/J95-2002/ target="_blank"><b> Stolcke (1995)</b></a>,
+      <a href=https://dl.acm.org/doi/10.1145/362007.362035 target="_blank"><b> Earley (1968)</b></a>
+      </td>
+    </tr> 
+    <tr>
+      <th scope="row">10</th>
+      <td>15.04.24</td>
+      <td> Earley's Algorithm (Pt. 2) </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>   
   </tbody>
 </table>
 
