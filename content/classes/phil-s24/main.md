@@ -290,6 +290,81 @@ Moodle will be the main communication hub for the course. You are responsible fo
   </tbody>
 </table>
 
+## Secondary Literature
+
+<table class="table">
+
+    <head>
+        <base target="_blank">
+    </head>
+    <thead>
+        <tr>
+            <th scope="col" style='white-space:nowrap'>Module</th>
+            <th scope="col" style='white-space:nowrap'>Topic</th>
+            <th scope="col" style='white-space:nowrap'>Reading</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Language and
+                    Logic:<br>Formal Representations of Meaning</b></td>
+            <td>Philosophy</td>
+            <td>
+                <a href="https://drive.google.com/file/d/1Mx5ue6RsajlMual7L3OfSGECbxx0Qzwq/view?usp=sharing" target="_blank">Ajdukiewicz (1936)</a>,
+                <a href="https://drive.google.com/file/d/1CsT6qzW4QwYVl_8uKLqSWc4Yy1QA2OtG/view?usp=sharing" target="_blank">Carnap (1947)</a>,
+                <a href="https://drive.google.com/file/d/1JvDkWoJd8gCb53klrOLtcM8WbfQ2xKfa/view?usp=sharing" target="_blank">Lambek (1958)</a>,
+                <a href="https://drive.google.com/file/d/1bn8TNPz5a7gM9IjL9xPQtwnaiM04D1I7/view?usp=sharing" target="_blank">Davidson (1967)</a>,
+                <a href="https://drive.google.com/file/d/13mSSy0YdUVmhPNvy2G0g0HAYGpnJQMKw/view?usp=sharing" target="_blank">Lewis (1970)</a>
+            </td>
+        </tr>
+        <tr>
+            <td scope="row">NLP</td>
+            <td>
+                <a href="https://www.inf.ed.ac.uk/teaching/courses/nlg/readings/ccgintro.pdf" target="_blank">Steedman (1996)</a>,
+                <a href="https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00113/43379/The-Galactic-Dependencies-Treebanks-Getting-More" target="_blank">Wang and Eisner (2016)</a>,
+                <a href="https://arxiv.org/abs/1711.00350" target="_blank">Lake and Baroni (2018)</a>,
+                <a href="https://aclanthology.org/N19-1356/" target="_blank">Ravfogel et al. (2019)</a>,
+                <a href="https://aclanthology.org/2021.acl-long.38.pdf" target="_blank">White and Cotterell (2021)</a>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Structuralism:<br>The
+                    Search for the Right Units</b></td>
+            <td>Philosophy</td>
+            <td>
+                <a href="https://drive.google.com/file/d/1HGu3-ttI0TfJyOwW8e47BPqOrd7mir-0/view?usp=sharing" target="_blank">Hjelmslev (1943)</a>,
+                <a href="https://drive.google.com/file/d/1ymIuj8WsWFwr9rP-v3dFA-MC8TrrhVfg/view?usp=sharing" target="_blank">Harris (1951)</a>,
+                <a href="https://drive.google.com/file/d/1Hwlv-KdYOgedGiK1JT5-gaUFxLTE_jJp/view?usp=sharing" target="_blank">Firth (1957)</a>,
+                <a href="https://drive.google.com/file/d/1nlOT3JAqTYRdN0z1yKVI2YcfTdx21Z28/view?usp=sharing" target="_blank">Hocket (1960)</a>
+            </td>
+        </tr>
+        <tr>
+            <td scope="row">NLP</td>
+            <td>
+                <a href="https://ojs.aaai.org//index.php/AAAI/article/view/4660" target="_blank">Mielke and Eisner (2019)</a>,
+                <a href="https://aclanthology.org/2021.findings-acl.326.pdf" target="_blank">Nikkarinen et al. (2021)</a>,
+                <a href="https://arxiv.org/abs/2112.10508" target="_blank">Mielke et al. (2021)</a>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Recursive
+                    Structure:<br>The Escherian Nature of Language</b></td>
+            <td>Philosophy</td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td scope="row">NLP</td>
+            <td>
+                <a href="https://aclanthology.org/P03-1054/" target="_blank">Klein and Manning (2003)</a>,
+                <a href="https://aclanthology.org/2021.emnlp-main.74.pdf" target="_blank">Meister et al. (2021)</a>,
+                <a href="https://aclanthology.org/2022.acl-long.220.pdf" target="_blank">Kitaev et al. (2022)</a>
+
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 ## Contact
 
 You can ask questions on the Moodle forum.
