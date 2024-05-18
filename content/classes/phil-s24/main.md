@@ -335,7 +335,8 @@ Moodle will be the main communication hub for the course. You are responsible fo
                 <a href="https://drive.google.com/file/d/1HGu3-ttI0TfJyOwW8e47BPqOrd7mir-0/view?usp=sharing" target="_blank">Hjelmslev (1943)</a>,
                 <a href="https://drive.google.com/file/d/1ymIuj8WsWFwr9rP-v3dFA-MC8TrrhVfg/view?usp=sharing" target="_blank">Harris (1951)</a>,
                 <a href="https://drive.google.com/file/d/1Hwlv-KdYOgedGiK1JT5-gaUFxLTE_jJp/view?usp=sharing" target="_blank">Firth (1957)</a>,
-                <a href="https://drive.google.com/file/d/1nlOT3JAqTYRdN0z1yKVI2YcfTdx21Z28/view?usp=sharing" target="_blank">Hocket (1960)</a>
+                <a href="https://drive.google.com/file/d/1nlOT3JAqTYRdN0z1yKVI2YcfTdx21Z28/view?usp=sharing" target="_blank">Hocket (1960)</a>,
+                <a href="https://link.springer.com/article/10.1007/s13347-020-00393-9" target="_blank">Gastaldi (2021)</a>
             </td>
         </tr>
         <tr>
@@ -351,6 +352,8 @@ Moodle will be the main communication hub for the course. You are responsible fo
                     Structure:<br>The Escherian Nature of Language</b></td>
             <td>Philosophy</td>
             <td>
+            <a href="https://lingbuzz.net/lingbuzz/007180" target="_blank">Piantadosi (2023)</a>,
+            <a href="https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html" target="_blank">Chomsky et al. (2023)</a>
             </td>
         </tr>
         <tr>
