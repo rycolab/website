@@ -876,7 +876,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <button id="button31" style="border:none;" onclick="myFunction('31')">Show</button>
       </td>
       <td>
-      <!-- <a href="https://drive.google.com/file/d/1xCXi1z82RvFBq0gv3wWyNKQbygpnvs2p/view?usp=sharing" target="_blank">Slides</a> -->
+      <a href="https://drive.google.com/file/d/1B_PR7X_fhXHFG7dRMYGD_fc1YiTVJUUA/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
       <a href="https://arxiv.org/abs/1803.09010" target="_blank">Gebru et al. Datasheets for Datasets</a>
