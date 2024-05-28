@@ -829,7 +829,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <button id="button29" style="border:none;" onclick="myFunction('29')">Show</button>
       </td>
       <td>
-      <!-- <a href="https://drive.google.com/file/d/1xCXi1z82RvFBq0gv3wWyNKQbygpnvs2p/view?usp=sharing" target="_blank">Slides</a> -->
+      <a href="https://drive.google.com/file/d/12yVcyi6wnHnlivmoc1pHlS15FXxbjRzP/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
       <a href="https://arxiv.org/abs/2011.05315" target="_blank">Carlini et al. Is Private Learning Possible with Instance Encoding?</a>, 
