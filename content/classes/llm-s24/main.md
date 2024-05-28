@@ -897,7 +897,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <button id="button32" style="border:none;" onclick="myFunction('32')">Show</button>
       </td>
       <td>
-      <!-- <a href="https://drive.google.com/file/d/1-5RA-omzSxuyKtb4jhOII5i42zJJTwMX/view?usp=share_link" target="_blank">Slides</a> -->
+      <a href="https://drive.google.com/file/d/1POy7pM6VPLCEOv5-75_jHxRcyBYmPeol/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
       <a href="https://arxiv.org/abs/2202.05262" target="_blank">Meng et al. Locating and Editing Factual Associations in GPT</a>, 
@@ -907,9 +907,9 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
     <tr>
       <td>31. 5. 2024</td>
       <td>1 hour</td>
-      <td>Guest Lecture</td>
+      <td>Guest Lecture: LLM Application Security</td>
       <td>
-      Florian
+      Luca Beurer-Kellner, Florian
       </td>
       <td>
       <div id="summary33" style="display:none">
@@ -1048,7 +1048,8 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <td>Decoding and Watermarking</td>
       <td>Iason Chalas</td>
       <td>
-      <a href="https://drive.google.com/file/d/1Irh5ND-zCqLjC7F4gpFSfa2GPD8XhNiP/view?usp=sharing" target="_blank">Exercises</a>
+      <a href="https://drive.google.com/file/d/16iRNCGY0aNj3vPwNqTjRnYIIYHkPOR60/view?usp=sharing" target="_blank">Exercises</a>, 
+      <a href="https://drive.google.com/file/d/1tuddXlfDn7DXtK5lHmQE8bI1lC0vkuoR/view?usp=sharing" target="_blank">Exercises with solutions</a>
       </td>
     </tr>
     <tr>
