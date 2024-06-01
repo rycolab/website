@@ -1,7 +1,7 @@
 ---
 title: How (Non-)Optimal is the Lexicon?
 date: '2021-06-01'
-publishDate: '2023-07-09T14:57:03.471939Z'
+publishDate: '2024-06-01T10:01:07.653238Z'
 authors:
 - Tiago Pimentel$^*$
 - Irene Nikkarinen$^*$

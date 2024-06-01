@@ -1,7 +1,7 @@
 ---
 title: A Plug-and-Play Method for Controlled Text Generation
 date: '2021-11-01'
-publishDate: '2023-07-09T14:56:54.837663Z'
+publishDate: '2024-06-01T10:01:04.853325Z'
 authors:
 - Damian Pascual
 - Beni Egressy

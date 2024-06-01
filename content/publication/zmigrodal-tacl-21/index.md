@@ -1,7 +1,7 @@
 ---
 title: Efficient Computation of Expectations under Spanning Tree Distributions
 date: '2021-01-01'
-publishDate: '2023-07-09T14:57:00.083634Z'
+publishDate: '2024-06-01T10:01:56.632889Z'
 authors:
 - Ran Zmigrod
 - Tim Vieira

@@ -2,7 +2,7 @@
 title: A Functionalist Account of Vowel System Typology
 date: '2022-05-01'
 draft: true
-publishDate: '2022-05-23T14:11:07.029093Z'
+publishDate: '2024-06-01T10:01:55.569545Z'
 authors:
 - Ryan Cotterell
 - Jason Eisner

@@ -1,7 +1,7 @@
 ---
 title: On Homophony and Rényi Entropy
 date: '2021-11-01'
-publishDate: '2023-07-09T14:56:58.409446Z'
+publishDate: '2024-06-01T10:01:38.253019Z'
 authors:
 - Tiago Pimentel
 - Clara Meister

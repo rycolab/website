@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-20T23:29:37.246880Z'
+publishDate: '2024-06-01T10:01:32.840831Z'
 publication_types:
 - '1'
 abstract: For the quantitative monitoring of international relations, political events

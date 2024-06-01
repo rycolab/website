@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-09T14:51:04.950190Z'
+publishDate: '2024-06-01T10:19:59.927328Z'
 publication_types:
 - '1'
 abstract: Numerous analyses of reading time (RT) data have been undertaken in the

@@ -1,7 +1,7 @@
 ---
 title: Searching for More Efficient Dynamic Programs
 date: '2021-11-01'
-publishDate: '2023-07-09T14:57:02.878450Z'
+publishDate: '2024-06-01T10:01:39.654224Z'
 authors:
 - Tim Vieira
 - Ryan Cotterell

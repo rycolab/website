@@ -1,7 +1,7 @@
 ---
 title: Language Model Evaluation Beyond Perplexity
 date: '2021-08-01'
-publishDate: '2023-07-09T14:57:02.592811Z'
+publishDate: '2024-06-01T10:01:55.037062Z'
 authors:
 - Clara Meister
 - Ryan Cotterell

@@ -12,15 +12,13 @@ authors:
 - Richard Futrell
 - Ryan Cotterell
 - Roger Levy
-
-# Author notes (such as 'Equal Contribution')
 author_notes: []
 
 date: '2023-01-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-03-17T12:31:13.670415Z'
+publishDate: '2024-06-01T10:01:17.689951Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,8 +26,6 @@ publishDate: '2024-03-17T12:31:13.670415Z'
 # 7 = Thesis; 8 = Patent
 publication_types:
 - '2'
-
-# Publication name and optional abbreviated publication name.
 publication: '*Transactions of the Association for Computational Linguistics*'
 publication_short: ''
 

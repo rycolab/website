@@ -1,7 +1,7 @@
 ---
 title: On the Machine Learning of Ethical Judgments from Natural Language
 date: '2022-07-01'
-publishDate: '2023-07-09T14:51:07.484796Z'
+publishDate: '2024-06-01T10:19:59.388682Z'
 authors:
 - Zeerak Talat
 - Hagen Blix

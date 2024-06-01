@@ -1,7 +1,7 @@
 ---
 title: On the probability-quality paradox in language generation
 date: '2022-05-01'
-publishDate: '2023-07-09T14:51:04.689767Z'
+publishDate: '2024-06-01T10:01:03.962776Z'
 authors:
 - On the probability-quality paradox in language generation
 publication_types:

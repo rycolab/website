@@ -1,7 +1,7 @@
 ---
 title: Applying the Transformer to Character-level Transduction
 date: '2021-04-01'
-publishDate: '2023-07-09T14:57:00.979842Z'
+publishDate: '2024-06-01T10:01:53.141333Z'
 authors:
 - Shijie Wu
 - Mans Hulden

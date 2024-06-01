@@ -1,7 +1,7 @@
 ---
 title: Revisiting the Uniform Information Density Hypothesis
 date: '2021-11-01'
-publishDate: '2023-07-09T14:56:58.820415Z'
+publishDate: '2024-06-01T10:01:13.185695Z'
 authors:
 - Clara Meister
 - Tiago Pimentel

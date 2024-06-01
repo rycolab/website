@@ -1,7 +1,7 @@
 ---
 title: 'What About the Precedent: An Information-Theoretic Analysis of Common Law'
 date: '2021-06-01'
-publishDate: '2023-07-09T14:57:01.652045Z'
+publishDate: '2024-06-01T10:01:44.521461Z'
 authors:
 - Josef Valvoda
 - Tiago Pimentel

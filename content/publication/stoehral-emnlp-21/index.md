@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-09T14:56:54.507869Z'
+publishDate: '2024-06-01T10:01:30.391442Z'
 publication_types:
 - '1'
 abstract: Understanding the origins of militarized conflict is a complex, yet important

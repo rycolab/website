@@ -1,7 +1,7 @@
 ---
 title: Probing for the Usage of Grammatical Number
 date: '2022-05-01'
-publishDate: '2023-07-09T14:51:05.810509Z'
+publishDate: '2024-06-01T10:01:05.759408Z'
 authors:
 - Karim Lasri
 - Tiago Pimentel

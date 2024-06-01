@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-09T14:51:06.641888Z'
+publishDate: '2024-06-01T10:01:10.143682Z'
 publication_types:
 - '1'
 abstract: Standard automatic metrics, e.g. BLEU, are not reliable for document-level

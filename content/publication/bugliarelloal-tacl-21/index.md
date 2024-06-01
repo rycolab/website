@@ -2,7 +2,7 @@
 title: 'Multimodal Pretraining Unmasked: A Meta-Analysis and a Unified Framework of
   Vision-and-Language BERTs'
 date: '2021-01-01'
-publishDate: '2023-07-09T14:56:55.144251Z'
+publishDate: '2024-06-01T10:01:36.572559Z'
 authors:
 - Emanuele Bugliarello
 - Ryan Cotterell

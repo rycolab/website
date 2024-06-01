@@ -1,7 +1,7 @@
 ---
 title: A Bayesian Framework for Information-Theoretic Probing
 date: '2021-11-01'
-publishDate: '2023-07-09T14:56:57.111720Z'
+publishDate: '2024-06-01T10:01:07.120264Z'
 authors:
 - Tiago Pimentel
 - Ryan Cotterell

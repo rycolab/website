@@ -1,7 +1,7 @@
 ---
 title: Determinantal Beam Search
 date: '2021-08-01'
-publishDate: '2023-07-09T14:56:59.798310Z'
+publishDate: '2024-06-01T10:01:52.602631Z'
 authors:
 - Clara Meister
 - Martina Forster

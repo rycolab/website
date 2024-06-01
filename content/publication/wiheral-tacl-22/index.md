@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-09T14:51:08.296717Z'
+publishDate: '2024-06-01T10:01:53.955274Z'
 publication_types:
 - '2'
 abstract: When generating text from probabilistic models, the chosen decoding strategy

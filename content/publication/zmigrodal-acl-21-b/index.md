@@ -1,7 +1,7 @@
 ---
 title: Higher-order Derivatives of Weighted Finite-state Machines
 date: '2021-08-01'
-publishDate: '2023-07-09T14:57:00.700824Z'
+publishDate: '2024-06-01T10:01:29.197905Z'
 authors:
 - Higher-order Derivatives of Weighted Finite-state Machines
 publication_types:

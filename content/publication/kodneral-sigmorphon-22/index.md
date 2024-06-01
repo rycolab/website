@@ -57,7 +57,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-09T14:51:09.786927Z'
+publishDate: '2024-06-01T10:01:02.075140Z'
 publication_types:
 - '1'
 abstract: 'The 2022 SIGMORPHON–UniMorph shared task on large scale morphological inflection

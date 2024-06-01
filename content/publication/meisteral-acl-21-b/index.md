@@ -1,7 +1,7 @@
 ---
 title: Is Sparse Attention more Interpretable?
 date: '2021-08-01'
-publishDate: '2023-07-09T14:57:02.303370Z'
+publishDate: '2024-06-01T10:01:55.842501Z'
 authors:
 - Clara Meister
 - Stefan Lazov

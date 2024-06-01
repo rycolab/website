@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-09T14:51:06.360792Z'
+publishDate: '2024-06-01T10:01:36.834569Z'
 publication_types:
 - '1'
 abstract: The success of multilingual pre-trained models is underpinned by their ability

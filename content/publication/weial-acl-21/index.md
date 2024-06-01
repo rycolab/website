@@ -1,7 +1,7 @@
 ---
 title: A cognitive regularizer for language modeling
 date: '2021-08-01'
-publishDate: '2023-07-09T14:57:01.929740Z'
+publishDate: '2024-06-01T10:01:27.058801Z'
 authors:
 - Jason Wei
 - Clara Meister
