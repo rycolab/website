@@ -1032,7 +1032,8 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <td>Prompting, Chain-of-Thought Reasoning</td>
       <td>Filippo Ficarra</td>
       <td>
-      <a href="https://drive.google.com/file/d/13urg88otspYvU_nLvzB1Bj3RzHOfnW1r/view?usp=sharing" target="_blank">Exercises</a>
+      <a href="https://drive.google.com/file/d/1PASyag56Dj47GDx5f8700RYvlIu-NdU2/view?usp=sharing">Exercises</a>, 
+      <a href="https://drive.google.com/file/d/1g0rtrcnVD8YJ_Q8oeYpeRAAfCHtB2VTR/view?usp=sharing">Exercises with solutions</a>
       </td>
     </tr>
     <tr>
