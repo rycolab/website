@@ -919,7 +919,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <button id="button33" style="border:none;" onclick="myFunction('33')">Show</button>
       </td>
       <td>
-      <!-- <a href="https://drive.google.com/file/d/1xCXi1z82RvFBq0gv3wWyNKQbygpnvs2p/view?usp=sharing" target="_blank">Slides</a> -->
+      <a href="https://drive.google.com/file/d/18spP6CnHXLnMLAYGHs-XFlC6CUsLttab/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
       </td>
