@@ -14,7 +14,7 @@ def main(argv):
 
     for bib in os.listdir(BIB_DIR):
         file_name = os.path.join(BIB_DIR, bib)
-        command = ['academic', 'import', '--overwrite', '--bibtex', 'output', file_name] #'academic', 'output'
+        command = ['academic', 'import', '--overwrite', '--bibtex', file_name] #'academic', 'output'
         try:            
             subprocess.run(command)
         except FileNotFoundError as e:

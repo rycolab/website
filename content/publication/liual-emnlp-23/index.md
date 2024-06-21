@@ -9,13 +9,15 @@ authors:
 - Afra Amini
 - Mrinmaya Sachan
 - Ryan Cotterell
+
+# Author notes (such as 'Equal Contribution')
 author_notes: []
 
 date: '2023-12-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-06-01T10:01:20.675379Z'
+publishDate: '2024-06-21T14:03:01.873253Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,6 +25,8 @@ publishDate: '2024-06-01T10:01:20.675379Z'
 # 7 = Thesis; 8 = Patent
 publication_types:
 - '1'
+
+# Publication name and optional abbreviated publication name.
 publication: '*Proceedings of the 2023 Conference on Empirical Methods in Natural
   Language Processing*'
 publication_short: ''

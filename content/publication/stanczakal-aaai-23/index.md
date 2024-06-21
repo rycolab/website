@@ -10,13 +10,15 @@ authors:
 - Adina Williams
 - Ryan Cotterell
 - Isabelle Augenstein
+
+# Author notes (such as 'Equal Contribution')
 author_notes: []
 
 date: '2023-01-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-06-01T10:19:57.015556Z'
+publishDate: '2024-06-21T14:02:59.226558Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,6 +26,8 @@ publishDate: '2024-06-01T10:19:57.015556Z'
 # 7 = Thesis; 8 = Patent
 publication_types:
 - '1'
+
+# Publication name and optional abbreviated publication name.
 publication: '*Proceedings of the 37th AAAI Conference on Artificial Intelligence*'
 publication_short: ''
 

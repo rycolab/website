@@ -204,7 +204,7 @@ def main(argv):
         file_name = os.path.join(BIB_DIR, key + '.bib')
         with open(file_name, 'w') as f:
           f.write(bib)
-        command = ['academic', 'import', '--overwrite', '--bibtex', 'output', file_name] #'academic', 'output'
+        command = ['academic', 'import', '--overwrite', '--bibtex', file_name] #'academic', 'output'
         #featured = True
         if featured:
           command.append('--featured')

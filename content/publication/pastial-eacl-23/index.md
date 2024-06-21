@@ -11,13 +11,15 @@ authors:
 - Tim Vieira
 - Jason Eisner
 - Ryan Cotterell
+
+# Author notes (such as 'Equal Contribution')
 author_notes: []
 
 date: '2023-05-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-06-01T10:01:03.688790Z'
+publishDate: '2024-06-21T14:02:59.512145Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,6 +27,8 @@ publishDate: '2024-06-01T10:01:03.688790Z'
 # 7 = Thesis; 8 = Patent
 publication_types:
 - '1'
+
+# Publication name and optional abbreviated publication name.
 publication: '*Proceedings of the 17th Conference of the European Chapter of the Association
   for Computational Linguistics*'
 publication_short: ''

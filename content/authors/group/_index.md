@@ -15,7 +15,7 @@ bio : ""
 # List (academic) interests or hobbies
 interests : []
 
-foci : ["Formal Aspects of Language Modeling", "Cognitive and (Psycho-) Linguistics", "Information Theory", "Computational Typology and Morphology", "Bias and Fairness in NLP Systems", "Algorithms for Parsing", "Interpreting Neural Representations of Language", "Computational Social Science", "Tokenization"]
+foci : ["Formal Aspects of Language Modeling", "Cognitive and (Psycho-)Linguistics", "Information Theory", "Computational Typology and Morphology", "Bias and Fairness in NLP Systems", "Algorithms for Parsing", "Interpreting Neural Representations of Language", "Computational Social Science"]
 
 avatar: "circle"
 

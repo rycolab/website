@@ -8,13 +8,15 @@ authors:
 - Tiago Pimentel$^*$
 - Clara Meister$^*$
 - Ryan Cotterell
+
+# Author notes (such as 'Equal Contribution')
 author_notes: []
 
 date: '2023-05-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-06-01T10:01:08.223205Z'
+publishDate: '2024-06-21T14:02:59.603693Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,29 +24,31 @@ publishDate: '2024-06-01T10:01:08.223205Z'
 # 7 = Thesis; 8 = Patent
 publication_types:
 - '1'
+
+# Publication name and optional abbreviated publication name.
 publication: '*Proceedings of the 11th International Conference on Learning Representations*'
 publication_short: ''
 
-abstract: "A good automatic evaluation metric for language generation ideally correlates\
-  \ highly with human judgements of text quality. Yet, there is a dearth of such metrics,\
-  \ which inhibits the rapid and efficient progress of language generators. One exception\
-  \ is the recently proposed Mauve. In theory, Mauve measures an information-theoretic\
-  \ divergence between two probability distributions over strings: one representing\
-  \ the language generator under evaluation; the other representing the true natural\
-  \ language distribution. Mauve's authors argue that its success comes from the qualitative\
-  \ properties of their proposed divergence. Yet in practice, as this divergence is\
-  \ uncomputable, Mauve approximates it by measuring the divergence between multinomial\
-  \ distributions over clusters instead, where cluster assignments are attained by\
-  \ grouping strings based on a pre-trained language model's embeddings. As we show,\
-  \ however, this is not a tight approximation -- in either theory or practice. This\
-  \ begs the question: why does Mauve work so well? In this work, we show that Mauve\
-  \ was right for the wrong reasons, and that its newly proposed divergence is not\
-  \ necessary for its high performance. In fact, classical divergences paired with\
-  \ its proposed cluster-based approximation may actually serve as better evaluation\
-  \ metrics. We finish the paper with a probing analysis; this analysis leads us to\
-  \ conclude that -- by encoding syntactic- and coherence-level features of text,\
-  \ while ignoring surface-level features -- such cluster-based substitutes to string\
-  \ distributions may simply be better for evaluating state-of-the-art language generators."
+abstract: "A good automatic evaluation metric for language generation ideally correlates
+  highly with human judgements of text quality. Yet, there is a dearth of such metrics,
+  which inhibits the rapid and efficient progress of language generators. One exception
+  is the recently proposed Mauve. In theory, Mauve measures an information-theoretic
+  divergence between two probability distributions over strings: one representing
+  the language generator under evaluation; the other representing the true natural
+  language distribution. Mauve's authors argue that its success comes from the qualitative
+  properties of their proposed divergence. Yet in practice, as this divergence is
+  uncomputable, Mauve approximates it by measuring the divergence between multinomial
+  distributions over clusters instead, where cluster assignments are attained by grouping
+  strings based on a pre-trained language model's embeddings. As we show, however,
+  this is not a tight approximation -- in either theory or practice. This begs the
+  question: why does Mauve work so well? In this work, we show that Mauve was right
+  for the wrong reasons, and that its newly proposed divergence is not necessary for
+  its high performance. In fact, classical divergences paired with its proposed cluster-based
+  approximation may actually serve as better evaluation metrics. We finish the paper
+  with a probing analysis; this analysis leads us to conclude that -- by encoding
+  syntactic- and coherence-level features of text, while ignoring surface-level features
+  -- such cluster-based substitutes to string distributions may simply be better for
+  evaluating state-of-the-art language generators."
 
 # Summary. An optional shortened abstract.
 summary: ''

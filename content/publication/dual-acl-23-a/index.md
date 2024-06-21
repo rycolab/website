@@ -11,13 +11,15 @@ authors:
 - Clara Meister
 - Jason Eisner
 - Ryan Cotterell
+
+# Author notes (such as 'Equal Contribution')
 author_notes: []
 
 date: '2023-07-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-06-01T10:01:18.237328Z'
+publishDate: '2024-06-21T14:03:00.326576Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,6 +27,8 @@ publishDate: '2024-06-01T10:01:18.237328Z'
 # 7 = Thesis; 8 = Patent
 publication_types:
 - '1'
+
+# Publication name and optional abbreviated publication name.
 publication: '*Proceedings of the 61th Annual Meeting of the Association for Computational
   Linguistics (Volume 1: Long Papers)*'
 publication_short: ''
