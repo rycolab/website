@@ -204,16 +204,16 @@ def main(argv):
         file_name = os.path.join(BIB_DIR, key + '.bib')
         with open(file_name, 'w') as f:
           f.write(bib)
-        command = ['academic', 'import','--overwrite', '--bibtex', file_name ]
-        # featured = True
+        command = ['academic', 'import', '--overwrite', '--bibtex', 'output', file_name] #'academic', 'output'
+        #featured = True
         if featured:
           command.append('--featured')
         subprocess.run(command)
     except CSVParseError as e:
-        print ('Error: Failed to parse %s: %s' % (csv_file, str(e)), file=sys.stderr)
+        print ('Error parse: Failed to parse %s: %s' % (csv_file, str(e)), file=sys.stderr)
         failure = 1
     except FileNotFoundError as e:
-        print ('Error: Failed to parse %s: file not found' % csv_file, file=sys.stderr)
+        print ('Error NotFound: Failed to parse %s: file not found' % csv_file, file=sys.stderr)
         print(e)
         failure = 1
 
