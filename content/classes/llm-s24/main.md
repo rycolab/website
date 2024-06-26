@@ -218,7 +218,8 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       </td>
       <td>
       <a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view" target="_blank">Course Notes, &sect; 4.1</a> <br>
-      <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf" target="_blank">Bengio, Yoshua, et al. A neural probabilistic language model.</a>
+      <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf" target="_blank">Bengio, Yoshua, et al. A neural probabilistic language model</a>,
+      <a href="https://arxiv.org/abs/2104.03474" target="_blank">Sun, Simeng, et al. Revisiting Simple Neural Probabilistic Language Models.</a>
       </td>
     </tr>
     <!-- <tr>
@@ -852,8 +853,7 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <button id="button30" style="border:none;" onclick="myFunction('30')">Show</button>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/1-5RA-omzSxuyKtb4jhOII5i42zJJTwMX/view?usp=share_link" target="_blank">Slides</a>
-      <!-- <a href="https://drive.google.com/file/d/1-5RA-omzSxuyKtb4jhOII5i42zJJTwMX/view?usp=share_link" target="_blank">Slides</a> -->
+      <a href="https://drive.google.com/file/d/13RwZ792Lz92iEvCr4HSqUV2ZTh8uXqxT/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
       <a href="https://arxiv.org/abs/2311.17035" target="_blank">Nasr et al. Scalable Extraction of Training Data from (Production) Language Models</a>, 
