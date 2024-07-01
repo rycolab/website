@@ -71,7 +71,7 @@ The full list is:
 If you feel like you would benefit from any other channel, feel free to suggest it to the teaching team!
 
 ### Course Notes
-We are currently working on turning out class content into a book! The current draft of the book, i.e., the course notes, can be found [here](https://drive.google.com/file/d/1esgbEGgF2TYwr0wCE5Sb18YLJ3A9eDgp/view?usp=sharing). Please report all errata to the teaching staff; we created an [errata channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FrK63Wa) in RocketChat.
+We are currently working on turning out class content into a book! The current draft of the book, i.e., the course notes, can be found [here](https://drive.google.com/file/d/13IKssO5fcKGyBm9LHGtXjl2KWHwAbzxi/view?usp=sharing). Please report all errata to the teaching staff; we created an [errata channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FrK63Wa) in RocketChat.
 
 
 Other useful literature:  
