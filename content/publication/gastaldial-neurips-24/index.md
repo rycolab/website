@@ -1,48 +1,50 @@
 ---
-title: On the Representational Capacity of Recurrent Neural Language Models
+title: 'The Foundations of Tokenization: Statistical and Computational Concerns'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Franz Nowak
-- Anej Svete
-- Li Du
+- Juan Luis Gastaldi
+- John Terilla
+- Luca Malagutti
+- Brian DuSell
+- Tim Vieira
 - Ryan Cotterell
 
 # Author notes (such as 'Equal Contribution')
 author_notes: []
 
-date: '2023-12-01'
+date: '2024-01-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-06-21T14:03:01.783736Z'
+publishDate: '2024-07-10T09:33:12.592411Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types:
-- '1'
+- '0'
 
 # Publication name and optional abbreviated publication name.
-publication: '*Proceedings of the 2023 Conference on Empirical Methods in Natural
-  Language Processing*'
+publication: ''
 publication_short: ''
 
-abstract: This work investigates the computational expressivity of language models
-  (LMs) based on recurrent neural networks (RNNs). Siegelmann and Sontag (1992) famously
-  showed that RNNs with rational weights and hidden states and unbounded computation
-  time are Turing complete. However, LMs define weightings over strings in addition
-  to just (unweighted) language membership and the analysis of the computational power
-  of RNN LMs (RLMs) should reflect this. We extend the Turing completeness result
-  to the probabilistic case, showing how a rationally weighted RLM with unbounded
-  computation time can simulate any probabilistic Turing machine (PTM). Since, in
-  practice, RLMs work in real-time, processing a symbol at every time step, we treat
-  the above result as an upper bound on the expressivity of RLMs. We also provide
-  a lower bound by showing that under the restriction to real-time computation, such
-  models can simulate deterministic real-time rational PTMs.
+abstract: Tokenization—the practice of converting strings of characters over an alphabet
+  into sequences of tokens over a vocabulary—is a critical yet under-theorized step
+  in the NLP pipeline. Notably, it remains the only major step not fully integrated
+  into widely used end-to-end neural models. This paper aims to address this theoretical
+  gap by laying the foundations of tokenization from a formal perspective. By articulating
+  and extending basic properties about the category of stochastic maps, we propose
+  a unified framework for representing and analyzing tokenization models. This framework
+  allows us to establish general conditions for the use of tokenizers. In particular,
+  we formally establish the necessary and sufficient conditions for a tokenization
+  model to preserve the consistency of statistical estimators. Additionally, we discuss
+  statistical and computational concerns crucial for the design and implementation
+  of tokenization models. The framework and results advanced in this paper represent
+  a step toward a robust theoretical foundation for neural language modeling.
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -80,9 +82,6 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
-links:
-- name: URL
-  url: https://arxiv.org/abs/2310.12942
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

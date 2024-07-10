@@ -1,23 +1,25 @@
 ---
-title: On the Representational Capacity of Recurrent Neural Language Models
+title: Context versus Prior Knowledge in Language Models
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Franz Nowak
-- Anej Svete
-- Li Du
+- Kevin Du
+- Vésteinn Snæbjarnarson
+- Niklas Stoehr
+- Jennifer C. White
+- Aaron Schein
 - Ryan Cotterell
 
 # Author notes (such as 'Equal Contribution')
 author_notes: []
 
-date: '2023-12-01'
+date: '2024-01-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-06-21T14:03:01.783736Z'
+publishDate: '2024-07-10T09:33:12.331871Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,22 +29,24 @@ publication_types:
 - '1'
 
 # Publication name and optional abbreviated publication name.
-publication: '*Proceedings of the 2023 Conference on Empirical Methods in Natural
-  Language Processing*'
+publication: '*Proceedings of the 62nd Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)*'
 publication_short: ''
 
-abstract: This work investigates the computational expressivity of language models
-  (LMs) based on recurrent neural networks (RNNs). Siegelmann and Sontag (1992) famously
-  showed that RNNs with rational weights and hidden states and unbounded computation
-  time are Turing complete. However, LMs define weightings over strings in addition
-  to just (unweighted) language membership and the analysis of the computational power
-  of RNN LMs (RLMs) should reflect this. We extend the Turing completeness result
-  to the probabilistic case, showing how a rationally weighted RLM with unbounded
-  computation time can simulate any probabilistic Turing machine (PTM). Since, in
-  practice, RLMs work in real-time, processing a symbol at every time step, we treat
-  the above result as an upper bound on the expressivity of RLMs. We also provide
-  a lower bound by showing that under the restriction to real-time computation, such
-  models can simulate deterministic real-time rational PTMs.
+abstract: "To answer a question, language models often need to integrate prior knowledge
+  learned during pretraining and new information presented in context. We hypothesize
+  that models perform this integration in a predictable way across different questions
+  and contexts: models will rely more on prior knowledge for questions about entities
+  (e.g., persons, places, etc.) that they are more familiar with due to higher exposure
+  in the training corpus, and be more easily persuaded by some contexts than others.
+  To formalize this problem, we propose two mutual information-based metrics to measure
+  a model's dependency on a context and on its prior about an entity: first, the persuasion
+  score of a given context represents how much a model depends on the context in its
+  decision, and second, the susceptibility score of a given entity represents how
+  much the model can be swayed away from its original answer distribution about an
+  entity. We empirically test our metrics for their validity and reliability. Finally,
+  we explore and find a relationship between the scores and the model's expected familiarity
+  with an entity, and provide two use cases to illustrate their benefits."
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -50,7 +54,7 @@ summary: ''
 tags: []
 
 # Display this page in a list of Featured pages?
-featured: false
+featured: true
 
 # Links
 url_pdf: ''
@@ -82,7 +86,7 @@ image:
 projects: []
 links:
 - name: URL
-  url: https://arxiv.org/abs/2310.12942
+  url: https://arxiv.org/abs/2404.04633
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

@@ -1,23 +1,28 @@
 ---
-title: On the Representational Capacity of Recurrent Neural Language Models
+title: Do Language Models Exhibit the Same Cognitive Biases in Problem Solving as
+  Human Learners?
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Franz Nowak
-- Anej Svete
-- Li Du
+- Andreas Opedal
+- Alessandro Stolfo
+- Haruki Shirakami
+- Ying Jiao
 - Ryan Cotterell
+- Bernhard Schölkopf
+- Abulhair Saparov
+- Mrinmaya Sachan
 
 # Author notes (such as 'Equal Contribution')
 author_notes: []
 
-date: '2023-12-01'
+date: '2024-07-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-06-21T14:03:01.783736Z'
+publishDate: '2024-07-10T09:33:12.249610Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,22 +32,23 @@ publication_types:
 - '1'
 
 # Publication name and optional abbreviated publication name.
-publication: '*Proceedings of the 2023 Conference on Empirical Methods in Natural
-  Language Processing*'
+publication: '*Proceedings of the 41st International Conference on Machine Learning*'
 publication_short: ''
 
-abstract: This work investigates the computational expressivity of language models
-  (LMs) based on recurrent neural networks (RNNs). Siegelmann and Sontag (1992) famously
-  showed that RNNs with rational weights and hidden states and unbounded computation
-  time are Turing complete. However, LMs define weightings over strings in addition
-  to just (unweighted) language membership and the analysis of the computational power
-  of RNN LMs (RLMs) should reflect this. We extend the Turing completeness result
-  to the probabilistic case, showing how a rationally weighted RLM with unbounded
-  computation time can simulate any probabilistic Turing machine (PTM). Since, in
-  practice, RLMs work in real-time, processing a symbol at every time step, we treat
-  the above result as an upper bound on the expressivity of RLMs. We also provide
-  a lower bound by showing that under the restriction to real-time computation, such
-  models can simulate deterministic real-time rational PTMs.
+abstract: 'There is increasing interest in employing large language models (LLMs)
+  as cognitive models. For such purposes, it is central to understand which properties
+  of human cognition are well-modeled by LLMs, and which are not. In this work, we
+  study the biases of LLMs in relation to those known in children when solving arithmetic
+  word problems. Surveying the learning science literature, we posit that the problem-solving
+  process can be split into three distinct steps: text comprehension, solution planning
+  and solution execution. We construct tests for each one in order to understand whether
+  current LLMs display the same cognitive  biases as children in these steps. We generate
+  a novel set of word  problems for each of these tests, using a neuro-symbolic approach
+  that  enables fine-grained control over the problem features. We find evidence  that
+  LLMs, with and without instruction-tuning, exhibit human-like biases in both the
+  text-comprehension and the solution-planning steps of  the solving process, but
+  not in the final step, in which the arithmetic expressions are executed to obtain
+  the answer.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -82,7 +88,7 @@ image:
 projects: []
 links:
 - name: URL
-  url: https://arxiv.org/abs/2310.12942
+  url: https://arxiv.org/pdf/2401.18070
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

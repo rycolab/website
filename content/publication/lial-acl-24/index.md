@@ -1,23 +1,23 @@
 ---
-title: On the Representational Capacity of Recurrent Neural Language Models
+title: What Do Language Models Learn in Context? The Structured Task Hypothesis.
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Franz Nowak
-- Anej Svete
-- Li Du
+- Jiaoda Li
+- Yifan Hou
+- Mrinmaya Sachan
 - Ryan Cotterell
 
 # Author notes (such as 'Equal Contribution')
 author_notes: []
 
-date: '2023-12-01'
+date: '2024-01-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-06-21T14:03:01.783736Z'
+publishDate: '2024-07-10T09:33:12.839213Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,22 +27,24 @@ publication_types:
 - '1'
 
 # Publication name and optional abbreviated publication name.
-publication: '*Proceedings of the 2023 Conference on Empirical Methods in Natural
-  Language Processing*'
+publication: '*Proceedings of the 62nd Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)*'
 publication_short: ''
 
-abstract: This work investigates the computational expressivity of language models
-  (LMs) based on recurrent neural networks (RNNs). Siegelmann and Sontag (1992) famously
-  showed that RNNs with rational weights and hidden states and unbounded computation
-  time are Turing complete. However, LMs define weightings over strings in addition
-  to just (unweighted) language membership and the analysis of the computational power
-  of RNN LMs (RLMs) should reflect this. We extend the Turing completeness result
-  to the probabilistic case, showing how a rationally weighted RLM with unbounded
-  computation time can simulate any probabilistic Turing machine (PTM). Since, in
-  practice, RLMs work in real-time, processing a symbol at every time step, we treat
-  the above result as an upper bound on the expressivity of RLMs. We also provide
-  a lower bound by showing that under the restriction to real-time computation, such
-  models can simulate deterministic real-time rational PTMs.
+abstract: Large language models (LLMs) exhibit an intriguing ability to learn a novel
+  task from in-context examples presented in a demonstration, termed in-context learning
+  (ICL). Understandably, a swath of research has been dedicated to uncovering the
+  theories underpinning ICL. One popular hypothesis explains ICL by task selection.
+  LLMs identify the task based on the demonstration and generalize it to the prompt.
+  Another popular hypothesis is that ICL is a form of meta-learning, i.e., the models
+  learn a learning algorithm at pre-training time and apply it to the demonstration.
+  Finally, a third hypothesis argues that LLMs use the demonstration to select a composition
+  of tasks learned during pre-training to perform ICL. In this paper, we empirically
+  explore these three hypotheses that explain LLMs' ability to learn in context with
+  a suite of experiments derived from common text classification tasks. We invalidate
+  the first two hypotheses with counterexamples and provide evidence in support of
+  the last hypothesis. Our results suggest an LLM could learn a novel task in context
+  via composing tasks learned during pre-training.
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -82,7 +84,7 @@ image:
 projects: []
 links:
 - name: URL
-  url: https://arxiv.org/abs/2310.12942
+  url: https://arxiv.org/abs/2406.04216
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

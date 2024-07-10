@@ -1,23 +1,22 @@
 ---
-title: On the Representational Capacity of Recurrent Neural Language Models
+title: 'Stack Attention: Improving the Ability of Transformers to Model Hierarchical
+  Patterns'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Franz Nowak
-- Anej Svete
-- Li Du
-- Ryan Cotterell
+- Brian DuSell
+- David Chiang
 
 # Author notes (such as 'Equal Contribution')
 author_notes: []
 
-date: '2023-12-01'
+date: '2024-05-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-06-21T14:03:01.783736Z'
+publishDate: '2024-07-10T09:33:12.677932Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,22 +26,23 @@ publication_types:
 - '1'
 
 # Publication name and optional abbreviated publication name.
-publication: '*Proceedings of the 2023 Conference on Empirical Methods in Natural
-  Language Processing*'
+publication: '*The Twelfth International Conference on Learning Representations*'
 publication_short: ''
 
-abstract: This work investigates the computational expressivity of language models
-  (LMs) based on recurrent neural networks (RNNs). Siegelmann and Sontag (1992) famously
-  showed that RNNs with rational weights and hidden states and unbounded computation
-  time are Turing complete. However, LMs define weightings over strings in addition
-  to just (unweighted) language membership and the analysis of the computational power
-  of RNN LMs (RLMs) should reflect this. We extend the Turing completeness result
-  to the probabilistic case, showing how a rationally weighted RLM with unbounded
-  computation time can simulate any probabilistic Turing machine (PTM). Since, in
-  practice, RLMs work in real-time, processing a symbol at every time step, we treat
-  the above result as an upper bound on the expressivity of RLMs. We also provide
-  a lower bound by showing that under the restriction to real-time computation, such
-  models can simulate deterministic real-time rational PTMs.
+abstract: 'Attention, specifically scaled dot-product attention, has proven effective
+  for natural language, but it does not have a mechanism for handling hierarchical
+  patterns of arbitrary nesting depth, which limits its ability to recognize certain
+  syntactic structures. To address this shortcoming, we propose stack attention: an
+  attention operator that incorporates stacks, inspired by their theoretical connections
+  to context-free languages (CFLs). We show that stack attention is analogous to standard
+  attention, but with a latent model of syntax that requires no syntactic supervision.
+  We propose two variants: one related to deterministic pushdown automata (PDAs) and
+  one based on nondeterministic PDAs, which allows transformers to recognize arbitrary
+  CFLs. We show that transformers with stack attention are very effective at learning
+  CFLs that standard transformers struggle on, achieving strong results on a CFL with
+  theoretically maximal parsing difficulty. We also show that stack attention is more
+  effective at natural language modeling under a constrained parameter budget, and
+  we include results on machine translation.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -82,7 +82,7 @@ image:
 projects: []
 links:
 - name: URL
-  url: https://arxiv.org/abs/2310.12942
+  url: https://arxiv.org/abs/2310.01749
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

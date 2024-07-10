@@ -1,23 +1,21 @@
 ---
-title: On the Representational Capacity of Recurrent Neural Language Models
+title: Transformers Can Represent n-gram Language Models
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Franz Nowak
 - Anej Svete
-- Li Du
 - Ryan Cotterell
 
 # Author notes (such as 'Equal Contribution')
 author_notes: []
 
-date: '2023-12-01'
+date: '2024-06-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-06-21T14:03:01.783736Z'
+publishDate: '2024-07-10T09:33:12.421032Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,22 +25,22 @@ publication_types:
 - '1'
 
 # Publication name and optional abbreviated publication name.
-publication: '*Proceedings of the 2023 Conference on Empirical Methods in Natural
-  Language Processing*'
+publication: '*Proceedings of the 2024 Conference of the North American Chapter of
+  the Association for Computational Linguistics: Human Language Technologies (Volume
+  1: Long Papers)*'
 publication_short: ''
 
-abstract: This work investigates the computational expressivity of language models
-  (LMs) based on recurrent neural networks (RNNs). Siegelmann and Sontag (1992) famously
-  showed that RNNs with rational weights and hidden states and unbounded computation
-  time are Turing complete. However, LMs define weightings over strings in addition
-  to just (unweighted) language membership and the analysis of the computational power
-  of RNN LMs (RLMs) should reflect this. We extend the Turing completeness result
-  to the probabilistic case, showing how a rationally weighted RLM with unbounded
-  computation time can simulate any probabilistic Turing machine (PTM). Since, in
-  practice, RLMs work in real-time, processing a symbol at every time step, we treat
-  the above result as an upper bound on the expressivity of RLMs. We also provide
-  a lower bound by showing that under the restriction to real-time computation, such
-  models can simulate deterministic real-time rational PTMs.
+abstract: Plenty of existing work has analyzed the abilities of the transformer architecture
+  by describing its representational capacity with formal models of computation. However,
+  the focus so far has been on analyzing the architecture in terms of language acceptance.
+  We contend that this is an ill-suited problem in the study of language models (LMs),
+  which are definitionally probability distributions over strings. In this paper,
+  we focus on the relationship between transformer LMs and n-gram LMs, a simple and
+  historically relevant class of language models. We show that transformer LMs using
+  the hard or sparse attention mechanisms can exactly represent any n-gram LM, giving
+  us a concrete lower bound on their probabilistic representational capacity. This
+  provides a first step towards understanding the mechanisms that transformer LMs
+  can use to represent probability distributions over strings.
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -82,7 +80,7 @@ image:
 projects: []
 links:
 - name: URL
-  url: https://arxiv.org/abs/2310.12942
+  url: https://arxiv.org/abs/2404.14994
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
