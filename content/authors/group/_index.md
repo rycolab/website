@@ -41,6 +41,9 @@ avatar: "circle"
 
 We are a collocation of collaborators working on a diverse range of topics in computational linguistics, natural language processing and machine learning. 
 
-**Lab Motto**: We put the fun in funicular! 
+**Lab Motto**: We put the fun in funicular! <br>
+<sub>Credits to [Afra](/authors/afra/) for the lab logo and to [Tim](/authors/tim/)  for the logo idea.</sup>
 
+<!---
 <img class="avatar" src="authors/group/funicular.jpg" style="float:center"/> 
+-->

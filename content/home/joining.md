@@ -49,7 +49,7 @@ subtitle = ""
 +++
 Thank you very much for your interest in joining our group – unfortunately, we are not accepting PhD students anymore!
 
-If you are interested in working with us as a Master’s student, please see [here](https://rycolab.github.io/#projects). Ryan has previously co-advised Master’s students on NLP topics with [Mrinmaya Sachan](https://sites.google.com/site/mrinsachan/) and others, if co-advising is an option you would like to pursue. At Cambridge, Ryan co-advises MPhil students with [Simone Teufel](https://www.cl.cam.ac.uk/~sht25/). We are looking forward to receiving your inquiry!
+If you are interested in working with us as a Master’s student, please see [here](https://rycolab.github.io/#projects). Ryan has previously co-advised Master’s students on NLP topics with [Mrinmaya Sachan](https://sites.google.com/site/mrinsachan/) and others, if co-advising is an option you would like to pursue.
 
 <!---
 If you are interested in joining us as a PhD student: we do get a lot of emails about joining our lab from super interesting, well-qualified applicants who we would be very happy to have as research colleagues. However, there has been unbridled exuberance over joining our group and we grew quite quickly. Thus, for the foreseeable future, we can only accept new PhD students under one of the following circumstances:
