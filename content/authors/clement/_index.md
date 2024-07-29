@@ -47,6 +47,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Members
-- Research Assistants
+
 ---
 Clément is a Research Assistant with Ryan at ETH Zürich. He completed his Bachelor’s degree in Mathematical Economics and Government at Wesleyan University and his Master’s degree in Data Science at ETH Zurich. His research interests include interpretability and language generation.

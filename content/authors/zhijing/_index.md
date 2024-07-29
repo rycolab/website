@@ -59,8 +59,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Members
-- Current
-- PhD Students
+
 ---
 
 Zhijing Jin (she/her) is a Ph.D. at Max Planck Institute & ETH Zürich. Her research goals are two-fold: (1) to expand the impact of NLP by promoting NLP for social good, and (2) to improve NLP models by connecting NLP with causal inference. She is also co-supervised by Prof Bernhard Schoelkopf. Previously, she was a research intern at Amazon AI (2019-2020) supervised by Prof Zheng Zhang, David Wipf, and Prof Xipeng Qiu. She has published at many NLP and AI venues (e.g., AAAI, ACL, EMNLP, NAACL, COLING, AISTATS), and NLP for healthcare venues (e.g., AAHPM, JPSM). Her work has been cited in MIT News, ACM TechNews, WeVolver, VentureBeat, and Synced. She is actively involved in AI for social good, as the organizer of NLP for Positive Impact Workshop at ACL 2021, and RobustML workshop at ICLR 2021. To support the NLP research community, she organizes the ACL Year-Round Mentorship Program. To foster the causality research community, she is the Publications Chair for the 1st conference on Causal Learning and Reasoning (CLeaR).
