@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc
+role: Alumnus
 
 # Organizations/Affiliations
 organizations:
@@ -57,10 +57,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Members
-- Current
-- Senior
-- Senior Members
-- Postdocs
+- Alumna
 ---
 
 I am a post doc in Machine Learning at the AI Centre, ETH Zurich. I completed my PhD in 2022 at the University of Edinburgh as a member of the Centre for Doctoral Training in Data Science, supervised by Profs Tim Hospedales and Iain Murray. My PhD focused on developing a theoretical understanding of how words are represented: as word embeddings learned from huge text corpora (e.g. by word2vec or GloVe); or as entity embeddings learned from the facts of a knowledge graph. During my PhD I spent 6 months on internship at Samsung AI Centre, Cambridge looking into the interestection of representation learning and logical reasoning.

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc
+role: Alumna
 
 # Organizations/Affiliations
 organizations:
@@ -55,10 +55,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Members
-- Senior
-- Senior Members
-- Current
-- Postdocs
+- Alumna
 ---
 Laura is a Postdoctoral Researcher at the ETH Media Technology Center, where she is currently doing research on abstractive Summarization. She is also interested in low-resource settings. She has a Computer Science background and holds a Ph.D. in Computational Linguistics from the University of Zürich. Her dissertation was on improving lexical choice in Statistical Machine Translation with discourse-aware approaches.
 
