@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc
+role: Alumnus
 
 # Organizations/Affiliations
 organizations:
@@ -63,9 +63,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Members
-- Senior
-- Senior Members
-- Current
+- Alumna
 - Tutorial Leaders
 - Large Language Models Guest Lecturers
 - Tutorial  Leaders
