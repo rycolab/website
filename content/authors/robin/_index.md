@@ -50,6 +50,5 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Teaching Assistants NLP F23
-- PhD Students
 ---
 Robin is a PhD student co-supervised by Menna El-Assady and Ryan. He wrote his thesis at IBM Research under the supervision of Ryan, working on out-of-distribution generalization of LLMs and constrained generation.
