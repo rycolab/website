@@ -108,7 +108,7 @@ Solutions for the assignments will <ins>***not***</ins> be provided (they will b
 
 There will be **6** assignments which will be released (in their final form) roughly every two weeks. We impose three firm deadlines for handing in your solutions:
 
-- **Assignment 1, 2, 3**: November 15th
+- **Assignment 1, 2, 3**: December 15th
 - **Assignments 4, 5, and 6**: January 15th
 
 Only your highest-scoring 4 assignments will count towards your grade; each will be weighted equally. So, in principle, you may opt to not turn in 2 out of the 6 assignments without any effect on your grade. <ins>***Note***</ins>: Even though we plan to grade your submissions within one month, we advise you not to wait for your grades to be returned before you decide to tackle the next assignments. In essence, do not base your submission strategy on our grading estimates!
@@ -160,7 +160,7 @@ We want the sessions to be useful for you!
 
 
 ### On the Class Project
-It is highly recommended that you do the class assignments. However, students may choose to do a course project (in groups of up to 4 people) in lieu of the class assignments. This option is only recommended for academically oriented students who are interested in using this course to get into NLP research. If you choose to do a class project, you <ins>***must***</ins> submit a project proposal by October 31, 2024, on Moodle. The proposal is <ins>***ungraded***</ins> and will be inspected by the teaching assistants to ensure that the project is doable and you will pass the course should you execute the project as proposed. The write-up and code for the final project are due January 15, 2024; it is to be submitted through Moodle.
+It is highly recommended that you do the class assignments. However, students may choose to do a course project (in groups of up to 4 people) in lieu of the class assignments. This option is only recommended for academically oriented students who are interested in using this course to get into NLP research. If you choose to do a class project, you <ins>***must***</ins> submit a project proposal by October 31, 2024, on Moodle. The proposal is <ins>***ungraded***</ins> and will be inspected by the teaching assistants to ensure that the project is doable and you will pass the course should you execute the project as proposed. The write-up and code for the final project are due January 15, 2025; it is to be submitted through Moodle.
 General guidelines for the class project are given [here](https://drive.google.com/file/d/1_0eZdRzxSxdtbwzG3Jn-t0GjVzGxuOW7/view?usp=sharing). 
 
 Project work submission will be done on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=23672). 
