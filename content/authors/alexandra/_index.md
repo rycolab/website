@@ -53,6 +53,7 @@ user_groups:
 - Teaching Assistants AFLT
 - Teaching Assistants NLP F22
 - Teaching Assistants NLP F23
+- Teaching Assistants NLP F24
 - ESSLLI 2023 Teaching Assistants
 - Current
 ---

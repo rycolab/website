@@ -65,6 +65,10 @@ subtitle = "[SEE ALL CLASSES](/classes)"
   fractions = false
 +++
 
+## [Natural Language Processing](classes/intro-nlp-f24)
+**ETH Zürich** <span class="middot-divider"></span> **Fall 2024**
+This course presents topics in natural language processing with an emphasis on modern techniques, primarily focusing on statistical and deep learning approaches. The course provides an overview of the primary areas of research in language processing as well as a detailed exploration of the models and techniques used both in research and in commercial natural language systems.
+
 ## [NLP in the Wild](classes/nlp-bachelor-seminar-s24)
 **ETH Zürich** <span class="middot-divider"></span> **Spring 2024**
 In recent years, NLP has become a part of our daily lives. Many of us use tools like Google Translate to understand sentences in languages we don’t know,  and chatbots like ChatGPT to help draft essays and answer basic questions. However, even though most people recognize the utility of such tools, there are still many questions to be answered about their reliability and their impact on society. For example, to what extent can we or should we trust what ChatGPT says? Should chatbots ever be used in legal decision-making? What is the role that NLP should play in the education system? In this open-ended seminar, we will read and discuss opinions on the proper use of NLP in the real world, or as we term it,  NLP in the wild!

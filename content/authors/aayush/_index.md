@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Manuel de Prada Corral
+title: Aayush Grover
 
 
 # Username (this should match the folder name)
 authors:
-- manuel
+- aayush
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: MsC Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -22,10 +22,10 @@ organizations:
 bio: 
 
 interests:
-- Statistics
-- Decoding strategies
-- Open Source LMs scene
-- Machine translation
+- Deep Learning
+- NLP
+- Cancer Genomics
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -34,16 +34,8 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:mdeprada@student.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
-- icon: github
-  icon_pack: fab
-  link: https://github.com/valebi
-- icon: portrait
-  icon_pack: fas
-  link: https://www.manueldeprada.com
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/manudeprada
+  link: "mailto:aayush.grover@inf.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -51,7 +43,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Large Language Models Teaching Assistants
 - Teaching Assistants NLP F24
 ---
-Manuel is a Computer Science MSc student at ETHZ. He completed his Bachelor's degrees in Math and Computer Science at Universidade de Santiago de Compostela. When not in front of a computer, he enjoys playing basketball, fixing bikes, or playing the bagpipe.
+Aayush is a fourth-year PhD student at the Computational Cancer Genomics Lab of ETH Zurich. He received his B.Tech and M.Tech in computer science/data science from the International Institute of Information Technology, Bangalore. He is interested in biomedical applications of deep learning specifically looking at DNA from the lens of NLP. You can find him on a football field or at Kondi during his free time.

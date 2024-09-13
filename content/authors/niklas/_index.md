@@ -59,6 +59,7 @@ user_groups:
 - Teaching Assistants
 - Teaching Assistants NLP F22
 - Teaching Assistants NLP F23
+- Teaching Assistants NLP F24
 - Current
 ---
 Niklas is a doctoral student working on interpetability aspects of language models and probabilistic models. His research combines methods from Machine Learning, Natural Language Processing and Computational Social Science, and is particularly centered around active and passive mechanistic interpretability, latent (ordinal) scales, conflict and sentiment analysis. In 2023 and 2024, he spent time interning at [Bloomberg](https://www.bloomberg.com/company/values/tech-at-bloomberg/) in New York and [Google](https://research.google) in Mountain View. After completing a MSc in Data Science at [UCL](https://www.ucl.ac.uk/computer-science/) in 2020, he worked at the [IBM AI Core Team](https://www.ibm.com/watson), [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) and the [German Federal Foreign Office in Shanghai](https://www.auswaertiges-amt.de/en). During his BSc in Information Management Systems at [TU Berlin](https://www.eecs.tu-berlin.de/menue/about_us/parameter/en/), Niklas spent 6 months at the [University of Oxford](http://www.cs.ox.ac.uk) and 12 months at [Tsinghua University in Beijing](http://www.cs.tsinghua.edu.cn/publish/csen/index.html) funded by the [German Academic Scholarship Foundation / Studienstiftung](https://www.studienstiftung.de/en/).

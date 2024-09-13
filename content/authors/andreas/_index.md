@@ -57,6 +57,7 @@ user_groups:
 - Teaching Assistants
 - Teaching Assistants AFLT
 - Teaching Assistants AFLT S24
+- Teaching Assistants NLP F24
 - PhD Students
 ---
 

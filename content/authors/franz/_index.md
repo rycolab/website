@@ -35,15 +35,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:fnowak@ethz.ch"  # For a direct email link, use "mailto:test@example.org".
+- icon: portrait
+  icon_pack: fas
+  link: https://franznowak.github.io/
+- icon: google
+  icon_pack: fab
+  link: https://scholar.google.com/citations?user=IgJ4o30AAAAJ&hl=en
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/franz_nowak
 - icon: github
   icon_pack: fab
   link: https://github.com/franznowak
-- icon: portrait
-  icon_pack: fas
-  link: https://franznowak.github.io/
 
 
 
@@ -60,6 +63,7 @@ user_groups:
 - Teaching Assistants AFLT S24
 - Teaching Assistants NLP F22
 - Teaching Assistants NLP F23
+- Teaching Assistants NLP F24
 - Teaching Assistants AFLT
 - ESSLLI 2023 Teaching Assistants
 ---
