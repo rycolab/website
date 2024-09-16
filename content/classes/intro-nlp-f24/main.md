@@ -70,19 +70,19 @@ The full list is:
 - [General Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FFsbHJJ) for the general organisational discussions.
 - [Announcements Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FjkgSfF) for the announcements by the teaching team.
 - [Content Questions Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FC7c4ki) for your questions about the content of the course.
-- [Errata Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FC7c4ki) for reporting typos and errors in the course lecture notes and the slides.
-- [Assignment 1 Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FC7c4ki)
+- [Errata Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FxzdFED) for reporting typos and errors in the course lecture notes and the slides.
+- [Assignment 1 Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FTsCN8m)
 - [Assignment 2 Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2F4nwXev)
 - [Assignment 3 Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FDbAC8m)
 - [Assignment 4 Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FdC6vNk)
 - [Assignment 5 Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FEF23ca)
 - [Assignment 6 Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FWWvrza)
-- [Channel for Finding Assignment/Project Partners](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FC7c4ki) for finding teammates for the course assignments and the project.
+- [Channel for Finding Assignment/Project Partners](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FLgQQqJ) for finding teammates for the course assignments and the project.
 
 If you feel like you would benefit from any other channel, feel free to suggest it to the teaching team!
 
 ### Course Notes
-We are currently working on turning out class content into a book! The current draft of the book, i.e., the course notes, can be found [here](https://drive.google.com/file/d/1JX7NpwVyh4IJYjpbUTZ_EuK0iv_HyXSj/view?usp=sharing). Please report all errata to the teaching staff; we created an [errata channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FC7c4ki) in RocketChat.
+We are currently working on turning out class content into a book! The current draft of the book, i.e., the course notes, can be found [here](https://drive.google.com/file/d/1JX7NpwVyh4IJYjpbUTZ_EuK0iv_HyXSj/view?usp=sharing). Please report all errata to the teaching staff; we created an [errata channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FxzdFED) in RocketChat.
 
 
 Other useful literature:  
