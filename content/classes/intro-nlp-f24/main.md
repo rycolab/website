@@ -194,7 +194,7 @@ The submission links are:
       <td>17.9.2024</td>
       <td>Introduction to NLP, Course logistics,</br>
        Introduction of the TA team</td>
-      <td><a href="https://drive.google.com/file/d/1rRr3BO3Hr3AVfMcHhZVnBgvWVL8UiAdH/view?usp=sharing" target="_blank">Lecture 1 (last year)</a>
+      <td><a href="https://drive.google.com/file/d/1niD2nlxsftvMtCrP9zYVoHspNiM5JyuN/view?usp=sharing" target="_blank">Lecture 1</a>
       <!-- </br><a href="" target="_blank">TA Intro Slides</a> -->
       </td>
       <td>Eisenstein Ch. 1</td>
