@@ -20,6 +20,7 @@ The course constitutes an introduction to modern techniques in the field of natu
 ## News
 
 **13.09.2024** &emsp; Class website is online!   
+**18.09.2024** &emsp; Exercises and Solutions Published! 
 <!-- **27.09.2024** &emsp; [Assignment 1](https://drive.google.com/file/d/1F5xqe5UYDiitKw_o8jV9Q67YkkgcJ6L1/view?usp=sharing) has been released!   
 **03.10.2024** &emsp; [Assignment 2](https://drive.google.com/file/d/17t21lma-oqr3vD55FIkWTQEYCjJayYD6/view?usp=sharing) has been released!   
 **12.10.2024** &emsp; [Assignment 3](https://drive.google.com/file/d/15zMNFKgnM-bjZZIBUaIRsko24xNoihOj/view?usp=sharing) has been released!   
@@ -222,8 +223,8 @@ The submission links are:
         <a href="https://drive.google.com/file/d/1XWRz4yMi2A5BZSRSgnnbRJikqz7RYtrN/view?usp=sharing" target="_blank">Computation Graph for MLP</a></br>
         <a href="https://drive.google.com/file/d/1hsYIXXd6cEWocrhI-pQ4Ox8FG49Otu_m/view?usp=sharing" target="_blank">Computation Graph Example</a></td>
         <td>
-        <!-- <a href="https://drive.google.com/file/d/1X2KNJlRHCoJwxAhI4TRytMWE7qd9iqv6/view?usp=sharing" target="_blank">Week 2 Exercises</a></br>
-        <a href="https://drive.google.com/file/d/14C51gBHpAM24Uzgn8aOl3tsOr7aQ9gqZ/view?usp=sharing" target="_blank">Week 2 Solutions</a> -->
+        <a href="https://drive.google.com/file/d/1PzK8Dx5yL4Oi6-nWQ-gsA3EslBTT8el0/view?usp=sharing" target="_blank">Week 2 Exercises</a></br>
+        <a href="https://drive.google.com/file/d/1zce25sGvTtYJJE0x3DbHm8WSfVfjB_hX/view?usp=sharing" target="_blank">Week 2 Solutions</a>
         </td>
     </tr>
     <tr>
@@ -243,8 +244,8 @@ The submission links are:
       <td><a href="https://www.cs.jhu.edu/~jason/papers/ferraro+eisner.tnlp13.pdf" target="_blank">Ferraro and Eisner (2013)</a></br>
       <a href="http://cs.jhu.edu/~jason/tutorials/loglin/further.html">Jason Eisner’s list of further resources on log-linear modeling</a></td>
       <td>
-        <!-- <a href="https://drive.google.com/file/d/1fvKapJr7itr6XBzaI2SZ677dbMxXMvMW/view?usp=sharing" target="_blank">Week 3 Exercises</a></br>
-        <a href="https://drive.google.com/file/d/12pqppB059cIIIPb_97d_wjMGHP9jJdv7/view?usp=sharing" target="_blank">Week 3 Solutions</a> -->
+        <a href="https://drive.google.com/file/d/1a9U9Sa3VS0T01rME5J1A9zVMthp6lyH8/view?usp=sharing" target="_blank">Week 3 Exercises</a></br>
+        <a href="https://drive.google.com/file/d/1h4umv8-isYLO1nprhmlsJX2wkpmhxqo4/view?usp=sharing" target="_blank">Week 3 Solutions</a>
         </td>
     </tr>
     <tr>
@@ -263,8 +264,8 @@ The submission links are:
       <td>Eisenstein Ch. 3 and 4;</br>Goodfellow, Bengio and Courville Ch. 6</td>
       <td></td>
       <td>
-      <!-- <a href="https://drive.google.com/file/d/1GX3hIqHkbS3eUcN6r15ldzpjvYd9pKPY/view?usp=sharing" target="_blank">Week 4 Exercises</a></br>
-      <a href="https://drive.google.com/file/d/1fvzLIrG2cbKpa8SL17Pb24fhwPpbDmNn/view?usp=sharing" target="_blank">Week 4 Solutions</a></br> -->
+      <a href="https://drive.google.com/file/d/1qiYK0fWYzq3--bL6pWiXn6TN2le13Nnr/view?usp=sharing" target="_blank">Week 4 Exercises</a></br>
+      <a href="https://drive.google.com/file/d/1sNymKBr10iuXOffRP9yDeQ7xSRTKD0WI/view?usp=sharing" target="_blank">Week 4 Solutions</a></br>
       </td>
     </tr>
     <tr>
@@ -287,8 +288,8 @@ The submission links are:
         <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf" target="_blank">Bengio et al. (2003)</a></br>
         <a href="https://www.isca-speech.org/archive/archive_papers/interspeech_2010/i10_1045.pdf" target="_blank">Mikolov et al. (2010)</a></td>
       <td>
-      <!-- <a href="https://drive.google.com/file/d/1RVjcVvZuNBpnYbl7VJBVrPtcRm6Ygmmv/view?usp=sharing" target="_blank">Week 5 Exercises</a></br>
-      <a href="https://drive.google.com/file/d/1l9dK6lP6ga_ERP8sc-Dscx-31zwVug_v/view?usp=sharing" target="_blank">Week 5 Solutions</a></br> -->
+      <a href="https://drive.google.com/file/d/1tUE-bcioWzAnZoo45T2zn6wL7JkfxR_Z/view?usp=sharing" target="_blank">Week 5 Exercises</a></br>
+      <a href="https://drive.google.com/file/d/1iwhdv21PIYad_yLm8wcmasUtHAnpkS2B/view?usp=sharing" target="_blank">Week 5 Solutions</a></br>
       </td>
     </tr>
     <tr>
@@ -310,8 +311,8 @@ The submission links are:
         <a href="https://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf" target="_blank">Sutton and McCallum (2011)</a></br>
         <a href="https://mitpress.mit.edu/books/probabilistic-graphical-models" target="_blank">Koller and Friedman (2009)</a></td>
         <td>
-        <!-- <a href="https://drive.google.com/file/d/10SbvXl_45fRDnMJO4n28gEA5lzmr3T_f/view?usp=sharing" target="_blank">Week 6 Exercises</a></br>
-        <a href="https://drive.google.com/file/d/1XrRd0BOE5YBGRNoIDqbO_jCiP9hBx_AQ/view?usp=sharing" target="_blank">Week 6 Solutions</a></br> -->
+        <a href="https://drive.google.com/file/d/1GS6oWRqU3GzV-RM8ggiAoVzPcf2KL_G9/view?usp=sharing" target="_blank">Week 6 Exercises</a></br>
+        <a href="https://drive.google.com/file/d/1d-9KrxDbFyChiJ6j49gLIOf-60C9FttA/view?usp=sharing" target="_blank">Week 6 Solutions</a></br>
         </td>
     </tr>
     <tr>
@@ -332,8 +333,8 @@ The submission links are:
       <a href="https://www.aclweb.org/anthology/J98-4003.pdf" target="_blank">Knight and Graehl (1998)</a></br>
         <a href="https://cs.nyu.edu/~mohri/pub/hbka.pdf" target="_blank">Mohri, Pereira and Riley (2008)</a></td>
       <td>
-      <!-- <a href="https://drive.google.com/file/d/1wj2s7SZt5bApiuOPIflCqKlRQs3FwNJN/view?usp=sharing" target="_blank">Week 7 Exercises</a></br>
-      <a href="https://drive.google.com/file/d/1AjzUeAWS0JL5Hp_98UpUgWGRDoC-XWrW/view?usp=sharing" target="_blank">Week 7 Solutions</a></br> -->
+      <a href="https://drive.google.com/file/d/1CqGYmuTuGAc8bs6P5dgpA8FofO6jngTh/view?usp=sharing" target="_blank">Week 7 Exercises</a></br>
+      <a href="https://drive.google.com/file/d/1CjOW0FiRogQqlEJHPBquCxiVEsy43beb/view?usp=sharing" target="_blank">Week 7 Solutions</a></br>
       </td>
       </td>
     </tr>
@@ -357,8 +358,8 @@ The submission links are:
         <a href="https://www.sciencedirect.com/science/article/pii/S001999586780007X?via%3Dihub" target="_blank">Younger (1967)</a></br>
         <a href="http://www.softwarepreservation.org/projects/FORTRAN/CockeSchwartz_ProgLangCompilers.pdf" target="_blank">Cocke and Schwartz (1970)</a></td>
       <td>
-      <!-- <a href="https://drive.google.com/file/d/1VEW9oCM99lnmoD7GMxqMdmXY8tH3CS1B/view?usp=sharing" target="_blank">Week 8 Exercises</a></br>
-      <a href="https://drive.google.com/file/d/1FVbba9rTptr7t_M_8BK9AEIiILRrBXLl/view?usp=sharing" target="_blank">Week 8 Solutions</a></br> -->
+      <a href="https://drive.google.com/file/d/1jcQ3qFvS9t9EfZNKtTZRnSnBT5nBw_ui/view?usp=sharing" target="_blank">Week 8 Exercises</a></br>
+      <a href="https://drive.google.com/file/d/1_IKgtVlIC7k5xqdV5BbvSaf6-NjwRmlt/view?usp=sharing" target="_blank">Week 8 Solutions</a></br>
       </td>
     </tr>
     <tr>
@@ -382,8 +383,8 @@ The submission links are:
         <a href="https://www.aclweb.org/anthology/W07-2216/" target="_blank">McDonald and Satta (2007)</a></br>
         <a href="https://www.morganclaypool.com/doi/abs/10.2200/S00169ED1V01Y200901HLT002" target="_blank">McDonald, Kübler and Nivre (2009)</a></td>
       <td>
-      <!-- <a href="https://drive.google.com/file/d/1KvECUjnpZ3K_BsYPNIkLkgzYeKrpRoF3/view?usp=sharing" target="_blank">Week 9 Exercises</a></br>
-      <a href="https://drive.google.com/file/d/1FRwlEZ1mu-M6gbI-mGoBVmrh2DBxjXvd/view?usp=sharing" target="_blank">Week 9 Solutions</a></br> -->
+      <a href="https://drive.google.com/file/d/1AzU0Ae1Sh15hiVFI2dYF1hb6_RS-p8be/view?usp=sharing" target="_blank">Week 9 Exercises</a></br>
+      <a href="https://drive.google.com/file/d/1QOxc5FZBDJdDAAdMM-gCKCaUWfblGj78/view?usp=sharing" target="_blank">Week 9 Solutions</a></br>
       </td>
     </tr>
     <tr>
@@ -404,8 +405,8 @@ The submission links are:
         <a href="https://www.aclweb.org/anthology/Q14-1032/" target="_blank">Kuhlmann and Satta (2014)</a></br>
         <a href="https://homepages.inf.ed.ac.uk/steedman/papers/ccg/ikdoz17.2.pdf" target="_blank">Mark Steedman's CCG slides</a></td>
       <td>
-      <!-- <a href="https://drive.google.com/file/d/1fSW7aXckr9LCtIb8gSOXu6AOUWl98cLA/view?usp=sharing" target="_blank">Week 10 Exercises</a></br>
-      <a href="https://drive.google.com/file/d/1RrYKdyfT-kt9Iu-1Ukx0VwdoZ-PzTYeI/view?usp=sharing" target="_blank">Week 10 Solutions</a></br> -->
+      <a href="https://drive.google.com/file/d/1hklukBto8tay4tqhLkunExQ1psVTQksa/view?usp=sharing" target="_blank">Week 10 Exercises</a></br>
+      <a href="https://drive.google.com/file/d/15ov7AWdKRldqtxnqs5ZPcBz9qIgqaAc0/view?usp=sharing" target="_blank">Week 10 Solutions</a></br>
       </td>
     <tr>
       <td>19.11.2024</td>
@@ -427,8 +428,8 @@ The submission links are:
         <a href="https://jalammar.github.io/illustrated-transformer/">The Illustrated Transformer</a></br>
         <a href="https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/">The Transformer Family</a></td>
       <td>
-      <!-- <a href="https://drive.google.com/file/d/13MPH4LAvLNy2utqUBrwDd1hOM7jckUXF/view?usp=sharing" target="_blank">Week 11 Exercises</a></br>
-      <a href="https://drive.google.com/file/d/1xTmmkui3hCOQammD2xCyy-09WiOQj1ar/view?usp=sharing" target="_blank">Week 11 Solutions</a></br> -->
+      <a href="https://drive.google.com/file/d/1FMNRL0s8mFb0Orq98HNF__dYi829-ZlL/view?usp=sharing" target="_blank">Week 11 Exercises</a></br>
+      <a href="https://drive.google.com/file/d/1RBlrTqWokZSlfjc2167w7Z5NRKcNfZCl/view?usp=sharing" target="_blank">Week 11 Solutions</a></br>
       </td>
     </tr>
     <tr>
@@ -447,8 +448,8 @@ The submission links are:
       <td>Review Eisenstein Ch. 2;</br>Goodfellow, Bengio and Courville Ch. 5 and 11</td>
       <td></td>
       <td>
-      <!-- <a href="https://drive.google.com/file/d/1pdqX51TkndrSl251B_cOeqq2_xL1YadD/view?usp=sharing" target="_blank">Week 12 Exercises</a></br>
-      <a href="https://drive.google.com/file/d/1cQsKPpcyS_yT3l3ZvVsSUPVAaIP-1PGz/view?usp=sharing" target="_blank">Week 12 Solutions</a></br> -->
+      <a href="https://drive.google.com/file/d/1S1MH4RKo5z4Cj9gOhU9-zcIsuUv5I1uH/view?usp=sharing" target="_blank">Week 12 Exercises</a></br>
+      <a href="https://drive.google.com/file/d/1RfMoit2pDR2USNDyOpo4uC71tcDUPEun/view?usp=sharing" target="_blank">Week 12 Solutions</a></br>
       </td>
     </tr>
     <tr>
