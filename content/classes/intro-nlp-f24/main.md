@@ -149,16 +149,20 @@ The submission links are:
 - [Assignment 5 Submission](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=1101486)  
 - [Assignment 6 Submission](https://moodle-app2.let.ethz.ch/mod/assign/view.php?id=1101487)  
 
-### On the Discussion Sections
-Discussion sections (tutorials) will take place Wednesdays 16h to 19h in HG F7 and on Zoom ([same link](https://ethz.zoom.us/j/61308242260) as the lectures).
+### On the Tutorials
+Tutorials will take place Wednesdays 16h to 19h in HG F7 and on Zoom ([same link](https://ethz.zoom.us/j/61308242260) as the lectures).
 Their main purpose will be to solve some exercises with you that will help you grasp the concepts from the lecture and to help you prepare for the exam.
-They will also help you with the assignment problems.
-Roughly, we expect to devote 2 hours per week to exercises and 1 hour to the assignments.
+They will also introduce new assignments and allow you to ask questions about them.
+Roughly, we expect to devote 2 hours per week to exercises and 1 hour to the assignments (when a new assignment has been released).
 <!-- We plan to devote 2 discussion sessions (two weeks) to each of the assignments. -->
 <!-- In them, TAs will introduce the problems, solve related exercises, and answer your questions about them. -->
 We therefore strongly encourage you to look at the assignment problems in due time and come to the discussions sessions with your questions.
 We want the sessions to be useful for you!
 
+### Assignment Office Hours
+In addition to the Tutorials, we will hold assignment-specific online office hours on Zoom about 2 weeks after the assignment has been introduced. 
+You will have the opportunity to talk to the TAs responsible for that assignment and ask individual questions you do not want to discuss on a public RocketChat channel.
+We will send out 10 minute slots for you to sign up for closer to the time on the corresponding assignment RocketChat channels.
 
 ### On the Class Project
 It is highly recommended that you do the class assignments. However, students may choose to do a course project (in groups of up to 4 people) in lieu of the class assignments. This option is only recommended for academically oriented students who are interested in using this course to get into NLP research. If you choose to do a class project, you <ins>***must***</ins> submit a project proposal by October 31, 2024, on Moodle. The proposal is <ins>***ungraded***</ins> and will be inspected by the teaching assistants to ensure that the project is doable and you will pass the course should you execute the project as proposed. The write-up and code for the final project are due January 15, 2025; it is to be submitted through Moodle.
