@@ -54,6 +54,7 @@ user_groups:
 - PhD Students
 - ESSLLI 2023 Teaching Assistants
 - Teaching Assistant NLP in the Wild
+- Teaching Assistant Neural Networks and Computational Complexity
 ---
 
 Clemente is a PhD student at ETH Zürich. Clemente did his Bachelor’s degree in Mathematical Engineering at Politecnico in Milano, Italy, and his master’s in Informatics at Università della Svizzera Italian in Lugano, Switzerland. He spent the last year of his master’s at ETH.
