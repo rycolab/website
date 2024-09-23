@@ -21,7 +21,7 @@ The course constitutes an introduction to modern techniques in the field of natu
 
 **13.09.2024** &emsp; Class website is online!   
 **18.09.2024** &emsp; Exercises and Solutions Published!   
-**23.09.2024** &emsp; First Assignments Batch Published! [Assignment 1](https://drive.google.com/file/d/1K6mNCw56klT-mCvrJxHn_pVEsc8sNSCT/view), [Assignment 2](https://drive.google.com/file/d/1eVV6tzHRKzU9G24-sFbVR0UNd-HIyoZW/view?usp=sharing), [Assignment 3](https://drive.google.com/file/d/1PkdWmRvbw-CxpdVniGUWo0C4dDXHgM8x/view?usp=sharing)
+**23.09.2024** &emsp; First Assignments Batch Published! [Assignment 1](https://drive.google.com/file/d/1K6mNCw56klT-mCvrJxHn_pVEsc8sNSCT/view?usp=sharing), [Assignment 2](https://drive.google.com/file/d/1eVV6tzHRKzU9G24-sFbVR0UNd-HIyoZW/view?usp=sharing), [Assignment 3](https://drive.google.com/file/d/1PkdWmRvbw-CxpdVniGUWo0C4dDXHgM8x/view?usp=sharing)
 <!-- **27.09.2024** &emsp; [Assignment 1](https://drive.google.com/file/d/1F5xqe5UYDiitKw_o8jV9Q67YkkgcJ6L1/view?usp=sharing) has been released!   
 **03.10.2024** &emsp; [Assignment 2](https://drive.google.com/file/d/17t21lma-oqr3vD55FIkWTQEYCjJayYD6/view?usp=sharing) has been released!   
 **12.10.2024** &emsp; [Assignment 3](https://drive.google.com/file/d/15zMNFKgnM-bjZZIBUaIRsko24xNoihOj/view?usp=sharing) has been released!   
@@ -120,7 +120,7 @@ The class assignments were crafted to dovetail nicely with the lecture contents 
 
 **Assignment sheets**:
 
-- [Assignment 1](https://drive.google.com/file/d/1K6mNCw56klT-mCvrJxHn_pVEsc8sNSCT/view)
+- [Assignment 1](https://drive.google.com/file/d/1K6mNCw56klT-mCvrJxHn_pVEsc8sNSCT/view?usp=sharing)
 - [Assignment 2](https://drive.google.com/file/d/1eVV6tzHRKzU9G24-sFbVR0UNd-HIyoZW/view?usp=sharing)
 - [Assignment 3](https://drive.google.com/file/d/1PkdWmRvbw-CxpdVniGUWo0C4dDXHgM8x/view?usp=sharing)
 - [Assignment 4 (last year)](https://drive.google.com/file/d/1xSRoDFd9Gv943RlzrJV_CKqXOTX5lCCT/view?usp=sharing)
