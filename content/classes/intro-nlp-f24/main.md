@@ -20,7 +20,8 @@ The course constitutes an introduction to modern techniques in the field of natu
 ## News
 
 **13.09.2024** &emsp; Class website is online!   
-**18.09.2024** &emsp; Exercises and Solutions Published! 
+**18.09.2024** &emsp; Exercises and Solutions Published!   
+**23.09.2024** &emsp; First Assignments Batch Published! [Assignment 1](https://drive.google.com/file/d/1ZZ9E_PJWLPGjzxLOoL35v15-p_Q3GoI9/view?usp=sharing), [Assignment 2](https://drive.google.com/file/d/1eVV6tzHRKzU9G24-sFbVR0UNd-HIyoZW/view?usp=sharing), [Assignment 3](https://drive.google.com/file/d/1PkdWmRvbw-CxpdVniGUWo0C4dDXHgM8x/view?usp=sharing)
 <!-- **27.09.2024** &emsp; [Assignment 1](https://drive.google.com/file/d/1F5xqe5UYDiitKw_o8jV9Q67YkkgcJ6L1/view?usp=sharing) has been released!   
 **03.10.2024** &emsp; [Assignment 2](https://drive.google.com/file/d/17t21lma-oqr3vD55FIkWTQEYCjJayYD6/view?usp=sharing) has been released!   
 **12.10.2024** &emsp; [Assignment 3](https://drive.google.com/file/d/15zMNFKgnM-bjZZIBUaIRsko24xNoihOj/view?usp=sharing) has been released!   
@@ -117,14 +118,14 @@ The assignments will be graded according to the pre-determined [Assignment gradi
 
 The class assignments were crafted to dovetail nicely with the lecture contents and, moreover, to complement the lectures through a more hands-on approach to the material. Each assignment has a theory portion, which will generally involve derivations or proofs related to the material, and a coding portion where you will implement a working model for one of the NLP tasks discussed in the lecture. The theory and the coding halves of the assignments will be weighted equally.
 
-<!-- **Assignment sheets**:
+**Assignment sheets**:
 
-- [Assignment 1](https://drive.google.com/file/d/1F5xqe5UYDiitKw_o8jV9Q67YkkgcJ6L1/view?usp=sharing)  
-- [Assignment 2](https://drive.google.com/file/d/17t21lma-oqr3vD55FIkWTQEYCjJayYD6/view?usp=sharing)
-- [Assignment 3](https://drive.google.com/file/d/15zMNFKgnM-bjZZIBUaIRsko24xNoihOj/view?usp=sharing)
-- [Assignment 4](https://drive.google.com/file/d/1xSRoDFd9Gv943RlzrJV_CKqXOTX5lCCT/view?usp=sharing)
-- [Assignment 5](https://drive.google.com/file/d/1ax_YXo-HO48B7GxI-jXFQ9k9Z0JCOmFE/view?usp=sharing)
-- [Assignment 6](https://drive.google.com/file/d/1dsm-HQlKqaafE8bf_3Cj57bjhdfucrmc/view?usp=sharing) -->
+- [Assignment 1](https://drive.google.com/file/d/1ZZ9E_PJWLPGjzxLOoL35v15-p_Q3GoI9/view?usp=sharing)
+- [Assignment 2](https://drive.google.com/file/d/1eVV6tzHRKzU9G24-sFbVR0UNd-HIyoZW/view?usp=sharing)
+- [Assignment 3](https://drive.google.com/file/d/1PkdWmRvbw-CxpdVniGUWo0C4dDXHgM8x/view?usp=sharing)
+- [Assignment 4 (last year)](https://drive.google.com/file/d/1xSRoDFd9Gv943RlzrJV_CKqXOTX5lCCT/view?usp=sharing)
+- [Assignment 5 (last year)](https://drive.google.com/file/d/1ax_YXo-HO48B7GxI-jXFQ9k9Z0JCOmFE/view?usp=sharing)
+- [Assignment 6 (last year)](https://drive.google.com/file/d/1dsm-HQlKqaafE8bf_3Cj57bjhdfucrmc/view?usp=sharing)
 
 The **code** relating to some of the assignments will be published on the [public github repository](https://github.com/rycolab/intro-nlp-f24). You should fork the repository and pull the incoming changes whenever they are released. 
 
@@ -630,15 +631,3 @@ The submission links are:
     
   </tbody>
 </table>
-
-
-<!-- ## Practice Exams
-
-- [Practice Exam 3 Solutions](https://drive.google.com/file/d/1DX3KTILiR1FdY-vPVInK3yHQERwub1CD/view?usp=sharing)    
-- [Practice Exam 3](https://drive.google.com/file/d/1ze_cyYVQ3F1sbC7ueDC-OS56UfSOCWNa/view?usp=sharing)    
-- [Practice Exam 2 Solutions](https://drive.google.com/file/d/1S_-keHXTNQBDFw3-KHxrJ-EVnmVGbSJQ/view?usp=sharing) 
-- [Practice Exam 2](https://drive.google.com/file/d/1JBIgAL5VXXY2Lo8UZQtRx6NYLzExH1Mt/view?usp=sharing)    
-- [Practice Exam 1 Solutions](https://drive.google.com/file/d/1sv4GoNrAtRzlV5Ddk9JqBxe2IgTX_ttv/view?usp=sharing)  
-- [Practice Exam 1](https://drive.google.com/file/d/1Fs0CYuLG-sBLZJwthChU8wqYyzBBOoPi/view?usp=sharing)  
-- [Spring 2021 Exam Solutions](https://drive.google.com/file/d/1VOkgodGoRn_j1IDEhUP0W1iS__5LgIfc/view?usp=sharing)    
-- [Spring 2021 Exam](https://drive.google.com/file/d/1ZH_59Vg69-Z4qBQ4FrqOHy0yvf4nMxiO/view?usp=sharing)     -->
