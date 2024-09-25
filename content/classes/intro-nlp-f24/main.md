@@ -525,7 +525,7 @@ The submission links are:
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <td>19.9.2024</td>
+      <td>18.9.2024</td>
       <td>No tutorial</td>
       <td></td>
       <td>
@@ -534,7 +534,7 @@ The submission links are:
     </tr>
     <tr>
       <th scope="row">2</th>
-      <td>26.9.2024</td>
+      <td>25.9.2024</td>
       <td>No tutorial</td>
       <td></td>
       <td></td>
