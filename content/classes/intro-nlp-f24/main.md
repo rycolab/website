@@ -213,7 +213,7 @@ The submission links are:
       <th rowspan=2 scope="row">2</th>
       <td>23.9.2024</td>
       <td>Backpropagation</td>
-      <td><a href="https://drive.google.com/file/d/1ZK9XK0vBJDMRbBrE7NvC2__zbICHiss_/view?usp=sharing" target="_blank">Lecture 2 (last year)</a></td>
+      <td><a href="https://drive.google.com/file/d/1ZVCFUOr1ZgTFoP4saDPR5Vu7w9PL9uMJ/view?usp=sharing" target="_blank">Lecture 2</a></td>
       <td>Goodfellow, Bengio and Courville Ch. 6.5</td>
       <td>
         <a href="https://colah.github.io/posts/2015-08-Backprop/" target="_blank">Chris Olah's Blog</a></br>
