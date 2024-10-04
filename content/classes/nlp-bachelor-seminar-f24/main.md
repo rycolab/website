@@ -68,7 +68,7 @@ This Bachelor’s seminar delves into the fascinating world of modern large lang
       <td>10.10.24</td>
       <td> Counter Machines and the LSTM </td>
       <td>
-      Tom
+      Tom, Simon, Julius
       </td>
       <td> <a href=https://aclanthology.org/P18-2117.pdf target="_blank"><b> Weiss et al. (2017)</b></a>,
       </td>
@@ -81,7 +81,7 @@ This Bachelor’s seminar delves into the fascinating world of modern large lang
       </td>
       <td>
       <a href=https://aclanthology.org/2023.emnlp-main.434v2.pdf target="_blank"><b> Nowak et al. (2023)</b></a>,
-      <a href=https://aclanthology.org/2023.emnlp-main.434v2.pdf target="_blank"><b> Siegelmann and Sontag (1992)</b></a>,
+      <a href=https://www.sciencedirect.com/science/article/pii/S0022000085710136 target="_blank"><b> Siegelmann and Sontag (1992)</b></a>,
       </td>
     </tr>  
     <tr>
