@@ -58,7 +58,7 @@ This Bachelor’s seminar delves into the fascinating world of modern large lang
       <th scope="row">3</th>
       <td>4.10.24</td>
       <td> RNNs and FSAs </td>
-      <td>
+      <td> Mary, Jakob, Pierre
       </td>
       <td> <a href=https://aclanthology.org/2024.naacl-long.380/ target="_blank"><b> Svete et al. (2024)</b></a>, <a href=https://aclanthology.org/2024.findings-acl.244/ target="_blank"><b> Svete et al. (2024)</b></a>,
       </td>
@@ -68,6 +68,7 @@ This Bachelor’s seminar delves into the fascinating world of modern large lang
       <td>10.10.24</td>
       <td> Counter Machines and the LSTM </td>
       <td>
+      Tom
       </td>
       <td> <a href=https://aclanthology.org/P18-2117.pdf target="_blank"><b> Weiss et al. (2017)</b></a>,
       </td>
