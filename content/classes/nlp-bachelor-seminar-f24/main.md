@@ -20,6 +20,10 @@ This Bachelor’s seminar delves into the fascinating world of modern large lang
 
 **Location:** CHN D 44
 
+**Additional Material**
+
+[slides](https://docs.google.com/presentation/d/1946fEYNxq1DnsYpg4FtF54EPfl0-NvHICn5XeaTOKGs/edit?usp=sharing)
+
 **Course Schedule (Work in Progress)**
 
 <table class="table">
@@ -65,7 +69,7 @@ This Bachelor’s seminar delves into the fascinating world of modern large lang
     </tr>  
     <tr>
       <th scope="row">4</th>
-      <td>10.10.24</td>
+      <td>11.10.24</td>
       <td> Counter Machines and the LSTM </td>
       <td>
       Tom, Simon, Julius
@@ -75,8 +79,8 @@ This Bachelor’s seminar delves into the fascinating world of modern large lang
     </tr>  
     <tr>
       <th scope="row">5</th>
-      <td>17.10.24</td>
-      <td> NNs and Turing Machines (I) </td>
+      <td>18.10.24</td>
+      <td> RNNs and Turing Machines </td>
       <td>
       </td>
       <td>
@@ -86,29 +90,33 @@ This Bachelor’s seminar delves into the fascinating world of modern large lang
     </tr>  
     <tr>
       <th scope="row">6</th>
-      <td>21.10.24</td>
-      <td> NNs and Turing Machines (II) </td>
+      <td>25.10.24</td>
+      <td> The Transformer </td>
       <td>
       </td>
       <td>
+      <a href=https://papers.nips.cc/paper_files/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html target="_blank"><b> Vaswani et al. (2017)</b></a>,
+      <a href=https://arxiv.org/pdf/1409.0473 target="_blank"><b> Bahdanu et al. (2014)</b></a>,
       </td>
     </tr>  
     <tr>
       <th scope="row">7</th>
-      <td>28.10.24</td>
-      <td> The Transformer (I) </td>
+      <td>1.11.24</td>
+      <td> The Transformer is Turing Complete</td>
       <td>
       </td>
       <td>
+      <a href=https://jmlr.org/papers/v22/20-302.html target="_blank"><b> Perez et al. (2017)</b></a>,
       </td>
     </tr>  
     <tr>
       <th scope="row">8</th>
-      <td>4.11.24</td>
-      <td>  </td>
+      <td>8.11.24</td>
+      <td> The Transformer is Turing (In)Complete </td>
       <td>
       </td>
       <td>
+      <a href=https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00306/43545/Theoretical-Limitations-of-Self-Attention-in target="_blank"><b> Hahn (2020)</b></a>,
       </td>
     </tr>  
   </tbody>
