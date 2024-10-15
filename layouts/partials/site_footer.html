@@ -11,14 +11,15 @@
   </p>
   {{ end }}
 
-  <p class="powered-by">
+  <!-- <p class="powered-by">
     {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}}{{ end }}
-  </p>
+  </p> -->
 
   {{/* Display copyright license. */}}
   {{ partial "site_footer_license" . }}
 
   <p class="powered-by">
+    {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}}{{ end }}  | 
     {{ if not site.Params.i_am_a_sponsor }}
     Published with
     <a href="https://wowchemy.com" target="_blank" rel="noopener">Wowchemy Website Builder</a>

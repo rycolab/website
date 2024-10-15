@@ -12,19 +12,47 @@
 {{ if $has_logo }}
   {{ $logo = (partial "functions/get_logo" (dict "constraint" "max_height" "size" 70)) }}
 {{ end }}
+{{ $sidelogo := "" }}
+{{ $sidelogo = (partial "functions/get_sidelogo" (dict "constraint" "max_height" "size" 70)) }}
+
+<style>
+.row {
+  display: flex;
+}
+.column {
+  flex: 29.99%;
+  padding: 40px;
+}
+.img {
+  display: block;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+</style>
+
 
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container">
-
     {{if $show_logo}}
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="{{ "/" | relLangURL }}">
-        {{- if $has_logo -}}
-          <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}">
-        {{- else -}}
-          {{- site.Title -}}
-        {{- end -}}
-      </a>
+      <div class="column">
+        <a class="navbar-brand" href="http://www.ethz.ch">
+          {{- if $has_logo -}}
+              <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}" style="width:300%" > 
+          {{- else -}}
+            {{- site.Title -}}
+          {{- end -}}
+        </a>
+      </div>
+      <div class="column">
+        <a class="navbar-brand" href="{{ "/" | relLangURL }}">
+          {{- if $has_logo -}}
+              <img src="{{ $sidelogo.RelPermalink }}" alt="{{ site.Title }}" style="width:100%"> 
+           {{- end -}}
+        </a>
+      </div>
     </div>
     {{end}}
 

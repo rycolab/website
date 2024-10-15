@@ -5,6 +5,16 @@
 
 {{ $columns := $st.Params.design.columns | default "2" }}
 
+<!-- set font size to 10 px -->
+<style>
+  .contact-widget {
+    font-size: 15px;
+  }
+  /* .section-heading h1 {
+    font-size: 2.5em;
+  } */
+</style>
+
 <div class="row contact-widget {{if not $st.Title | or (eq $columns "1") }}justify-content-center{{end}}">
   {{ if $st.Title }}
     {{ if eq $columns "1" }}
@@ -88,6 +98,12 @@
           <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
           <span id="person-address">{{$addr_formatted}}</span>
         </li>
+        <li>
+          <span id="department"><a href="https://ml.inf.ethz.ch/">Institute for Machine Learning</a> </span>
+        </li>
+        <li>
+          <span id="department"><a href="https://www.inf.ethz.ch">Department of Computer Science</a>, ETH Zürich </span>
+        </li>
       {{ end }}
 
       {{ with $data.directions }}
@@ -151,6 +167,5 @@
     </div>
     <div id="map"></div>
     {{ end }}
-
   </div>
 </div>
