@@ -308,7 +308,7 @@ The submission links are:
       <th rowspan=2 scope="row">6</th>
       <td>21.10.2024</td>
       <td>Part-of-Speech Tagging with CRFs</td>
-      <td><a href="https://drive.google.com/file/d/1kLqlXrJhidEUn-KQPFNzB49B0ITjMPaS/view?usp=sharing" target="_blank">Lecture 6 (last year)</a></td>
+      <td><a href="https://drive.google.com/file/d/1ZoMDetnAoIMCoYkJdjU70i1rRM591cP_/view?usp=sharing" target="_blank">Lecture 6</a></td>
       <td>Eisenstein Ch. 7 and 8</td>
       <td><a href="https://timvieira.github.io/blog/post/2015/04/29/multiclass-logistic-regression-and-conditional-random-fields-are-the-same-thing/" target="_blank">Tim Vieira's Blog</a></br>
         <a href="https://dl.acm.org/doi/10.5555/645529.658277" target="_blank">McCallum et al. (2000)</a></br>
