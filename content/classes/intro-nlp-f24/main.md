@@ -285,13 +285,13 @@ The submission links are:
       <th rowspan=2 scope="row">5</th>
       <td>14.10.2024</td>
       <td>Language Modeling with <em>n</em>-grams and LSTMs</td>
-      <td><a href="https://drive.google.com/file/d/1Cic9N87YLa_v1tzyLvYHroG3lVauY327/view?usp=sharing" target="_blank">Lecture 5 (last year)</a></td>
+      <td><a href="https://drive.google.com/file/d/1ZoMDetnAoIMCoYkJdjU70i1rRM591cP_/view?usp=sharing" target="_blank">Lecture 5</a></td>
       <td>Eisenstein Ch. 6;</br>Goodfellow, Bengio and Courville Ch. 10</td>
       <td><a href="https://nlp.stanford.edu/~wcmac/papers/20050421-smoothing-tutorial.pdf" target="_blank">Good Tutorial on n-gram smoothing</a></br>
         <a href="https://en.wikipedia.org/wiki/Good%E2%80%93Turing_frequency_estimation" target="_blank">Good–Turing Smoothing</a></br>
         <a href="https://ieeexplore.ieee.org/document/479394" target="_blank">Kneser and Ney (1995)</a></br>
         <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf" target="_blank">Bengio et al. (2003)</a></br>
-        <a href="https://www.isca-speech.org/archive/archive_papers/interspeech_2010/i10_1045.pdf" target="_blank">Mikolov et al. (2010)</a></td>
+        <a href="https://www.isca-archive.org/interspeech_2010/mikolov10_interspeech.pdf" target="_blank">Mikolov et al. (2010)</a></td>
       <td>
       <a href="https://drive.google.com/file/d/1tUE-bcioWzAnZoo45T2zn6wL7JkfxR_Z/view?usp=sharing" target="_blank">Week 5 Exercises</a></br>
       <a href="https://drive.google.com/file/d/1iwhdv21PIYad_yLm8wcmasUtHAnpkS2B/view?usp=sharing" target="_blank">Week 5 Solutions</a></br>
