@@ -372,14 +372,29 @@ The submission links are:
       <td>Context-Free Parsing with CKY</td>
       <td></td>
       <td></td>
-      <td>
-      <!-- <a href="https://colab.research.google.com/drive/1FhFKkWPia6DhY6Qw0QtHEWE8Ts7FgNtS?usp=sharing" target="_blank">Notebook</a> -->
-      </td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <th rowspan=2 scope="row">9</th>
       <td>11.11.2024</td>
+      <td>No Lecture</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>12.11.2024</td>
+      <td>No Q&A Session</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan=2 scope="row">10</th>
+      <td>18.11.2024</td>
       <td>Dependency Parsing with the Matrix-Tree Theorem</td>
       <td><a href="https://drive.google.com/file/d/1-K34jVzPMeFoaIAeuCa-hA_LXX0AmbWC/view?usp=sharing" target="_blank">Lecture 9 (last year)</a></td>
       <td>Eisenstein Ch. 11</td>
@@ -393,7 +408,7 @@ The submission links are:
       </td>
     </tr>
     <tr>
-      <td>12.11.2024</td>
+      <td>19.11.2024</td>
       <td>Dependency Parsing with the Matrix-Tree Theorem</td>
       <td></td>
       <td></td>
@@ -401,8 +416,8 @@ The submission links are:
       <td></td>
     </tr>
     <tr>
-      <th rowspan=2 scope="row">10</th>
-      <td>18.11.2024</td>
+      <th rowspan=2 scope="row">11</th>
+      <td>25.11.2024</td>
       <td>Semantic Parsing with CCGs</td>
       <td><a href="https://drive.google.com/file/d/1p8RMDkdr0V2dY3W5S3Nz5p5_UM-uEfM8/view?usp=sharing" target="_blank">Lecture 10 (last year)</a></td>
       <td>Eisenstein Ch. 9.3 and 12</td>
@@ -414,7 +429,7 @@ The submission links are:
       <a href="https://drive.google.com/file/d/15ov7AWdKRldqtxnqs5ZPcBz9qIgqaAc0/view?usp=sharing" target="_blank">Week 10 Solutions</a></br>
       </td>
     <tr>
-      <td>19.11.2024</td>
+      <td>26.11.2024</td>
       <td>Semantic Parsing with CCGs</td>
       <td></td>
       <td></td>
@@ -422,8 +437,8 @@ The submission links are:
       <td></td>
     </tr>
     <tr>
-      <th rowspan=2 scope="row">11</th>
-      <td>25.11.2024</td>
+      <th rowspan=2 scope="row">12</th>
+      <td>2.12.2024</td>
       <td>Machine Translation with Transformers</td>
       <td><a href="https://drive.google.com/file/d/1TArZaSvKqwbuY2GI-GcETunEM-BYI2bi/view?usp=sharing" target="_blank">Lecture 11 (last year)</a></td>
       <td>Eisenstein Ch. 18</td>
@@ -438,7 +453,7 @@ The submission links are:
       </td>
     </tr>
     <tr>
-      <td>26.11.2024</td>
+      <td>3.12.2024</td>
       <td>Machine Translation with Transformers</td>
       <td></td>
       <td></td>
@@ -446,8 +461,8 @@ The submission links are:
       <td></td>
     </tr>
     <tr>
-      <th rowspan=2 scope="row">12</th>
-      <td>2.12.2024</td>
+      <th rowspan=2 scope="row">13</th>
+      <td>9.12.2024</td>
       <td>Axes of Modeling</td>
       <td><a href="https://drive.google.com/file/d/19CthXJuzRWKBJLmSfVB8Gc36bR2avd6v/view?usp=sharing" target="_blank">Lecture 12 (last year)</a></td>
       <td>Review Eisenstein Ch. 2;</br>Goodfellow, Bengio and Courville Ch. 5 and 11</td>
@@ -458,7 +473,7 @@ The submission links are:
       </td>
     </tr>
     <tr>
-      <td>3.12.2024</td>
+      <td>10.12.2024</td>
       <td>Axes of Modeling</td>
       <td></td>
       <td></td>
@@ -466,8 +481,8 @@ The submission links are:
       <td></td>
     </tr>
     <tr>
-      <th rowspan=2 scope="row">13</th>
-      <td>9.12.2024</td>
+      <th rowspan=2 scope="row">14</th>
+      <td>16.12.2024</td>
       <td>Bias and Fairness in NLP</td>
       <td><a href="https://drive.google.com/file/d/1IGfkdvHS9arlkO9uK9H-75bzL0VDzqG8/view?usp=sharing" target="_blank">Lecture 13 (last year)</a></td>
       <td></td>
@@ -479,25 +494,8 @@ The submission links are:
       <td></td>
     </tr>
     <tr>
-      <td>10.12.2024</td>
-      <td>Bias and Fairness in NLP</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th rowspan=2 scope="row">14</th>
-      <td>16.12.2024</td>
-      <td>TBD</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td>17.12.2024</td>
-      <td>TBD</td>
+      <td>Bias and Fairness in NLP</td>
       <td></td>
       <td></td>
       <td></td>
@@ -526,7 +524,7 @@ The submission links are:
     <tr>
       <th scope="row">1</th>
       <td>18.9.2024</td>
-      <td>No tutorial</td>
+      <td>No Tutorial</td>
       <td></td>
       <td>
       <!-- <a href="https://drive.google.com/file/d/1dGaClf-2FVsDoIzyyxYueQEvUZNy48yn/view?usp=sharing" target="_blank">Introduction Slides</a> -->
@@ -590,6 +588,12 @@ The submission links are:
     <tr>
       <th scope="row">9</th>
       <td>13.11.2024</td>
+      <td>No Tutorial</td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">10</th>
+      <td>20.11.2024</td>
       <td>Context-free Parsing, Assignment 4 introduction</td>
       <td>Andreas Opedal, Yahya Emara</td>
       <td>
@@ -597,8 +601,8 @@ The submission links are:
       </td>
     </tr>
     <tr>
-      <th scope="row">10</th>
-      <td>20.11.2024</td>
+      <th scope="row">11</th>
+      <td>27.11.2024</td>
       <td>Dependency Parsing, Assignment 5 introduction</td>
       <td>Tianyu Liu, Aidyn Ubingazhibov</td>
       <td>
@@ -606,15 +610,15 @@ The submission links are:
       </td>
     </tr>
     <tr>
-      <th scope="row">11</th>
-      <td>27.11.2024</td>
+      <th scope="row">12</th>
+      <td>4.12.2024</td>
       <td>Semantic Parsing</td>
       <td>Alexandra Butoi</td>
       <td></td>
     </tr>
     <tr>
-      <th scope="row">12</th>
-      <td>4.12.2024</td>
+      <th scope="row">13</th>
+      <td>11.12.2024</td>
       <td>Machine Translation with Transformers, Assignment 6 introduction</td>
       <td>Aayush Grover, Aidyn Ubingazhibov</td>
       <td>
@@ -622,8 +626,8 @@ The submission links are:
       </td>
     </tr>
     <tr>
-      <th scope="row">13</th>
-      <td>11.12.2024</td>
+      <th scope="row">14</th>
+      <td>18.12.2024</td>
       <td>Axes of Modeling, Assignment 6 office hours</td>
       <td>Aayush Grover</td>
       <td></td>
