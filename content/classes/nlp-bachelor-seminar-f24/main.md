@@ -93,6 +93,8 @@ This Bachelor’s seminar delves into the fascinating world of modern large lang
       <td>25.10.24</td>
       <td> The Transformer </td>
       <td>
+      Sarah, Alexander,
+      Leon
       </td>
       <td>
       <a href=https://papers.nips.cc/paper_files/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html target="_blank"><b> Vaswani et al. (2017)</b></a>,
@@ -112,11 +114,48 @@ This Bachelor’s seminar delves into the fascinating world of modern large lang
     <tr>
       <th scope="row">8</th>
       <td>8.11.24</td>
+      <td> NO LECTURE (EMNLP) </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>  
+    <tr>
+      <th scope="row">9</th>
+      <td>15.11.24</td>
       <td> The Transformer is Turing (In)Complete </td>
       <td>
       </td>
       <td>
       <a href=https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00306/43545/Theoretical-Limitations-of-Self-Attention-in target="_blank"><b> Hahn (2020)</b></a>,
+      </td>
+    </tr>  
+    <tr>
+      <th scope="row">10</th>
+      <td>15.11.24</td>
+      <td> The Transformer with Chain of Thought </td>
+      <td>
+      </td>
+      <td>
+      <a href=https://arxiv.org/pdf/2310.07923 target="_blank"><b> Merril and Sabharwal (2024)</b></a>,
+      </td>
+    </tr>  
+    <tr>
+      <th scope="row">11</th>
+      <td>22.11.24</td>
+      <td> Circuit Complexity of The Transformer (I) </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>  
+    <tr>
+      <th scope="row">12</th>
+      <td>29.11.24</td>
+      <td> Circuit Complexity of The Transformer (II) </td>
+      <td>
+      </td>
+      <td>
       </td>
     </tr>  
   </tbody>
