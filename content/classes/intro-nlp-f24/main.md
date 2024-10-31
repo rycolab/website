@@ -332,7 +332,7 @@ The submission links are:
       <th rowspan=2 scope="row">7</th>
       <td>28.10.2024</td>
       <td>Transliteration with WFSTs</td>
-      <td><a href="https://drive.google.com/file/d/11Uoecz5i0__wCpKdxa7dnNDVN1gRZ-i7/view?usp=sharing" target="_blank">Lecture 7 (last year)</a></td>
+      <td><a href="https://drive.google.com/file/d/11Uoecz5i0__wCpKdxa7dnNDVN1gRZ-i7/view?usp=sharing" target="_blank">Lecture 7</a></td>
       <td>Eisenstein Ch. 9</td>
       <td><a href="https://rycolab.io/classes/aflt-s22/" target="_blank">AFLT Course Notes</a> Chapters 1, 2, and 3</br>
       <a href="https://www.aclweb.org/anthology/J98-4003.pdf" target="_blank">Knight and Graehl (1998)</a></br>
