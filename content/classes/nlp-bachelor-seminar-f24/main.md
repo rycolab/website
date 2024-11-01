@@ -114,25 +114,25 @@ This Bachelor’s seminar delves into the fascinating world of modern large lang
     <tr>
       <th scope="row">8</th>
       <td>8.11.24</td>
-      <td> NO LECTURE (EMNLP) </td>
+      <td> The Transformer is Turing (In)Complete </td>
       <td>
       </td>
       <td>
+      <a href=https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00306/43545/Theoretical-Limitations-of-Self-Attention-in target="_blank"><b> Hahn (2020)</b></a>
       </td>
     </tr>  
     <tr>
       <th scope="row">9</th>
       <td>15.11.24</td>
-      <td> The Transformer is Turing (In)Complete </td>
+      <td> No Lecture EMNLP </td>
       <td>
       </td>
       <td>
-      <a href=https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00306/43545/Theoretical-Limitations-of-Self-Attention-in target="_blank"><b> Hahn (2020)</b></a>,
       </td>
     </tr>  
     <tr>
       <th scope="row">10</th>
-      <td>15.11.24</td>
+      <td>22.11.24</td>
       <td> The Transformer with Chain of Thought </td>
       <td>
       </td>
@@ -142,7 +142,7 @@ This Bachelor’s seminar delves into the fascinating world of modern large lang
     </tr>  
     <tr>
       <th scope="row">11</th>
-      <td>22.11.24</td>
+      <td>29.11.24</td>
       <td> Circuit Complexity of The Transformer (I) </td>
       <td>
       </td>
@@ -151,7 +151,7 @@ This Bachelor’s seminar delves into the fascinating world of modern large lang
     </tr>  
     <tr>
       <th scope="row">12</th>
-      <td>29.11.24</td>
+      <td>6.12.24</td>
       <td> Circuit Complexity of The Transformer (II) </td>
       <td>
       </td>
