@@ -124,7 +124,7 @@ This Bachelor’s seminar delves into the fascinating world of modern large lang
     <tr>
       <th scope="row">9</th>
       <td>15.11.24</td>
-      <td> No Lecture EMNLP </td>
+      <td> No Lecture (EMNLP) </td>
       <td>
       </td>
       <td>
@@ -137,7 +137,7 @@ This Bachelor’s seminar delves into the fascinating world of modern large lang
       <td>
       </td>
       <td>
-      <a href=https://arxiv.org/pdf/2310.07923 target="_blank"><b> Merril and Sabharwal (2024)</b></a>,
+      <a href=https://arxiv.org/pdf/2310.07923 target="_blank"><b> Merril and Sabharwal (2024)</b></a>
       </td>
     </tr>  
     <tr>
@@ -147,6 +147,7 @@ This Bachelor’s seminar delves into the fascinating world of modern large lang
       <td>
       </td>
       <td>
+      <a href=https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00663/120983 target="_blank"><b> Strobl et al. (2024) (Survey)</b></a>
       </td>
     </tr>  
     <tr>
@@ -156,6 +157,17 @@ This Bachelor’s seminar delves into the fascinating world of modern large lang
       <td>
       </td>
       <td>
+      <a href=<a href=https://arxiv.org/abs/2204.06618 target="_blank"><b> Hao et al. (2022) </b></a>
+      </td>
+    </tr>  
+    <tr>
+      <th scope="row">12</th>
+      <td>19.12.24</td>
+      <td> What can Attention Learn </td>
+      <td>
+      </td>
+      <td>
+      <a href=<a href=https://arxiv.org/pdf/2410.10101 target="_blank"><b> Yau et al. (2024) </b></a> 
       </td>
     </tr>  
   </tbody>
