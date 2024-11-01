@@ -157,7 +157,7 @@ This Bachelor’s seminar delves into the fascinating world of modern large lang
       <td>
       </td>
       <td>
-      <a href=<a href=https://arxiv.org/abs/2204.06618 target="_blank"><b> Hao et al. (2022) </b></a>
+      <a href=https://arxiv.org/abs/2204.06618 target="_blank"><b> Hao et al. (2022) </b></a>
       </td>
     </tr>  
     <tr>
@@ -167,7 +167,7 @@ This Bachelor’s seminar delves into the fascinating world of modern large lang
       <td>
       </td>
       <td>
-      <a href=<a href=https://arxiv.org/pdf/2410.10101 target="_blank"><b> Yau et al. (2024) </b></a> 
+      <a href=https://arxiv.org/pdf/2410.10101 target="_blank"><b> Yau et al. (2024) </b></a> 
       </td>
     </tr>  
   </tbody>
