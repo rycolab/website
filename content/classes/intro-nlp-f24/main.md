@@ -1,4 +1,3 @@
-
 +++
 title = 'Natural Language Processing'
 subtitle = 'ETH Zürich, Fall 2024: [Course catalog](https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=183559&semkez=2024W&ansicht=LEHRVERANSTALTUNGEN&lang=en)'
@@ -354,6 +353,14 @@ The submission links are:
     <tr>
       <th rowspan=2 scope="row">8</th>
       <td>4.11.2024</td>
+      <td>Cancelled</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5.11.2024</td>
       <td>Context-Free Parsing with CKY</td>
       <td><a href="https://drive.google.com/file/d/15V4wHhRpFNK_tdbeMgBoRTCj6IG3OmIm/view?usp=sharing" target="_blank">Lecture 8 (last year)</a></td>
       <td>Eisenstein Ch. 10</td>
@@ -368,33 +375,8 @@ The submission links are:
       </td>
     </tr>
     <tr>
-      <td>5.11.2024</td>
-      <td>Context-Free Parsing with CKY</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <th rowspan=2 scope="row">9</th>
       <td>11.11.2024</td>
-      <td>No Lecture</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>12.11.2024</td>
-      <td>No Q&A Session</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th rowspan=2 scope="row">10</th>
-      <td>18.11.2024</td>
       <td>Dependency Parsing with the Matrix-Tree Theorem</td>
       <td><a href="https://drive.google.com/file/d/1-K34jVzPMeFoaIAeuCa-hA_LXX0AmbWC/view?usp=sharing" target="_blank">Lecture 9 (last year)</a></td>
       <td>Eisenstein Ch. 11</td>
@@ -408,13 +390,31 @@ The submission links are:
       </td>
     </tr>
     <tr>
-      <td>19.11.2024</td>
-      <td>Dependency Parsing with the Matrix-Tree Theorem</td>
+      <td>12.11.2024</td>
+      <td>TBD</td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
+    <tr>
+      <th rowspan=2 scope="row">10</th>
+      <td>18.11.2024</td>
+      <td>No Lecture</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>19.11.2024</td>
+      <td>TBD</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    
     <tr>
       <th rowspan=2 scope="row">11</th>
       <td>25.11.2024</td>
