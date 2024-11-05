@@ -361,6 +361,15 @@ The submission links are:
     </tr>
     <tr>
       <td>5.11.2024</td>
+      <td>Cancelled</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan=2 scope="row">9</th>
+      <td>11.11.2024</td>
       <td>Context-Free Parsing with CKY</td>
       <td><a href="https://drive.google.com/file/d/15V4wHhRpFNK_tdbeMgBoRTCj6IG3OmIm/view?usp=sharing" target="_blank">Lecture 8 (last year)</a></td>
       <td>Eisenstein Ch. 10</td>
@@ -375,8 +384,7 @@ The submission links are:
       </td>
     </tr>
     <tr>
-      <th rowspan=2 scope="row">9</th>
-      <td>11.11.2024</td>
+      <td>12.11.2024</td>
       <td>Dependency Parsing with the Matrix-Tree Theorem</td>
       <td><a href="https://drive.google.com/file/d/1-K34jVzPMeFoaIAeuCa-hA_LXX0AmbWC/view?usp=sharing" target="_blank">Lecture 9 (last year)</a></td>
       <td>Eisenstein Ch. 11</td>
@@ -388,14 +396,6 @@ The submission links are:
       <a href="https://drive.google.com/file/d/1AzU0Ae1Sh15hiVFI2dYF1hb6_RS-p8be/view?usp=sharing" target="_blank">Week 9 Exercises</a></br>
       <a href="https://drive.google.com/file/d/1QOxc5FZBDJdDAAdMM-gCKCaUWfblGj78/view?usp=sharing" target="_blank">Week 9 Solutions</a></br>
       </td>
-    </tr>
-    <tr>
-      <td>12.11.2024</td>
-      <td>TBD</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <th rowspan=2 scope="row">10</th>
@@ -414,7 +414,6 @@ The submission links are:
       <td></td>
       <td></td>
     </tr>
-    
     <tr>
       <th rowspan=2 scope="row">11</th>
       <td>25.11.2024</td>
@@ -580,7 +579,7 @@ The submission links are:
       <th scope="row">8</th>
       <td>6.11.2024</td>
       <td>Transliteration with WFSTs, Assignment 3 introduction</td>
-      <td>Alexandra Butoi, Vasiliki Xefteri</td>
+      <td>Vasiliki Xefteri</td>
       <td>
         <!-- <a href="https://drive.google.com/file/d/1SZPWaaRUlNX2SiuXIKn_bk0tqkYoSzOs/view?usp=sharing" target="_blank">Assignment 3 Slides</a> -->
       </td>
