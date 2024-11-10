@@ -21,7 +21,11 @@
 }
 .column {
   flex: 29.99%;
-  padding: 40px;
+  padding: 0px;
+  margin-left: 35px;
+  margin-right: 35px;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 .img {
   display: block;
@@ -40,7 +44,7 @@
       <div class="column">
         <a class="navbar-brand" href="http://www.ethz.ch">
           {{- if $has_logo -}}
-              <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}" style="width:300%" > 
+              <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}" style="width:200%" > 
           {{- else -}}
             {{- site.Title -}}
           {{- end -}}
