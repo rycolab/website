@@ -20,19 +20,22 @@
   display: flex;
 }
 .column {
-  flex: 29.99%;
-  padding: 0px;
-  margin-left: 35px;
-  margin-right: 35px;
+  flex: 50%;
+  padding: 0;
+  margin-left: -50px;
+  margin-right: -10px;
   margin-top: 0;
   margin-bottom: 0;
 }
 .img {
-  display: block;
+  /* display: block; */
   margin-left: 0;
   margin-right: 0;
   margin-top: 0;
   margin-bottom: 0;
+}
+.idv {
+  display: flex;
 }
 </style>
 
@@ -44,16 +47,16 @@
       <div class="column">
         <a class="navbar-brand" href="http://www.ethz.ch">
           {{- if $has_logo -}}
-              <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}" style="width:200%" > 
+              <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}" style="height:100%"> 
           {{- else -}}
             {{- site.Title -}}
           {{- end -}}
         </a>
       </div>
-      <div class="column">
+      <div class="column" >
         <a class="navbar-brand" href="{{ "/" | relLangURL }}">
           {{- if $has_logo -}}
-              <img src="{{ $sidelogo.RelPermalink }}" alt="{{ site.Title }}" style="width:100%"> 
+              <img src="{{ $sidelogo.RelPermalink }}" alt="{{ site.Title }}" style="height:100%"> 
            {{- end -}}
         </a>
       </div>
