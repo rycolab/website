@@ -372,7 +372,7 @@ The submission links are:
       <th rowspan=2 scope="row">9</th>
       <td>11.11.2024</td>
       <td>Context-Free Parsing with CKY</td>
-      <td><a href="https://drive.google.com/file/d/15V4wHhRpFNK_tdbeMgBoRTCj6IG3OmIm/view?usp=sharing" target="_blank">Lecture 8 (last year)</a></td>
+      <td><a href="https://drive.google.com/file/d/1ULt6GMNlABjKEaQECj4QkdyRQaaDsfa4/view?usp=sharing" target="_blank">Lecture 8</a></td>
       <td>Eisenstein Ch. 10</td>
       <td><a href="http://www.cs.columbia.edu/~mcollins/io.pdf" target="_blank">The Inside-Outside Algorithm</a></br>
         <a href="https://www.cs.jhu.edu/~jason/465/PowerPoint/lect08-parse.ppt" target="_blank">Jason Eisner’s Slides</a></br>
@@ -386,18 +386,12 @@ The submission links are:
     </tr>
     <tr>
       <td>12.11.2024</td>
-      <td>Dependency Parsing with the Matrix-Tree Theorem</td>
-      <td><a href="https://drive.google.com/file/d/1-K34jVzPMeFoaIAeuCa-hA_LXX0AmbWC/view?usp=sharing" target="_blank">Lecture 9 (last year)</a></td>
-      <td>Eisenstein Ch. 11</td>
-      <td><a href="https://www.aclweb.org/anthology/D07-1015/" target="_blank">Koo et al. (2007)</a></br>
-        <a href="https://www.aclweb.org/anthology/D07-1014/" target="_blank">Smith and Smith (2007)</a></br>
-        <a href="https://www.aclweb.org/anthology/W07-2216/" target="_blank">McDonald and Satta (2007)</a></br>
-        <a href="https://www.morganclaypool.com/doi/abs/10.2200/S00169ED1V01Y200901HLT002" target="_blank">McDonald, Kübler and Nivre (2009)</a></td>
-      <td>
-      <a href="https://drive.google.com/file/d/1AzU0Ae1Sh15hiVFI2dYF1hb6_RS-p8be/view?usp=sharing" target="_blank">Week 9 Exercises</a></br>
-      <a href="https://drive.google.com/file/d/1QOxc5FZBDJdDAAdMM-gCKCaUWfblGj78/view?usp=sharing" target="_blank">Week 9 Solutions</a></br>
-      </td>
-    </tr>
+      <td>No Q&A Session</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>  
     <tr>
       <th rowspan=2 scope="row">10</th>
       <td>18.11.2024</td>
@@ -409,11 +403,17 @@ The submission links are:
     </tr>
     <tr>
       <td>19.11.2024</td>
-      <td>TBD</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Dependency Parsing with the Matrix-Tree Theorem</td>
+      <td><a href="https://drive.google.com/file/d/1-K34jVzPMeFoaIAeuCa-hA_LXX0AmbWC/view?usp=sharing" target="_blank">Lecture 9 (last year)</a></td>
+      <td>Eisenstein Ch. 11</td>
+      <td><a href="https://www.aclweb.org/anthology/D07-1015/" target="_blank">Koo et al. (2007)</a></br>
+        <a href="https://www.aclweb.org/anthology/D07-1014/" target="_blank">Smith and Smith (2007)</a></br>
+        <a href="https://www.aclweb.org/anthology/W07-2216/" target="_blank">McDonald and Satta (2007)</a></br>
+        <a href="https://www.morganclaypool.com/doi/abs/10.2200/S00169ED1V01Y200901HLT002" target="_blank">McDonald, Kübler and Nivre (2009)</a></td>
+      <td>
+      <a href="https://drive.google.com/file/d/1AzU0Ae1Sh15hiVFI2dYF1hb6_RS-p8be/view?usp=sharing" target="_blank">Week 9 Exercises</a></br>
+      <a href="https://drive.google.com/file/d/1QOxc5FZBDJdDAAdMM-gCKCaUWfblGj78/view?usp=sharing" target="_blank">Week 9 Solutions</a></br>
+      </td>
     </tr>
     <tr>
       <th rowspan=2 scope="row">11</th>
