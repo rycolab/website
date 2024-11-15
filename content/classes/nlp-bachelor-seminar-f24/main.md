@@ -24,6 +24,10 @@ This Bachelor’s seminar delves into the fascinating world of modern large lang
 
 [slides](https://docs.google.com/presentation/d/1946fEYNxq1DnsYpg4FtF54EPfl0-NvHICn5XeaTOKGs/edit?usp=sharing)
 
+**IMPORTANT!**
+
+When you send an e-mail, please ALWAYS put "Bachelor's Seminar" in the object!
+
 **Course Schedule (Work in Progress)**
 
 <table class="table">
@@ -114,11 +118,11 @@ This Bachelor’s seminar delves into the fascinating world of modern large lang
     <tr>
       <th scope="row">8</th>
       <td>8.11.24</td>
-      <td> The Transformer is Turing (In)Complete </td>
+      <td> EMNLP paper </td>
       <td>
       </td>
       <td>
-      <a href=https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00306/43545/Theoretical-Limitations-of-Self-Attention-in target="_blank"><b> Hahn (2020)</b></a>
+      <a href=https://arxiv.org/html/2411.06228v1 target="_blank"><b> Pasti et al. (20204)</b></a>
       </td>
     </tr>  
     <tr>
@@ -129,12 +133,24 @@ This Bachelor’s seminar delves into the fascinating world of modern large lang
       </td>
       <td>
       </td>
+    </tr>
+    <tr>
+      <th scope="row">8</th>
+      <td>22.11.24</td>
+      <td> The Transformer is Turing (In)Complete </td>
+      <td>
+      Mischa,Renne,Jesse
+      </td>
+      <td>
+      <a href=https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00306/43545/Theoretical-Limitations-of-Self-Attention-in target="_blank"><b> Hahn (2020)</b></a>
+      </td>
     </tr>  
     <tr>
       <th scope="row">10</th>
-      <td>22.11.24</td>
+      <td>29.11.24</td>
       <td> The Transformer with Chain of Thought </td>
       <td>
+      Simon, ...
       </td>
       <td>
       <a href=https://arxiv.org/pdf/2310.07923 target="_blank"><b> Merril and Sabharwal (2024)</b></a>
@@ -142,7 +158,7 @@ This Bachelor’s seminar delves into the fascinating world of modern large lang
     </tr>  
     <tr>
       <th scope="row">11</th>
-      <td>29.11.24</td>
+      <td>6.12.24</td>
       <td> Circuit Complexity of The Transformer (I) </td>
       <td>
       </td>
@@ -152,7 +168,7 @@ This Bachelor’s seminar delves into the fascinating world of modern large lang
     </tr>  
     <tr>
       <th scope="row">12</th>
-      <td>6.12.24</td>
+      <td>13.12.24</td>
       <td> Circuit Complexity of The Transformer (II) </td>
       <td>
       </td>
@@ -162,8 +178,8 @@ This Bachelor’s seminar delves into the fascinating world of modern large lang
     </tr>  
     <tr>
       <th scope="row">12</th>
-      <td>19.12.24</td>
-      <td> What can Attention Learn </td>
+      <td>20.12.24</td>
+      <td> What can Attention Learn? </td>
       <td>
       </td>
       <td>
