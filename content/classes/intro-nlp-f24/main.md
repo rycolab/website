@@ -404,7 +404,7 @@ The submission links are:
     <tr>
       <td>19.11.2024</td>
       <td>Dependency Parsing with the Matrix-Tree Theorem</td>
-      <td><a href="https://drive.google.com/file/d/1-K34jVzPMeFoaIAeuCa-hA_LXX0AmbWC/view?usp=sharing" target="_blank">Lecture 9 (last year)</a></td>
+      <td><a href="https://drive.google.com/file/d/126SXuv8vjgE34nN-iE-6oTuk0ryRKoZW/view?usp=sharing" target="_blank">Lecture 9 </a></td>
       <td>Eisenstein Ch. 11</td>
       <td><a href="https://www.aclweb.org/anthology/D07-1015/" target="_blank">Koo et al. (2007)</a></br>
         <a href="https://www.aclweb.org/anthology/D07-1014/" target="_blank">Smith and Smith (2007)</a></br>
