@@ -403,6 +403,15 @@ The submission links are:
     </tr>
     <tr>
       <td>19.11.2024</td>
+      <td>No Q&A Session</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan=2 scope="row">11</th>
+      <td>25.11.2024</td>
       <td>Dependency Parsing with the Matrix-Tree Theorem</td>
       <td><a href="https://drive.google.com/file/d/126SXuv8vjgE34nN-iE-6oTuk0ryRKoZW/view?usp=sharing" target="_blank">Lecture 9 </a></td>
       <td>Eisenstein Ch. 11</td>
@@ -416,8 +425,7 @@ The submission links are:
       </td>
     </tr>
     <tr>
-      <th rowspan=2 scope="row">11</th>
-      <td>25.11.2024</td>
+      <td>26.11.2024</td>
       <td>Semantic Parsing with CCGs</td>
       <td><a href="https://drive.google.com/file/d/1p8RMDkdr0V2dY3W5S3Nz5p5_UM-uEfM8/view?usp=sharing" target="_blank">Lecture 10 (last year)</a></td>
       <td>Eisenstein Ch. 9.3 and 12</td>
@@ -428,13 +436,6 @@ The submission links are:
       <a href="https://drive.google.com/file/d/1hklukBto8tay4tqhLkunExQ1psVTQksa/view?usp=sharing" target="_blank">Week 10 Exercises</a></br>
       <a href="https://drive.google.com/file/d/15ov7AWdKRldqtxnqs5ZPcBz9qIgqaAc0/view?usp=sharing" target="_blank">Week 10 Solutions</a></br>
       </td>
-    <tr>
-      <td>26.11.2024</td>
-      <td>Semantic Parsing with CCGs</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <th rowspan=2 scope="row">12</th>
