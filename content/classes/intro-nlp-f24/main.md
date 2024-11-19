@@ -403,7 +403,7 @@ The submission links are:
     </tr>
     <tr>
       <td>19.11.2024</td>
-      <td>No Q&A Session</td>
+      <td>Q&A - Context-Free Parsing with CKY</td>
       <td></td>
       <td></td>
       <td></td>
