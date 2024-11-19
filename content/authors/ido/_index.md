@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alex Warstadt
+title: Ido
 
 # Username (this should match the folder name)
 authors:
-- alexwarstadt
+- ido
 
 # Is this the primary user of the site?
 superuser: false
@@ -15,15 +15,17 @@ role: Postdoc
 # Organizations/Affiliations
 organizations:
 - name: ETH Zürich
-  url: "https://inf.ethz.ch"
-- name: UC San Diego
-  url: "https://linguistics.ucsd.edu/"
+  url: "https://inf.ethz.ch/"
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Postdoc at ETH Zürich
 
-interests: 
+
+interests:
+- langauge models
+- pretraining
+- acceleration
 
 
 # Social/Academic Networking
@@ -33,15 +35,17 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:alexwarstadt@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:ido.hakimi@ai.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/a_stadt
-- icon: portrait
-  icon_pack: fas
-  link: "https://alexwarstadt.github.io/"
+  link: https://x.com/idohakimi
+- icon: google
+  icon_pack: fab
+  link: https://scholar.google.com/citations?user=N0EnDYsAAAAJ&hl=en
+- icon: github
+  icon_pack: fab
+  link: https://github.com/idoh
 
-  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -54,12 +58,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Members
-- Alumna
-- Large Language Models Guest Lecturers
 ---
+Ido Hakimi is a postdoctoral researcher at the ETH AI Center, mentored by Andreas Krause, with Ryan Cotterell and Mrinmaya Sachan as co-mentors. He received his PhD from the Technion in 2022 and worked at Google DeepMind before starting his postdoc. His research focuses on making large language models (LLMs) faster and more efficient and is particularly interested in improving the performance of smaller LLMs.
 
-Alex Warstadt is a Postdoctoral Fellow at ETH Zürich in the Computer Science department affiliated with Rycolab and Mrinmaya’s Lab. He completed a PhD in linguistics at New York University supervised by Sam Bowman. As a computational linguist, he uses language models to study human language acquisition and to test the learnability of grammatical phenomena. He also does work in theoretical and experimental pragmatics, studying gradient phenomena in presupposition and relevance.
-
-<!-- <img  class="avatar-small" src="seaa-turtle.jpg" style="float: center" />
- -->

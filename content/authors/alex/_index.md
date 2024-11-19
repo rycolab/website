@@ -10,16 +10,16 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-- name: University of Maryland
-  url: "https://www.umd.edu/"
+- name: ETH Zürich
+  url: "https://inf.ethz.ch/"
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Postdoc at ETH Zürich
 
 
 interests:
@@ -61,7 +61,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Frequent Collaborators
+- Members
+- Senior
+- Senior Members
+- Current
 ---
 
 

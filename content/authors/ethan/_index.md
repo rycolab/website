@@ -10,13 +10,14 @@ authors:
 superuser: false
 
 # Role/position
-role: Alumnus
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
 - name: ETH Zürich
   url: "https://inf.ethz.ch"
-
+- name: Georgetown University
+  url: "https://linguistics.georgetown.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -34,7 +35,7 @@ social:
   link: "mailto:ethan.wilcox@inf.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
 - icon: portrait
   icon_pack: fas
-  link: "wilcoxeg.github.io"
+  link: "https://wilcoxeg.github.io"
 
   
 # Link to a PDF of your resume/CV from the About widget.

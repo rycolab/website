@@ -10,13 +10,14 @@ authors:
 superuser: false
 
 # Role/position
-role: Alumnus
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
 - name: University of Cambridge 
+  url: "https://www.cam.ac.uk/"
 - name: Postdoc at University of Copenhagen
-  # url: "https://www.cam.ac.uk/"
+  url: "https://www.ku.dk/en"
 
 
 # Short bio (displayed in user profile at end of posts)
