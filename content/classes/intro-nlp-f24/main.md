@@ -598,7 +598,7 @@ The submission links are:
       <td>Context-free Parsing, Assignment 4 introduction</td>
       <td>Andreas Opedal, Yahya Emara</td>
       <td>
-        <!-- <a href="https://drive.google.com/file/d/1x9DbKseRXleLUDQqopAmV5-ipvbGgHxu/view?usp=sharing" target="_blank">Assignment 4 Slides</a> -->
+        <a href="https://drive.google.com/file/d/1rZxUX43El4B0RU9d1ACP_nKNudske6zI/view?usp=sharing" target="_blank">Assignment 4 Slides</a>
       </td>
     </tr>
     <tr>
