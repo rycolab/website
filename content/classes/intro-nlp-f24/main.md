@@ -543,7 +543,7 @@ The submission links are:
       <td>2.10.2024</td>
       <td>Backpropagation, Assignment 1 introduction</td>
       <td>Niklas Stoehr, Nazar Puriy Puriy</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1sri4uO2TY93m7VOwVhhh1DDECoPJANWT/view?usp=sharing" target="_blank">Assignment 1 Slides</a></td>
     </tr>
     <tr>
       <th scope="row">4</th>
@@ -564,9 +564,7 @@ The submission links are:
       <td>23.10.2024</td>
       <td>Language Modeling with n-grams and LSTMs</td>
       <td>Nazar Puriy Puriy</td>
-      <td>
-        <!-- <a href="https://docs.google.com/presentation/d/1zovGRqoxRb4UT34qMSPJf3ffLpLJUa8-VWyzkeRR1KI/edit?usp=sharing" target="_blank">Week 5 Exercise Slides</a> -->
-      </td>
+      <td></td>
     </tr>
     <tr>
       <th scope="row">7</th>
@@ -574,7 +572,7 @@ The submission links are:
       <td>Part-of-speech Tagging with CRFs, Assignment 2 introduction</td>
       <td>Yahya Emara, Anej Svete, Manuel de Prada Corral</td>
       <td>
-        <!-- <a href="https://drive.google.com/file/d/1nQxVE3wH5Q_dgKeQdUOxwsONd5B0DsQd/view?usp=sharing" target="_blank">Assignment 2 Slides</a> -->
+        <a href="https://drive.google.com/file/d/1pDOAmUXzIvC_1PUnJWeeYpk0SbYEyRyc/view?usp=sharing" target="_blank">Assignment 2 Slides</a>
       </td>
     </tr>
     <tr>
@@ -583,13 +581,14 @@ The submission links are:
       <td>Transliteration with WFSTs, Assignment 3 introduction</td>
       <td>Vasiliki Xefteri</td>
       <td>
-        <!-- <a href="https://drive.google.com/file/d/1SZPWaaRUlNX2SiuXIKn_bk0tqkYoSzOs/view?usp=sharing" target="_blank">Assignment 3 Slides</a> -->
+        <a href="https://drive.google.com/file/d/1Uhk2wvN-ZYc32lUzYFckC3PGhaD8Bl33/view?usp=sharing" target="_blank">Assignment 3 Slides</a>
       </td>
     </tr>
     <tr>
       <th scope="row">9</th>
       <td>13.11.2024</td>
       <td>No Tutorial</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
