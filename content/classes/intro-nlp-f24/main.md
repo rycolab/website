@@ -427,7 +427,7 @@ The submission links are:
     <tr>
       <td>26.11.2024</td>
       <td>Semantic Parsing with CCGs</td>
-      <td><a href="https://drive.google.com/file/d/1p8RMDkdr0V2dY3W5S3Nz5p5_UM-uEfM8/view?usp=sharing" target="_blank">Lecture 10 (last year)</a></td>
+      <td><a href="https://drive.google.com/file/d/1QMHp3ZlDOl8i8lOBBmYTSwq7d-lib8jf/view?usp=sharing" target="_blank">Lecture 10</a></td>
       <td>Eisenstein Ch. 9.3 and 12</td>
       <td><a href="https://www.aclweb.org/anthology/P88-1034/" target="_blank">Weir and Joshi (1988)</a></br>
         <a href="https://www.aclweb.org/anthology/Q14-1032/" target="_blank">Kuhlmann and Satta (2014)</a></br>
