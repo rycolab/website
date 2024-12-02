@@ -441,7 +441,7 @@ The submission links are:
       <th rowspan=2 scope="row">12</th>
       <td>2.12.2024</td>
       <td>Machine Translation with Transformers</td>
-      <td><a href="https://drive.google.com/file/d/1TArZaSvKqwbuY2GI-GcETunEM-BYI2bi/view?usp=sharing" target="_blank">Lecture 11 (last year)</a></td>
+      <td><a href="https://drive.google.com/file/d/16_eyunOZG1vFF4pNikaSMZdNO86j2HfZ/view?usp=sharing" target="_blank">Lecture 11</a></td>
       <td>Eisenstein Ch. 18</td>
       <td>
         <a href="https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf" target="_blank">Vaswani et al. (2017)</a></br>
