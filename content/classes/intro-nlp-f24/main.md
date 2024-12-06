@@ -606,7 +606,7 @@ The submission links are:
       <td>Dependency Parsing, Assignment 5 introduction</td>
       <td>Tianyu Liu, Aidyn Ubingazhibov</td>
       <td>
-        <!-- <a href="https://drive.google.com/file/d/1tmOMg_TsZoCdOWBrplaIywHvT_nXN5_1/view?usp=sharing" target="_blank">Assignment 5 Slides</a> -->
+        <a href="https://drive.google.com/file/d/15cWM3FV7Akfb1Hj2JQZhsljb9oOCbcLq/view?usp=sharing" target="_blank">Assignment 5 Slides</a>
       </td>
     </tr>
     <tr>
