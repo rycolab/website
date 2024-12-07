@@ -47,7 +47,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Large Language Models Teaching Assistants
+
 ---
 Evžen (/ˈɛvʒɛn/) is a Data Science student focusing on AI Safety topics. He is Czech and did his undergrad in bioinformatics in Prague. Recently, he has been a part of the MATS program in Berkeley, where he worked on scalable oversight solutions for RL. Next, he would like to do research in mechanistic interpretability, at least in part hoping that all the cell biology and life-science methodology courses he had to take would become useful. Most of his reading time is thus taken by interpretability papers; he has also been recommended to set some time aside to read up on the sunk-cost fallacy.
 

@@ -44,7 +44,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Large Language Models Teaching Assistants
 ---
 Josep loves music---in his free time, you’ll find him DJing or listening to new tunes. 
 He also enjoys running and good books.

@@ -40,6 +40,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Large Language Models Teaching Assistants
 ---
 Filippo is a Master Student at ETH in Computer Science. He achieved his Bachelor's degree in Computer Engineering at Polytechnic of Turin. He is particularly interested in Word Acquisition and ethical aspects of LMs. In his free time he likes cooking, playing guitar and singing.

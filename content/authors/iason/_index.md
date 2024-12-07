@@ -40,6 +40,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Large Language Models Teaching Assistants
 ---
 Iason is currently pursuing his MSc in Data Science at ETH Zürich and holds a Diploma in Electrical and Computer Engineering from the National Technical University of Athens. His research interests include a variety of topics around LLMs and RL. In his free time, he enjoys playing basketball, traveling, and cooking Italian pasta, even though he is Greek.

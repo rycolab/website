@@ -45,6 +45,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Large Language Models Teaching Assistants
 ---
 Second-year master's student (CS) and machine learning enthusiast with some background in probabilistic modeling. With interests torn between Computer Vision and NLP, I'll probably soon get a badge for having booked every ML course at ETH. Born and raised in Zurich, I like to pretend to be an expert in Swiss culture and cheese.

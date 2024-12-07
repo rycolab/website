@@ -51,7 +51,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-# - Large Language Models Teaching Assistants
 - Members
 ---
 Leo is a PhD student at Johns Hopkins University currently advised by Jason Eisner. He received his B.S. from University of Washington in Mathematics and Computer Science. His interests include statistical and mathematical problems in NLP and machine learning, sometimes with methods inspired from physics.

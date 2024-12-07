@@ -42,6 +42,5 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Teaching Assistants NLP F23
-- Large Language Models Teaching Assistants
 ---
 Giovanni is a Master’s student in Data Science at ETH Zurich. He completed his Bachelor’s degree in Mathematics at University of Bologna. His research interests include surprisal theory, and he is still looking for the right compromise between mathematics and computer science. In his free time, he likes bouldering and cooking.
