@@ -902,7 +902,7 @@ We aim to response quickly.
 ### Course Notes
 We prepared an extensive set of course notes for the course last semester.
 We will be improving them as we go this semester as well. 
-Please report all errata in the first part of the course notes (Formal Aspects of Language Modeling) to the teaching staff in the [**Errata Google document**](https://docs.google.com/document/d/1ItiTtJBo-wqaoUljZLEe5erdYor6VpjEcXuLYh2wd1U/edit?usp=sharing).
+Please report all errata you find in the course notes to the teaching staff in the **Errata Google document** linked on the [course Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=24292).
 
 **Links to the course notes**:
 
@@ -944,6 +944,7 @@ During the session, you will have the opportunity to review your exam and assign
 You will also be able to take notes about the exam and solution, but no copies or photos can be taken.
 To sign up, we will publish a Google form after the grading conference.
 Note that we offer only one review session, so individual (or remote) sessions are not possible. 
+See also [here](https://ethz.ch/content/dam/ethz/common/docs/weisungssammlung/files-en/viewing-performance-assessment-records.pdf) for more information about exam reviews in general.
 
 #### Assignments 
 
