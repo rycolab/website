@@ -512,7 +512,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
     <tr>
       <td>15. 4. 2025</td>
       <td>2 hours</td>
-      <td><b>No class</b></td>
+      <td><b>TBD</b></td>
       <td>
       Mrinmaya
       </td>
@@ -783,63 +783,63 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <td>22. 2. 2025</td>
+      <td>20. 2. 2025</td>
       <td>Course Logistics (1 hour)</td>
       <td>Anej Svete</td>
       <td><a href="https://drive.google.com/file/d/1AslCHM0FrqMSrr1c5ZsIUdM4-4gQskcf/view?usp=sharing" target="_blank">Introduction Slides</a></td>
     </tr>
     <tr>
       <th scope="row">2</th>
-      <td>29. 2. 2025</td>
+      <td>27. 2. 2025</td>
       <td>Fundamentals of Natural Language Processing and Language Modeling, <br> Measure Theory, Generation</td>
       <td></td>
       <td><a href="https://drive.google.com/file/d/1NDnqkEiS-DiwjOnpoQmbpevnYF3v995j/view?usp=sharing" target="_blank">Exercises</a>, <a href="https://drive.google.com/file/d/11bfdjVtC5-9FhCfnnesbosYDrTQUN14Z/view?usp=sharing" target="_blank">Exercises with solutions</a></td>
     </tr>
     <tr>
       <th scope="row">3</th>
-      <td>7. 3. 2025</td>
+      <td>6. 3. 2025</td>
       <td>Classical Language Models: $n$-grams and Context-free Grammars</td>
-      <td>Vasiliki Xefteri</td>
+      <td></td>
       <td><a href="https://drive.google.com/file/d/1KtcPXjwX-eFnCnMReM8na-3CS8x6OsDk/view?usp=sharing" target="_blank">Exercises</a>, <a href="https://drive.google.com/file/d/19uVWQtXECEZBscthrAo7AKj2f-T-9ipv/view?usp=sharing" target="_blank">Exercises with solutions</a></td>
     </tr>
     <tr>
       <th scope="row">4</th>
-      <td>14. 3. 2025</td>
+      <td>13. 3. 2025</td>
       <td>RNN Language Models</td>
       <td></td>
       <td><a href="https://drive.google.com/file/d/1XwYRz1QAz1_itU-7nWtRAN8L2gvRPTlq/view?usp=sharing" target="_blank">Exercises</a>, <a href="https://drive.google.com/file/d/1ODY6kclcTD5iSxG8dKTsWAbdYmZ62TZO/view?usp=sharing" target="_blank">Exercises with solutions</a></td>
     </tr>
     <tr>
       <th scope="row">5</th>
-      <td>21. 3. 2025</td>
+      <td>20. 3. 2025</td>
       <td>Transformer Language Models</td>
       <td></td>
       <td><a href="https://drive.google.com/file/d/1fgmj8GZLEBEZQkpgBb-AfDTSFnusWhUU/view?usp=sharing" target="_blank">Exercises</a>, <a href="https://drive.google.com/file/d/10s0dPoJI5rnnpJG6KHhI9ubyvwoj5kSX/view?usp=drive_link" target="_blank">Exercises with solutions</a>, <a href="https://colab.research.google.com/drive/1Gywenp9vgqZlVVIO6fJP3rTtTSbXeG3q?usp=sharing" target="_blank">Jupyter Notebook</a></td>
     </tr>
     <tr>
       <th scope="row">6</th>
-      <td>28. 3. 2025</td>
+      <td>27. 3. 2025</td>
       <td>Tokenization and Generation</td>
-      <td>Manuel de Prada Corral</td>
+      <td></td>
       <td><a href="https://drive.google.com/file/d/1X7SDxxe_wie6h2lsXYbKShXWWOE2btv_/view?usp=sharing" target="_blank">Exercises</a>, <a href="https://drive.google.com/file/d/19mlbNDqaX6_I-McJh7kCz9h1phkiFqUU/view?usp=sharing" target="_blank">Exercises with solutions</a>, <a href="https://drive.google.com/file/d/1QacSXop-6TI2paBR0sPb2IrlxljzVxLV/view?usp=sharing" target="_blank">Slides</a></td>
     </tr>
     <tr>
       <th scope="row">7</th>
-      <td>11. 4. 2025</td>
+      <td>3. 4. 2025</td>
       <td>Assignment 1 Q&A</td>
       <td>TAs</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">8</th>
-      <td>18. 4. 2025</td>
+      <td>10. 4. 2025</td>
       <td>Common pre-trained language models, Parameter-efficient fine-tuning</td>
       <td></td>
       <td><a href="https://colab.research.google.com/drive/1E9RYg_zLkv35Io3dNqzf3DNzCDtd9jfl?usp=sharing" target="_blank">Google Colab Notebook</a>, <a href="https://excalidraw.com/#json=cqlOzR7j0SNT0Gk3TnGhL,AOMM5IrcYgoc05SBObTylw" target="_blank">Transformer Architecture Drawing</a></td>
     </tr>
     <tr>
       <th scope="row">9</th>
-      <td>25. 4. 2025</td>
+      <td>17. 4. 2025</td>
       <td>Retrieval-augmented generation</td>
       <td></td>
       <td>
@@ -848,7 +848,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
     </tr>
     <tr>
       <th scope="row">10</th>
-      <td>2. 5. 2025</td>
+      <td>1. 5. 2025</td>
       <td>Prompting, Chain-of-Thought Reasoning</td>
       <td></td>
       <td>
@@ -858,14 +858,14 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
     </tr>
     <tr>
       <th scope="row">11</th>
-      <td>9. 5. 2025</td>
+      <td>8. 5. 2025</td>
       <td>No Tutorial</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">12</th>
-      <td>16. 5. 2025</td>
+      <td>15. 5. 2025</td>
       <td>Decoding and Watermarking</td>
       <td></td>
       <td>
@@ -875,14 +875,14 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
     </tr>
     <tr>
       <th scope="row">13</th>
-      <td>23. 5. 2025</td>
+      <td>22. 5. 2025</td>
       <td>Assignment 2 Q&A</td>
       <td>TAs</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">14</th>
-      <td>30. 5. 2025</td>
+      <td>29. 5. 2025</td>
       <td>Assignment 3 Q&A</td>
       <td>TAs</td>
       <td></td>
