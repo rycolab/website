@@ -458,7 +458,7 @@ The submission links are:
       <th rowspan=2 scope="row">13</th>
       <td>9.12.2024</td>
       <td>Axes of Modeling</td>
-      <td><a href="https://drive.google.com/file/d/19CthXJuzRWKBJLmSfVB8Gc36bR2avd6v/view?usp=sharing" target="_blank">Lecture 12 (last year)</a></td>
+      <td><a href="https://drive.google.com/file/d/1iIwAej8yO90E0kvyNKty4D2SArATuNHm/view?usp=sharing" target="_blank">Lecture 12</a></td>
       <td>Review Eisenstein Ch. 2;</br>Goodfellow, Bengio and Courville Ch. 5 and 11</td>
       <td></td>
       <td>
