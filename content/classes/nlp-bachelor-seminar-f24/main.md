@@ -86,6 +86,7 @@ When you send an e-mail, please ALWAYS put "Bachelor's Seminar" in the object!
       <td>18.10.24</td>
       <td> RNNs and Turing Machines </td>
       <td>
+      Sasha, Ben, Torban
       </td>
       <td>
       <a href=https://aclanthology.org/2023.emnlp-main.434v2.pdf target="_blank"><b> Nowak et al. (2023)</b></a>,
@@ -150,7 +151,7 @@ When you send an e-mail, please ALWAYS put "Bachelor's Seminar" in the object!
       <td>29.11.24</td>
       <td> The Transformer with Chain of Thought </td>
       <td>
-      Simon, ...
+      Simon, Christian
       </td>
       <td>
       <a href=https://arxiv.org/pdf/2310.07923 target="_blank"><b> Merril and Sabharwal (2024)</b></a>
@@ -161,6 +162,7 @@ When you send an e-mail, please ALWAYS put "Bachelor's Seminar" in the object!
       <td>6.12.24</td>
       <td> Circuit Complexity of The Transformer (I) </td>
       <td>
+      Aurelian, Erdem
       </td>
       <td>
       <a href=https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00663/120983 target="_blank"><b> Strobl et al. (2024) (Survey)</b></a>
@@ -171,6 +173,7 @@ When you send an e-mail, please ALWAYS put "Bachelor's Seminar" in the object!
       <td>13.12.24</td>
       <td> Circuit Complexity of The Transformer (II) </td>
       <td>
+       Raphael
       </td>
       <td>
       <a href=https://arxiv.org/abs/2204.06618 target="_blank"><b> Hao et al. (2022) </b></a>
@@ -181,6 +184,7 @@ When you send an e-mail, please ALWAYS put "Bachelor's Seminar" in the object!
       <td>20.12.24</td>
       <td> What can Attention Learn? </td>
       <td>
+       Meri
       </td>
       <td>
       <a href=https://arxiv.org/pdf/2410.10101 target="_blank"><b> Yau et al. (2024) </b></a> 
