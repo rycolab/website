@@ -477,8 +477,8 @@ The submission links are:
     <tr>
       <th rowspan=2 scope="row">14</th>
       <td>16.12.2024</td>
-      <td>Bias and Fairness in NLP</td>
-      <td><a href="https://drive.google.com/file/d/1IGfkdvHS9arlkO9uK9H-75bzL0VDzqG8/view?usp=sharing" target="_blank">Lecture 13 (last year)</a></td>
+      <td>Discussion on NLP and AI ethics (not examinable)</td>
+      <td><a href="https://drive.google.com/file/d/1xYL3tUFN1xGjJrQNXMLOQEPLzRK5A8rH/view?usp=sharing" target="_blank">Lecture 13</a></td>
       <td></td>
       <td><a href="https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf" target="_blank">Bolukabasi et al. (2016)</a></br>
         <a href="https://arxiv.org/abs/1903.03862" target="_blank">Gonen and Goldberg (2019)</a></br>
@@ -489,7 +489,7 @@ The submission links are:
     </tr>
     <tr>
       <td>17.12.2024</td>
-      <td>Bias and Fairness in NLP</td>
+      <td>No Q&A Session</td>
       <td></td>
       <td></td>
       <td></td>
