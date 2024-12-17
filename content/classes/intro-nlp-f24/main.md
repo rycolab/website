@@ -621,7 +621,7 @@ The submission links are:
     <tr>
       <th scope="row">14</th>
       <td>18.12.2024</td>
-      <td>Axes of Modeling, Assignment 6 office hours</td>
+      <td>Axes of Modeling</td>
       <td>Aayush Grover</td>
       <td></td>
     </tr>
