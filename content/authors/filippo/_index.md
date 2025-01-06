@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MsC Student
+role: Master's Student
 
 # Organizations/Affiliations
 organizations:

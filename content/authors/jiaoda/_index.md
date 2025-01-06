@@ -51,6 +51,7 @@ user_groups:
 - Members
 - Current
 - PhD Students
+- Large Language Models Teaching Assistants
 ---
 Jiaoda Li is an ETH AI Center Doctoral Fellow. He is part of the groups of Ryan Cotterell and Stefan Feuerriegel. He also works closely with Mrinmaya Sachan and Rico Sennrich. He received his Master degree in Data Science from ETH Zürich in 2021. Prior to that, he was an undergraduate student in City University of Hong Kong, majoring in Electronic and Communication Engineering.
 

@@ -56,6 +56,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Large Language Models Teaching Assistants
 ---
 I am a second year PhD student at [ETH Zürich](https://ethz.ch/en.html) in Switzerland, supervised by [Prof. Mrinmaya Sachan](https://sites.google.com/site/mrinsachan/) and [Nicholas Monath](https://people.cs.umass.edu/~nmonath/) from Google. I work on understanding the reasoning capabilities of generative LLMs. I also work closely with [Carl Allen](https://carl-allen.github.io/) (Post doc at ETH AI Center) and [Manzil Zaheer](https://scholar.google.com/citations?user=A33FhJMAAAAJ&hl=en) (Research Scientist at Deepmind). Before that, I was a Masters student at the University of Kaiserslautern, Germany and worked with [Prof. Marcus Liwicki](https://www.ltu.se/staff/m/marliw-1.177225?l=en) on [Bayesian CNNs with variational inference](https://arxiv.org/abs/1901.02731).

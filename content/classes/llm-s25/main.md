@@ -785,63 +785,63 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <th scope="row">1</th>
       <td>20. 2. 2025</td>
       <td>Course Logistics (1 hour)</td>
-      <td>Anej Svete</td>
+      <td>Anej</td>
       <td><a href="https://drive.google.com/file/d/1AslCHM0FrqMSrr1c5ZsIUdM4-4gQskcf/view?usp=sharing" target="_blank">Introduction Slides</a></td>
     </tr>
     <tr>
       <th scope="row">2</th>
       <td>27. 2. 2025</td>
       <td>Fundamentals of Natural Language Processing and Language Modeling, <br> Measure Theory, Generation</td>
-      <td></td>
+      <td>Irene</td>
       <td><a href="https://drive.google.com/file/d/1NDnqkEiS-DiwjOnpoQmbpevnYF3v995j/view?usp=sharing" target="_blank">Exercises</a>, <a href="https://drive.google.com/file/d/11bfdjVtC5-9FhCfnnesbosYDrTQUN14Z/view?usp=sharing" target="_blank">Exercises with solutions</a></td>
     </tr>
     <tr>
       <th scope="row">3</th>
       <td>6. 3. 2025</td>
       <td>Classical Language Models: $n$-grams and Context-free Grammars</td>
-      <td></td>
+      <td>Vicky</td>
       <td><a href="https://drive.google.com/file/d/1KtcPXjwX-eFnCnMReM8na-3CS8x6OsDk/view?usp=sharing" target="_blank">Exercises</a>, <a href="https://drive.google.com/file/d/19uVWQtXECEZBscthrAo7AKj2f-T-9ipv/view?usp=sharing" target="_blank">Exercises with solutions</a></td>
     </tr>
     <tr>
       <th scope="row">4</th>
       <td>13. 3. 2025</td>
       <td>RNN Language Models</td>
-      <td></td>
+      <td>Kári</td>
       <td><a href="https://drive.google.com/file/d/1XwYRz1QAz1_itU-7nWtRAN8L2gvRPTlq/view?usp=sharing" target="_blank">Exercises</a>, <a href="https://drive.google.com/file/d/1ODY6kclcTD5iSxG8dKTsWAbdYmZ62TZO/view?usp=sharing" target="_blank">Exercises with solutions</a></td>
     </tr>
     <tr>
       <th scope="row">5</th>
       <td>20. 3. 2025</td>
       <td>Transformer Language Models</td>
-      <td></td>
+      <td>Eren</td>
       <td><a href="https://drive.google.com/file/d/1fgmj8GZLEBEZQkpgBb-AfDTSFnusWhUU/view?usp=sharing" target="_blank">Exercises</a>, <a href="https://drive.google.com/file/d/10s0dPoJI5rnnpJG6KHhI9ubyvwoj5kSX/view?usp=drive_link" target="_blank">Exercises with solutions</a>, <a href="https://colab.research.google.com/drive/1Gywenp9vgqZlVVIO6fJP3rTtTSbXeG3q?usp=sharing" target="_blank">Jupyter Notebook</a></td>
     </tr>
     <tr>
       <th scope="row">6</th>
       <td>27. 3. 2025</td>
       <td>Tokenization and Generation</td>
-      <td></td>
+      <td>Manuel</td>
       <td><a href="https://drive.google.com/file/d/1X7SDxxe_wie6h2lsXYbKShXWWOE2btv_/view?usp=sharing" target="_blank">Exercises</a>, <a href="https://drive.google.com/file/d/19mlbNDqaX6_I-McJh7kCz9h1phkiFqUU/view?usp=sharing" target="_blank">Exercises with solutions</a>, <a href="https://drive.google.com/file/d/1QacSXop-6TI2paBR0sPb2IrlxljzVxLV/view?usp=sharing" target="_blank">Slides</a></td>
     </tr>
     <tr>
       <th scope="row">7</th>
       <td>3. 4. 2025</td>
       <td>Assignment 1 Q&A</td>
-      <td>TAs</td>
+      <td>Anej, Irene, Vicky, Manuel, Eren</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">8</th>
       <td>10. 4. 2025</td>
       <td>Common pre-trained language models, Parameter-efficient fine-tuning</td>
-      <td></td>
+      <td>Dmitrii</td>
       <td><a href="https://colab.research.google.com/drive/1E9RYg_zLkv35Io3dNqzf3DNzCDtd9jfl?usp=sharing" target="_blank">Google Colab Notebook</a>, <a href="https://excalidraw.com/#json=cqlOzR7j0SNT0Gk3TnGhL,AOMM5IrcYgoc05SBObTylw" target="_blank">Transformer Architecture Drawing</a></td>
     </tr>
     <tr>
       <th scope="row">9</th>
-      <td>17. 4. 2025</td>
+      <td>24. 4. 2025</td>
       <td>Retrieval-augmented generation</td>
-      <td></td>
+      <td>Maxim</td>
       <td>
       <a href="https://colab.research.google.com/drive/19sD3mNVGBxyvDXheAwpAwnNO2XD2r3_l?usp=sharing" target="_blank">Google Colab Notebook</a>, <a href="https://drive.google.com/file/d/1375YNz9HWy4sShBA5XBnBrrhjGG9PIOB/view?usp=sharing" target="_blank">Slides</a>
       </td>
@@ -859,7 +859,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
     <tr>
       <th scope="row">11</th>
       <td>8. 5. 2025</td>
-      <td>No Tutorial</td>
+      <td>TBD</td>
       <td></td>
       <td></td>
     </tr>
@@ -867,7 +867,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <th scope="row">12</th>
       <td>15. 5. 2025</td>
       <td>Decoding and Watermarking</td>
-      <td></td>
+      <td>Matej</td>
       <td>
       <a href="https://drive.google.com/file/d/16iRNCGY0aNj3vPwNqTjRnYIIYHkPOR60/view?usp=sharing" target="_blank">Exercises</a>, 
       <a href="https://drive.google.com/file/d/1tuddXlfDn7DXtK5lHmQE8bI1lC0vkuoR/view?usp=sharing" target="_blank">Exercises with solutions</a>
@@ -877,14 +877,14 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <th scope="row">13</th>
       <td>22. 5. 2025</td>
       <td>Assignment 2 Q&A</td>
-      <td>TAs</td>
+      <td>Maxim, Dmitrii, Kiril</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">14</th>
       <td>29. 5. 2025</td>
       <td>Assignment 3 Q&A</td>
-      <td>TAs</td>
+      <td>Kári, Matej</td>
       <td></td>
     </tr>
     
@@ -954,7 +954,7 @@ Each assignment might, however, follow a different policy on collaboration when 
 
 <span style="color: #ff5733;">We require the solutions to be properly typeset.</span>
 We recommend using `LaTeX` (with [`Overleaf`](https://www.overleaf.com); see a submission template below), but `markdown` files with something like `MathJax` for the mathematical expressions are also fine.
-**Important**: The overleaf template includes a declaration of originality which you should copy into your submission, so make sure you check out the submission template even if you don't use it for your submission!s
+**Important**: The overleaf template includes a declaration of originality which you should copy into your submission, so make sure you check out the submission template even if you don't use it for your submission!
 
 The first assignment will be of more theoretical nature and will be released shortly after the start of the semester.
 Assignments 2 and 3 will be of more practical nature and will be released in the second half of the semester.
