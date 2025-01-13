@@ -22,8 +22,8 @@ The course constitutes an introduction to modern techniques in the field of natu
 **18.09.2024** &emsp; Exercises and solutions published!   
 **23.09.2024** &emsp; First assignments batch published! [Assignment 1](https://drive.google.com/file/d/1K6mNCw56klT-mCvrJxHn_pVEsc8sNSCT/view?usp=sharing), [Assignment 2](https://drive.google.com/file/d/1eVV6tzHRKzU9G24-sFbVR0UNd-HIyoZW/view?usp=sharing), [Assignment 3](https://drive.google.com/file/d/1PkdWmRvbw-CxpdVniGUWo0C4dDXHgM8x/view?usp=sharing)   
 **11.11.2024** &emsp; Second assignments batch published! [Assignment 4](https://drive.google.com/file/d/1nkUywwuXEYcKnjxHH4ATDWlgXtaYp2Vt/view?usp=sharing), [Assignment 5](https://drive.google.com/file/d/1JMnz8CpwIiWtX0Cb8oVu9y_w69KUFf7y/view?usp=sharing), [Assignment 6](https://drive.google.com/file/d/19SJcegZASVHosrFSN0d3VJx2hrLyK5qC/view?usp=sharing)   
-<!-- **16.01.2024** &emsp; New [Practice Exam](https://drive.google.com/file/d/1ze_cyYVQ3F1sbC7ueDC-OS56UfSOCWNa/view?usp=sharing) has been released! 
-**18.01.2024** &emsp; The [Practice Exam Solutions](https://drive.google.com/file/d/1DX3KTILiR1FdY-vPVInK3yHQERwub1CD/view?usp=sharing) have been released!   -->
+**13.01.2025** &emsp; New [Practice Exam](https://drive.google.com/file/d/1RhGvWrMxbrIo-ev8Z9P4hTqogNM-4O4T/view?usp=sharing) has been released! 
+<!-- **18.01.2024** &emsp; The [Practice Exam Solutions](https://drive.google.com/file/d/1DX3KTILiR1FdY-vPVInK3yHQERwub1CD/view?usp=sharing) have been released!   -->
 ## Organisation
 
 ### On the Use of Class Time
@@ -632,6 +632,7 @@ The submission links are:
 
 ## Practice Exams
 
+- [F2024 Practice Exam](https://drive.google.com/file/d/1RhGvWrMxbrIo-ev8Z9P4hTqogNM-4O4T/view?usp=sharing)
 - [F2023 Practice Exam Solutions](https://drive.google.com/file/d/1DX3KTILiR1FdY-vPVInK3yHQERwub1CD/view?usp=sharing)    
 - [F2023 Practice Exam](https://drive.google.com/file/d/1ze_cyYVQ3F1sbC7ueDC-OS56UfSOCWNa/view?usp=sharing)    
 
