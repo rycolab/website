@@ -640,7 +640,5 @@ The submission links are:
 #### Older Practice Exams
 - [F2021 Practice Exam Solutions](https://drive.google.com/file/d/1S_-keHXTNQBDFw3-KHxrJ-EVnmVGbSJQ/view?usp=sharing) 
 - [F2021 Practice Exam](https://drive.google.com/file/d/1JBIgAL5VXXY2Lo8UZQtRx6NYLzExH1Mt/view?usp=sharing)    
-- [S2021 Exam Solutions](https://drive.google.com/file/d/1VOkgodGoRn_j1IDEhUP0W1iS__5LgIfc/view?usp=sharing)    
-- [S2021 Exam](https://drive.google.com/file/d/1ZH_59Vg69-Z4qBQ4FrqOHy0yvf4nMxiO/view?usp=sharing)    
 - [S2021 Practice Exam Solutions](https://drive.google.com/file/d/1sv4GoNrAtRzlV5Ddk9JqBxe2IgTX_ttv/view?usp=sharing)  
 - [S2021 Practice Exam](https://drive.google.com/file/d/1Fs0CYuLG-sBLZJwthChU8wqYyzBBOoPi/view?usp=sharing)  
