@@ -906,7 +906,7 @@ Please report all errata you find in the course notes to the teaching staff in t
 
 **Links to the course notes**:
 
-- [LLM Course Notes Part 1](https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view?usp=share_link)  
+- [LLM Course Notes Part 1](https://arxiv.org/abs/2311.04329)  
 <!-- - [iPad Notes Part 1 (Anej)](https://drive.google.com/file/d/1dv1mWIFlLmhN9czr2VujMTxEieSoSWC7/view?usp=sharing)   -->
 <!-- - [LLM Course Notes Part 2 (last year)](https://drive.google.com/file/d/1PtxuMe6JZyBXBuuGkgDnnD3JRs_JEl5j/view?usp=share_link) -->
 - [LLM Course Notes Part 2 (up to date Overleaf link)](https://www.overleaf.com/read/mytbjbppbbsg#d6e94d)
