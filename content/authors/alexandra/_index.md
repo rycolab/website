@@ -62,4 +62,4 @@ Alexandra is a first-year PhD student at ETH Zürich, supervised by Ryan.
 Prior to her PhD, she did a bachelor’s degree in Software Engineering at The University of Sheffield, United Kingdom, and her master's degree in Data Science at ETH Zürich. 
 She is currently working on formalisms for mildly context-sensitive languages. 
 
-Native Language: Romanian
+Native Language: Romanian.
