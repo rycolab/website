@@ -23,7 +23,7 @@ In recent years, NLP has become a part of our daily lives. Many of us use chatbo
 
 ## Course Structure and Schedule
 
-The structure of this seminar is one of open-ended debate. Each week a group of students will present a paper in the list below (still being updated), followed by a class dicussion. Grading is purely based on participation. 
+The structure of this seminar is one of open-ended debate. Each week a group of students will present a paper in the list below (which is still being updated), followed by a class discussion. Grading is purely based on participation. 
 
 <table class="table">
   <head>
