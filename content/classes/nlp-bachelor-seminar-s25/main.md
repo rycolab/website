@@ -51,7 +51,7 @@ The structure of this seminar is one of open-ended debate. Each week a group of 
     <tr>
       <th scope="row">2</th>
       <td>26.02.24</td>
-      <td> On the Dangers of Stochastoc Parrots: can Language Models Be Too Big? </td>
+      <td> On the Dangers of Stochastic Parrots: can Language Models Be Too Big? </td>
       <td>
       </td>
       <td>
