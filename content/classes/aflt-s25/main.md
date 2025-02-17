@@ -76,8 +76,7 @@ You can use the tutorial session to ask questions about previously taught concep
     <tr>
       <th scope="col" style='white-space:nowrap'>Date&emsp;&emsp;</th>
       <th scope="col" style='white-space:nowrap'>Topic</th>
-      <th scope="col" style='white-space:nowrap'>Lecture Material</th>
-      <th scope="col" style='white-space:nowrap'>Additional Reading</th>
+      <th scope="col" style='white-space:nowrap'>Reading</th>
     </tr>
   </thead>
   <tbody>
@@ -85,96 +84,80 @@ You can use the tutorial session to ask questions about previously taught concep
       <td>19. 2. 2025</td>
       <td><b>Course Logistics</b></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>19. 2. 2025</td>
       <td><b>Preliminaries, Automata, Regular Languages</b></td>
-      <td></td>
-      <td></td>
+      <td>Sections I.1, I.2</td>
     </tr>
     <tr>
       <td>26. 2. 2025</td>
       <td><b>Semigroups, Homomorphisms, Formal Logic</b></td>
-      <td></td>
-      <td></td>
+      <td>Sections I.3, Chapter II</td>
     </tr>
     <tr>
       <td>05. 3. 2025</td>
       <td><b>Monadic Second-order Logic and Regular Languages</b></td>
-      <td></td>
-      <td></td>
+      <td>Chapter III</td>
     </tr>
     <tr>
       <td>12. 3. 2025</td>
       <td><b>Model-theoretic Games, FO[<] and FO[+1]</b></td>
-      <td></td>
-      <td></td>
+      <td>Chapter IV</td>
     </tr>
     <tr>
       <td>19. 3. 2025</td>
       <td><b>The Syntactic Monoid</b></td>
-      <td></td>
-      <td></td>
+      <td>Chapter V</td>
     </tr>
     <tr>
       <td>26. 3. 2025</td>
       <td><b>First-Order Logic</b></td>
-      <td></td>
-      <td></td>
+      <td>Sections VI.1, VI.2</td>
     </tr>
     <tr>
       <td>2. 4. 2025</td>
       <td><b>The Hierarchy in FO</b></td>
-      <td></td>
-      <td></td>
+      <td>Sections VI.3, VI.4</td>
     </tr>
     <tr>
       <td>9. 4. 2025</td>
       <td><b>Modular Quantifiers</b></td>
-      <td></td>
-      <td></td>
+      <td>Chapter VII</td>
     </tr>
     <tr>
       <td>16. 4. 2025</td>
       <td><b>Circuit Complexity, Circuit Complexity Classes</b></td>
-      <td></td>
-      <td></td>
+      <td>Sections VIII.1, VIII.2</td>
     </tr>
     <tr>
       <td>23. 4. 2025</td>
       <td><b>No class (Easter break)</b></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>30. 4. 2025</td>
       <td><b>Circuit Complexity, Circuit Complexity Classes</b></td>
-      <td></td>
-      <td></td>
+      <td>Sections VIII.2, VIII.3</td>
     </tr>
     <tr>
       <td>7. 5. 2025</td>
       <td><b>Regular Languages and Circuit Complexity</b></td>
-      <td></td>
-      <td></td>
+      <td>Sections IX.1, IX.2</td>
     </tr>
     <tr>
       <td>14. 5. 2025</td>
-      <td><b>The Krohn-Rhodes Theorem</b></td>
-      <td></td>
-      <td></td>
+      <td><b>Regular Languages and Circuit Complexity</b></td>
+      <td>Sections IX.3, IX.4</td>
     </tr>
     <tr>
       <td>21. 5. 2025</td>
-      <td><b>Buffer</b></td>
-      <td></td>
-      <td></td>
+      <td><b>The Krohn-Rhodes Theorem</b></td>
+      <td>Appendix A</td>
     </tr>
     <tr>
       <td>28. 5. 2025</td>
-      <td><b>Buffer</b></td>
-      <td></td>
+      <td><b>Buffer/Recap</b></td>
       <td></td>
     </tr>
   </tbody>
