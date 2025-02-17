@@ -32,18 +32,20 @@ The course is structured around the book [Finite Automata, Formal Logic, and Cir
 #### Lectures
 
 There are two slots for AFLT each week: Wednesdays 16:15-18:00 [(HG D 5.2)](https://www.rauminfo.ethz.ch/Rauminfo/RauminfoPre.do?region=Z&areal=Z&gebaeude=HG&geschoss=D&raumNr=5.2) and Thursdays 12:15-14:00 [(ML F 39)](http://www.rauminfo.ethz.ch/Rauminfo/RauminfoPre.do?region=Z&areal=Z&gebaeude=ML&geschoss=F&raumNr=39). 
-The Wednesday slot will be used as lecture, in which we will generally cover new material. The Thursday slot will be a review session, in which we will recap concepts taught in the previous lectures, answer questions, or discuss in more detail the theory already taught.
-The lecture and the review session will be given in person and live broadcast on Zoom; the password is available on the course Moodle page.
+The Wednesday slot will be used as lecture, in which we will generally cover new material. 
+The Thursday slot will be an exercise session, in which we will walk through some exercises, recap concepts taught in the previous lectures, answer questions, or discuss in more detail the theory already taught.
+The lecture and the exercise session will generally be given in person and live broadcast on [Zoom](https://ethz.zoom.us/j/64761526295).
 
-Lectures will be recorded---link to the Zoom recordings will be posted on the course Moodle page.
+Lectures and exercise sessions will be recorded---link to the Zoom recordings will be posted on the course Moodle page.
 
 We also regularly publish Ryan's iPad class notes.
 
-**Note:** This is the first time we are teaching this version of this course, so the syllabus and the course structure might change. Please check the website and Rocketchat regularly for announcements!
+**Note:** This is the first time we are teaching this version of the course, so the syllabus and the course structure might change. Please check the website and Rocketchat regularly for announcements!
 
-#### Answering Questions
+#### Tutorials
 
-There will be no organized tutorial sessions for AFLT. However, you can ask questions about previously taught concepts during the review sessions. Additionally, the teaching staff will be available for questions on the course chat channels (see below).
+The Thursday slot will be used as an exercise session, in which we will solve together exercises similar to those from the assignments. 
+You can use the tutorial session to ask questions about previously taught concepts. Additionally, the teaching staff will be available for questions on the course chat channels (see below).
 
 ### Syllabus 
 
@@ -198,7 +200,7 @@ All data from the chat will be deleted from ETH servers at the course’s conclu
 
 [//]: # (8. We highly recommend you download the desktop app [here]&#40;https://www.rocket.chat/&#41;.  )
 
-[**This is the link**]() to the main channel.
+**This is the link** to the main channel.
 To make the moderation of the chat more easily manageable, we have created a number of other channels on `RocketChat`.
 The full list is:
 
@@ -208,15 +210,21 @@ The full list is:
 **Important**: Please prepend your question with a "tag" about the content of your question in square brackets. 
 For example, if your question is about the content of Lecture 1 and specifically about the definition of a semigroup, please start your message with `[Lecture #1, Definition of a Semigroup]`.
 - AFLT Assignment 1 for discussing and asking questions about Assignment 1.
+- AFLT Assignment 2 for discussing and asking questions about Assignment 2.
+- AFLT Assignment 3 for discussing and asking questions about Assignment 3.
+- AFLT Assignment 4 for discussing and asking questions about Assignment 4.
+- AFLT Assignment 5 for discussing and asking questions about Assignment 5.
 
 If you feel like you would benefit from any other channel, feel free to suggest it to the teaching team!
 
 ## Grading
 
-There will be *no final exam* for this course. Instead, we will release assignments throughout the semester.
+There will be *no final exam* for this course. Instead, we will release **5** assignments throughout the semester.
+You *can* cooperate on and discuss the assignments with your peers, but you *must* write up the solutions yourself.
 
-You *can* cooperate on and discuss the assignments with your peers, but you *must* write your own code and write up the solutions yourself.
-
+**Important**: The deadline for the assignment submission will be **shortly before the Summer examination period (1. 8. 2024)**.
+The submissions will be done through the course Moodle page.
+Keep in mind that due to how late in the semester the deadline is, we *cannot extend it*---we are counting on you to be organised and submit the work in time.
 We require the solutions to be properly typeset.
 We recommend using `LaTeX` (with [`Overleaf`](https://www.overleaf.com)), but `markdown` files with `MathJax` for the mathematical expressions are also fine.
 
@@ -227,6 +235,10 @@ Below you can find the assignment instructions.
 **Assignment instructions**:
 
 - Assignment 1
+- Assignment 2
+- Assignment 3
+- Assignment 4
+- Assignment 5
 
 ## Contact
 You can ask questions on the course chat server. 
