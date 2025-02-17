@@ -69,6 +69,10 @@ subtitle = "[SEE ALL CLASSES](/classes)"
 **ETH Zürich** <span class="middot-divider"></span> **Spring 2025**
 This course serves as an introduction to various advanced topics in formal language theory. The primary focus of the course is on weighted formalisms, which can easily be applied in machine learning. Topics include finite-state machines as well as the algorithms that are commonly used for their manipulation. We will also cover weighted context-free grammars, weighted pushdown automata, weighted tree automata, and weighted mildly context-sensitive formalisms.
 
+## [Philosophy of Language and Computation II](/classes/phil-s25) 
+**ETH Zürich** <span class="middot-divider"></span> **Spring 2025**
+This graduate class, partly taught like a seminar, is designed to help you understand the philosophical underpinnings of modern work in natural language processing (NLP), most of which is centered around statistical machine learning applied to natural language data.
+
 ## [NLP in the Wild](classes/nlp-bachelor-seminar-s25)
 **ETH Zürich** <span class="middot-divider"></span> **Spring 2025**
 In recent years, NLP has become a part of our daily lives. Many of us use chatbots like ChatGPT or Claude to translate a text from a foreign language, help draft essays, write code, and even answer everyday-life questions. However, even though most people recognize the utility of such tools, there are still many questions to be answered about their reliability and their impact on society. In this bachelor seminar, we take a closer look at NLP by discussing some of the most influential NLP papers and opinion articles, with a special focus on controversial topics regarding the role of NLP in society. Each week, students will present a selected paper, followed by a class discussion.

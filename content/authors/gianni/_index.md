@@ -32,9 +32,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:juan.luis.gastaldi@gess.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/gastaldi_gianni
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/gastaldi_gianni
 - icon: github
   icon_pack: fab
   link: https://github.com/Gianni-G
