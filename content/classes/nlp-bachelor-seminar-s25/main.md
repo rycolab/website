@@ -33,15 +33,15 @@ The structure of this seminar is one of open-ended debate. Each week a group of 
     <tr>
       <th scope="col" style='white-space:nowrap'>Week</th>
       <th scope="col" style='white-space:nowrap'>Date</th>
-      <th scope="col" style='white-space:nowrap'>Topic</th>
+      <th scope="col" style='white-space:nowrap'>Paper</th>
+      <th scope="col" style='white-space:nowrap'>Author</th>
       <th scope="col" style='white-space:nowrap'>Presenter</th>
-      <th scope="col" style='white-space:nowrap'>Reading</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <td>19.02.24</td>
+      <td>19.02.25</td>
       <td> Intro </td>
       <td>
       </td>
@@ -50,49 +50,136 @@ The structure of this seminar is one of open-ended debate. Each week a group of 
     </tr>  
     <tr>
       <th scope="row">2</th>
-      <td>26.02.24</td>
-      <td> On the Dangers of Stochastic Parrots: can Language Models Be Too Big? </td>
-      <td>
+      <td>26.02.25</td>
+      <td> <a href=https://dl.acm.org/doi/10.1145/3442188.3445922 target="_blank"><b> On the Dangers of Stochastic Parrots: can Language Models Be Too Big? </b></a>
       </td>
       <td>
-      <a href=https://dl.acm.org/doi/10.1145/3442188.3445922 target="_blank"><b> Bender et al. (2021)</b></a>
+      Bender et al., 2021
+      </td>
+      <td>
       </td>
     </tr>  
      <tr>
       <th scope="row">3</th>
-      <td>5.03.24</td>
-      <td> </td>
+      <td>5.03.25</td>
+      <td> <a href=https://dl.acm.org/doi/10.1145/3442188.3445922 target="_blank"><b> Deep Learning: a Critical Appraisal </b></a>
+      </td>
       <td>
+      Marcus, 2021
       </td>
       <td>
       </td>
     </tr>  
     <tr>
       <th scope="row">4</th>
-      <td>12.03.24</td>
-      <td>  </td>
+      <td>12.03.25</td>
+      <td> <a href=https://papers.nips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html target="_blank"><b> Language Models are Few Shot Learners </b></a>  </td>
       <td>
+      Brown et al., 2020
       </td>
       <td>
       </td>
     </tr>  
         <tr>
       <th scope="row">5</th>
-      <td>19.03.24</td>
-      <td>  </td>
+      <td>19.03.25</td>
+      <td> <a href=https://link.springer.com/article/10.1007/s11023-020-09548-1 ><b> GPT-3: Its Nature, Scope, Limits, and Consequences </b></a>  </td>
       <td>
+      Floridi and Chiriatti, 2020
       </td>
       <td>
       </td>
     </tr>  
      <tr>
       <th scope="row">6</th>
-      <td>26.03.24</td>
+      <td>26.03.25</td>
+      <td> <a href=https://aclanthology.org/2020.acl-main.463><b> Climbing Towards NLU: On Meaning, Form and Understanding [...] </a></b> </td>
+      <td>
+      Bender and Koller, 2020 
+      </td>
+      <td>
+      </td>
+    </tr>    
+    <tr>
+      <th scope="row">7</th>
+      <td>2.04.25</td>
       <td>  </td>
       <td>
       </td>
       <td>
       </td>
-    </tr>    
+    </tr>  
+    <tr>
+      <th scope="row">8</th>
+      <td>9.04.25</td>
+      <td>  </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">9</th>
+      <td>16.04.24</td>
+      <td>  </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>  
+    <tr>
+      <th scope="row">10</th>
+      <td>23.04.24</td>
+      <td> Easter Break </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr> 
+    <tr>
+      <th scope="row">11</th>
+      <td>30.04.24</td>
+      <td> </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">12</th>
+      <td>7.05.24</td>
+      <td> </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">13</th>
+      <td>14.05.24</td>
+      <td> </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">14</th>
+      <td>21.05.24</td>
+      <td> </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">15</th>
+      <td>28.05.24</td>
+      <td> </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
   </tbody>
 </table>
