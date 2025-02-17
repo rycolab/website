@@ -1,4 +1,3 @@
-
 +++
 title = 'Advanced Formal Language Theory, Spring 2025'
 subtitle = 'ETH Zürich: [Course catalog](https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=188900&semkez=2025S&ansicht=LEHRVERANSTALTUNGEN&lang=en)'
