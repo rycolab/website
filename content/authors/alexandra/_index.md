@@ -56,6 +56,7 @@ user_groups:
 - Teaching Assistants NLP F24
 - ESSLLI 2023 Teaching Assistants
 - Current
+- Teaching Assistants AFLT S25
 ---
 
 Alexandra is a first-year PhD student at ETH Zürich, supervised by Ryan. 

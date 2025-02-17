@@ -65,6 +65,10 @@ subtitle = "[SEE ALL CLASSES](/classes)"
   fractions = false
 +++
 
+## [Advanced Formal Language Theory](/classes/aflt-s25) 
+**ETH Zürich** <span class="middot-divider"></span> **Spring 2025**
+This course serves as an introduction to various advanced topics in formal language theory. The primary focus of the course is on weighted formalisms, which can easily be applied in machine learning. Topics include finite-state machines as well as the algorithms that are commonly used for their manipulation. We will also cover weighted context-free grammars, weighted pushdown automata, weighted tree automata, and weighted mildly context-sensitive formalisms.
+
 ## [NLP in the Wild](classes/nlp-bachelor-seminar-s25)
 **ETH Zürich** <span class="middot-divider"></span> **Spring 2025**
 In recent years, NLP has become a part of our daily lives. Many of us use chatbots like ChatGPT or Claude to translate a text from a foreign language, help draft essays, write code, and even answer everyday-life questions. However, even though most people recognize the utility of such tools, there are still many questions to be answered about their reliability and their impact on society. In this bachelor seminar, we take a closer look at NLP by discussing some of the most influential NLP papers and opinion articles, with a special focus on controversial topics regarding the role of NLP in society. Each week, students will present a selected paper, followed by a class discussion.
@@ -84,10 +88,6 @@ In recent years, NLP has become a part of our daily lives. Many of us use tools 
 ## [Large Language Models](/classes/llm-s25) 
 **ETH Zürich** <span class="middot-divider"></span> **Spring 2025**
 Large language models have become one of the most commonly deployed NLP inventions. In the past half-decade, their integration into core natural language processing tools has dramatically increased the performance of such tools, and they have entered the public discourse surrounding artificial intelligence. In this course, we start with the probabilistic foundations of language models, i.e., covering what constitutes a language model from a formal, theoretical perspective. We then discuss how to construct and curate training corpora, and introduce many of the neural-network architectures often used to instantiate language models at scale. The course discusses privacy and harms, as well as applications of language models in NLP and beyond.
-
-## [Advanced Formal Language Theory](/classes/aflt-s24) 
-**ETH Zürich** <span class="middot-divider"></span> **Spring 2024**
-This course serves as an introduction to various advanced topics in formal language theory. The primary focus of the course is on weighted formalisms, which can easily be applied in machine learning. Topics include finite-state machines as well as the algorithms that are commonly used for their manipulation. We will also cover weighted context-free grammars, weighted pushdown automata, weighted tree automata, and weighted mildly context-sensitive formalisms.
 
 ## [Philosophy of Language and Computation I](/classes/phil-s24) 
 **ETH Zürich** <span class="middot-divider"></span> **Spring 2024**
