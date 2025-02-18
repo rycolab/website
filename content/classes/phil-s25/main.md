@@ -67,11 +67,221 @@ Moodle will be the main communication hub for the course. You are responsible fo
 
 ## Syllabus and Schedule
 
-[TBA]
+<table class="table">
+  <head>
+    <base target="_blank">
+  </head>
+  <thead>
+    <tr>
+      <th scope="col" style='white-space:nowrap'>Week</th>
+      <th scope="col" style='white-space:nowrap'>Date</th>
+      <th scope="col" style='white-space:nowrap'>Module</th>
+      <th scope="col" style='white-space:nowrap'>Topic</th>
+      <th scope="col" style='white-space:nowrap'>Material</th>
+      <th scope="col" style='white-space:nowrap'>Reading</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>18.02.25</td>
+      <td style="vertical-align : middle;text-align:center;" align="center"><b>Introduction</b></td>
+      <td>Language and Critique</td>
+      <td>
+        <!-- <a href="https://drive.google.com/file/d/1czs0zWBTaMhfnC2yncyzXEdYbfJbynNF/view?usp=share_link" target="_blank">Introduction Slides</a> -->
+      </td>
+      <td>
+        <a href="https://drive.google.com/file/d/1AciRh_QHiABtQnMqwJNn8v5aJLmU8Pa_/view?usp=sharing" target="_blank"><b>Nietzsche (1873)</b></a>, 
+        <a href="https://drive.google.com/file/d/1OHA4RWI5d2JWZ0IK7H6SoaJoVOZS-6PK/view?usp=share_link" target="_blank"><b>Nietzsche (1873) in German</b></a>, 
+        <a href="https://drive.google.com/file/d/1e5EXN7zvN6ZXSO2lWZLaafQxlDUQfceb/view?usp=sharing" target="_blank">Borges (1940a)</a>, 
+        <a href="https://drive.google.com/file/d/13044an4v0wCuLGpoYlWrP7SnY4Bwwnh6/view?usp=sharing" target="_blank">Borges (1940a) in Spanish</a>, 
+        <a href="https://drive.google.com/file/d/17itHpu77Yfh9YfnFO8iluQTq3a3KAx-l/view?usp=sharing" target="_blank">Borges (1940b)</a>, 
+        <a href="https://drive.google.com/file/d/1QMklZ446JhEAtXiWQXolOU0EjHKZYvda/view?usp=sharing" target="_blank">Borges (1940b) in Spanish</a>, 
+        <a href="https://drive.google.com/file/d/1nal8Fka9ZmtHno9gdHrlhP5D3SwrlmVW/view?usp=sharing" target="_blank">Borges (1942)</a> 
+        <a href="https://drive.google.com/file/d/1GyY5XqhM6TkEUowEmFnmDmXsa1g54oTU/view?usp=sharing" target="_blank">Borges (1942) in Spanish</a> 
+      </td>
+    </tr>  
+    <tr>
+      <th scope="row">2</th>
+      <td>25.02.25</td>
+      <td rowspan="3" style="vertical-align : middle;text-align:center;" align="center"><b>Wittgenstein's<br>Use Theory of Meaning</b></td>
+      <td>Language Games and Meaning as Use</td>
+      <td>
+        <!-- <a href="https://drive.google.com/file/d/1Fmj0gPdiU64F15q_a7DPfM5mx2l85vAR/view?usp=share_link" target="_blank">Intro to Module 1 Slides</a> -->
+      </td>
+      <td>
+        <a href="https://drive.google.com/file/d/1ohsPtpVD_87w3-ztiD5gfSzItXoB545J/view?usp=share_link" target="_blank"><b>Wittgenstein (1953)</b></a>,
+        <a href="https://drive.google.com/file/d/14N69sZSJuh-czgphbfwtEqp0578cttA0/view?usp=share_link" target="_blank">Wittgenstein (1922)</a>,
+        <a href="https://drive.google.com/file/d/1uY0FloRywtUEr6HgzldORM6EYTDnf7cN/view?usp=share_link" target="_blank">Wittgenstein (1956)</a>,
+        <a href="https://drive.google.com/file/d/1ue5uaZaS4c7larrbGBETvV10tpKK8HaD/view?usp=share_link" target="_blank">Lyotard (1988)</a>
+      </td>
+    </tr>  
+    <tr>
+      <th scope="row">3</th>
+      <td>04.03.25</td>
+      <td>The Use of Use in NLP</td>
+      <td>
+      <!-- <a href="https://drive.google.com/file/d/18kxSYzHSPLB8RDF1nxx1arIaCuOcYbeg/view?usp=share_link" target="_blank">Carnap Slides</a> -->
+      <td>
+        <a href="https://aclanthology.org/P16-1224.pdf" target="_blank"><b>Wang et al. (2016)</b></a>,
+        <a href="https://arxiv.org/pdf/2501.14225" target="_blank"><b>Ye et al. (2024)</b></a>
+      </td>
+    </tr>   
+    <tr>
+      <th scope="row">4</th>
+      <td>11.03.25</td>
+      <td>Language Games in NLP</td>
+      <td>
+      <!-- <a href="https://drive.google.com/file/d/12DG5XuHBXtzossuB2CpzSm8rUPOe59Wo/view?usp=share_link" target="_blank">Baroni et al. Slides 1</a> -->
+      </td>
+      <td>
+        <a href="http://blog.jacobandreas.net/meaning-belief.html" target="_blank"><b>Andreas (2018)</b></a>,
+        <a href="https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00027-5" target="_blank"><b>Mahowald et al. (2024)</b></a>
+      </td>
+    </tr>  
+    <tr>
+      <th scope="row">5</th>
+      <td>18.03.25</td>
+      <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Information and Language:<br>A Theory in Search of a Philosophy</b></td>
+      <td>Wiener's Cybernetics</td>
+      <td>
+        <!-- <a href="https://drive.google.com/file/d/1JZqqMI31pOtcEZC2fGbUYCeI1dkGFRtR/view?usp=sharing" target="_blank">CCG Presentation Slides</a> -->
+      </td>
+      <td>
+        <a href="https://drive.google.com/file/d/1Nuxf51CS7L3KKs8l8vO0SjoZA8G3LKef/view?usp=share_link" target="_blank"><b>Wiener (1948/1961)</b></a>,
+        <a href="https://drive.google.com/file/d/1_kDPOsbukT0dF153fr_rShxwr48Tsp1-/view?usp=share_link" target="_blank"><b>Wiener (1950)</b></a> [Ch. IV],
+        <a href="https://drive.google.com/file/d/1sfsd7sL0B_q2c5bxTsFQtVKxNgSnn82q/view?usp=share_link" target="_blank">Jonas (1953)</a>
+      </td>
+    </tr>  
+    <tr>
+      <th scope="row">6</th>
+      <td>25.03.25</td>
+      <td>Shannon's Information Theory</td>
+      <td>
+      <!-- <a href="https://drive.google.com/file/d/1peLSUTtcPFB9htOaRT-1euZ4S4oNy3Oz/view?usp=sharing" target="_blank">Saussure Presentation Slides</a>,
+      <a href="https://drive.google.com/file/d/19qx9A9w3pjBVHHIt785lMEicGqYGaoeF/view?usp=sharing" target="_blank">Origin of Speech Presentation Slides</a> -->
+      </td>
+      <td>
+        <a href="https://drive.google.com/file/d/1GaDoLtKqwIoS8ApI3mSoW3zp1xf7wJ71/view?usp=share_link" target="_blank"><b>Shannon and Weaver (1968)</b></a>,
+        <a href="https://drive.google.com/file/d/1nwJEuZ25oIsPMR_GeU9R38b6pfzxUZb7/view?usp=share_link" target="_blank">Shannon (1951)</a>,
+        <a href="https://drive.google.com/file/d/1irh11GYKaofry5ljTKe0_2y9lgrx1bRc/view?usp=share_link" target="_blank">Shannon (1993)</a>,
+        <a href="http://staff.ustc.edu.cn/~cgong821/Wiley.Interscience.Elements.of.Information.Theory.Jul.2006.eBook-DDU.pdf" target="_blank">Cover and Thomas (2006)</a> [Ch. 2, 5, 7],
+        <a href="https://arxiv.org/abs/2012.02113" target="_blank">Leinster (2020)</a>
+      </td>
+    </tr>  
+    <tr>
+      <th scope="row">7</th>
+      <td>01.04.25</td>
+      <td>Language as a Communication Tool</td>
+      <td>
+      <!-- <a href="https://drive.google.com/file/d/1OXI1GGidvmn7_7sxgpuXhLOh_D_N_zsq/view?usp=share_link" target="_blank">Linguistic Units Presentation Slides</a>, <a href="https://drive.google.com/file/d/1fMVH7Cxroyd_gOA7oIHqoZ2FCtuyox4e/view?usp=share_link" target="_blank">Greimas (1966) Presentation Slides</a>  -->
+      </td>
+      <td>
+        <a href="https://www.nature.com/articles/s41586-024-07522-w" target="_blank"><b>Fedorenko et al. (2024)</b></a>,
+        <a href="https://arxiv.org/abs/1612.07182" target="_blank"><b>Lazaridou et al. (2017)</b></a>
+        <a href="https://aclanthology.org/Q19-1021.pdf" target="_blank">Cotterell et al. (2019)</a>,
+        <a href="http://socsci.uci.edu/~rfutrell/teaching/itl-davis/" target="_blank">Information-Theoretic Approaches to Linguistics</a>
+      </td>
+    </tr>  
+    <tr>
+      <th scope="row">8</th>
+      <td>08.04.25</td>
+      <td>Efficiency in Language</td>
+      <td>
+      <!-- <a href="https://drive.google.com/file/d/1X9H8Kf3FgQR5WsNPVYukbvMPidLJZDdZ/view?usp=share_link" target="_blank">Goldsmith Presentation Slides</a>,
+      <a href="https://drive.google.com/file/d/1brPADXb77KwWNx0C_WxW0Xo4gtmklWHe/view?usp=share_link" target="_blank">Pimentel et al. (2021) Presentation Slides</a></td> -->
+      <td>
+        <a href="http://colala.berkeley.edu/papers/PNAS-2011-Piantadosi-1012551108.pdf" target="_blank"><b>Piantadosi et al. (2011)</b></a>,
+        <a href="http://colala.berkeley.edu/papers/gibson2019how.pdf" target="_blank"><b>Gibson et al. (2019)</b></a>,
+        <a href="https://aclanthology.org/2021.naacl-main.350/" target="_blank">Pimentel et al. (2021)</a>,
+        <a href="http://socsci.uci.edu/~rfutrell/teaching/itl-davis/" target="_blank">Information-Theoretic Approaches to Linguistics</a>
+      </td>
+    </tr>  
+    <tr>
+      <th scope="row">9</th>
+      <td>15.04.25</td>
+      <td rowspan="5" style="vertical-align : middle;text-align:center;" align="center"><b>Critical Approaches to Language and Meaning<br></b></td>
+      <td>Stochastic Parrots</td>
+      <td>
+      <!-- <a href="https://drive.google.com/file/d/1y1-JnicQhzBxu-07aI6eTb710IlqUpPb/view?usp=share_link" target="_blank">Neural Machine Translation Presentation Slides</a>,
+      <a href="https://drive.google.com/file/d/19vfDWyneU82AFRiXGrPRQ9PcC2_eM9cZ/view?usp=share_link" target="_blank">Character-Based Modeling Presentation Slides</a> -->
+      </td>
+      <td>
+        <a href="https://aclanthology.org/2020.acl-main.463/" target="_blank"><b>Bender and Koller (2020)</b></a>,
+        <a href="https://aclanthology.org/2021.tacl-1.62/" target="_blank"><b>Merrill and Goldberg (2021)</b></a>,
+        <a href="https://medium.com/huggingface/learning-meaning-in-natural-language-processing-the-semantics-mega-thread-9c0332dfe28e" target="_blank">Wolf (2018)</a>
+      </td>
+    </tr>   
+    <tr>
+      <th scope="row">10</th>
+      <td>29.04.25</td>
+      <td>Meaning and Text in NLP</td>
+      <td>
+      <!-- <a href="https://drive.google.com/file/d/1LuP3bhivuvJAwgvn80jpe4J8hXoLs263/view?usp=share_link" target="_blank">Chomsky (1953) Presentation Slides</a>, -->
+      <!-- <a href="https://drive.google.com/file/d/1uSiXKMfBanbrm57mbMbjTI6vZxpWqryN/view?usp=share_link" target="_blank">Chomsky (1955) Presentation Slides</a>  -->
+      </td>
+      <td>
+        <a href="https://arxiv.org/abs/2208.02957" target="_blank"><b>Piantadosi et al. (2022)</b></a>,
+        <a href="https://aclanthology.org/2022.findings-emnlp.423/" target="_blank"><b>Andreas (2022)</b></a>,
+        <a href="https://aclanthology.org/2024.cl-3.12/" target="_blank"><b>Mandelkern et al. (2024)</b></a>
+      </td>
+    </tr>  
+    <tr>
+      <th scope="row">11</th>
+      <td>06.05.25</td>
+      <td>The Words and the Things</td>
+      <td>
+      <!-- <a href="https://drive.google.com/file/d/1MUWJOlOf1HZUeluqzFHsgeGSJUtG84Cu/view?usp=share_link" target="_blank">Chomsky (1957) Presentation Slides</a>, 
+      <a href="https://drive.google.com/file/d/1ObbtbibTBuUuIljnNOHSYmCeQGhHbMA9/view?usp=share_link" target="_blank">Chomsky (1959) Presentation Slides</a> -->
+      </td>
+      <td>
+        <a href="https://drive.google.com/file/d/1SeYl4lGZ3uMzsk9aEf1JvkyvWZOI9xab/view?usp=share_link" target="_blank"><b>Foucault (1966)</b></a>,
+        <a href="https://drive.google.com/file/d/10c2nREUCnDAqHb6cQbiP0jExWrQRbIwi/view?usp=share_link" target="_blank"><b>Foucault (1969)</b></a>,
+        <a href="https://critinq.wordpress.com/2023/06/26/again-theory-a-forum-on-language-meaning-and-intent-in-the-time-of-stochastic-parrots/" target="_blank">Kirschenbaum (2023)</a>,
+        <a href="https://critinq.wordpress.com/2023/06/29/the-empirical-triumph-of-theory/" target="_blank">Underwood (2023)</a>
+      </td>
+    </tr>   
+    <tr>
+      <th scope="row">12</th>
+      <td>13.05.25</td>
+      <td>The Logic of Sense</td>
+      <td>
+      <!-- <a href="https://drive.google.com/file/d/1HgfGhPFmH7u77C-COqTWTsXXbPaZljDu/view?usp=share_link" target="_blank">Grammar in NLP Presentation Slides</a>,
+      <a href="https://drive.google.com/file/d/1X1fwg6JfaWZAO_9gZx9k1SXv5kYLP7SD/view?usp=share_link" target="_blank">Charniak (2000, Klein and Manning (2003) Presentation Slides</a> -->
+      </td>
+      <td>
+        <!-- <a href="https://aclanthology.org/P03-1054/" target="_blank"><b>Klein and Manning (2003)</b></a>,  -->
+        <a href="https://drive.google.com/file/d/1JyofcB_bZ90M3FRRjWNiIL3YJLOZzEeH/view?usp=share_link" target="_blank"><b>Deleuze (1969)</b></a>,
+        <a href="https://drive.google.com/file/d/1eiwbs9h265TNIJWLoiOj22tRZSUFLNY8/view?usp=share_link" target="_blank"><b>Deleuze (1980)</b></a>
+      </td>
+    </tr>   
+    <tr>
+      <th scope="row">13</th>
+      <td>20.05.25</td>
+      <td>Signature Event Context</td>
+      <td>
+      <!-- <a href="https://drive.google.com/file/d/16CtlHglfKNtmqEM7JtlXh_dcB8iHnU3o/view?usp=share_link" target="_blank">Computational Approaches to Human Syntactic Processing Presentation Slides</a> -->
+      </td>
+      <td>
+        <a href="https://drive.google.com/file/d/1XW_ownersxQ-d18U5U53RgXkzMxSaJLv/view?usp=share_link" target="_blank"><b>Derrida (1988)</b></a> 
+      </td>
+    </tr> 
+        <tr>
+      <th scope="row">14</th>
+      <td>27.05.25</td>
+      <td style="vertical-align : middle;text-align:center;" align="center"><b>Conclusion</b></td>
+      <td></td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>  
+  </tbody>
+</table>
 
-## Secondary Literature
+<!-- ## Secondary Literature -->
 
-[TBA]
+<!-- [TBA] -->
 
 ## Contact
 
