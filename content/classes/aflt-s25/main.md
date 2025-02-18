@@ -25,7 +25,7 @@ The course is structured around the book [Finite Automata, Formal Logic, and Cir
 
 **17.2.** &emsp; Class website is online!
 
-**17.2.** The review sessions on **20.2.** and **27.2.** will **not** take place!
+**17.2.** The exercise sessions on **20.2.** and **27.2.** will **not** take place!
 
 ## Syllabus and Schedule
 ### On the Use of Class Time
@@ -179,24 +179,23 @@ All data from the chat will be deleted from ETH servers at the course’s conclu
 4. Search for answers in the appropriate channels before posting a new question.  
 5. Ask questions on public channels as much as possible.  
 6. Answer to posts in _threads_.  
-7. The chat supports `LaTeX` for easier discussion of technical material. See [How to use `LaTeX` in `RocketChat`](https://docs.google.com/document/d/1EKDz3NuXGwzYrGkKrQFqmMToCbabLMjHaRWleRC0A1Q/edit?usp=sharing).  
+7. The chat supports `LaTeX` for easier discussion of technical material. See [How to use `LaTeX` in `RocketChat`](https://docs.google.com/document/d/1EKDz3NuXGwzYrGkKrQFqmMToCbabLMjHaRWleRC0A1Q/edit?usp=sharing).
+8. We highly recommend you download the desktop app [here](https://www.rocket.chat/).  
 
-[//]: # (8. We highly recommend you download the desktop app [here]&#40;https://www.rocket.chat/&#41;.  )
-
-**This is the link** to the main channel.
+[**This is the link**](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FmakiWp) to the main channel.
 To make the moderation of the chat more easily manageable, we have created a number of other channels on `RocketChat`.
 The full list is:
 
-- AFLT Main Channel for the general organisational discussions.
-- AFLT Announcements Channel for the announcements by the teaching team.
-- AFLT Content Questions for your questions about the content of the course.
+- [AFLT Main Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FmakiWp) for the general organisational discussions.
+- [AFLT Announcements Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FytbaxR) for the announcements by the teaching team.
+- [AFLT Content Questions](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2Fphgayq) for your questions about the content of the course.
 **Important**: Please prepend your question with a "tag" about the content of your question in square brackets. 
 For example, if your question is about the content of Lecture 1 and specifically about the definition of a semigroup, please start your message with `[Lecture #1, Definition of a Semigroup]`.
-- AFLT Assignment 1 for discussing and asking questions about Assignment 1.
-- AFLT Assignment 2 for discussing and asking questions about Assignment 2.
-- AFLT Assignment 3 for discussing and asking questions about Assignment 3.
-- AFLT Assignment 4 for discussing and asking questions about Assignment 4.
-- AFLT Assignment 5 for discussing and asking questions about Assignment 5.
+- [AFLT Assignment 1](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FEyc2Fo) for discussing and asking questions about Assignment 1.
+- [AFLT Assignment 2](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2Ftu3Zt8) for discussing and asking questions about Assignment 2.
+- [AFLT Assignment 3](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FwAHReL) for discussing and asking questions about Assignment 3.
+- [AFLT Assignment 4](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2Frjitb6) for discussing and asking questions about Assignment 4.
+- [AFLT Assignment 5](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2F65Tps2) for discussing and asking questions about Assignment 5.
 
 If you feel like you would benefit from any other channel, feel free to suggest it to the teaching team!
 
