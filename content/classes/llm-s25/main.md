@@ -512,7 +512,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
     <tr>
       <td>15. 4. 2025</td>
       <td>2 hours</td>
-      <td><b>TBD</b></td>
+      <td><b>Reinforcement learning for reasoning and inference-time compute</b></td>
       <td>
       Mrinmaya
       </td>
