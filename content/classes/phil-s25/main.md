@@ -119,7 +119,7 @@ Moodle will be the main communication hub for the course. You are responsible fo
     <tr>
       <th scope="row">3</th>
       <td>04.03.25</td>
-      <td>The Use of Use in NLP</td>
+      <td>Language Games in NLP</td>
       <td>
       <!-- <a href="https://drive.google.com/file/d/18kxSYzHSPLB8RDF1nxx1arIaCuOcYbeg/view?usp=share_link" target="_blank">Carnap Slides</a> -->
       <td>
@@ -130,13 +130,14 @@ Moodle will be the main communication hub for the course. You are responsible fo
     <tr>
       <th scope="row">4</th>
       <td>11.03.25</td>
-      <td>Language Games in NLP</td>
+      <td>The Use of Use in NLP</td>
       <td>
       <!-- <a href="https://drive.google.com/file/d/12DG5XuHBXtzossuB2CpzSm8rUPOe59Wo/view?usp=share_link" target="_blank">Baroni et al. Slides 1</a> -->
       </td>
       <td>
         <a href="http://blog.jacobandreas.net/meaning-belief.html" target="_blank"><b>Andreas (2018)</b></a>,
-        <a href="https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00027-5" target="_blank"><b>Mahowald et al. (2024)</b></a>
+        <a href="https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00027-5" target="_blank"><b>Mahowald et al. (2024)</b></a>,
+        <a href="https://link.springer.com/article/10.1007/s13347-020-00393-9" target="_blank">Gastaldi (2021)</a>
       </td>
     </tr>  
     <tr>
