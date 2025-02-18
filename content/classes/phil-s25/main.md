@@ -110,7 +110,7 @@ Moodle will be the main communication hub for the course. You are responsible fo
         <!-- <a href="https://drive.google.com/file/d/1Fmj0gPdiU64F15q_a7DPfM5mx2l85vAR/view?usp=share_link" target="_blank">Intro to Module 1 Slides</a> -->
       </td>
       <td>
-        <a href="https://drive.google.com/file/d/1ohsPtpVD_87w3-ztiD5gfSzItXoB545J/view?usp=share_link" target="_blank"><b>Wittgenstein (1953)</b></a>,
+        <a href="https://drive.google.com/file/d/1ohsPtpVD_87w3-ztiD5gfSzItXoB545J/view?usp=share_link" target="_blank"><b>Wittgenstein (1953)</b></a> [Preface, §§1-48],
         <a href="https://drive.google.com/file/d/14N69sZSJuh-czgphbfwtEqp0578cttA0/view?usp=share_link" target="_blank">Wittgenstein (1922)</a>,
         <a href="https://drive.google.com/file/d/1uY0FloRywtUEr6HgzldORM6EYTDnf7cN/view?usp=share_link" target="_blank">Wittgenstein (1956)</a>,
         <a href="https://drive.google.com/file/d/1ue5uaZaS4c7larrbGBETvV10tpKK8HaD/view?usp=share_link" target="_blank">Lyotard (1988)</a>
@@ -124,7 +124,8 @@ Moodle will be the main communication hub for the course. You are responsible fo
       <!-- <a href="https://drive.google.com/file/d/18kxSYzHSPLB8RDF1nxx1arIaCuOcYbeg/view?usp=share_link" target="_blank">Carnap Slides</a> -->
       <td>
         <a href="https://aclanthology.org/P16-1224.pdf" target="_blank"><b>Wang et al. (2016)</b></a>,
-        <a href="https://arxiv.org/pdf/2501.14225" target="_blank"><b>Ye et al. (2024)</b></a>
+        <a href="https://arxiv.org/pdf/2501.14225" target="_blank"><b>Ye et al. (2024)</b></a>,
+        <a href="https://aclanthology.org/Q18-1037.pdf" target="_blank">Khani et al. (2018)</a>
       </td>
     </tr>   
     <tr>
@@ -210,6 +211,7 @@ Moodle will be the main communication hub for the course. You are responsible fo
       <td>
         <a href="https://aclanthology.org/2020.acl-main.463/" target="_blank"><b>Bender and Koller (2020)</b></a>,
         <a href="https://aclanthology.org/2021.tacl-1.62/" target="_blank"><b>Merrill and Goldberg (2021)</b></a>,
+        <a href="https://dl.acm.org/doi/10.1145/3442188.3445922" target="_blank">Bender et al. (2021)</a>,
         <a href="https://medium.com/huggingface/learning-meaning-in-natural-language-processing-the-semantics-mega-thread-9c0332dfe28e" target="_blank">Wolf (2018)</a>
       </td>
     </tr>   
@@ -224,7 +226,8 @@ Moodle will be the main communication hub for the course. You are responsible fo
       <td>
         <a href="https://arxiv.org/abs/2208.02957" target="_blank"><b>Piantadosi et al. (2022)</b></a>,
         <a href="https://aclanthology.org/2022.findings-emnlp.423/" target="_blank"><b>Andreas (2022)</b></a>,
-        <a href="https://aclanthology.org/2024.cl-3.12/" target="_blank"><b>Mandelkern et al. (2024)</b></a>
+        <a href="https://aclanthology.org/2024.cl-3.12/" target="_blank"><b>Mandelkern et al. (2024)</b></a>,
+        <a href="https://crfm.stanford.edu/assets/report.pdf#philosophy" target="_blank">Potts et al. (2024)</a> [§2.6]
       </td>
     </tr>  
     <tr>
@@ -264,7 +267,8 @@ Moodle will be the main communication hub for the course. You are responsible fo
       <!-- <a href="https://drive.google.com/file/d/16CtlHglfKNtmqEM7JtlXh_dcB8iHnU3o/view?usp=share_link" target="_blank">Computational Approaches to Human Syntactic Processing Presentation Slides</a> -->
       </td>
       <td>
-        <a href="https://drive.google.com/file/d/1XW_ownersxQ-d18U5U53RgXkzMxSaJLv/view?usp=share_link" target="_blank"><b>Derrida (1988)</b></a> 
+        <a href="https://drive.google.com/file/d/1XW_ownersxQ-d18U5U53RgXkzMxSaJLv/view?usp=share_link" target="_blank"><b>Derrida (1988)</b></a>,
+        <a href="https://drive.google.com/file/d/1pUWV5gRviIkkMvuUOcWQsGZw-ixkYXyf/view?usp=share_link" target="_blank">Derrida (1967)</a> 
       </td>
     </tr> 
         <tr>
