@@ -180,7 +180,7 @@ Moodle will be the main communication hub for the course. You are responsible fo
       </td>
       <td>
         <a href="https://www.nature.com/articles/s41586-024-07522-w" target="_blank"><b>Fedorenko et al. (2024)</b></a>,
-        <a href="https://arxiv.org/abs/1612.07182" target="_blank"><b>Lazaridou et al. (2017)</b></a>
+        <a href="https://arxiv.org/abs/1612.07182" target="_blank"><b>Lazaridou et al. (2017)</b></a>,
         <a href="https://aclanthology.org/Q19-1021.pdf" target="_blank">Cotterell et al. (2019)</a>,
         <a href="http://socsci.uci.edu/~rfutrell/teaching/itl-davis/" target="_blank">Information-Theoretic Approaches to Linguistics</a>
       </td>
