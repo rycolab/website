@@ -25,7 +25,7 @@ The course is structured around the book [Finite Automata, Formal Logic, and Cir
 
 **17.2.** &emsp; Class website is online!
 
-**17.2.** The exercise sessions on **20.2.** and **27.2.** will **not** take place!
+**17.2.** The exercise session on **20.2.** will **not** take place!
 
 ## Syllabus and Schedule
 ### On the Use of Class Time
