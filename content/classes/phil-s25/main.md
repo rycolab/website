@@ -39,7 +39,7 @@ More detailed instructions about the paper and presentation requirements can be 
 ### Organization
 
 **Lectures:**
-Tue	18-19, [CAB G 52](https://ethz.ch/en/utils/location.html?building=CAB&floor=G&room=52&lang=en).
+Tue	18-19, ~~CAB G 52~~ [CAB G 51](https://ethz.ch/en/utils/location.html?building=CAB&floor=G&room=51&lang=en).
 The lectures will be given in person.
 [This](https://ethz.zoom.us/j/67952404815) recurring Zoom meeting (ID: 679 5240 4815) will be used throughout the semester for people who want to tune in remotely.
 However, given the discussion based character of this course, in person participation is strongly encouraged.
@@ -48,7 +48,7 @@ The Zoom recordings will be made available on the course Moodle page.
 
 
 **Discussion Sections:**
-Tue	19-20	[CAB G 52](https://ethz.ch/en/utils/location.html?building=CAB&floor=G&room=52&lang=en).
+Tue	19-20	~~CAB G 52~~ [CAB G 51](https://ethz.ch/en/utils/location.html?building=CAB&floor=G&room=51&lang=en).
 
 **WARNING:** Given the large number of registrations, the room is likely to change from the third week!
 
@@ -63,6 +63,7 @@ Moodle will be the main communication hub for the course. You are responsible fo
 
 ## News
 
+**19.2** &emsp; New (bigger) room for our course! CAB G 51 Check it out [here](https://ethz.ch/staffnet/en/service/rooms-and-buildings/rectorate-rooms/pictures/cab.html#par_slideshow_0).\
 **17.2** &emsp; Class website is online!
 
 ## Syllabus and Schedule
