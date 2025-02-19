@@ -96,7 +96,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <a href="https://drive.google.com/file/d/1NIaVqfPqCfWam0n8oFa8_pY70Su_RgWH/view?usp=sharing" target="_blank">Introductory Slides</a>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view" target="_blank">Course Notes, &sect; 1</a>
+      <a href="https://arxiv.org/abs/2311.04329" target="_blank">Course Notes, &sect; 1</a>
       </td>
     </tr>    
     <tr>
@@ -119,7 +119,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view" target="_blank">Course Notes, &sect;&sect; 2.1 and 2.2,</a> <br>
+      <a href="https://arxiv.org/abs/2311.04329" target="_blank">Course Notes, &sect;&sect; 2.1 and 2.2,</a> <br>
       <a href="https://aclanthology.org/2023.acl-long.543.pdf" target="_blank">Du et al. A Measure-Theoretic Characterization of Tight Language Models.</a>
       </td>
     </tr>  
@@ -142,7 +142,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view" target="_blank">Course Notes, &sect;&sect; 2.3 and 2.4,</a> <br>
+      <a href="https://arxiv.org/abs/2311.04329" target="_blank">Course Notes, &sect;&sect; 2.3 and 2.4,</a> <br>
       <a href="https://aclanthology.org/2023.acl-long.543.pdf" target="_blank">Du et al. A Measure-Theoretic Characterization of Tight Language Models</a>
       </td>
     </tr>   
@@ -164,7 +164,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view" target="_blank">Course Notes, &sect; 2.5,</a> <br>
+      <a href="https://arxiv.org/abs/2311.04329" target="_blank">Course Notes, &sect; 2.5,</a> <br>
       <a href="https://aclanthology.org/2023.acl-long.543.pdf" target="_blank">Du et al. A Measure-Theoretic Characterization of Tight Language Models,</a> <br>
       <a href="https://arxiv.org/abs/1711.05408" target="_blank">Chen, Yining, et al. Recurrent Neural Networks as Weighted Language Recognizers</a>
       </td>
@@ -188,7 +188,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view" target="_blank">Course Notes, &sect; 3</a>
+      <a href="https://arxiv.org/abs/2311.04329" target="_blank">Course Notes, &sect; 3</a>
       </td>
     </tr>  
     <tr>
@@ -209,7 +209,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view" target="_blank">Course Notes, &sect; 4.1</a> <br>
+      <a href="https://arxiv.org/abs/2311.04329" target="_blank">Course Notes, &sect; 4.1</a> <br>
       <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf" target="_blank">Bengio, Yoshua, et al. A neural probabilistic language model</a>,
       <a href="https://arxiv.org/abs/2104.03474" target="_blank">Sun, Simeng, et al. Revisiting Simple Neural Probabilistic Language Models.</a>
       </td>
@@ -233,7 +233,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view" target="_blank">Course Notes, &sect;&sect; 5.1.1&ndash;5.1.4</a>
+      <a href="https://arxiv.org/abs/2311.04329" target="_blank">Course Notes, &sect;&sect; 5.1.1&ndash;5.1.4</a>
       </td>
     </tr>  
     <tr>
@@ -255,7 +255,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view" target="_blank">Course Notes, &sect; 5.1.6,</a> <br>
+      <a href="https://arxiv.org/abs/2311.04329" target="_blank">Course Notes, &sect; 5.1.6,</a> <br>
       <a href="https://aclanthology.org/2023.emnlp-main.502.pdf" target="_blank">Svete et al., Recurrent Neural Language Models as Probabilistic Finite-state Automata.</a>, <br>
       <a href="https://aclanthology.org/2023.emnlp-main.434.pdf" target="_blank">Nowak et al., On the Representational Capacity of Recurrent Neural Language Models.</a>, <br>
       <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf" target="_blank">Siegelmann H. T. and Sontag E. D. On the computational power of neural nets. 
@@ -280,7 +280,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view" target="_blank">Course Notes, &sect; 5.2, </a> <br>
+      <a href="https://arxiv.org/abs/2311.04329" target="_blank">Course Notes, &sect; 5.2, </a> <br>
       <a href="https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf" target="_blank">Radford et al., Language Models are Unsupervised Multitask Learners, </a> <br>
       <a href="https://arxiv.org/pdf/1706.03762.pdf" target="_blank">Vaswani et al., Attention Is All You Need,</a> <br>
       <a href="https://jalammar.github.io/illustrated-transformer" target="_blank">The Illustrated Transformer,</a> <br>
@@ -320,7 +320,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/1IYgjs0Vf8TPmVW6w4S125j3G5Asatn4f/view" target="_blank">Course Notes, &sect; 5.3</a>
+      <a href="https://arxiv.org/abs/2311.04329" target="_blank">Course Notes, &sect; 5.3</a>
       </td>
     </tr>
     <tr>
