@@ -73,9 +73,9 @@ This course serves as an introduction to various advanced topics in formal langu
 **ETH Zürich** <span class="middot-divider"></span> **Spring 2025**
 This graduate class, partly taught like a seminar, is designed to help you understand the philosophical underpinnings of modern work in natural language processing (NLP), most of which is centered around statistical machine learning applied to natural language data.
 
-## [NLP in the Wild](classes/nlp-bachelor-seminar-s25)
+## [Understanding Context-Free Parsing Algorithms](classes/nlp-bachelor-seminar-s25)
 **ETH Zürich** <span class="middot-divider"></span> **Spring 2025**
-In recent years, NLP has become a part of our daily lives. Many of us use chatbots like ChatGPT or Claude to translate a text from a foreign language, help draft essays, write code, and even answer everyday-life questions. However, even though most people recognize the utility of such tools, there are still many questions to be answered about their reliability and their impact on society. In this bachelor seminar, we take a closer look at NLP by discussing some of the most influential NLP papers and opinion articles, with a special focus on controversial topics regarding the role of NLP in society. Each week, students will present a selected paper, followed by a class discussion.
+In the first part of the seminar, we study some of the most popular parsing algorithms, which are a fundamental tool both in natural language processing and in programming languages. Each week, a student will present a paper on parsing, including the papers that first described celebrated parsing algorithms like Earley's and CKY. We will also put a lot of focus on *weighted* parsing, which is fundamental in applications to language modeling. In the second part, we'll examine advanced NLP topics through analysis of pivotal (and often controversial) papers that are shaping the field's future direction.
 
 ## [Natural Language Processing](classes/intro-nlp-f24)
 **ETH Zürich** <span class="middot-divider"></span> **Fall 2024**
