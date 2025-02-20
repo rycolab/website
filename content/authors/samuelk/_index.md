@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MA Student
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://inf.ethz.ch"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Samuel is a MA student at ETH
+bio: Samuel is a research assistant at Rycolab
 
 social:
 - icon: envelope
@@ -34,4 +34,4 @@ email: ""
 user_groups:
 - Philosophy of Language and Computation Teaching Assistants (Spring 2025)
 ---
-Samuel is a MA student at ETH
+Samuel is a research assistant at Rycolab
