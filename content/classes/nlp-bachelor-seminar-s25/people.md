@@ -13,7 +13,7 @@ subtitle = ""
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Lecturer", "Teaching Assistant NLP in the Wild"]
+  user_groups = ["Lecturer", "Teaching Assistant 'Understanding Context-Free Parsing Algorithms'"]
   
   folder = "people"
 

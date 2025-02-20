@@ -107,6 +107,7 @@ The structure of this seminar is one of open-ended debate. Each week a group of 
       <td>2.04.25</td>
       <td> <a href=https://www.sciencedirect.com/science/article/pii/S002224961930166X><b> The Probabilistic Chomsky-Shutzenberger Hierarchy </a></a> </td>
       <td>
+      Icard, 2020
       </td>
       <td>
       </td>
