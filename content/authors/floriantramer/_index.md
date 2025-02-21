@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Professor in Computer Science 
+role: Assistant Professor of Computer Science 
 
 # Organizations/Affiliations
 organizations:
