@@ -33,7 +33,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:ecetin@student.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:mmrazek@student.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/Matezzzz
