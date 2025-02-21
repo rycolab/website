@@ -36,7 +36,7 @@ The Wednesday slot will be used as lecture, in which we will generally cover new
 The Thursday slot will be an exercise session, in which we will walk through some exercises, recap concepts taught in the previous lectures, answer questions, or discuss in more detail the theory already taught.
 The lecture and the exercise session will generally be given in person and live broadcast on [Zoom](https://ethz.zoom.us/j/64761526295).
 
-Lectures and exercise sessions will be recorded---link to the Zoom recordings will be posted on the course Moodle page.
+Lectures and exercise sessions will be recorded---link to the Zoom recordings will be posted on the course [Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=25244).
 
 We also regularly publish Ryan's iPad class notes.
 
@@ -222,7 +222,7 @@ There will be *no final exam* for this course. Instead, we will release **5** as
 You *can* cooperate on and discuss the assignments with your peers, but you *must* write up the solutions yourself.
 
 **Important**: The deadline for the assignment submission will be **shortly before the Summer examination period (1. 8. 2024)**.
-The submissions will be done through the course Moodle page.
+The submissions will be done through the course [Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=25244).
 Keep in mind that due to how late in the semester the deadline is, we *cannot extend it*---we are counting on you to be organised and submit the work in time.
 We require the solutions to be properly typeset.
 We recommend using `LaTeX` (with [`Overleaf`](https://www.overleaf.com)), but `markdown` files with `MathJax` for the mathematical expressions are also fine.
