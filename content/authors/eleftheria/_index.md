@@ -22,12 +22,9 @@ organizations:
 bio: PhD Student at ETH Zurich
 
 interests:
+- surprisal and discourse structure
 - computational narratology
 - formal language theory
-- cultural economics
-- emotion classification
-- natural language understanding
-- machine translation
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -63,7 +60,7 @@ user_groups:
 - Current
 ---
 
-Eleftheria is a PhD student in Computer Science at ETH Zurich. She is advised by Ryan and [Elliott Ash](https://elliottash.com/). Previously, she was a Research Engineer at Disney Research where she worked on natural language understanding and emotion classification. Eleftheria received an MSc in Artificial Intelligence with specialization in NLP from the [University of Edinburgh](https://www.ed.ac.uk/) where her thesis was on machine translation. Before that, she received a BA in English Language and Literature with specialization in Linguistics from the [University of Athens](https://en.wikipedia.org/wiki/National_and_Kapodistrian_University_of_Athens). Her research interests include computational narratology (particularly NLP for literary and screenwriting analysis), and formal language theory. Outside of research, Eleftheria likes tea, [TV Tropes](https://tvtropes.org/), wholesome memes, and playing soundtracks by ear on the piano.
+Eleftheria is a PhD student in Computer Science at ETH Zurich. She is advised by Ryan and [Elliott Ash](https://elliottash.com/). Previously, she was a Research Engineer at Disney Research where she worked on natural language understanding and emotion classification. Eleftheria received an MSc in Artificial Intelligence with specialization in NLP from the [University of Edinburgh](https://www.ed.ac.uk/) where her thesis was on machine translation. Before that, she received a BA in English Language and Literature with specialization in Linguistics from the [University of Athens](https://en.wikipedia.org/wiki/National_and_Kapodistrian_University_of_Athens). Her research interests include surprisal, discourse structure, and computational narratology (particularly NLP for literary and screenwriting analysis). Outside of research, Eleftheria likes exploring Switzerland by train.
 
 
 Native Language: Greek

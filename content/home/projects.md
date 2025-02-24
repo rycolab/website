@@ -49,7 +49,9 @@ subtitle = ""
 +++
 If you are a BSc or MSc student at ETH Zurich interested in writing your thesis with us, we would be delighted to hear from you! Unfortunately, we do not have the capacity to consider students from outside ETH for thesis projects. To obtain a better understanding of what currently interests us, we invite you to check our most recent publications. However, feel free to express interest in any topic you think our group might be well suited to advise you on.
 &nbsp;
-Please send an email to [ryan.cotterell@inf.ethz.ch](mailto:ryan.cotterell@inf.ethz.ch) with CC to [afra.amini@inf.ethz.ch](mailto:afra.amini@inf.ethz.ch), [anej.svete@inf.ethz.ch](mailto:anej.svete@inf.ethz.ch), and [eleftheria.tsipidi@inf.ethz.ch](eleftheria.tsipidi@inf.ethz.ch). State either [bachelor’s thesis] or [master’s thesis] at the start of the subject. For us to get to know you a little, please write a paragraph introducing your interests and attach your CV as well as your transcript of grades. It helps us a lot to with finding a matching project if you are able to state more concrete topics that you are interested in. We are looking forward to receiving your inquiry!
+Specifcally for Bachelor theses or semester projects, we typically assign you one of our published papers to replicate, so it would be ideal if you indicate 3-4 of our publications that you are interested in.
+&nbsp;
+Please send an email to [ryan.cotterell@inf.ethz.ch](mailto:ryan.cotterell@inf.ethz.ch) with CC to [afra.amini@inf.ethz.ch](mailto:afra.amini@inf.ethz.ch), [anej.svete@inf.ethz.ch](mailto:anej.svete@inf.ethz.ch), and [eleftheria.tsipidi@inf.ethz.ch](eleftheria.tsipidi@inf.ethz.ch). State either [bachelor’s thesis] or [master’s thesis] at the start of the subject. For us to get to know you a little, please write a paragraph introducing your interests and attach your CV as well as your transcript of grades. It helps us a lot to with finding a matching project if you are able to state more concrete topics that you would like to work on. We are looking forward to receiving your inquiry!
 
 
 <!---
