@@ -93,7 +93,8 @@ Moodle will be the main communication hub for the course. You are responsible fo
       </td>
       <td>
         <a href="https://drive.google.com/file/d/1AciRh_QHiABtQnMqwJNn8v5aJLmU8Pa_/view?usp=sharing" target="_blank"><b>Nietzsche (1873)</b></a>, 
-        <a href="https://drive.google.com/file/d/1OHA4RWI5d2JWZ0IK7H6SoaJoVOZS-6PK/view?usp=share_link" target="_blank"><b>Nietzsche (1873) in German</b></a>, 
+        <a href="https://drive.google.com/file/d/1OHA4RWI5d2JWZ0IK7H6SoaJoVOZS-6PK/view?usp=share_link" target="_blank"><b>Nietzsche (1873) in German</b></a>
+        </br>
         <a href="https://drive.google.com/file/d/1e5EXN7zvN6ZXSO2lWZLaafQxlDUQfceb/view?usp=sharing" target="_blank">Borges (1940a)</a>, 
         <a href="https://drive.google.com/file/d/13044an4v0wCuLGpoYlWrP7SnY4Bwwnh6/view?usp=sharing" target="_blank">Borges (1940a) in Spanish</a>, 
         <a href="https://drive.google.com/file/d/17itHpu77Yfh9YfnFO8iluQTq3a3KAx-l/view?usp=sharing" target="_blank">Borges (1940b)</a>, 
@@ -111,7 +112,8 @@ Moodle will be the main communication hub for the course. You are responsible fo
         <!-- <a href="https://drive.google.com/file/d/1Fmj0gPdiU64F15q_a7DPfM5mx2l85vAR/view?usp=share_link" target="_blank">Intro to Module 1 Slides</a> -->
       </td>
       <td>
-        <a href="https://drive.google.com/file/d/1ohsPtpVD_87w3-ztiD5gfSzItXoB545J/view?usp=share_link" target="_blank"><b>Wittgenstein (1953)</b></a> [Preface, §§1-48],
+        <a href="https://drive.google.com/file/d/1ohsPtpVD_87w3-ztiD5gfSzItXoB545J/view?usp=share_link" target="_blank"><b>Wittgenstein (1953)</b></a> [Preface, §§1-48]
+        </br>
         <a href="https://drive.google.com/file/d/14N69sZSJuh-czgphbfwtEqp0578cttA0/view?usp=share_link" target="_blank">Wittgenstein (1922)</a>,
         <a href="https://drive.google.com/file/d/1uY0FloRywtUEr6HgzldORM6EYTDnf7cN/view?usp=share_link" target="_blank">Wittgenstein (1956)</a>,
         <a href="https://drive.google.com/file/d/1ue5uaZaS4c7larrbGBETvV10tpKK8HaD/view?usp=share_link" target="_blank">Lyotard (1988)</a>
@@ -125,7 +127,8 @@ Moodle will be the main communication hub for the course. You are responsible fo
       <!-- <a href="https://drive.google.com/file/d/18kxSYzHSPLB8RDF1nxx1arIaCuOcYbeg/view?usp=share_link" target="_blank">Carnap Slides</a> -->
       <td>
         <a href="https://aclanthology.org/P16-1224.pdf" target="_blank"><b>Wang et al. (2016)</b></a>,
-        <a href="https://arxiv.org/pdf/2501.14225" target="_blank"><b>Ye et al. (2024)</b></a>,
+        <a href="https://arxiv.org/pdf/2501.14225" target="_blank"><b>Ye et al. (2024)</b></a>
+        </br>
         <a href="https://aclanthology.org/Q18-1037.pdf" target="_blank">Khani et al. (2018)</a>
       </td>
     </tr>   
@@ -139,7 +142,8 @@ Moodle will be the main communication hub for the course. You are responsible fo
       <td>
         <a href="https://direct.mit.edu/daed/article/151/2/127/110621/Human-Language-Understanding-amp-Reasoning" target="_blank"><b>Manning (2022)</b></a>,
         <a href="http://blog.jacobandreas.net/meaning-belief.html" target="_blank"><b>Andreas (2018)</b></a>,
-        <a href="https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00027-5" target="_blank"><b>Mahowald et al. (2024)</b></a>,
+        <a href="https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00027-5" target="_blank"><b>Mahowald et al. (2024)</b></a>
+        </br>
         <a href="https://www.journals.uchicago.edu/doi/10.1086/713551" target="_blank">Liu (2021)</a>,
         <a href="https://link.springer.com/article/10.1007/s13347-020-00393-9" target="_blank">Gastaldi (2021)</a>
       </td>
@@ -154,7 +158,8 @@ Moodle will be the main communication hub for the course. You are responsible fo
       </td>
       <td>
         <a href="https://drive.google.com/file/d/1Nuxf51CS7L3KKs8l8vO0SjoZA8G3LKef/view?usp=share_link" target="_blank"><b>Wiener (1948/1961)</b></a>,
-        <a href="https://drive.google.com/file/d/1_kDPOsbukT0dF153fr_rShxwr48Tsp1-/view?usp=share_link" target="_blank"><b>Wiener (1950)</b></a> [Ch. IV],
+        <a href="https://drive.google.com/file/d/1_kDPOsbukT0dF153fr_rShxwr48Tsp1-/view?usp=share_link" target="_blank"><b>Wiener (1950)</b></a> [Ch. IV]
+        </br>
         <a href="https://drive.google.com/file/d/1sfsd7sL0B_q2c5bxTsFQtVKxNgSnn82q/view?usp=share_link" target="_blank">Jonas (1953)</a>
       </td>
     </tr>  
@@ -167,7 +172,8 @@ Moodle will be the main communication hub for the course. You are responsible fo
       <a href="https://drive.google.com/file/d/19qx9A9w3pjBVHHIt785lMEicGqYGaoeF/view?usp=sharing" target="_blank">Origin of Speech Presentation Slides</a> -->
       </td>
       <td>
-        <a href="https://drive.google.com/file/d/1GaDoLtKqwIoS8ApI3mSoW3zp1xf7wJ71/view?usp=share_link" target="_blank"><b>Shannon and Weaver (1968)</b></a>,
+        <a href="https://drive.google.com/file/d/1GaDoLtKqwIoS8ApI3mSoW3zp1xf7wJ71/view?usp=share_link" target="_blank"><b>Shannon and Weaver (1968)</b></a>
+        </br>
         <a href="https://drive.google.com/file/d/1nwJEuZ25oIsPMR_GeU9R38b6pfzxUZb7/view?usp=share_link" target="_blank">Shannon (1951)</a>,
         <a href="https://drive.google.com/file/d/1irh11GYKaofry5ljTKe0_2y9lgrx1bRc/view?usp=share_link" target="_blank">Shannon (1993)</a>,
         <a href="http://staff.ustc.edu.cn/~cgong821/Wiley.Interscience.Elements.of.Information.Theory.Jul.2006.eBook-DDU.pdf" target="_blank">Cover and Thomas (2006)</a> [Ch. 2, 5, 7],
@@ -183,7 +189,8 @@ Moodle will be the main communication hub for the course. You are responsible fo
       </td>
       <td>
         <a href="https://www.nature.com/articles/s41586-024-07522-w" target="_blank"><b>Fedorenko et al. (2024)</b></a>,
-        <a href="https://arxiv.org/abs/1612.07182" target="_blank"><b>Lazaridou et al. (2017)</b></a>,
+        <a href="https://arxiv.org/abs/1612.07182" target="_blank"><b>Lazaridou et al. (2017)</b></a>
+        </br>
         <a href="https://aclanthology.org/Q19-1021.pdf" target="_blank">Cotterell et al. (2019)</a>,
         <a href="http://socsci.uci.edu/~rfutrell/teaching/itl-davis/" target="_blank">Information-Theoretic Approaches to Linguistics</a>
       </td>
@@ -197,7 +204,8 @@ Moodle will be the main communication hub for the course. You are responsible fo
       <a href="https://drive.google.com/file/d/1brPADXb77KwWNx0C_WxW0Xo4gtmklWHe/view?usp=share_link" target="_blank">Pimentel et al. (2021) Presentation Slides</a></td> -->
       <td>
         <a href="http://colala.berkeley.edu/papers/PNAS-2011-Piantadosi-1012551108.pdf" target="_blank"><b>Piantadosi et al. (2011)</b></a>,
-        <a href="http://colala.berkeley.edu/papers/gibson2019how.pdf" target="_blank"><b>Gibson et al. (2019)</b></a>,
+        <a href="http://colala.berkeley.edu/papers/gibson2019how.pdf" target="_blank"><b>Gibson et al. (2019)</b></a>
+        </br>
         <a href="https://aclanthology.org/2021.naacl-main.350/" target="_blank">Pimentel et al. (2021)</a>,
         <a href="http://socsci.uci.edu/~rfutrell/teaching/itl-davis/" target="_blank">Information-Theoretic Approaches to Linguistics</a>
       </td>
@@ -213,7 +221,8 @@ Moodle will be the main communication hub for the course. You are responsible fo
       </td>
       <td>
         <a href="https://aclanthology.org/2020.acl-main.463/" target="_blank"><b>Bender and Koller (2020)</b></a>,
-        <a href="https://aclanthology.org/2021.tacl-1.62/" target="_blank"><b>Merrill and Goldberg (2021)</b></a>,
+        <a href="https://aclanthology.org/2021.tacl-1.62/" target="_blank"><b>Merrill and Goldberg (2021)</b></a>
+        </br>
         <a href="https://dl.acm.org/doi/10.1145/3442188.3445922" target="_blank">Bender et al. (2021)</a>,
         <a href="https://medium.com/huggingface/learning-meaning-in-natural-language-processing-the-semantics-mega-thread-9c0332dfe28e" target="_blank">Wolf (2018)</a>
       </td>
@@ -229,7 +238,8 @@ Moodle will be the main communication hub for the course. You are responsible fo
       <td>
         <a href="https://arxiv.org/abs/2208.02957" target="_blank"><b>Piantadosi et al. (2022)</b></a>,
         <a href="https://aclanthology.org/2022.findings-emnlp.423/" target="_blank"><b>Andreas (2022)</b></a>,
-        <a href="https://aclanthology.org/2024.cl-3.12/" target="_blank"><b>Mandelkern et al. (2024)</b></a>,
+        <a href="https://aclanthology.org/2024.cl-3.12/" target="_blank"><b>Mandelkern et al. (2024)</b></a>
+        </br>
         <a href="https://crfm.stanford.edu/assets/report.pdf#philosophy" target="_blank">Potts et al. (2024)</a> [§2.6]
       </td>
     </tr>  
@@ -243,7 +253,8 @@ Moodle will be the main communication hub for the course. You are responsible fo
       </td>
       <td>
         <a href="https://drive.google.com/file/d/1SeYl4lGZ3uMzsk9aEf1JvkyvWZOI9xab/view?usp=share_link" target="_blank"><b>Foucault (1966)</b></a>,
-        <a href="https://drive.google.com/file/d/10c2nREUCnDAqHb6cQbiP0jExWrQRbIwi/view?usp=share_link" target="_blank"><b>Foucault (1969)</b></a>,
+        <a href="https://drive.google.com/file/d/10c2nREUCnDAqHb6cQbiP0jExWrQRbIwi/view?usp=share_link" target="_blank"><b>Foucault (1969)</b></a>
+        </br>
         <a href="https://critinq.wordpress.com/2023/06/26/again-theory-a-forum-on-language-meaning-and-intent-in-the-time-of-stochastic-parrots/" target="_blank">Kirschenbaum (2023)</a>,
         <a href="https://critinq.wordpress.com/2023/06/29/the-empirical-triumph-of-theory/" target="_blank">Underwood (2023)</a>
       </td>
@@ -257,9 +268,9 @@ Moodle will be the main communication hub for the course. You are responsible fo
       <a href="https://drive.google.com/file/d/1X1fwg6JfaWZAO_9gZx9k1SXv5kYLP7SD/view?usp=share_link" target="_blank">Charniak (2000, Klein and Manning (2003) Presentation Slides</a> -->
       </td>
       <td>
-        <!-- <a href="https://aclanthology.org/P03-1054/" target="_blank"><b>Klein and Manning (2003)</b></a>,  -->
-        <a href="https://drive.google.com/file/d/1JyofcB_bZ90M3FRRjWNiIL3YJLOZzEeH/view?usp=share_link" target="_blank"><b>Deleuze (1969)</b></a>,
-        <a href="https://drive.google.com/file/d/1eiwbs9h265TNIJWLoiOj22tRZSUFLNY8/view?usp=share_link" target="_blank"><b>Deleuze (1980)</b></a>
+        <a href="https://drive.google.com/file/d/1JyofcB_bZ90M3FRRjWNiIL3YJLOZzEeH/view?usp=share_link" target="_blank"><b>Deleuze (1969)</b></a>
+        </br>
+        <a href="https://drive.google.com/file/d/1eiwbs9h265TNIJWLoiOj22tRZSUFLNY8/view?usp=share_link" target="_blank">Deleuze (1980)</a>
       </td>
     </tr>   
     <tr>
@@ -270,7 +281,8 @@ Moodle will be the main communication hub for the course. You are responsible fo
       <!-- <a href="https://drive.google.com/file/d/16CtlHglfKNtmqEM7JtlXh_dcB8iHnU3o/view?usp=share_link" target="_blank">Computational Approaches to Human Syntactic Processing Presentation Slides</a> -->
       </td>
       <td>
-        <a href="https://drive.google.com/file/d/1XW_ownersxQ-d18U5U53RgXkzMxSaJLv/view?usp=share_link" target="_blank"><b>Derrida (1988)</b></a>,
+        <a href="https://drive.google.com/file/d/1XW_ownersxQ-d18U5U53RgXkzMxSaJLv/view?usp=share_link" target="_blank"><b>Derrida (1988)</b></a>
+        </br>
         <a href="https://drive.google.com/file/d/1pUWV5gRviIkkMvuUOcWQsGZw-ixkYXyf/view?usp=share_link" target="_blank">Derrida (1967)</a> 
       </td>
     </tr> 
