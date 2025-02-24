@@ -116,6 +116,7 @@ Moodle will be the main communication hub for the course. You are responsible fo
         </br>
         <a href="https://drive.google.com/file/d/14N69sZSJuh-czgphbfwtEqp0578cttA0/view?usp=share_link" target="_blank">Wittgenstein (1922)</a>,
         <a href="https://drive.google.com/file/d/1uY0FloRywtUEr6HgzldORM6EYTDnf7cN/view?usp=share_link" target="_blank">Wittgenstein (1956)</a>,
+        <a href="https://plato.stanford.edu/entries/wittgenstein/" target="_blank">Biletzki & Matar (2021)</a>,
         <a href="https://drive.google.com/file/d/1ue5uaZaS4c7larrbGBETvV10tpKK8HaD/view?usp=share_link" target="_blank">Lyotard (1988)</a>
       </td>
     </tr>  
