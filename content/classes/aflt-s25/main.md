@@ -27,6 +27,8 @@ The course is structured around the book [Finite Automata, Formal Logic, and Cir
 
 **17.2.** The exercise session on **20.2.** will **not** take place!
 
+**26.2.** The lecture on **26.2.** will **not** take place!
+
 ## Syllabus and Schedule
 ### On the Use of Class Time
 #### Lectures
@@ -95,14 +97,14 @@ You can use the tutorial session to ask questions about previously taught concep
     </tr>
     <tr>
       <td>26. 2. 2025</td>
-      <td><b>Semigroups, Homomorphisms, Formal Logic</b></td>
-      <td>Sections I.3, Chapter II</td>
+      <td><b>No class</b></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>05. 3. 2025</td>
-      <td><b>Monadic Second-order Logic and Regular Languages</b></td>
-      <td>Chapter III</td>
+      <td><b>Formal Logic and Regular Languages</b></td>
+      <td>Chapter II, Chapter III</td>
       <td></td>
     </tr>
     <tr>
