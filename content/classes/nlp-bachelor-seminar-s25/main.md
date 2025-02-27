@@ -69,7 +69,7 @@ The structure of this seminar is one of open-ended debate. Each week a group of 
       Younger, 1965
       </td>
       <td>
-      Patrick and Peer
+      Patrick and Pier
       </td>
     </tr>  
     <tr>
@@ -80,6 +80,7 @@ The structure of this seminar is one of open-ended debate. Each week a group of 
       Knuth, 1971
       </td>
       <td>
+      Florian and Jan
       </td>
     </tr>  
         <tr>
@@ -164,12 +165,12 @@ The structure of this seminar is one of open-ended debate. Each week a group of 
       <td>
       Brown et al., 2020
       </td>
-      <td> </td>
+      <td> Leon </td>
     </tr>
     <tr>
       <th scope="row">14</th>
       <td>21.05.24</td>
-      <td> <a href=https://dl.acm.org/doi/10.1145/3442188.3445922 target="_blank"><b> Deep Learning: a Critical Appraisal </b></a>
+      <td> <a href=https://arxiv.org/abs/1801.00631 target="_blank"><b> Deep Learning: a Critical Appraisal </b></a>
       </td>
       <td>
       Marcus, 2021
