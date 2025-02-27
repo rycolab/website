@@ -67,7 +67,7 @@ subtitle = "[SEE ALL CLASSES](/classes)"
 
 ## [Advanced Formal Language Theory](/classes/aflt-s25) 
 **ETH Zürich** <span class="middot-divider"></span> **Spring 2025**
-This course serves as an introduction to various advanced topics in formal language theory. The primary focus of the course is on weighted formalisms, which can easily be applied in machine learning. Topics include finite-state machines as well as the algorithms that are commonly used for their manipulation. We will also cover weighted context-free grammars, weighted pushdown automata, weighted tree automata, and weighted mildly context-sensitive formalisms.
+This course explores the connection between automata and formal logic. More precisely, it covers the algebraic characterization of the regular languages definable in many different logical theories, the complexity theory of boolean circuits, and the connection between the two.
 
 ## [Philosophy of Language and Computation II](/classes/phil-s25) 
 **ETH Zürich** <span class="middot-divider"></span> **Spring 2025**
