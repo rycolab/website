@@ -793,7 +793,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>27. 2. 2025</td>
       <td>Fundamentals of Natural Language Processing and Language Modeling, <br> Measure Theory, Generation</td>
       <td>Irene</td>
-      <td><a href="https://drive.google.com/file/d/1NDnqkEiS-DiwjOnpoQmbpevnYF3v995j/view?usp=sharing" target="_blank">Exercises</a>, <a href="https://drive.google.com/file/d/11bfdjVtC5-9FhCfnnesbosYDrTQUN14Z/view?usp=sharing" target="_blank">Exercises with solutions</a></td>
+      <td><a href="https://drive.google.com/file/d/1NDnqkEiS-DiwjOnpoQmbpevnYF3v995j/view?usp=sharing" target="_blank">Exercises</a>, <a href="https://drive.google.com/file/d/11bfdjVtC5-9FhCfnnesbosYDrTQUN14Z/view?usp=sharing" target="_blank">Exercises with solutions</a></td>, <a href="https://drive.google.com/file/d/1En8H4woQ5iL3qA_TDy3GrS2Uxo88njqR/view?usp=sharing" target="_blank">iPad Notes</a>
     </tr>
     <tr>
       <th scope="row">3</th>
