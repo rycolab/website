@@ -913,7 +913,7 @@ Please report all errata you find in the course notes to the teaching staff in t
 
 Other useful literature: 
 
-<!-- - [iPad class notes (last year)](https://drive.google.com/file/d/1Ndl94DdM-EGpCRY3yQpP0V-j7zrXpKav/view?usp=sharing)   -->
+- [Ryan's iPad notes](https://drive.google.com/file/d/1NGsBO4GEa3LEVnl_FNzvDNQ-PqnqR3Zp/view?usp=sharing)  
 - [ESSLLI 2023 Tutorial on the Expressivity of Neural Networks](https://rycolab.io/classes/esslli-23)
 - [ESSLLI 2024 Tutorial on the Expressivity of Transformers](https://sleynas.com/esslli-2024-summer-school-course)
 - [Introduction to Natural Language Processing (Eisenstein)](https://www.amazon.de/Jacob-Eisenstein/dp/0262042843/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=30OMHV1C018JY&dchild=1&keywords=introduction+to+natural+language+processing&qid=1598878964&sprefix=introduction+to+na%2Caps%2C148&sr=8-1)  
@@ -963,7 +963,7 @@ Each of the three assignments contribute 1/3 to the final assignment grade (that
 
 **Assignment instructions**:  
 
-- [Assignment 1 Instructions (last year)](https://drive.google.com/file/d/1EGO6YD6Ldlhw-qUtzasjphOx5KVSpEBG/view?usp=sharing)  
+- [Assignment 1 Instructions](https://drive.google.com/file/d/1weW3Ky5F-MdVOZ8zoyvJqvhb8xiOQMKj/view?usp=sharing)  
 - [Assignment 1 Submission Template](https://www.overleaf.com/read/fyqmmyxkzzfd#e5ebaf).
 While not strictly necessary, we highly advise you use this template when preparing your submission. It also includes a large number of LaTeX macros which can make your writing faster and easier to read. 
 **Important**: Even if you don't use this template, you should copy the Declaration of originality from the front page into your own submission!  
