@@ -19,7 +19,7 @@ This course explores the connection between automata and formal logic. The lectu
 
 The emphasis is on rigor and depth rather than broad coverage. Students should expect a healthy dose of proof-writing and, thus, mathematical maturity is expected. In terms of background, the class will draw on techniques from discrete math, formal logic, automata theory and abstract algebra. While there are no hard prerequisites, having taken a class that covers these topics would be helpful.
 
-The course is structured around the book [Finite Automata, Formal Logic, and Circuit Complexity](https://link.springer.com/book/10.1007/978-1-4612-0289-9) and the lectures are meant to guide you through the most important bits. The homework exercises, which comprise 100% of the grade, will require you to apply or extend the theory taught in class. The homework will be released throughout the semester in assignments with 3–4 questions each.
+The course is structured around the book [Finite Automata, Formal Logic, and Circuit Complexity](https://link.springer.com/book/10.1007/978-1-4612-0289-9) and the lectures are meant to guide you through the most important bits. In addition to this, you might find it useful to go over the [lecture notes](https://drive.google.com/file/d/1wXv-e5tL6WxwK7vzBuVSDySYjkuoGW7f/view?usp=share_link) from the previous version of the course. The homework exercises, which comprise 100% of the grade, will require you to apply or extend the theory taught in class. The homework will be released throughout the semester in assignments with 3–4 questions each.
 
 ## News
 
