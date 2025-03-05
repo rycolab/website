@@ -215,6 +215,7 @@ For example, if your question is about the content of Lecture 1 and specifically
 - [AFLT Assignment 3](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FwAHReL) for discussing and asking questions about Assignment 3.
 - [AFLT Assignment 4](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2Frjitb6) for discussing and asking questions about Assignment 4.
 - [AFLT Assignment 5](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2F65Tps2) for discussing and asking questions about Assignment 5.
+- [AFLT Errata](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FWeFrwS) for discussing typos in the book or Ryan's lecture notes.
 
 If you feel like you would benefit from any other channel, feel free to suggest it to the teaching team!
 
