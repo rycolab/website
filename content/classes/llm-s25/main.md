@@ -932,7 +932,7 @@ The final exam is comprehensive and should be assumed to cover all the material 
 The date is determined by the ETH examinations office centrally and will be announced towards the end of the semester.
 
 - [Sample exam](https://drive.google.com/file/d/1bBOQg8drUEUxHJjEqMAN3S0ST7ICfe9l/view?usp=sharing)  
-- [Exam review sheet](https://docs.google.com/document/d/16kJuO59gcOZVf1k0m19B4vyZQLxLDxi3PBn0jtO9OGo/edit?usp=sharing)
+- [Exam review sheet (last year)](https://docs.google.com/document/d/16kJuO59gcOZVf1k0m19B4vyZQLxLDxi3PBn0jtO9OGo/edit?usp=sharing)
 
 **Remote exams**:
 ETH offers a centralized system for taking exams remotely if you are an exchange student or under specific circumstances for ETH students as well. 
@@ -964,20 +964,20 @@ Each of the three assignments contribute 1/3 to the final assignment grade (that
 **Assignment instructions**:  
 
 - [Assignment 1 Instructions](https://drive.google.com/file/d/1weW3Ky5F-MdVOZ8zoyvJqvhb8xiOQMKj/view?usp=sharing)  
-- [Assignment 1 Submission Template](https://www.overleaf.com/read/fyqmmyxkzzfd#e5ebaf).
+  - [Assignment 1 Submission Template](https://www.overleaf.com/read/fyqmmyxkzzfd#e5ebaf).
 While not strictly necessary, we highly advise you use this template when preparing your submission. It also includes a large number of LaTeX macros which can make your writing faster and easier to read. 
 **Important**: Even if you don't use this template, you should copy the Declaration of originality from the front page into your own submission!  
 - [Assignment 2 Instruction (last year)](https://drive.google.com/file/d/1QqlJQIY2RcHjI_P-csXm85R-VEl09_1w/view?usp=sharing)  
-- [Assignment 3 Instructions (last year)](https://drive.google.com/file/d/1u6CF4llYzcMRbGEIA9h7CsXu1QdUDkLf/view)  
+  - Assignment 2 will be released at the end of March and will likely be due on May 15th
+- [Assignment 3 Instructions (last year)](https://drive.google.com/file/d/1u6CF4llYzcMRbGEIA9h7CsXu1QdUDkLf/view)
 
 
 ##### Assignment Deadlines
 You will submit your assignments via Moodle.
 
 - Assignment 1 is due on **Wednesday, April 30th** at 23:59.  
-
-<!-- - Assignment 2 is due on **Sunday, June 30th** at 23:59.  
-- Assignment 3 is due on **Sunday, June 30th** at 23:59. -->
+- The *preliminary* deadline for Assignment 3 is **Thursday, May 15th** at 23:59.  
+- The details for Assignment 3 will be released later.  
 
 Please be proactive with your time management and start early.
 Barring exceptional circumstances that do not only affect the last two weeks before the deadline (e.g., prolonged illness, family emergency, or severe mistakes in the assignment setup), <u>*we will not accept requests for deadline extensions*</u>---neither individual nor group requests. 
