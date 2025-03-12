@@ -29,6 +29,9 @@ The course is structured around the book [Finite Automata, Formal Logic, and Cir
 
 **26.2.** The lecture on **26.2.** will **not** take place!
 
+**12.3.** [Assignment 1](https://drive.google.com/file/d/1viy0rsYUdWGk-BBkNWERE2AguUzEjmfo/view?usp=sharing) is now released!
+
+
 ## Syllabus and Schedule
 ### On the Use of Class Time
 #### Lectures
@@ -236,7 +239,7 @@ Below you can find the assignment instructions.
 
 **Assignment instructions**:
 
-- Assignment 1
+- [Assignment 1](https://drive.google.com/file/d/1viy0rsYUdWGk-BBkNWERE2AguUzEjmfo/view?usp=sharing)
 - Assignment 2
 - Assignment 3
 - Assignment 4
