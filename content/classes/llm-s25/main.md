@@ -849,7 +849,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
     <tr>
       <th scope="row">10</th>
       <td>1. 5. 2025</td>
-      <td>Prompting, Chain-of-Thought Reasoning</td>
+      <td><b>No tutorials: Labour Day</b></td>
       <td></td>
       <td>
       <a href="https://drive.google.com/file/d/1PASyag56Dj47GDx5f8700RYvlIu-NdU2/view?usp=sharing">Exercises</a>, 
@@ -859,7 +859,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
     <tr>
       <th scope="row">11</th>
       <td>8. 5. 2025</td>
-      <td>TBD</td>
+      <td>Prompting, Chain-of-Thought Reasoning</td>
       <td></td>
       <td></td>
     </tr>
@@ -876,15 +876,15 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
     <tr>
       <th scope="row">13</th>
       <td>22. 5. 2025</td>
-      <td>Assignment 2 Q&A</td>
-      <td>Maxim, Dmitrii, Kiril</td>
+      <td>Assignment 2 Q&A, Assignment 3 Q&A</td>
+      <td>Maxim, Dmitrii, Kiril, Kári, Matej</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">14</th>
       <td>29. 5. 2025</td>
-      <td>Assignment 3 Q&A</td>
-      <td>Kári, Matej</td>
+      <td><b>No tutorials: Ascension Day</b></td>
+      <td></td>
       <td></td>
     </tr>
     
