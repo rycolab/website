@@ -86,11 +86,12 @@ The structure of this seminar is one of open-ended debate. Each week a group of 
         <tr>
       <th scope="row">5</th>
       <td>19.03.25</td>
-      <td> <a href=https://link.springer.com/article/10.1007/s11023-020-09548-1 ><b> On the Translation of Languages from Left to Right </b></a>  </td>
+      <td> <a href=https://link.springer.com/article/10.1007/s11023-020-09548-1 ><b> On the Translation of Languages from Left to Right </b></a> </td>
       <td>
       Knuth, 1965
       </td>
       <td>
+      Nathan
       </td>
     </tr>  
      <tr>
@@ -101,31 +102,35 @@ The structure of this seminar is one of open-ended debate. Each week a group of 
       Steedman, 1986 
       </td>
       <td>
+      Elias, Kai
       </td>
     </tr>    
     <tr>
       <th scope="row">7</th>
       <td>2.04.25</td>
-      <td> <a href=https://www.sciencedirect.com/science/article/pii/S002224961930166X><b> The Probabilistic Chomsky-Shutzenberger Hierarchy </a></a> </td>
+      <td> <a href=https://www.sciencedirect.com/science/article/pii/S002224961930166X><b> The Probabilistic Chomsky-Shutzenberger Hierarchy </b></a> </td>
       <td>
       Icard, 2020
       </td>
       <td>
+      Alex, Yannick
       </td>
     </tr>  
     <tr>
       <th scope="row">8</th>
       <td>9.04.25</td>
-      <td>  </td>
+      <td> <a href=https://link.springer.com/chapter/10.1007/978-3-662-46663-6_5><b> Fast, Practical GLL Parsing </b></a> </td>
       <td>
+      Afroozeh and Izmaylova, 2015
       </td>
       <td>
+      Finn
       </td>
     </tr>
     <tr>
       <th scope="row">9</th>
       <td>16.04.24</td>
-      <td>  </td>
+      <td> Exercise Session  </td>
       <td>
       </td>
       <td>
@@ -147,7 +152,7 @@ The structure of this seminar is one of open-ended debate. Each week a group of 
       <td>
       Bender and Koller, 2020 
       </td>
-      <td> </td>
+      <td> Kay </td>
     </tr>
     <tr>
       <th scope="row">12</th>
