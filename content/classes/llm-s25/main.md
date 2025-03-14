@@ -852,16 +852,17 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td><b>No tutorials: Labour Day</b></td>
       <td></td>
       <td>
-      <a href="https://drive.google.com/file/d/1PASyag56Dj47GDx5f8700RYvlIu-NdU2/view?usp=sharing">Exercises</a>, 
-      <a href="https://drive.google.com/file/d/1g0rtrcnVD8YJ_Q8oeYpeRAAfCHtB2VTR/view?usp=sharing">Exercises with solutions</a>
       </td>
     </tr>
     <tr>
       <th scope="row">11</th>
       <td>8. 5. 2025</td>
       <td>Prompting, Chain-of-Thought Reasoning</td>
-      <td></td>
-      <td></td>
+      <td>Manuel</td>
+      <td>
+      <a href="https://drive.google.com/file/d/1PASyag56Dj47GDx5f8700RYvlIu-NdU2/view?usp=sharing">Exercises</a>, 
+      <a href="https://drive.google.com/file/d/1g0rtrcnVD8YJ_Q8oeYpeRAAfCHtB2VTR/view?usp=sharing">Exercises with solutions</a>
+      </td>
     </tr>
     <tr>
       <th scope="row">12</th>
