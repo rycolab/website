@@ -915,6 +915,7 @@ Please report all errata you find in the course notes to the teaching staff in t
 Other useful literature: 
 
 - [Ryan's iPad notes](https://drive.google.com/file/d/1NGsBO4GEa3LEVnl_FNzvDNQ-PqnqR3Zp/view?usp=sharing)  
+- [iPad notes 14. 3.](https://drive.google.com/file/d/112xR2DAOVK_lNFExJA-FniG1ozobkNyT/view?usp=sharing)  
 - [ESSLLI 2023 Tutorial on the Expressivity of Neural Networks](https://rycolab.io/classes/esslli-23)
 - [ESSLLI 2024 Tutorial on the Expressivity of Transformers](https://sleynas.com/esslli-2024-summer-school-course)
 - [Introduction to Natural Language Processing (Eisenstein)](https://www.amazon.de/Jacob-Eisenstein/dp/0262042843/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=30OMHV1C018JY&dchild=1&keywords=introduction+to+natural+language+processing&qid=1598878964&sprefix=introduction+to+na%2Caps%2C148&sr=8-1)  
@@ -971,14 +972,15 @@ While not strictly necessary, we highly advise you use this template when prepar
 - [Assignment 2 Instruction (last year)](https://drive.google.com/file/d/1QqlJQIY2RcHjI_P-csXm85R-VEl09_1w/view?usp=sharing)  
   - Assignment 2 will be released at the end of March and will likely be due on May 15th
 - [Assignment 3 Instructions (last year)](https://drive.google.com/file/d/1u6CF4llYzcMRbGEIA9h7CsXu1QdUDkLf/view)
+  - Assignment 3 will be released at April 15th and will likely be due on May 30th
 
 
 ##### Assignment Deadlines
 You will submit your assignments via Moodle.
 
 - Assignment 1 is due on **Wednesday, April 30th** at 23:59.  
-- The *preliminary* deadline for Assignment 3 is **Thursday, May 15th** at 23:59.  
-- The details for Assignment 3 will be released later.  
+- The *preliminary* deadline for Assignment 2 is **Thursday, May 15th** at 23:59.  
+- The *preliminary* deadline for Assignment 3 is **Friday, May 30th** at 23:59.  
 
 Please be proactive with your time management and start early.
 Barring exceptional circumstances that do not only affect the last two weeks before the deadline (e.g., prolonged illness, family emergency, or severe mistakes in the assignment setup), <u>*we will not accept requests for deadline extensions*</u>---neither individual nor group requests. 
