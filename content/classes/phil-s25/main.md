@@ -158,7 +158,7 @@ Moodle will be the main communication hub for the course. You are responsible fo
         <!-- <a href="https://drive.google.com/file/d/1JZqqMI31pOtcEZC2fGbUYCeI1dkGFRtR/view?usp=sharing" target="_blank">CCG Presentation Slides</a> -->
       </td>
       <td>
-        <a href="https://drive.google.com/file/d/1Nuxf51CS7L3KKs8l8vO0SjoZA8G3LKef/view?usp=share_link" target="_blank"><b>Wiener (1948/1961)</b></a>,
+        <a href="https://drive.google.com/file/d/1Nuxf51CS7L3KKs8l8vO0SjoZA8G3LKef/view?usp=share_link" target="_blank"><b>Wiener (1948/1961)</b></a> [Ch. VIII],
         <a href="https://drive.google.com/file/d/1_kDPOsbukT0dF153fr_rShxwr48Tsp1-/view?usp=share_link" target="_blank"><b>Wiener (1950)</b></a> [Ch. IV]
         </br>
         <a href="https://drive.google.com/file/d/1sfsd7sL0B_q2c5bxTsFQtVKxNgSnn82q/view?usp=share_link" target="_blank">Jonas (1953)</a>
