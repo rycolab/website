@@ -173,7 +173,7 @@ Moodle will be the main communication hub for the course. You are responsible fo
       <a href="https://drive.google.com/file/d/19qx9A9w3pjBVHHIt785lMEicGqYGaoeF/view?usp=sharing" target="_blank">Origin of Speech Presentation Slides</a> -->
       </td>
       <td>
-        <a href="https://drive.google.com/file/d/1GaDoLtKqwIoS8ApI3mSoW3zp1xf7wJ71/view?usp=share_link" target="_blank"><b>Shannon and Weaver (1968)</b></a>
+        <a href="https://drive.google.com/file/d/1GaDoLtKqwIoS8ApI3mSoW3zp1xf7wJ71/view?usp=share_link" target="_blank"><b>Shannon and Weaver (1968)</b></a> [pp. 3-64]
         </br>
         <a href="https://drive.google.com/file/d/1nwJEuZ25oIsPMR_GeU9R38b6pfzxUZb7/view?usp=share_link" target="_blank">Shannon (1951)</a>,
         <a href="https://drive.google.com/file/d/1irh11GYKaofry5ljTKe0_2y9lgrx1bRc/view?usp=share_link" target="_blank">Shannon (1993)</a>,
