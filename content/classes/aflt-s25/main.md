@@ -112,14 +112,14 @@ You can use the tutorial session to ask questions about previously taught concep
     </tr>
     <tr>
       <td>12. 3. 2025</td>
-      <td><b>Model-theoretic Games, FO[<] and FO[+1]</b></td>
-      <td>Chapter IV</td>
+      <td><b>Regular Languages and Finite-state Automata</b></td>
       <td></td>
+      <td><a href="https://drive.google.com/file/d/1wXv-e5tL6WxwK7vzBuVSDySYjkuoGW7f/view?usp=share_link" target="_blank">Notes</a></td>
     </tr>
     <tr>
       <td>19. 3. 2025</td>
-      <td><b>The Syntactic Monoid</b></td>
-      <td>Chapter V</td>
+      <td><b>Model-theoretic Games, FO[<] and FO[+1], The Syntactic Monoid</b></td>
+      <td>Chapter IV, Chapter V</td>
       <td></td>
     </tr>
     <tr>
