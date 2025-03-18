@@ -814,7 +814,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>20. 3. 2025</td>
       <td>Transformer Language Models</td>
       <td>Eren</td>
-      <td><a href="https://drive.google.com/file/d/1fgmj8GZLEBEZQkpgBb-AfDTSFnusWhUU/view?usp=sharing" target="_blank">Exercises</a>, <a href="https://drive.google.com/file/d/10s0dPoJI5rnnpJG6KHhI9ubyvwoj5kSX/view?usp=drive_link" target="_blank">Exercises with solutions</a>, <a href="https://colab.research.google.com/drive/1Gywenp9vgqZlVVIO6fJP3rTtTSbXeG3q?usp=sharing" target="_blank">Jupyter Notebook</a></td>
+      <td><a href="https://drive.google.com/file/d/1jQPRVha6lv_AGsz51Y8GNfg8Z8xMsQrO/view?usp=sharing" target="_blank">Exercises</a>, <a href="https://drive.google.com/file/d/1Dn7asbHKiEX58kQa1gJJfkRibcHoirXE/view?usp=sharing" target="_blank">Exercises with solutions</a>, <a href="https://colab.research.google.com/drive/1Gywenp9vgqZlVVIO6fJP3rTtTSbXeG3q?usp=sharing" target="_blank">Jupyter Notebook</a></td>
     </tr>
     <tr>
       <th scope="row">6</th>
