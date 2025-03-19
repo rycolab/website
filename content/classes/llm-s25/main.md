@@ -332,29 +332,8 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       Ryan
       </td>
       <td>
-      <div id="summary14" style="display:none">
-      Throughout the class, we have assumed access to the alphabet Σ. This lecture discusses how we should choose Σ. We discuss various facts about natural language that influence Σ, e.g., morphology and syntax. Then, we introduce the byte-pair encoding algorithm, an automatic procedure for inducing Σ, and give a analyze of its correctness and runtime.
-      <br/>
-      <br/>
-      </div>
-      <button id="button14" style="border:none;" onclick="myFunction('14')">Show</button>
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td>18. 3. 2025</td>
-      <td>1 hour</td>
-      <!-- <td rowspan="1" style="vertical-align : middle;text-align:center;" align="center"><b>Modeling Potpourri</b></td> -->
-      <td>Generating Text from a Language Model</td>
-      <td>
-      Ryan
-      </td>
-      <td>
       <div id="summary13" style="display:none">
-      A popular use case for language modeling is the generation of text. This lecture overviews various strategies for deterministically and stochastically generating text. We discuss beam search, ancestral sampling, as well as various sampling adaptors, e.g., top-k, nucleus, and locally typical sampling.
+      Throughout the class, we have assumed access to the alphabet Σ. This lecture discusses how we should choose Σ. We discuss various facts about natural language that influence Σ, e.g., morphology and syntax. Then, we introduce the byte-pair encoding algorithm, an automatic procedure for inducing Σ, and give a analyze of its correctness and runtime.
       <br/>
       <br/>
       </div>
@@ -389,10 +368,9 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
     <tr>
       <td>25. 3. 2025</td>
       <td>2 hours</td>
-      <td rowspan="1" style="vertical-align : middle;text-align:center;" align="center"><b>Training, Fine Tuning and Inference</b></td>
-      <td>Transfer Learning</td>
+      <td>Generating Text from a Language Model</td>
       <td>
-      Mrinmaya
+      Ryan
       </td>
       <td>
       <div id="summary17" style="display:none">
@@ -411,7 +389,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>28. 3. 2025</td>
       <td>1 hour</td>
       <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Training, Fine Tuning and Inference</b></td>
-      <td>Parameter efficient finetuning</td>
+      <td>Transfer Learning</td>
       <td>
       Mrinmaya
       </td>
@@ -431,7 +409,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
     <tr>
       <td>1. 4. 2025</td>
       <td>2 hours</td>
-      <td>In-context learning, Prompting, zero-shot, instruction tuning </td>
+      <td>Parameter efficient finetuning</td>
       <td>
       Mrinmaya
       </td>
