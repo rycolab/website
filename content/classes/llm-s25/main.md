@@ -726,7 +726,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>1 hour</td>
       <td>Guest Lecture: TBD</td>
       <td>
-      TBD, Florian
+      Niloofar Mireshghallah, Florian
       </td>
       <td>
       <div id="summary33" style="display:none">
@@ -785,7 +785,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>13. 3. 2025</td>
       <td>RNN Language Models</td>
       <td>Kári</td>
-      <td><a href="https://drive.google.com/file/d/1XwYRz1QAz1_itU-7nWtRAN8L2gvRPTlq/view?usp=sharing" target="_blank">Exercises</a>, <a href="https://drive.google.com/file/d/1ODY6kclcTD5iSxG8dKTsWAbdYmZ62TZO/view?usp=sharing" target="_blank">Exercises with solutions</a></td>
+      <td><a href="https://drive.google.com/file/d/1XwYRz1QAz1_itU-7nWtRAN8L2gvRPTlq/view?usp=sharing" target="_blank">Exercises</a>, <a href="https://drive.google.com/file/d/1ixlWV7ABJYwdpMtE6-Lp89nFurI5pegr/view?usp=sharing" target="_blank">Exercises with solutions</a>, <a href="https://drive.google.com/file/d/1DBn3jzadiBvrMSMhM-1_KSXwlglTG0BM/view?usp=sharing" target="_blank">Kári's notes</a></td>
     </tr>
     <tr>
       <th scope="row">5</th>
