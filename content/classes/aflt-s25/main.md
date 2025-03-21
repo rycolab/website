@@ -43,7 +43,7 @@ The lecture and the exercise session will generally be given in person and live 
 
 Lectures and exercise sessions will be recorded---link to the Zoom recordings will be posted on the course [Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=25244).
 
-We also regularly publish Ryan's iPad class notes.
+We also regularly publish [Ryan's iPad class notes](https://drive.google.com/file/d/1DeD_6smpB5whH0GRqlBG3gb9SqAsSotj/view?usp=share_link).
 
 **Note:** This is the first time we are teaching this version of the course, so the syllabus and the course structure might change. Please check the website and Rocketchat regularly for announcements!
 
