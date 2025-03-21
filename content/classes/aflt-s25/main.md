@@ -31,6 +31,8 @@ The course is structured around the book [Finite Automata, Formal Logic, and Cir
 
 **12.3.** [Assignment 1](https://drive.google.com/file/d/1viy0rsYUdWGk-BBkNWERE2AguUzEjmfo/view?usp=sharing) is now released!
 
+**12.3.** Ryan's [lecture notes](https://drive.google.com/file/d/1DeD_6smpB5whH0GRqlBG3gb9SqAsSotj/view?usp=share_link) are now published!
+
 
 ## Syllabus and Schedule
 ### On the Use of Class Time
