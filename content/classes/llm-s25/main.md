@@ -947,8 +947,7 @@ Each of the three assignments contribute 1/3 to the final assignment grade (that
   - [Assignment 1 Submission Template](https://www.overleaf.com/read/fyqmmyxkzzfd#e5ebaf).
 While not strictly necessary, we highly advise you use this template when preparing your submission. It also includes a large number of LaTeX macros which can make your writing faster and easier to read. 
 **Important**: Even if you don't use this template, you should copy the Declaration of originality from the front page into your own submission!  
-- [Assignment 2 Instruction (last year)](https://drive.google.com/file/d/1QqlJQIY2RcHjI_P-csXm85R-VEl09_1w/view?usp=sharing)  
-  - Assignment 2 will be released at the end of March and will likely be due on May 15th
+- [Assignment 2 Instruction](https://drive.google.com/file/d/1XsjxAw0SokhzsZFnrHvd6CUlZz6z3NjU/view?usp=sharing)  
 - [Assignment 3 Instructions (last year)](https://drive.google.com/file/d/1u6CF4llYzcMRbGEIA9h7CsXu1QdUDkLf/view)
   - Assignment 3 will be released at April 15th and will likely be due on May 30th
 
@@ -957,7 +956,7 @@ While not strictly necessary, we highly advise you use this template when prepar
 You will submit your assignments via Moodle.
 
 - Assignment 1 is due on **Wednesday, April 30th** at 23:59.  
-- The *preliminary* deadline for Assignment 2 is **Thursday, May 15th** at 23:59.  
+- Assignment 2 is due on **Friday, May 30th** at 23:59.  
 - The *preliminary* deadline for Assignment 3 is **Friday, May 30th** at 23:59.  
 
 Please be proactive with your time management and start early.
