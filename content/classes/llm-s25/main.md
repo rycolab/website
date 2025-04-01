@@ -947,7 +947,7 @@ Each of the three assignments contribute 1/3 to the final assignment grade (that
   - [Assignment 1 Submission Template](https://www.overleaf.com/read/fyqmmyxkzzfd#e5ebaf).
 While not strictly necessary, we highly advise you use this template when preparing your submission. It also includes a large number of LaTeX macros which can make your writing faster and easier to read. 
 **Important**: Even if you don't use this template, you should copy the Declaration of originality from the front page into your own submission!  
-- [Assignment 2 Instruction](https://drive.google.com/file/d/1XsjxAw0SokhzsZFnrHvd6CUlZz6z3NjU/view?usp=sharing)  
+- [Assignment 2 Instruction](https://drive.google.com/file/d/1NpU98YoRwD2v2Whr6vZpDM7GYhZvGnQT/view?usp=sharing)  
 - [Assignment 3 Instructions (last year)](https://drive.google.com/file/d/1u6CF4llYzcMRbGEIA9h7CsXu1QdUDkLf/view)
   - Assignment 3 will be released at April 15th and will likely be due on May 30th
 
