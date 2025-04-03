@@ -569,7 +569,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
     <tr>
       <td>6. 5. 2025</td>
       <td>2 hours</td>
-      <td>Security & Adversarial examples</td>
+      <td>Security, Adversarial examples, and Watermarks</td>
       <td>
       Florian
       </td>
