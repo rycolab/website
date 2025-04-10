@@ -813,7 +813,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>10. 4. 2025</td>
       <td>Common pre-trained language models, Parameter-efficient fine-tuning</td>
       <td>Dmitrii</td>
-      <td><a href="https://colab.research.google.com/drive/1E9RYg_zLkv35Io3dNqzf3DNzCDtd9jfl?usp=sharing" target="_blank">Google Colab Notebook</a>, <a href="https://excalidraw.com/#json=cqlOzR7j0SNT0Gk3TnGhL,AOMM5IrcYgoc05SBObTylw" target="_blank">Transformer Architecture Drawing</a></td>
+      <td><a href="https://colab.research.google.com/drive/1zMhR3qHql0LrWwyDdVY-h2Cy-B6FntJu?usp=sharing" target="_blank">Google Colab Notebook</a>, <a href="https://excalidraw.com/#json=cqlOzR7j0SNT0Gk3TnGhL,AOMM5IrcYgoc05SBObTylw" target="_blank">Transformer Architecture Drawing</a></td>
     </tr>
     <tr>
       <th scope="row">9</th>
