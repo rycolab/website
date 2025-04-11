@@ -547,12 +547,13 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>2. 5. 2025</td>
       <td>1 hour</td>
       <td rowspan="9" style="vertical-align : middle;text-align:center;" align="center"><b>Security</b></td>
-      <td>Harms & Ethics</td>
+      <td>Security, Adversarial examples, and Watermarks</td>
       <td>
       Florian
       </td>
       <td>
       <div id="summary25" style="display:none">
+      Machine learning models are remarkably brittle, and prone to all kinds of exploits. Language models are no different: we will see how tampering with model inputs or training data can lead to arbitrarily bad outcomes. We will also discuss how language models could be exploited for nefarious purposes such as large-scale spam campaigns. On the other hand, language models could also prove useful as a defensive tool, e.g., for automated online content moderation or for dispelling misinformation.
       Language models work extremely well, until they don’t! What are some of the harms that large-scale deployment of language models can bring? We will discuss ways in which models can perpetrate or exacerbate issues in training data (biases, toxicity, etc.) and the difficulty in aligning models with particular ethical principles or truths.
       <br/>
       <br/>
@@ -635,7 +636,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
     <tr>
       <td>16. 5. 2025</td>
       <td>1 hour</td>
-      <td>Privacy in ML</td>
+      <td>Model stealing attacks</td>
       <td>
       Florian
       </td>
@@ -657,7 +658,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
     <tr>
       <td>20. 5. 2025</td>
       <td>2 hours</td>
-      <td>Memorization + Differential Privacy</td>
+      <td>Privacy, Memorization, Differential Privacy</td>
       <td>
       Florian
       </td>
@@ -680,13 +681,12 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
     <tr>
       <td>23. 5. 2025</td>
       <td>1 hour</td>
-      <td>Data lifecycle</td>
+      <td>Privacy, Memorization, Differential Privacy</td>
       <td>
       Florian
       </td>
       <td>
       <div id="summary31" style="display:none">
-      So far, most of the course has been about models. But what would these models be without the right data? We will discuss the lifecycle of modern training sets for language models, to understand how design choices in the data collection and maintenance process influence the model’s “world view”. We will review emerging guidelines and best practices for managing and documenting machine learning datasets across their lifetime.
       <br/>
       <br/>
       </div>
@@ -702,7 +702,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
     <tr>
       <td>27. 5. 2025</td>
       <td>2 hours</td>
-      <td>Explainability, Interpretability, AI Safety</td>
+      <td>Membership inference attacks</td>
       <td>
       Florian
       </td>
@@ -717,6 +717,8 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <a href="https://drive.google.com/file/d/1POy7pM6VPLCEOv5-75_jHxRcyBYmPeol/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
+      <a href="https://arxiv.org/abs/2112.03570" target="_blank">Carlini et al. Membership Inference Attacks From First Principles</a>, 
+      <a href="https://arxiv.org/abs/2402.07841" target="_blank">Duan et al. Do Membership Inference Attacks Work on Large Language Models?</a>, 
       <a href="https://arxiv.org/abs/2202.05262" target="_blank">Meng et al. Locating and Editing Factual Associations in GPT</a>, 
       <a href="https://arxiv.org/abs/2210.13382" target="_blank">Li et al. Emergent World Representations: Exploring a Sequence Model Trained on a Synthetic Task</a>
       </td>
