@@ -819,7 +819,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
     </tr>
     <tr>
       <th scope="row">9</th>
-      <td>24. 4. 2025</td>
+      <td>17. 4. 2025</td>
       <td>Retrieval-augmented generation</td>
       <td>Maxim</td>
       <td>
