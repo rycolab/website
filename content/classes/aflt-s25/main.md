@@ -23,16 +23,17 @@ The course is structured around the book [Finite Automata, Formal Logic, and Cir
 
 ## News
 
-**17.2.** &emsp; Class website is online!
+**15.4.** [Assignment 2](https://drive.google.com/file/d/10HORMafdnszYwV1cbAvigGDhAKC5t9Kr/view?usp=share_link) is now released!
 
-**17.2.** The exercise session on **20.2.** will **not** take place!
-
-**26.2.** The lecture on **26.2.** will **not** take place!
+**21.3.** Ryan's [lecture notes](https://drive.google.com/file/d/1DeD_6smpB5whH0GRqlBG3gb9SqAsSotj/view?usp=share_link) are now published!
 
 **12.3.** [Assignment 1](https://drive.google.com/file/d/1viy0rsYUdWGk-BBkNWERE2AguUzEjmfo/view?usp=sharing) is now released!
 
-**12.3.** Ryan's [lecture notes](https://drive.google.com/file/d/1DeD_6smpB5whH0GRqlBG3gb9SqAsSotj/view?usp=share_link) are now published!
+**26.2.** The lecture on **26.2.** will **not** take place!
 
+**17.2.** The exercise session on **20.2.** will **not** take place!
+
+**17.2.** &emsp; Class website is online!
 
 ## Syllabus and Schedule
 ### On the Use of Class Time
@@ -242,7 +243,7 @@ Below you can find the assignment instructions.
 **Assignment instructions**:
 
 - [Assignment 1](https://drive.google.com/file/d/1viy0rsYUdWGk-BBkNWERE2AguUzEjmfo/view?usp=sharing)
-- Assignment 2
+- [Assignment 2](https://drive.google.com/file/d/10HORMafdnszYwV1cbAvigGDhAKC5t9Kr/view?usp=share_link)
 - Assignment 3
 - Assignment 4
 - Assignment 5
