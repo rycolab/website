@@ -161,7 +161,7 @@ The structure of this seminar is one of open-ended debate. Each week a group of 
       <td>
       Floridi and Chiriatti, 2020
       </td>
-      <td> </td>
+      <td> Benedek, Justin</td>
     </tr>
     <tr>
       <th scope="row">13</th>
@@ -173,22 +173,21 @@ The structure of this seminar is one of open-ended debate. Each week a group of 
       <td> Leon </td>
     </tr>
     <tr>
-      <th scope="row">14</th>
+      <th scope="row">15</th>
       <td>21.05.24</td>
-      <td> <a href=https://arxiv.org/abs/1801.00631 target="_blank"><b> Deep Learning: a Critical Appraisal </b></a>
+      <td> <a href=https://dl.acm.org/doi/10.1145/3442188.3445922 target="_blank"><b> On the Dangers of Stochastic Parrots</b></a>, <a href=https://arxiv.org/pdf/1604.04695 target="_blank"><b> Parsing with Derivatives </b></a>
       </td>
       <td>
-      Marcus, 2021
+      Bender et al., 2021, Adams et al., 2016
       </td>
-      <td> </td>
+      <td> Manuel, Roy </td>
     </tr>
     <tr>
       <th scope="row">15</th>
       <td>28.05.24</td>
-      <td> <a href=https://dl.acm.org/doi/10.1145/3442188.3445922 target="_blank"><b> On the Dangers of Stochastic Parrots: can Language Models Be Too Big? </b></a>
+      <td> Exercise session
       </td>
       <td>
-      Bender et al., 2021
       </td>
       <td> </td>
     </tr>
