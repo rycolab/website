@@ -561,7 +561,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <button id="button25" style="border:none;" onclick="myFunction('25')">Show</button>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/1WJ0UNVJkr382ohh_SHr0P7D_5-Ux5Ivo/view?usp=sharing" target="_blank">Slides</a>
+      <a href="https://drive.google.com/file/d/1xSb_y-53ILsGLLJoMe8jOXavcE88BQDL/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
       <a href="https://arxiv.org/abs/2212.08073" target="_blank">Bai et al. Constitutional AI: Harmlessness from AI Feedback</a>
@@ -891,6 +891,7 @@ Please report all errata you find in the course notes to the teaching staff in t
 <!-- - [iPad Notes Part 1 (Anej)](https://drive.google.com/file/d/1dv1mWIFlLmhN9czr2VujMTxEieSoSWC7/view?usp=sharing)   -->
 <!-- - [LLM Course Notes Part 2 (last year)](https://drive.google.com/file/d/1PtxuMe6JZyBXBuuGkgDnnD3JRs_JEl5j/view?usp=share_link) -->
 - [LLM Course Notes Part 2 (up to date Overleaf link)](https://www.overleaf.com/read/mytbjbppbbsg#d6e94d)
+<!-- - [LLM Course Notes Part 3](https://arxiv.org/abs/2311.04329)   -->
 
 Other useful literature: 
 
