@@ -583,7 +583,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <button id="button24" style="border:none;" onclick="myFunction('24')">Show</button>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/1YAs40D3AakS0PABrTyWX-2Yf85qk4pqw/view?usp=sharing" target="_blank">Slides</a>
+      <!-- <a href="https://drive.google.com/file/d/1YAs40D3AakS0PABrTyWX-2Yf85qk4pqw/view?usp=sharing" target="_blank">Slides</a> -->
       </td>
       <td>
       <a href="https://arxiv.org/abs/2306.15447" target="_blank">Carlini et al. Are aligned neural networks adversarially aligned?</a>, 
@@ -605,7 +605,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <button id="button26" style="border:none;" onclick="myFunction('26')">Show</button>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/1Agg0EuB118KzEEGxe9W4IC-9vwEcmx7V/view?usp=sharing" target="_blank">Slides</a>
+      <a href="https://drive.google.com/file/d/176BkJ5pkEXuy7Fi_TMOTqZ88g6Oghk2j/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
       <a href="https://arxiv.org/abs/2302.12173" target="_blank">Greshake et al. Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection</a>
@@ -626,7 +626,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <button id="button28" style="border:none;" onclick="myFunction('27')">Show</button>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/1xshkeQZx9K2Xyh_AOQSQa67hYRSVFQ6F/view?usp=sharing" target="_blank">Slides</a>
+      <!-- <a href="https://drive.google.com/file/d/1xshkeQZx9K2Xyh_AOQSQa67hYRSVFQ6F/view?usp=sharing" target="_blank">Slides</a> -->
       </td>
       <td>
       <a href="https://arxiv.org/abs/2302.10149" target="_blank">Carlini et al. Poisoning Web-Scale Training Datasets is Practical</a>, 
@@ -648,7 +648,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <button id="button29" style="border:none;" onclick="myFunction('29')">Show</button>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/12yVcyi6wnHnlivmoc1pHlS15FXxbjRzP/view?usp=sharing" target="_blank">Slides</a>
+      <!-- <a href="https://drive.google.com/file/d/12yVcyi6wnHnlivmoc1pHlS15FXxbjRzP/view?usp=sharing" target="_blank">Slides</a> -->
       </td>
       <td>
       <a href="https://arxiv.org/abs/2011.05315" target="_blank">Carlini et al. Is Private Learning Possible with Instance Encoding?</a>, 
@@ -671,7 +671,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <button id="button30" style="border:none;" onclick="myFunction('30')">Show</button>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/13RwZ792Lz92iEvCr4HSqUV2ZTh8uXqxT/view?usp=sharing" target="_blank">Slides</a>
+      <!-- <a href="https://drive.google.com/file/d/13RwZ792Lz92iEvCr4HSqUV2ZTh8uXqxT/view?usp=sharing" target="_blank">Slides</a> -->
       </td>
       <td>
       <a href="https://arxiv.org/abs/2311.17035" target="_blank">Nasr et al. Scalable Extraction of Training Data from (Production) Language Models</a>, 
@@ -693,7 +693,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <button id="button31" style="border:none;" onclick="myFunction('31')">Show</button>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/1B_PR7X_fhXHFG7dRMYGD_fc1YiTVJUUA/view?usp=sharing" target="_blank">Slides</a>
+      <!-- <a href="https://drive.google.com/file/d/1B_PR7X_fhXHFG7dRMYGD_fc1YiTVJUUA/view?usp=sharing" target="_blank">Slides</a> -->
       </td>
       <td>
       <a href="https://arxiv.org/abs/1803.09010" target="_blank">Gebru et al. Datasheets for Datasets</a>
@@ -714,7 +714,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <button id="button32" style="border:none;" onclick="myFunction('32')">Show</button>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/1POy7pM6VPLCEOv5-75_jHxRcyBYmPeol/view?usp=sharing" target="_blank">Slides</a>
+      <!-- <a href="https://drive.google.com/file/d/1POy7pM6VPLCEOv5-75_jHxRcyBYmPeol/view?usp=sharing" target="_blank">Slides</a> -->
       </td>
       <td>
       <a href="https://arxiv.org/abs/2112.03570" target="_blank">Carlini et al. Membership Inference Attacks From First Principles</a>, 
@@ -840,8 +840,8 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>Prompting, Chain-of-Thought Reasoning</td>
       <td>Manuel</td>
       <td>
-      <a href="https://drive.google.com/file/d/1PASyag56Dj47GDx5f8700RYvlIu-NdU2/view?usp=sharing">Exercises</a>, 
-      <a href="https://drive.google.com/file/d/1g0rtrcnVD8YJ_Q8oeYpeRAAfCHtB2VTR/view?usp=sharing">Exercises with solutions</a>
+      <a href="https://drive.google.com/file/d/1Uga7ZS3xU7ietkgsuZmh_cnP1hklfUs7/view?usp=sharing">Exercises</a>, 
+      <a href="https://drive.google.com/file/d/1WqPmzArUQLYkSJXaa4hNzrFYsFt1jnOv/view?usp=sharing">Exercises with solutions</a>
       </td>
     </tr>
     <tr>
