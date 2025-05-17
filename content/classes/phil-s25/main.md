@@ -231,6 +231,7 @@ Moodle will be the main communication hub for the course. You are responsible fo
         <a href="https://drive.google.com/file/d/1SeYl4lGZ3uMzsk9aEf1JvkyvWZOI9xab/view?usp=share_link" target="_blank"><b>Foucault (1966)</b></a>,
         <a href="https://drive.google.com/file/d/10c2nREUCnDAqHb6cQbiP0jExWrQRbIwi/view?usp=share_link" target="_blank"><b>Foucault (1969)</b></a>
         </br>
+        <a href="https://drive.google.com/file/d/1fUiKUVYh59KVxpY-Ilmy52P2AvnWn8DV/view?usp=share_link" target="_blank">Deleuze (1988)</a>,
         <a href="https://critinq.wordpress.com/2023/06/26/again-theory-a-forum-on-language-meaning-and-intent-in-the-time-of-stochastic-parrots/" target="_blank">Kirschenbaum (2023)</a>,
         <a href="https://critinq.wordpress.com/2023/06/29/the-empirical-triumph-of-theory/" target="_blank">Underwood (2023)</a>
       </td>
