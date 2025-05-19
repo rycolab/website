@@ -648,7 +648,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <button id="button29" style="border:none;" onclick="myFunction('29')">Show</button>
       </td>
       <td>
-      <!-- <a href="https://drive.google.com/file/d/12yVcyi6wnHnlivmoc1pHlS15FXxbjRzP/view?usp=sharing" target="_blank">Slides</a> -->
+      <a href="https://drive.google.com/file/d/1gagiHaD01KiDi9HwArG-3RF5Y7voHdG-/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
       <a href="https://arxiv.org/abs/2011.05315" target="_blank">Carlini et al. Is Private Learning Possible with Instance Encoding?</a>, 
@@ -671,7 +671,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <button id="button30" style="border:none;" onclick="myFunction('30')">Show</button>
       </td>
       <td>
-      <!-- <a href="https://drive.google.com/file/d/13RwZ792Lz92iEvCr4HSqUV2ZTh8uXqxT/view?usp=sharing" target="_blank">Slides</a> -->
+      <a href="https://drive.google.com/file/d/1DLeoePB7DcB3aDzc4uSg4tf635uNCgDw/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
       <a href="https://arxiv.org/abs/2311.17035" target="_blank">Nasr et al. Scalable Extraction of Training Data from (Production) Language Models</a>, 
