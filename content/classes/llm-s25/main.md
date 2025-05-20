@@ -857,8 +857,8 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
     <tr>
       <th scope="row">13</th>
       <td>22. 5. 2025</td>
-      <td>Assignment 2 Q&A, Assignment 3 Q&A</td>
-      <td>Maxim, Dmitrii, Kiril, Kári, Matej</td>
+      <td>Assignment 2 Q&A</td>
+      <td>Maxim, Dmitrii, Kiril</td>
       <td></td>
     </tr>
     <tr>
