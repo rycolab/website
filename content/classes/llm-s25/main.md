@@ -726,12 +726,13 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
     <tr>
       <td>30. 5. 2025</td>
       <td>1 hour</td>
-      <td>Guest Lecture: TBD</td>
+      <td>Guest Lecture: A False Sense of Privacy: Semantic Leakage, Non-literal Copying, and Other Privacy Concerns in LLMs</td>
       <td>
       Niloofar Mireshghallah, Florian
       </td>
       <td>
       <div id="summary33" style="display:none">
+      The reproduction of training data by large language models has significant privacy and copyright implications, with concerns ranging from exposing medical records to violating intellectual property rights. While current evaluations and mitigation methods focus primarily on verbatim copying and explicit data leakage, we demonstrate that these provide a false sense of safety at a surface level. In this talk, we show how building evaluations and red-teaming efforts solely around verbatim reproduction can be misleading - surface level sanitization, while removing direct identifiers, still poses risks of re-identification through inference, and although aligned models show fewer direct regurgitations, they still reproduce non-literal content by generating series of events that are substantially similar to original works. Looking ahead, our findings highlight the need to shift toward more dynamic benchmarks that can capture these nuanced forms of information leakage, while developing protection methods that address both literal and semantic reproduction of content.
       <br/>
       <br/>
       </div>
