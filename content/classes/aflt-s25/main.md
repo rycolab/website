@@ -23,6 +23,8 @@ The course is structured around the book [Finite Automata, Formal Logic, and Cir
 
 ## News
 
+**24.6.** [Assignment 4](https://drive.google.com/file/d/19xnWu0P9fKE9qLkJPCrjuxXN0OZg1Bb7/view?usp=share_link) and [Assignment 5](https://drive.google.com/file/d/14JMXCrOhg0lxYwdChwu_qjhPk0qpNSE8/view?usp=share_link) are released!
+
 **7.5.** [Assignment 3](https://drive.google.com/file/d/1Ji_mGevRDsIlvVFrNSaPbdfSwJyiM5Gu/view?usp=share_link) is now released!
 
 **15.4.** [Assignment 2](https://drive.google.com/file/d/10HORMafdnszYwV1cbAvigGDhAKC5t9Kr/view?usp=share_link) is now released!
@@ -247,8 +249,8 @@ Below you can find the assignment instructions.
 - [Assignment 1](https://drive.google.com/file/d/1viy0rsYUdWGk-BBkNWERE2AguUzEjmfo/view?usp=sharing)
 - [Assignment 2](https://drive.google.com/file/d/10HORMafdnszYwV1cbAvigGDhAKC5t9Kr/view?usp=share_link)
 - [Assignment 3](https://drive.google.com/file/d/1Ji_mGevRDsIlvVFrNSaPbdfSwJyiM5Gu/view?usp=share_link)
-- Assignment 4
-- Assignment 5
+- [Assignment 4](https://drive.google.com/file/d/19xnWu0P9fKE9qLkJPCrjuxXN0OZg1Bb7/view?usp=share_link)
+- [Assignment 5](https://drive.google.com/file/d/14JMXCrOhg0lxYwdChwu_qjhPk0qpNSE8/view?usp=share_link)
 
 ## Contact
 You can ask questions on the course chat server. 
