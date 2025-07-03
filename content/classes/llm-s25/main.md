@@ -916,7 +916,7 @@ The final exam is comprehensive and should be assumed to cover all the material 
 The date is determined by the ETH examinations office centrally and will be announced towards the end of the semester.
 
 - [Sample exam](https://drive.google.com/file/d/1bBOQg8drUEUxHJjEqMAN3S0ST7ICfe9l/view?usp=sharing)  
-- [Exam review sheet (WIP)](https://docs.google.com/document/d/1sqYYMJvTlItcjAdtdbpcf1knz0MSabr7DdeqF34mPeY/edit?usp=sharing)
+- [Exam review sheet](https://docs.google.com/document/d/1sqYYMJvTlItcjAdtdbpcf1knz0MSabr7DdeqF34mPeY/edit?usp=sharing)
 
 **Remote exams**:
 ETH offers a centralized system for taking exams remotely if you are an exchange student or under specific circumstances for ETH students as well. 
