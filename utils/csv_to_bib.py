@@ -47,6 +47,7 @@ class CSVParseError(Exception):
 def parse_headers(headers, bib_attribute_map = BIB_ATTRIBUTE_MAP):
   valid_columns = {}
   invalid_columns = {}
+  print(headers)
 
   for i, header in enumerate(headers):
     found = False
@@ -58,9 +59,8 @@ def parse_headers(headers, bib_attribute_map = BIB_ATTRIBUTE_MAP):
 
     if found == False:
       invalid_columns[i] = header.strip()
-
   if KEY not in valid_columns.values():
-    print(KEY, headers)
+    print(KEY, headers, valid_columns)
     import ipdb; ipdb.set_trace()
     raise CSVParseError('no key column found')
 
@@ -115,7 +115,7 @@ def to_bib(ref):
         continue
     if attr == 'featured':
       if attr_value == 'yes':
-        featured = True
+        featured = False
       continue
 
     if attr == 'recent':

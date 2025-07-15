@@ -10,15 +10,13 @@ authors:
 - Ethan G. Wilcox
 - Roger Levy
 - Ryan Cotterell
-
-# Author notes (such as 'Equal Contribution')
 author_notes: []
 
 date: '2023-07-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-06-21T14:03:01.051393Z'
+publishDate: '2025-07-15T16:36:08.240478Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,25 +24,24 @@ publishDate: '2024-06-21T14:03:01.051393Z'
 # 7 = Thesis; 8 = Patent
 publication_types:
 - '2'
-
-# Publication name and optional abbreviated publication name.
 publication: '*Transactions of the Association for Computational Linguistics*'
 publication_short: ''
 
-abstract: "Over the past two decades, numerous studies have demonstrated how less
-  predictable (i.e. higher surprisal) words take more time to read. In general, these
-  previous studies implicitly assumed the reading process to be purely responsive:
-  readers observe a new word and allocate time to read it as required. These results,
-  however, are also compatible with a reading time that is anticipatory: readers could,
-  e.g., allocate time to a future word based on their expectation about it. In this
-  work, we examine the anticipatory nature of reading by looking at how people's predictions
-  about upcoming material influence reading times. Specifically, we test anticipation
-  by looking at the effects of surprisal and contextual entropy on four reading-time
-  datasets: two self-paced and two eye-tracking. In three of four datasets tested,
-  we find that the entropy predicts reading times as well as (or better than) the
-  surprisal. We then hypothesise four cognitive mechanisms through which the contextual
-  entropy could impact RTs -- three of which we design experiments to analyse. Overall,
-  our results support a view of reading that is both anticipatory and responsive."
+abstract: "Over the past two decades, numerous studies have demonstrated how less\
+  \ predictable (i.e. higher surprisal) words take more time to read. In general,\
+  \ these previous studies implicitly assumed the reading process to be purely responsive:\
+  \ readers observe a new word and allocate time to read it as required. These results,\
+  \ however, are also compatible with a reading time that is anticipatory: readers\
+  \ could, e.g., allocate time to a future word based on their expectation about it.\
+  \ In this work, we examine the anticipatory nature of reading by looking at how\
+  \ people's predictions about upcoming material influence reading times. Specifically,\
+  \ we test anticipation by looking at the effects of surprisal and contextual entropy\
+  \ on four reading-time datasets: two self-paced and two eye-tracking. In three of\
+  \ four datasets tested, we find that the entropy predicts reading times as well\
+  \ as (or better than) the surprisal. We then hypothesise four cognitive mechanisms\
+  \ through which the contextual entropy could impact RTs -- three of which we design\
+  \ experiments to analyse. Overall, our results support a view of reading that is\
+  \ both anticipatory and responsive."
 
 # Summary. An optional shortened abstract.
 summary: ''

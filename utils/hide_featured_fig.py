@@ -2,7 +2,6 @@ import sys, getopt, csv
 import os, subprocess
 from collections import namedtuple
 
-SCRIPT_NAME = 'csv2bib'
 PUB_DIR = 'content/publication'
 KEY = 'name'
 READY_KEY = 'ready'

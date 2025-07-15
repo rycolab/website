@@ -9,15 +9,13 @@ authors:
 - Benjamin J. Radford
 - Ryan Cotterell
 - Aaron Schein
-
-# Author notes (such as 'Equal Contribution')
 author_notes: []
 
 date: '2023-04-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-06-21T14:02:59.317406Z'
+publishDate: '2025-07-15T16:36:02.110132Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,28 +23,26 @@ publishDate: '2024-06-21T14:02:59.317406Z'
 # 7 = Thesis; 8 = Patent
 publication_types:
 - '1'
-
-# Publication name and optional abbreviated publication name.
 publication: '*Proceedings of the 26th International Conference on Artificial Intelligence
   and Statistics*'
 publication_short: ''
 
-abstract: "Many dynamical systems in the real world are naturally described by latent
-  states with intrinsic orderings, such as \\\"ally\\\", \\\"neutral\\\", and \\\"\
-  enemy\\\" relationships in international relations. These latent states manifest
-  through countries' cooperative versus conflictual interactions over time. State-space
-  models (SSMs) explicitly relate the dynamics of observed measurements to transitions
-  in latent states. For discrete data, SSMs commonly do so through a state-to-action
-  emission matrix and a state-to-state transition matrix. This paper introduces the
-  Ordered Matrix Dirichlet (OMD) as a prior distribution over ordered stochastic matrices
-  wherein the discrete distribution in the kth row stochastically dominates the (k+1)th,
-  such that probability mass is shifted to the right when moving down rows. We illustrate
-  the OMD prior within two SSMs: a hidden Markov model, and a novel dynamic Poisson
-  Tucker decomposition model tailored to international relations data. We find that
-  models built on the OMD recover interpretable ordered latent structure without forfeiting
-  predictive performance. We suggest future applications to other domains where models
-  with stochastic matrices are popular (e.g., topic modeling), and publish user-friendly
-  code."
+abstract: "Many dynamical systems in the real world are naturally described by latent\
+  \ states with intrinsic orderings, such as \\\"ally\\\", \\\"neutral\\\", and \\\
+  \"enemy\\\" relationships in international relations. These latent states manifest\
+  \ through countries' cooperative versus conflictual interactions over time. State-space\
+  \ models (SSMs) explicitly relate the dynamics of observed measurements to transitions\
+  \ in latent states. For discrete data, SSMs commonly do so through a state-to-action\
+  \ emission matrix and a state-to-state transition matrix. This paper introduces\
+  \ the Ordered Matrix Dirichlet (OMD) as a prior distribution over ordered stochastic\
+  \ matrices wherein the discrete distribution in the kth row stochastically dominates\
+  \ the (k+1)th, such that probability mass is shifted to the right when moving down\
+  \ rows. We illustrate the OMD prior within two SSMs: a hidden Markov model, and\
+  \ a novel dynamic Poisson Tucker decomposition model tailored to international relations\
+  \ data. We find that models built on the OMD recover interpretable ordered latent\
+  \ structure without forfeiting predictive performance. We suggest future applications\
+  \ to other domains where models with stochastic matrices are popular (e.g., topic\
+  \ modeling), and publish user-friendly code."
 
 # Summary. An optional shortened abstract.
 summary: ''

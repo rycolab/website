@@ -9,15 +9,13 @@ authors:
 - Alec Thompson
 - Ryan Cotterell
 - Simone Teufel
-
-# Author notes (such as 'Equal Contribution')
 author_notes: []
 
 date: '2023-12-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-06-21T14:03:01.420598Z'
+publishDate: '2025-07-15T16:36:09.518750Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,8 +23,6 @@ publishDate: '2024-06-21T14:03:01.420598Z'
 # 7 = Thesis; 8 = Patent
 publication_types:
 - '0'
-
-# Publication name and optional abbreviated publication name.
 publication: '*Association for Computational Linguistics*'
 publication_short: ''
 
