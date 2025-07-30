@@ -41,6 +41,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/ClementeP
+- icon: portrait
+  icon_pack: fas
+  link: https://clementep.github.io/
 
 
 
