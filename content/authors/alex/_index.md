@@ -35,7 +35,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:hoyle@umd.edu"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:alexander.hoyle@ai.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/miserlis_
