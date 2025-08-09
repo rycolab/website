@@ -16,6 +16,8 @@ role: Postdoc
 organizations:
 - name: ETH Zürich
   url: "https://inf.ethz.ch"
+- name: Stanford
+  url: "https://www.cs.stanford.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -51,9 +53,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Members
-- Current
-- Senior
-- Senior Members
+- Alumna
 ---
 
 Carmen is a Postdoctoral Fellow at the ETH AI Center, affiliated with Melanie Zeilinger, Ryan Cotterell and Florian Dorfler. She completed her PhD in control theory at Caltech, and is very interested in exploring how control theoretical tools can be used to improve language technologies, as well as to enhance our understanding of their behavior.
