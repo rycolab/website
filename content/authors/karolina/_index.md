@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-- name: University of Copenhagen
-  url: "https://www.ku.dk/english/"
+- name: ETH Zürich
+  url: "https://inf.ethz.ch"
 
 # Short bio (displayed in user profile at end of posts)
 bio: PhD student at the University of Copenhagen
@@ -53,7 +53,10 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Members
-- Alumna
+- Senior
+- Senior Members
+- Current
+
 ---
 <!-- Karolina is a first-year PhD student at the University of Copenhagen, co-advised by [Isabelle Augenstein](http://isabelleaugenstein.github.io/) and Ryan. Previously, she received a BSc in Economics with a major in Statistics and Econometrics and completed an MSc in Statistics, both from the Humboldt University of Berlin. Besides, prior to starting her PhD she has worked as a data science consultant. Her primary research interests are bias and fairness in NLP, interpretability and statistical methods. In her spare time she enjoys knitting warm socks and sweaters, and learning languages, both very useful for her Ph.D.-related move to Denmark.
 

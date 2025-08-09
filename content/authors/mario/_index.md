@@ -16,6 +16,8 @@ role: Postdoc
 organizations:
 - name: ETH Zürich
   url: "https://inf.ethz.ch"
+- name: UK AI Security Institute
+  url: "UK AI Security Institute"
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -58,7 +60,7 @@ user_groups:
 - Members
 - Senior
 - Senior Members
-- Current
+- Alumna
 ---
 
 Mario is a postdoctoral researcher at ETH Zurich in the Institute for Machine Learning, Department of Computer Science, and a member of the ELLIS Society. He completed a PhD in computational linguistics at the University of Amsterdam, in the Institute for Logic, Language and Computation. Mario studies language use and evolution using tools from computer science, linguistics, and cognitive science. His topics of interest include language modelling, NLP interpretability and evaluation, natural language generation, computational semantics and pragmatics, language variation and change in communities of speakers.
