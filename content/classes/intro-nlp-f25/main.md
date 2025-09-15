@@ -28,10 +28,6 @@ There are two lecture slots for NLP. The first slot is on Monday from 12h to 14h
 During this time, the main lecture will be given. 
 The second slot is on Tuesday from 13h to 14h and will be used as a spill-over time if we did not get through all of the lecture material on Monday (this ensures that the class stays on track) and, time-permitting, the professor will work examples and hold an open-ended ask-me-anything-about-NLP session.
 
-#### Zoom Link and Recordings
-Both lectures will be given in the lecture hall HG F1 and live broadcast on Zoom. 
-
-
 
 ### Live Chat
 In addition to class time, there will also be a RocketChat-based live chat hosted on ETH’s servers. 
@@ -124,7 +120,7 @@ The detailed instructions for the submission will be given in each assignment se
 
 
 ### On the Tutorials
-Tutorials will take place Wednesdays 16h to 19h in HG F7 and on Zoom.
+Tutorials will take place Wednesdays 16h to 19h in HG F7.
 Their main purpose will be to solve some exercises with you that will help you grasp the concepts from the lecture and to help you prepare for the exam.
 They will also introduce new assignments and allow you to ask questions about them.
 Roughly, we expect to devote 2 hours per week to exercises and 1 hour to the assignments (when a new assignment has been released).
@@ -173,7 +169,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <td>22.9.2025</td>
       <td>Introduction to NLP, Course logistics,</br>
        Introduction of the TA team</td>
-      <td><a href="https://drive.google.com/file/d/1niD2nlxsftvMtCrP9zYVoHspNiM5JyuN/view?usp=sharing" target="_blank">Lecture 1</a>
+      <td><a href="https://drive.google.com/file/d/1niD2nlxsftvMtCrP9zYVoHspNiM5JyuN/view?usp=sharing" target="_blank">(last year) Lecture 1</a>
       <!-- </br><a href="" target="_blank">TA Intro Slides</a> -->
       </td>
       <td>Eisenstein Ch. 1</td>
@@ -193,7 +189,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <th rowspan=2 scope="row">2</th>
       <td>30.9.2025</td>
       <td>Backpropagation</td>
-      <td><a href="https://drive.google.com/file/d/1ZVCFUOr1ZgTFoP4saDPR5Vu7w9PL9uMJ/view?usp=sharing" target="_blank">Lecture 2</a></td>
+      <td><a href="https://drive.google.com/file/d/1ZVCFUOr1ZgTFoP4saDPR5Vu7w9PL9uMJ/view?usp=sharing" target="_blank">(last year) Lecture 2</a></td>
       <td>Goodfellow, Bengio and Courville Ch. 6.5</td>
       <td>
         <a href="https://colah.github.io/posts/2015-08-Backprop/" target="_blank">Chris Olah's Blog</a></br>
@@ -208,8 +204,6 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
         <a href="https://drive.google.com/file/d/1XWRz4yMi2A5BZSRSgnnbRJikqz7RYtrN/view?usp=sharing" target="_blank">Computation Graph for MLP</a></br>
         <a href="https://drive.google.com/file/d/1hsYIXXd6cEWocrhI-pQ4Ox8FG49Otu_m/view?usp=sharing" target="_blank">Computation Graph Example</a></td>
         <td>
-        <a href="https://drive.google.com/file/d/1PzK8Dx5yL4Oi6-nWQ-gsA3EslBTT8el0/view?usp=sharing" target="_blank">Week 2 Exercises</a></br>
-        <a href="https://drive.google.com/file/d/1zce25sGvTtYJJE0x3DbHm8WSfVfjB_hX/view?usp=sharing" target="_blank">Week 2 Solutions</a>
         </td>
     </tr>
     <tr>
@@ -218,14 +212,12 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <th rowspan=2 scope="row">3</th>
       <td>6.10.2025</td>
       <td>Log-Linear Modeling---Meet the Softmax</td>
-      <td><a href="https://drive.google.com/file/d/1QXG7xroC0Pp7CaD66vIHNhBypUhqP5LV/view?usp=sharing" target="_blank">Lecture 3</a></td>
+      <td><a href="https://drive.google.com/file/d/1QXG7xroC0Pp7CaD66vIHNhBypUhqP5LV/view?usp=sharing" target="_blank">(last year) Lecture 3</a></td>
       <td>Eisenstein Ch. 2</td>
       <td><a href="https://www.cs.jhu.edu/~jason/papers/ferraro+eisner.tnlp13.pdf" target="_blank">Ferraro and Eisner (2013)</a></br>
       <a href="http://cs.jhu.edu/~jason/tutorials/loglin/further.html">Jason Eisner’s list of further resources on log-linear modeling</a></td>
       <td>
-        <a href="https://drive.google.com/file/d/1a9U9Sa3VS0T01rME5J1A9zVMthp6lyH8/view?usp=sharing" target="_blank">Week 3 Exercises</a></br>
-        <a href="https://drive.google.com/file/d/1h4umv8-isYLO1nprhmlsJX2wkpmhxqo4/view?usp=sharing" target="_blank">Week 3 Solutions</a>
-        </td>
+      </td>
     </tr>
     <tr>
       <td>7.10.2025</td>
@@ -239,12 +231,10 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <th rowspan=2 scope="row">4</th>
       <td>13.10.2025</td>
       <td>Sentiment Analysis with Multi-layer Perceptrons</td>
-      <td><a href="https://drive.google.com/file/d/1ct4gO2kMcSpzRSEbaARIbTysRL_kkb14/view?usp=sharing" target="_blank">Lecture 4</a></td>
+      <td><a href="https://drive.google.com/file/d/1ct4gO2kMcSpzRSEbaARIbTysRL_kkb14/view?usp=sharing" target="_blank">(last year) Lecture 4</a></td>
       <td>Eisenstein Ch. 3 and 4;</br>Goodfellow, Bengio and Courville Ch. 6</td>
       <td></td>
       <td>
-      <a href="https://drive.google.com/file/d/1qiYK0fWYzq3--bL6pWiXn6TN2le13Nnr/view?usp=sharing" target="_blank">Week 4 Exercises</a></br>
-      <a href="https://drive.google.com/file/d/1sNymKBr10iuXOffRP9yDeQ7xSRTKD0WI/view?usp=sharing" target="_blank">Week 4 Solutions</a></br>
       </td>
     </tr>
     <tr>
@@ -259,7 +249,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <th rowspan=2 scope="row">5</th>
       <td>20.10.2025</td>
       <td>Language Modeling with <em>n</em>-grams and LSTMs</td>
-      <td><a href="https://drive.google.com/file/d/1ZoMDetnAoIMCoYkJdjU70i1rRM591cP_/view?usp=sharing" target="_blank">Lecture 5</a></td>
+      <td><a href="https://drive.google.com/file/d/1ZoMDetnAoIMCoYkJdjU70i1rRM591cP_/view?usp=sharing" target="_blank">(last year) Lecture 5</a></td>
       <td>Eisenstein Ch. 6;</br>Goodfellow, Bengio and Courville Ch. 10</td>
       <td><a href="https://nlp.stanford.edu/~wcmac/papers/20050421-smoothing-tutorial.pdf" target="_blank">Good Tutorial on n-gram smoothing</a></br>
         <a href="https://en.wikipedia.org/wiki/Good%E2%80%93Turing_frequency_estimation" target="_blank">Good–Turing Smoothing</a></br>
@@ -267,8 +257,6 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
         <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf" target="_blank">Bengio et al. (2003)</a></br>
         <a href="https://www.isca-archive.org/interspeech_2010/mikolov10_interspeech.pdf" target="_blank">Mikolov et al. (2010)</a></td>
       <td>
-      <a href="https://drive.google.com/file/d/1tUE-bcioWzAnZoo45T2zn6wL7JkfxR_Z/view?usp=sharing" target="_blank">Week 5 Exercises</a></br>
-      <a href="https://drive.google.com/file/d/1iwhdv21PIYad_yLm8wcmasUtHAnpkS2B/view?usp=sharing" target="_blank">Week 5 Solutions</a></br>
       </td>
     </tr>
     <tr>
@@ -282,7 +270,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <th rowspan=2 scope="row">6</th>
       <td>27.10.2025</td>
       <td>Part-of-Speech Tagging with CRFs</td>
-      <td><a href="https://drive.google.com/file/d/1S9TiYg17TuXPyAKplLhWrK5Pfnha3dQh/view?usp=sharing" target="_blank">Lecture 6</a></td>
+      <td><a href="https://drive.google.com/file/d/1S9TiYg17TuXPyAKplLhWrK5Pfnha3dQh/view?usp=sharing" target="_blank">(last year) Lecture 6</a></td>
       <td>Eisenstein Ch. 7 and 8</td>
       <td><a href="https://timvieira.github.io/blog/post/2015/04/29/multiclass-logistic-regression-and-conditional-random-fields-are-the-same-thing/" target="_blank">Tim Vieira's Blog</a></br>
         <a href="https://dl.acm.org/doi/10.5555/645529.658277" target="_blank">McCallum et al. (2000)</a></br>
@@ -290,8 +278,6 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
         <a href="https://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf" target="_blank">Sutton and McCallum (2011)</a></br>
         <a href="https://mitpress.mit.edu/books/probabilistic-graphical-models" target="_blank">Koller and Friedman (2009)</a></td>
         <td>
-        <a href="https://drive.google.com/file/d/1GS6oWRqU3GzV-RM8ggiAoVzPcf2KL_G9/view?usp=sharing" target="_blank">Week 6 Exercises</a></br>
-        <a href="https://drive.google.com/file/d/1d-9KrxDbFyChiJ6j49gLIOf-60C9FttA/view?usp=sharing" target="_blank">Week 6 Solutions</a></br>
         </td>
     </tr>
     <tr>
@@ -306,14 +292,12 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <th rowspan=2 scope="row">7</th>
       <td>3.11.2025</td>
       <td>Transliteration with WFSTs</td>
-      <td><a href="https://drive.google.com/file/d/11Uoecz5i0__wCpKdxa7dnNDVN1gRZ-i7/view?usp=sharing" target="_blank">Lecture 7</a></td>
+      <td><a href="https://drive.google.com/file/d/11Uoecz5i0__wCpKdxa7dnNDVN1gRZ-i7/view?usp=sharing" target="_blank">(last year) Lecture 7</a></td>
       <td>Eisenstein Ch. 9</td>
       <td><a href="https://rycolab.io/classes/aflt-s22/" target="_blank">AFLT Course Notes</a> Chapters 1, 2, and 3</br>
       <a href="https://www.aclweb.org/anthology/J98-4003.pdf" target="_blank">Knight and Graehl (1998)</a></br>
         <a href="https://cs.nyu.edu/~mohri/pub/hbka.pdf" target="_blank">Mohri, Pereira and Riley (2008)</a></td>
       <td>
-      <a href="https://drive.google.com/file/d/1CqGYmuTuGAc8bs6P5dgpA8FofO6jngTh/view?usp=sharing" target="_blank">Week 7 Exercises</a></br>
-      <a href="https://drive.google.com/file/d/1CjOW0FiRogQqlEJHPBquCxiVEsy43beb/view?usp=sharing" target="_blank">Week 7 Solutions</a></br>
       </td>
       </td>
     </tr>
@@ -333,7 +317,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <th rowspan=2 scope="row">8</th>
       <td>10.11.2025</td>
       <td>Context-Free Parsing with CKY</td>
-      <td><a href="https://drive.google.com/file/d/1ULt6GMNlABjKEaQECj4QkdyRQaaDsfa4/view?usp=sharing" target="_blank">Lecture 8</a></td>
+      <td><a href="https://drive.google.com/file/d/1ULt6GMNlABjKEaQECj4QkdyRQaaDsfa4/view?usp=sharing" target="_blank">(last year) Lecture 8</a></td>
       <td>Eisenstein Ch. 10</td>
       <td><a href="http://www.cs.columbia.edu/~mcollins/io.pdf" target="_blank">The Inside-Outside Algorithm</a></br>
         <a href="https://www.cs.jhu.edu/~jason/465/PowerPoint/lect08-parse.ppt" target="_blank">Jason Eisner’s Slides</a></br>
@@ -341,8 +325,6 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
         <a href="https://www.sciencedirect.com/science/article/pii/S001999586780007X?via%3Dihub" target="_blank">Younger (1967)</a></br>
         <a href="http://www.softwarepreservation.org/projects/FORTRAN/CockeSchwartz_ProgLangCompilers.pdf" target="_blank">Cocke and Schwartz (1970)</a></td>
       <td>
-      <a href="https://drive.google.com/file/d/1jcQ3qFvS9t9EfZNKtTZRnSnBT5nBw_ui/view?usp=sharing" target="_blank">Week 8 Exercises</a></br>
-      <a href="https://drive.google.com/file/d/1_IKgtVlIC7k5xqdV5BbvSaf6-NjwRmlt/view?usp=sharing" target="_blank">Week 8 Solutions</a></br>
       </td>
     </tr>
     <tr>
@@ -361,15 +343,13 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <th rowspan=2 scope="row">9</th>
       <td>17.11.2025</td>
       <td>Dependency Parsing with the Matrix-Tree Theorem</td>
-      <td><a href="https://drive.google.com/file/d/126SXuv8vjgE34nN-iE-6oTuk0ryRKoZW/view?usp=sharing" target="_blank">Lecture 9 </a></td>
+      <td><a href="https://drive.google.com/file/d/126SXuv8vjgE34nN-iE-6oTuk0ryRKoZW/view?usp=sharing" target="_blank">(last year) Lecture 9 </a></td>
       <td>Eisenstein Ch. 11</td>
       <td><a href="https://www.aclweb.org/anthology/D07-1015/" target="_blank">Koo et al. (2007)</a></br>
         <a href="https://www.aclweb.org/anthology/D07-1014/" target="_blank">Smith and Smith (2007)</a></br>
         <a href="https://www.aclweb.org/anthology/W07-2216/" target="_blank">McDonald and Satta (2007)</a></br>
         <a href="https://www.morganclaypool.com/doi/abs/10.2200/S00169ED1V01Y200901HLT002" target="_blank">McDonald, Kübler and Nivre (2009)</a></td>
       <td>
-      <a href="https://drive.google.com/file/d/1AzU0Ae1Sh15hiVFI2dYF1hb6_RS-p8be/view?usp=sharing" target="_blank">Week 9 Exercises</a></br>
-      <a href="https://drive.google.com/file/d/1QOxc5FZBDJdDAAdMM-gCKCaUWfblGj78/view?usp=sharing" target="_blank">Week 9 Solutions</a></br>
       </td>
     </tr>
     <tr>
@@ -384,14 +364,12 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <th rowspan=2 scope="row">10</th>
       <td>24.11.2025</td>
       <td>Semantic Parsing with CCGs</td>
-      <td><a href="https://drive.google.com/file/d/1QMHp3ZlDOl8i8lOBBmYTSwq7d-lib8jf/view?usp=sharing" target="_blank">Lecture 10</a></td>
+      <td><a href="https://drive.google.com/file/d/1QMHp3ZlDOl8i8lOBBmYTSwq7d-lib8jf/view?usp=sharing" target="_blank">(last year) Lecture 10</a></td>
       <td>Eisenstein Ch. 9.3 and 12</td>
       <td><a href="https://www.aclweb.org/anthology/P88-1034/" target="_blank">Weir and Joshi (1988)</a></br>
         <a href="https://www.aclweb.org/anthology/Q14-1032/" target="_blank">Kuhlmann and Satta (2014)</a></br>
         <a href="https://homepages.inf.ed.ac.uk/steedman/papers/ccg/ikdoz17.2.pdf" target="_blank">Mark Steedman's CCG slides</a></td>
       <td>
-      <a href="https://drive.google.com/file/d/1hklukBto8tay4tqhLkunExQ1psVTQksa/view?usp=sharing" target="_blank">Week 10 Exercises</a></br>
-      <a href="https://drive.google.com/file/d/15ov7AWdKRldqtxnqs5ZPcBz9qIgqaAc0/view?usp=sharing" target="_blank">Week 10 Solutions</a></br>
       </td>
     </tr>
     <tr>
@@ -406,7 +384,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <th rowspan=2 scope="row">11</th>
       <td>1.12.2025</td>
       <td>Machine Translation with Transformers</td>
-      <td><a href="https://drive.google.com/file/d/16_eyunOZG1vFF4pNikaSMZdNO86j2HfZ/view?usp=sharing" target="_blank">Lecture 11</a></td>
+      <td><a href="https://drive.google.com/file/d/16_eyunOZG1vFF4pNikaSMZdNO86j2HfZ/view?usp=sharing" target="_blank">(last year) Lecture 11</a></td>
       <td>Eisenstein Ch. 18</td>
       <td>
         <a href="https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf" target="_blank">Vaswani et al. (2017)</a></br>
@@ -414,8 +392,6 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
         <a href="https://jalammar.github.io/illustrated-transformer/">The Illustrated Transformer</a></br>
         <a href="https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/">The Transformer Family</a></td>
       <td>
-      <a href="https://drive.google.com/file/d/1FMNRL0s8mFb0Orq98HNF__dYi829-ZlL/view?usp=sharing" target="_blank">Week 11 Exercises</a></br>
-      <a href="https://drive.google.com/file/d/1RBlrTqWokZSlfjc2167w7Z5NRKcNfZCl/view?usp=sharing" target="_blank">Week 11 Solutions</a></br>
       </td>
     </tr>
     <tr>
@@ -430,12 +406,10 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <th rowspan=2 scope="row">12</th>
       <td>8.12.2025</td>
       <td>Axes of Modeling</td>
-      <td><a href="https://drive.google.com/file/d/1iIwAej8yO90E0kvyNKty4D2SArATuNHm/view?usp=sharing" target="_blank">Lecture 12</a></td>
+      <td><a href="https://drive.google.com/file/d/1iIwAej8yO90E0kvyNKty4D2SArATuNHm/view?usp=sharing" target="_blank">(last year) Lecture 12</a></td>
       <td>Review Eisenstein Ch. 2;</br>Goodfellow, Bengio and Courville Ch. 5 and 11</td>
       <td></td>
       <td>
-      <a href="https://drive.google.com/file/d/1S1MH4RKo5z4Cj9gOhU9-zcIsuUv5I1uH/view?usp=sharing" target="_blank">Week 12 Exercises</a></br>
-      <a href="https://drive.google.com/file/d/1RfMoit2pDR2USNDyOpo4uC71tcDUPEun/view?usp=sharing" target="_blank">Week 12 Solutions</a></br>
       </td>
     </tr>
     <tr>
@@ -450,7 +424,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <th rowspan=2 scope="row">13</th>
       <td>15.12.2025</td>
       <td>Bias and Fairness in NLP</td>
-      <td><a href="https://drive.google.com/file/d/1xYL3tUFN1xGjJrQNXMLOQEPLzRK5A8rH/view?usp=sharing" target="_blank">Lecture 13</a></td>
+      <td><a href="https://drive.google.com/file/d/1xYL3tUFN1xGjJrQNXMLOQEPLzRK5A8rH/view?usp=sharing" target="_blank">(last year) Lecture 13</a></td>
       <td></td>
       <td><a href="https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf" target="_blank">Bolukabasi et al. (2016)</a></br>
         <a href="https://arxiv.org/abs/1903.03862" target="_blank">Gonen and Goldberg (2019)</a></br>
@@ -515,7 +489,6 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <td>8.10.2025</td>
       <td>Backpropagation, Assignment 1 introduction</td>
       <td>Blanka</td>
-      <td><a href="https://drive.google.com/file/d/1sri4uO2TY93m7VOwVhhh1DDECoPJANWT/view?usp=sharing" target="_blank">Assignment 1 Slides</a></td>
     </tr>
     <tr>
       <th scope="row">5</th>
@@ -544,7 +517,6 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <td>Part-of-speech Tagging with CRFs, Assignment 2 introduction</td>
       <td>Pawel</td>
       <td>
-        <a href="https://drive.google.com/file/d/1pDOAmUXzIvC_1PUnJWeeYpk0SbYEyRyc/view?usp=sharing" target="_blank">Assignment 2 Slides</a>
       </td>
     </tr>
     <tr>
@@ -553,7 +525,6 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <td>Transliteration with WFSTs, Assignment 3 introduction</td>
       <td>Tu</td>
       <td>
-        <a href="https://drive.google.com/file/d/1Uhk2wvN-ZYc32lUzYFckC3PGhaD8Bl33/view?usp=sharing" target="_blank">Assignment 3 Slides</a>
       </td>
     </tr>
     <tr>
@@ -562,7 +533,6 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <td>Context-free Parsing, Assignment 4 introduction</td>
       <td>Franz</td>
       <td>
-        <a href="https://drive.google.com/file/d/1rZxUX43El4B0RU9d1ACP_nKNudske6zI/view?usp=sharing" target="_blank">Assignment 4 Slides</a>
       </td>
     </tr>
     <tr>
@@ -571,7 +541,6 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <td>Dependency Parsing with the Matrix-Tree Theorem</td>
       <td>Blanka</td>
       <td>
-        <a href="https://drive.google.com/file/d/15cWM3FV7Akfb1Hj2JQZhsljb9oOCbcLq/view?usp=sharing" target="_blank">Assignment 5 Slides</a>
       </td>
     </tr>
     <tr>
@@ -587,7 +556,6 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <td>Machine Translation with Transformers, Assignment 6 introduction</td>
       <td>Karolina</td>
       <td>
-        <a href="https://drive.google.com/file/d/13EQYMPaDsBrdgR7a4v5tp5DPtM5QoVfv/view?usp=sharing" target="_blank">Assignment 6 Slides</a>
       </td>
     </tr>
     <tr>
