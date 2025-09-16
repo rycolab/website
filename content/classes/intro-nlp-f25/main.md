@@ -53,7 +53,7 @@ The full list is:
 
 - [General Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FXkq4jH) for the general organisational discussions.
 - [Announcements Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2Feds9vL) for the announcements by the teaching team.
-- [Content Questions Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2Feds9vL) for your questions about the content of the course.
+- [Content Questions Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2F3jt5wm) for your questions about the content of the course.
 - [Errata Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FEJRBjn) for reporting typos and errors in the course lecture notes and the slides.
 - [Assignment 1 Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FbKkom5)
 - [Assignment 2 Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FqPBdsP)
