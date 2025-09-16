@@ -51,11 +51,11 @@ The chat supports LaTeX for easier discussion of technical material.
 To make the moderation of the chat more easily manageable, we have created a number of other channels on RocketChat.
 The full list is:
 
-- [General Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FXkq4jH) for the general organisational discussions.
+- [General Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FpZTxZv) for the general organisational discussions.
 - [Announcements Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2Feds9vL) for the announcements by the teaching team.
 - [Content Questions Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2Feds9vL) for your questions about the content of the course.
 - [Errata Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FEJRBjn) for reporting typos and errors in the course lecture notes and the slides.
-- [Assignment 1 Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FFLspey)
+- [Assignment 1 Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FbKkom5)
 - [Assignment 2 Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FqPBdsP)
 - [Assignment 3 Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FMSfaXq)
 - [Assignment 4 Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FG9jNpH)
