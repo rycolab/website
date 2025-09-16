@@ -3,7 +3,7 @@ title = 'Natural Language Processing'
 subtitle = 'ETH Zürich, Fall 2024: [Course catalog](https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=183559&semkez=2024W&ansicht=LEHRVERANSTALTUNGEN&lang=en)'
 summary = 'The course constitutes an introduction to modern techniques in the field of natural language processing (NLP). Our primary focus is on the algorithmic aspects of structured NLP models. The course is self-contained and designed to complement other machine learning courses at ETH Zürich, e.g., Deep Learning and Advanced Machine Learning. The course also has a strong focus on algebraic methods, e.g., semiring theory. In addition to machine learning, we also cover the linguistic background necessary for reading the NLP literature.'
 
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 20
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

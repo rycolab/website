@@ -6,7 +6,7 @@ summary = 'This course presents topics in natural language processing with an em
 
 type = "widget_page"
 date = "2020-31-09T00:00:00Z"
-featured = false
+featured = true
 draft = false
 active = false
 show_date = false
