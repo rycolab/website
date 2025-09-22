@@ -18,7 +18,8 @@ The course constitutes an introduction to modern techniques in the field of natu
 
 ## News
 
-**15.09.2025** &emsp; Class website is online!   
+**15.09.2025** &emsp; Class website is online!
+**22.09.2025** &emsp; Class [Moodle](https://moodle-app2.let.ethz.ch/course/view.php?id=26761) is online!
 
 
 ## Organisation
