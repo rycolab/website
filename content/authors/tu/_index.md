@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Irene Strauss
+title: Tu Nguyen
 
 
 # Username (this should match the folder name)
 authors:
-- irenes
+- tu
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,10 +22,7 @@ organizations:
 bio: 
 
 interests:
-- Formal Language Theory
-- Computational Learning Theory
-- Graph Theory
-- Medical AI
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -34,7 +31,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:istrauss@student.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:tunguyen1@student.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -43,7 +40,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Large Language Models Teaching Assistants
 - Teaching Assistants NLP F25
+
 ---
-Second-year Master's student in Computer Science, specializing in the theoretical foundations of machine learning and language models. Originally from a mountain village in South Tyrol, the curious German-speaking region of Italy, I like spending my summers ticking 3000-meter peaks off my list. I'm passionate about languages, particularly Latin, and enjoy exploring the etymology of words. My friends like to joke that the Duden is my favorite book.
+Hi, my name is Tu. I received a BSc degree of Math and Computer Science at Ecole Polytechnique, France and currently a second year Data science master student at ETH. My interests in NLP are interpretability of LLM and formal languages. When I’m free from work, I enjoy cooking and playing competitive sports (football, badminton, table tennis, chess, ...).

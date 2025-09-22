@@ -43,6 +43,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Teaching Assistants AFLT S25
+- Teaching Assistants NLP F25
 ---
 Pawel is a second-year Computer Science Master student. He completed his Bachelor’s degree in Theoretical Computer Science at Jagiellonian University in Krakow, Poland. In his free time, he reads lots of books, plays board games, paints miniatures, and goes hiking.
 

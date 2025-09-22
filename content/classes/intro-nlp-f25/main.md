@@ -33,7 +33,7 @@ The second slot is on Tuesday from 13h to 14h and will be used as a spill-over t
 ### Live Chat
 In addition to class time, there will also be a RocketChat-based live chat hosted on ETH’s servers. 
 Students are free to ask questions of the teaching staff and of others in public or private (direct message). 
-There are specific channels for each of the 6 assignments as well as for reporting errata in the course notes. 
+There are specific channels for each of the 6 assignments. 
 All data from the chat will be deleted from ETH servers at the course’s conclusion. 
 The chat supports LaTeX for easier discussion of technical material.
 
@@ -55,7 +55,6 @@ The full list is:
 - [General Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FXkq4jH) for the general organisational discussions.
 - [Announcements Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2Feds9vL) for the announcements by the teaching team.
 - [Content Questions Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2F3jt5wm) for your questions about the content of the course.
-- [Errata Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FEJRBjn) for reporting typos and errors in the course lecture notes and the slides.
 - [Assignment 1 Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FbKkom5)
 - [Assignment 2 Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FqPBdsP)
 - [Assignment 3 Channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FMSfaXq)
@@ -66,8 +65,11 @@ The full list is:
 
 If you feel like you would benefit from any other channel, feel free to suggest it to the teaching team!
 
+#### Reporting Errata
+Please report any errata in this <a href="https://docs.google.com/document/d/1WmS0JT8VB1UxTiKrg8A3dpsXaHDElgR-WQTV3Obz9mA/edit?usp=sharing">document</a>. Such errata can be, e.g., typos, conceptual mistakes, unclear points, found in the lecture slides, assignments, tutorials or course notes. Every contribution is very welcome and will help us improve the teaching materials!
+
 ### Course Notes
-We are currently working on turning out class content into a book! The current draft of the book, i.e., the course notes, can be found [here](https://drive.google.com/file/d/1JX7NpwVyh4IJYjpbUTZ_EuK0iv_HyXSj/view?usp=sharing). Please report all errata to the teaching staff; we created an [errata channel](https://go.rocket.chat/invite?host=chat.rycolab.inf.ethz.ch&path=invite%2FEJRBjn) in RocketChat.
+We are currently working on turning out class content into a book! The current draft of the book, i.e., the course notes, can be found [here](https://drive.google.com/file/d/1JX7NpwVyh4IJYjpbUTZ_EuK0iv_HyXSj/view?usp=sharing). 
 
 
 Other useful literature:  
@@ -170,7 +172,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <td>22.9.2025</td>
       <td>Introduction to NLP, Course logistics,</br>
        Introduction of the TA team</td>
-      <td><a href="https://drive.google.com/file/d/1niD2nlxsftvMtCrP9zYVoHspNiM5JyuN/view?usp=sharing" target="_blank">(last year) Lecture 1</a>
+      <td><a href="https://drive.google.com/file/d/1abJ4-O4XBrUb6viijfTmFbTenXb3Iqft/view?usp=sharing" target="_blank">Lecture 1</a>
       <!-- </br><a href="" target="_blank">TA Intro Slides</a> -->
       </td>
       <td>Eisenstein Ch. 1</td>

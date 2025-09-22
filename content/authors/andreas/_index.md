@@ -58,12 +58,13 @@ user_groups:
 - Teaching Assistants AFLT
 - Teaching Assistants AFLT S24
 - Teaching Assistants NLP F24
+- Teaching Assistants NLP F25
 - PhD Students
 ---
 
-Andreas is a second-year PhD student at ETH and a fellow at the Max Planck ETH Center for Learning Systems. 
+Andreas is a third-year PhD student at ETH and a fellow at the Max Planck ETH Center for Learning Systems. 
 He obtained a BSc in Industrial Engineering from Chalmers University of Technology and an MSc in Data Science from ETH. 
 He enjoys learning about formal models of language, computational tools for cognitive modeling, and NLP algorithms in general. 
-Currently, his research focuses broadly on parsing and reasoning.
+Currently, his research focuses on deductive reasoning in LLMs and computational psycholinguistics.
 
 Native Language: Swedish
