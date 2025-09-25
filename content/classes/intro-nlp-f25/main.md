@@ -18,8 +18,9 @@ The course constitutes an introduction to modern techniques in the field of natu
 
 ## News
 
+**22.09.2025** &emsp; Class [Moodle](https://moodle-app2.let.ethz.ch/course/view.php?id=26761) is online!bash upload_script.sh
+
 **15.09.2025** &emsp; Class website is online!
-**22.09.2025** &emsp; Class [Moodle](https://moodle-app2.let.ethz.ch/course/view.php?id=26761) is online!
 
 
 ## Organisation
@@ -181,18 +182,8 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
     </tr>
     <tr>
       <td>23.9.2025</td>
-      <td>Introduction to NLP</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-    </tr>
-    <tr>
-      <th rowspan=2 scope="row">2</th>
-      <td>30.9.2025</td>
       <td>Backpropagation</td>
-      <td><a href="https://drive.google.com/file/d/1ZVCFUOr1ZgTFoP4saDPR5Vu7w9PL9uMJ/view?usp=sharing" target="_blank">(last year) Lecture 2</a></td>
+      <td><a href="https://drive.google.com/file/d/19Jsikv4-qUXU54ufvptYOd88gedfkywX/view?usp=share_link" target="_blank">Lecture 2</a></td>
       <td>Goodfellow, Bengio and Courville Ch. 6.5</td>
       <td>
         <a href="https://colah.github.io/posts/2015-08-Backprop/" target="_blank">Chris Olah's Blog</a></br>
@@ -210,6 +201,15 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
         </td>
     </tr>
     <tr>
+    </tr>
+    <tr>
+      <th rowspan=1 scope="row">2</th>
+      <td>30.9.2025</td>
+      <td>No lecture</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <th rowspan=2 scope="row">3</th>
