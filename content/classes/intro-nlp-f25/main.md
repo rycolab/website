@@ -18,7 +18,7 @@ The course constitutes an introduction to modern techniques in the field of natu
 
 ## News
 
-**22.09.2025** &emsp; Class [Moodle](https://moodle-app2.let.ethz.ch/course/view.php?id=26761) is online!bash upload_script.sh
+**22.09.2025** &emsp; Class [Moodle](https://moodle-app2.let.ethz.ch/course/view.php?id=26761) is online!
 
 **15.09.2025** &emsp; Class website is online!
 
@@ -204,7 +204,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
     </tr>
     <tr>
       <th rowspan=1 scope="row">2</th>
-      <td>30.9.2025</td>
+      <td>29.9.2025</td>
       <td>No lecture</td>
       <td></td>
       <td></td>
