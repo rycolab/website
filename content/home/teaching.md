@@ -69,6 +69,10 @@ subtitle = "[SEE ALL CLASSES](/classes)"
 **ETH Zürich** <span class="middot-divider"></span> **Fall 2025**
 This course presents topics in natural language processing with an emphasis on modern techniques, primarily focusing on statistical and deep learning approaches. The course provides an overview of the primary areas of research in language processing as well as a detailed exploration of the models and techniques used both in research and in commercial natural language systems.
 
+## [Machine Learning and Computational Complexity](classes/nlp-bachelor-seminar-f25)
+**ETH Zürich** <span class="middot-divider"></span> **Fall 2025**
+This Bachelor’s seminar investigates the computational foundations of modern machine learning. We examine how model complexity, data availability, and algorithmic design interact to determine what learning systems can and cannot achieve, highlighting classic results from computational learning theory.
+
 ## [Advanced Formal Language Theory](/classes/aflt-s25) 
 **ETH Zürich** <span class="middot-divider"></span> **Spring 2025**
 This course explores the connection between automata and formal logic. More precisely, it covers the algebraic characterization of the regular languages definable in many different logical theories, the complexity theory of boolean circuits, and the connection between the two.
