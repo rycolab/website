@@ -19,7 +19,7 @@ organizations:
   url: "https://www.epfl.ch/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Julian Minder is a PhD student at the Data Science Lab (DLAB) at EPFL, supervised by Prof. Robert West and co-advised by Prof. Ryan Cotterell. His research centers on making AI systems more transparent and reliable, with a focus on interpretability and robustness in language models. He currently investigates how pretraining distributions shape model internals and how fine-tuning alters them. Julian earned his master’s degree in computer science from ETH Zurich in 2024, following earlier studies in computer science and neuroinformatics at the University of Zurich.
+bio: PhD student
 
 interests:
 - Interpretability
@@ -59,3 +59,4 @@ user_groups:
 - Current
 ---
 
+Julian Minder is a PhD student at the Data Science Lab (DLAB) at EPFL, supervised by Prof. Robert West and co-advised by Prof. Ryan Cotterell. His research centers on making AI systems more transparent and reliable, with a focus on interpretability and robustness in language models. He currently investigates how pretraining distributions shape model internals and how fine-tuning alters them. Julian earned his master’s degree in computer science from ETH Zurich in 2024, following earlier studies in computer science and neuroinformatics at the University of Zurich.
