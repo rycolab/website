@@ -18,9 +18,9 @@ The course constitutes an introduction to modern techniques in the field of natu
 
 ## News
 
-**22.09.2025** &emsp; Class [Moodle](https://moodle-app2.let.ethz.ch/course/view.php?id=26761) is online!
-
-**15.09.2025** &emsp; Class website is online!
+**15.09.2025** &emsp; Class website is online!   
+**22.09.2025** &emsp; Class [Moodle](https://moodle-app2.let.ethz.ch/course/view.php?id=26761) is online!   
+**02.10.2025** &emsp; [Assignment 1](https://drive.google.com/file/d/1x-hd6BKc5WWUZlmlHZhZLsZPt-qwAsZV/view?usp=sharing) released!
 
 
 ## Organisation
@@ -104,8 +104,8 @@ The assignments will be graded according to the pre-determined [Assignment gradi
 
 The class assignments were crafted to dovetail nicely with the lecture contents and, moreover, to complement the lectures through a more hands-on approach to the material. Each assignment has a theory portion, which will generally involve derivations or proofs related to the material, and a coding portion where you will implement a working model for one of the NLP tasks discussed in the lecture. The theory and the coding halves of the assignments will be weighted equally. -->
 
-**Assignment sheets**:
-
+**Assignment sheets**:   
+- [Assignment 1](https://drive.google.com/file/d/1x-hd6BKc5WWUZlmlHZhZLsZPt-qwAsZV/view?usp=sharing)
 
 The **code** relating to some of the assignments will be published on the [public github repository](https://github.com/rycolab/intro-nlp-f25). You should fork the repository and pull the incoming changes whenever they are released. 
 
@@ -182,8 +182,18 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
     </tr>
     <tr>
       <td>23.9.2025</td>
+      <td>Introduction to NLP</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+      <th rowspan=2 scope="row">2</th>
+      <td>30.9.2025</td>
       <td>Backpropagation</td>
-      <td><a href="https://drive.google.com/file/d/19Jsikv4-qUXU54ufvptYOd88gedfkywX/view?usp=share_link" target="_blank">Lecture 2</a></td>
+      <td><a href="https://drive.google.com/file/d/19Jsikv4-qUXU54ufvptYOd88gedfkywX/view?usp=sharing" target="_blank">Lecture 2</a></td>
       <td>Goodfellow, Bengio and Courville Ch. 6.5</td>
       <td>
         <a href="https://colah.github.io/posts/2015-08-Backprop/" target="_blank">Chris Olah's Blog</a></br>
@@ -198,18 +208,11 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
         <a href="https://drive.google.com/file/d/1XWRz4yMi2A5BZSRSgnnbRJikqz7RYtrN/view?usp=sharing" target="_blank">Computation Graph for MLP</a></br>
         <a href="https://drive.google.com/file/d/1hsYIXXd6cEWocrhI-pQ4Ox8FG49Otu_m/view?usp=sharing" target="_blank">Computation Graph Example</a></td>
         <td>
+        <a href="https://drive.google.com/file/d/1vZrYNxeRWczUP7-5s2R0kML6Il2vAYqb/view?usp=sharing" target="_blank">Week 2 Exercises</a></br>
+        <a href="https://drive.google.com/file/d/1gdPWe3dJe7SpWCNUrRy5ROxHBruoFVjo/view?usp=sharing" target="_blank">Week 2 Solutions</a>
         </td>
     </tr>
     <tr>
-    </tr>
-    <tr>
-      <th rowspan=1 scope="row">2</th>
-      <td>29.9.2025</td>
-      <td>No lecture</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <th rowspan=2 scope="row">3</th>
