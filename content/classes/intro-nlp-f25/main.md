@@ -131,6 +131,8 @@ Roughly, we expect to devote 2 hours per week to exercises and 1 hour to the ass
 We therefore strongly encourage you to look at the assignment problems in due time and come to the discussions sessions with your questions.
 We want the sessions to be useful for you!
 
+Tutorial recordings can be found [here](https://polybox.ethz.ch/index.php/s/3QZRS5otPrExD2J).
+
 ### Assignment Office Hours
 In addition to the Tutorials, we will hold assignment-specific online office hours on Zoom about 2 weeks after the assignment has been introduced. 
 You will have the opportunity to talk to the TAs responsible for that assignment and ask individual questions you do not want to discuss on a public RocketChat channel.
@@ -544,7 +546,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
     <tr>
       <th scope="row">11</th>
       <td>26.11.2025</td>
-      <td>Dependency Parsing with the Matrix-Tree Theorem</td>
+      <td>Dependency Parsing with the Matrix-Tree Theorem, Assignment 5 introduction</td>
       <td>Blanka</td>
       <td>
       </td>
