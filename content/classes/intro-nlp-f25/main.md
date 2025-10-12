@@ -220,7 +220,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <th rowspan=2 scope="row">3</th>
       <td>6.10.2025</td>
       <td>Log-Linear Modeling---Meet the Softmax</td>
-      <td><a href="https://drive.google.com/file/d/1QXG7xroC0Pp7CaD66vIHNhBypUhqP5LV/view?usp=sharing" target="_blank">(last year) Lecture 3</a></td>
+      <td><a href="https://drive.google.com/file/d/1Vytig69NhN17qM1KCv4qwALolYftD5Js/view?usp=sharing" target="_blank"> Lecture 3</a></td>
       <td>Eisenstein Ch. 2</td>
       <td><a href="https://www.cs.jhu.edu/~jason/papers/ferraro+eisner.tnlp13.pdf" target="_blank">Ferraro and Eisner (2013)</a></br>
       <a href="http://cs.jhu.edu/~jason/tutorials/loglin/further.html">Jason Eisner’s list of further resources on log-linear modeling</a></td>
