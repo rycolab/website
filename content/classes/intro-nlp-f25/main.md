@@ -227,6 +227,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <td>
         <a href="https://drive.google.com/file/d/11kPaqQgi0rlrlEAhSqvU-7ZCnrujH-Vu/view?usp=sharing" target="_blank">Week 3 Exercises</a></br>
         <a href="https://drive.google.com/file/d/1XF-zEeO65vtAyYgX-_VfKBprDc0gwNfJ/view?usp=drive_link" target="_blank">Week 3 Solutions</a>
+        <a href="https://drive.google.com/file/d/1qxxj7UXxPlwEiLDvBVewvzn-3dwRHxgQ/view?usp=sharing" target="_blank">Week 3 Tutorial</a>
       </td>
     </tr>
     <tr>
