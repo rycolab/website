@@ -134,7 +134,7 @@ We want the sessions to be useful for you!
 Tutorial recordings can be found [here](https://polybox.ethz.ch/index.php/s/3QZRS5otPrExD2J).
 
 ### Assignment Office Hours
-In addition to the Tutorials, we will hold assignment-specific online office hours on Zoom about 2 weeks after the assignment has been introduced. 
+In addition to the Tutorials, we will hold assignment-specific online office hours on Zoom during the week before the deadline of the assignment. 
 You will have the opportunity to talk to the TAs responsible for that assignment and ask individual questions you do not want to discuss on a public RocketChat channel.
 We will send out 10 minute slots for you to sign up for closer to the time on the corresponding assignment RocketChat channels.
 
