@@ -35,6 +35,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:istrauss@student.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
+- icon: portrait
+  icon_pack: fas
+  link: https://irenestrauss.github.io/
+- icon: google
+  icon_pack: fab
+  link: https://scholar.google.com/citations?user=xtnOjrcAAAAJ&hl=de&oi=ao
+- icon: github
+  icon_pack: fab
+  link: https://github.com/irenestrauss
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
