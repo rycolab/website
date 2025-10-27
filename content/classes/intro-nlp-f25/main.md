@@ -262,7 +262,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <th rowspan=2 scope="row">5</th>
       <td>20.10.2025</td>
       <td>Language Modeling with <em>n</em>-grams and LSTMs</td>
-      <td><a href="https://drive.google.com/file/d/1ZoMDetnAoIMCoYkJdjU70i1rRM591cP_/view?usp=sharing" target="_blank">(last year) Lecture 5</a></td>
+      <td><a href="https://drive.google.com/file/d/1GCVfkK7_Ja1iKUDSI-JHkObN5kexNZl2/view?usp=sharing" target="_blank">Lecture 5</a></td>
       <td>Eisenstein Ch. 6;</br>Goodfellow, Bengio and Courville Ch. 10</td>
       <td><a href="https://nlp.stanford.edu/~wcmac/papers/20050421-smoothing-tutorial.pdf" target="_blank">Good Tutorial on n-gram smoothing</a></br>
         <a href="https://en.wikipedia.org/wiki/Good%E2%80%93Turing_frequency_estimation" target="_blank">Good–Turing Smoothing</a></br>
@@ -270,6 +270,8 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
         <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf" target="_blank">Bengio et al. (2003)</a></br>
         <a href="https://www.isca-archive.org/interspeech_2010/mikolov10_interspeech.pdf" target="_blank">Mikolov et al. (2010)</a></td>
       <td>
+        <a href="https://drive.google.com/file/d/1Am2iW8fAeX-fb7B7MxP29WtxMbtSo3xP/view?usp=sharing" target="_blank">Week 5 Exercises</a></br>
+        <a href="https://drive.google.com/file/d/1C3xLZ4FpgwPuttzA5UqXHwAoodDGzEbZ/view?usp=sharing" target="_blank">Week 5 Solutions</a>
       </td>
     </tr>
     <tr>
