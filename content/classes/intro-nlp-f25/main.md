@@ -247,7 +247,8 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <td></td>
       <td>
         <a href="https://drive.google.com/file/d/1nn2CNRzT7g9KMRVdZbRjBEXjUFWgiDXK/view?usp=drive_link" target="_blank">Week 4 Exercises</a></br>
-        <a href="https://drive.google.com/file/d/1DMa6yZHh6tBgh8c9dTPi_H784N7ZaDXY/view?usp=drive_link" target="_blank">Week 4 Solutions</a>
+        <a href="https://drive.google.com/file/d/1DMa6yZHh6tBgh8c9dTPi_H784N7ZaDXY/view?usp=drive_link" target="_blank">Week 4 Solutions</a></br>
+        <a href="https://drive.google.com/file/d/1YC-5nW9G2JF72K5bLt7T_2kvzDOMTBog/view?usp=drive_link" target="_blank">Week 4 Tutorial</a>
       </td>
     </tr>
     <tr>
