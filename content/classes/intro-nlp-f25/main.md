@@ -20,7 +20,8 @@ The course constitutes an introduction to modern techniques in the field of natu
 
 **15.09.2025** &emsp; Class website is online!   
 **22.09.2025** &emsp; Class [Moodle](https://moodle-app2.let.ethz.ch/course/view.php?id=26761) is online!   
-**02.10.2025** &emsp; [Assignment 1](https://drive.google.com/file/d/1x-hd6BKc5WWUZlmlHZhZLsZPt-qwAsZV/view?usp=sharing) released!
+**02.10.2025** &emsp; [Assignment 1](https://drive.google.com/file/d/1x-hd6BKc5WWUZlmlHZhZLsZPt-qwAsZV/view?usp=sharing) released!   
+**03.11.2025** &emsp; [Assignment 2](https://drive.google.com/file/d/1M-3hIPZJEbmE_ujbNWlrN5LAVw-uG-rk/view?usp=sharing) released!   
 
 
 ## Organisation
@@ -105,7 +106,8 @@ The assignments will be graded according to the pre-determined [Assignment gradi
 The class assignments were crafted to dovetail nicely with the lecture contents and, moreover, to complement the lectures through a more hands-on approach to the material. Each assignment has a theory portion, which will generally involve derivations or proofs related to the material, and a coding portion where you will implement a working model for one of the NLP tasks discussed in the lecture. The theory and the coding halves of the assignments will be weighted equally. -->
 
 **Assignment sheets**:   
-- [Assignment 1](https://drive.google.com/file/d/1x-hd6BKc5WWUZlmlHZhZLsZPt-qwAsZV/view?usp=sharing)
+- [Assignment 1](https://drive.google.com/file/d/1x-hd6BKc5WWUZlmlHZhZLsZPt-qwAsZV/view?usp=sharing)   
+- [Assignment 2](https://drive.google.com/file/d/1M-3hIPZJEbmE_ujbNWlrN5LAVw-uG-rk/view?usp=sharing)
 
 The **code** relating to some of the assignments will be published on the [public github repository](https://github.com/rycolab/intro-nlp-f25). You should fork the repository and pull the incoming changes whenever they are released. 
 
@@ -286,7 +288,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <th rowspan=2 scope="row">6</th>
       <td>27.10.2025</td>
       <td>Part-of-Speech Tagging with CRFs</td>
-      <td><a href="https://drive.google.com/file/d/1S9TiYg17TuXPyAKplLhWrK5Pfnha3dQh/view?usp=sharing" target="_blank">(last year) Lecture 6</a></td>
+      <td><a href="https://drive.google.com/file/d/1GDXWTXPDqXhnGbBR_x_NOZ8Rxp6mLCsS/view?usp=sharing" target="_blank">Lecture 6</a></td>
       <td>Eisenstein Ch. 7 and 8</td>
       <td><a href="https://timvieira.github.io/blog/post/2015/04/29/multiclass-logistic-regression-and-conditional-random-fields-are-the-same-thing/" target="_blank">Tim Vieira's Blog</a></br>
         <a href="https://dl.acm.org/doi/10.5555/645529.658277" target="_blank">McCallum et al. (2000)</a></br>
@@ -294,6 +296,8 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
         <a href="https://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf" target="_blank">Sutton and McCallum (2011)</a></br>
         <a href="https://mitpress.mit.edu/books/probabilistic-graphical-models" target="_blank">Koller and Friedman (2009)</a></td>
         <td>
+        <a href="https://drive.google.com/file/d/1b_hqF6pBVrELIOQ-w84RnIfUfZ6D-6t3/view?usp=sharing" target="_blank">Week 6 Exercises</a></br>
+        <a href="https://drive.google.com/file/d/1ip9QLBcO_ue02L02vrVV2PkGYQn7IbZL/view?usp=sharing" target="_blank">Week 6 Solutions</a>
         </td>
     </tr>
     <tr>
