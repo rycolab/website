@@ -109,13 +109,11 @@ The class assignments were crafted to dovetail nicely with the lecture contents 
 - [Assignment 1](https://drive.google.com/file/d/1x-hd6BKc5WWUZlmlHZhZLsZPt-qwAsZV/view?usp=sharing)   
 - [Assignment 2](https://drive.google.com/file/d/1M-3hIPZJEbmE_ujbNWlrN5LAVw-uG-rk/view?usp=sharing)
 
-The **code** relating to some of the assignments will be published on the [public github repository](https://github.com/rycolab/intro-nlp-f25). You should fork the repository and pull the incoming changes whenever they are released. 
-
 **Very important:**
 *<u>We require the solutions to be properly typeset.</u>*
 Handwritten solutions will *<u>not be accepted</u>*.
 We recommend using LaTeX (with [Overleaf](https://www.overleaf.com)), but markdown files with MathJax for the mathematical expressions are also fine.
-We provide a template for the writeups [here](https://www.overleaf.com/read/wqfbmrmwrvzr); however, feel free to use your own.
+We provide a template for the writeups [here](https://www.overleaf.com/read/dbdnrzmksfnx#33dd4f).
 
 Additionally, the solutions have to be presented in a clean and readable way, with all sub-steps of the solutions presented in a logical order.
 Note that this does not mean that your submissions have to be overly verbose and long. 
@@ -127,8 +125,9 @@ The detailed instructions for the submission will be given in each assignment se
 
 ### On the Tutorials
 Tutorials will take place Wednesdays 16h to 19h in HG F7.
-Their main purpose will be to solve some exercises with you that will help you grasp the concepts from the lecture and to help you prepare for the exam.
-They will also introduce new assignments and allow you to ask questions about them.
+Their main purpose is to repeat the most important insights from the corresponding lecture and to discuss the solutions of the exercises. Therefore, we strongly encourage you to solve the exercises beforehand.
+
+Furthermore, we will introduce new assignments and allow you to ask questions about them.
 Roughly, we expect to devote 2 hours per week to exercises and 1 hour to the assignments (when a new assignment has been released).
 We therefore strongly encourage you to look at the assignment problems in due time and come to the discussions sessions with your questions.
 We want the sessions to be useful for you!
@@ -136,7 +135,7 @@ We want the sessions to be useful for you!
 Tutorial recordings can be found [here](https://polybox.ethz.ch/index.php/s/3QZRS5otPrExD2J).
 
 ### Assignment Office Hours
-In addition to the Tutorials, we will hold assignment-specific online office hours on Zoom during the week before the deadline of the assignment. 
+In addition to the tutorials, we will hold assignment-specific online office hours on Zoom during the week before the deadline of the assignment.
 You will have the opportunity to talk to the TAs responsible for that assignment and ask individual questions you do not want to discuss on a public RocketChat channel.
 We will send out 10 minute slots for you to sign up for closer to the time on the corresponding assignment RocketChat channels.
 
