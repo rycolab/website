@@ -118,7 +118,6 @@ We provide a template for the writeups [here](https://www.overleaf.com/read/dbdn
 Additionally, the solutions have to be presented in a clean and readable way, with all sub-steps of the solutions presented in a logical order.
 Note that this does not mean that your submissions have to be overly verbose and long. 
 It simply means that you should explain your reasoning and the steps of your solutions in a clear and concise way.
-To encourage this, we will, for every assignment, award *2 additional points* for properly explained and formatted solutions.
 
 The detailed instructions for the submission will be given in each assignment separately.
 
