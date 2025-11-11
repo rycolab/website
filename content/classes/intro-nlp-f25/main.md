@@ -22,6 +22,7 @@ The course constitutes an introduction to modern techniques in the field of natu
 **22.09.2025** &emsp; Class [Moodle](https://moodle-app2.let.ethz.ch/course/view.php?id=26761) is online!   
 **02.10.2025** &emsp; [Assignment 1](https://drive.google.com/file/d/1x-hd6BKc5WWUZlmlHZhZLsZPt-qwAsZV/view?usp=sharing) released!   
 **03.11.2025** &emsp; [Assignment 2](https://drive.google.com/file/d/1M-3hIPZJEbmE_ujbNWlrN5LAVw-uG-rk/view?usp=sharing) released!   
+**11.11.2025** &emsp; [Assignment 3](https://drive.google.com/file/d/1i0Y9RkS9D3Bhq--LLfuBEoo7PFfFGb1i/view?usp=sharing) and [Assignment 4](https://drive.google.com/file/d/11pHioll9K4NJhGONe_W69wL6XX7J3svz/view?usp=sharing) released!  
 
 
 ## Organisation
@@ -107,7 +108,9 @@ The class assignments were crafted to dovetail nicely with the lecture contents 
 
 **Assignment sheets**:   
 - [Assignment 1](https://drive.google.com/file/d/1x-hd6BKc5WWUZlmlHZhZLsZPt-qwAsZV/view?usp=sharing)   
-- [Assignment 2](https://drive.google.com/file/d/1M-3hIPZJEbmE_ujbNWlrN5LAVw-uG-rk/view?usp=sharing)
+- [Assignment 2](https://drive.google.com/file/d/1M-3hIPZJEbmE_ujbNWlrN5LAVw-uG-rk/view?usp=sharing)   
+- [Assignment 3](https://drive.google.com/file/d/1i0Y9RkS9D3Bhq--LLfuBEoo7PFfFGb1i/view?usp=sharing)   
+- [Assignment 4](https://drive.google.com/file/d/11pHioll9K4NJhGONe_W69wL6XX7J3svz/view?usp=sharing)
 
 **Very important:**
 *<u>We require the solutions to be properly typeset.</u>*
@@ -310,13 +313,15 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <th rowspan=2 scope="row">7</th>
       <td>3.11.2025</td>
       <td>Transliteration with WFSTs</td>
-      <td><a href="https://drive.google.com/file/d/11Uoecz5i0__wCpKdxa7dnNDVN1gRZ-i7/view?usp=sharing" target="_blank">(last year) Lecture 7</a></td>
+      <td><a href="https://drive.google.com/file/d/1iFUYbFCFJnA7LP9eN2IRg4UB7QdUHZLZ/view?usp=sharing" target="_blank">Lecture 7</a></td>
       <td>Eisenstein Ch. 9</td>
       <td><a href="https://rycolab.io/classes/aflt-s22/" target="_blank">AFLT Course Notes</a> Chapters 1, 2, and 3</br>
       <a href="https://www.aclweb.org/anthology/J98-4003.pdf" target="_blank">Knight and Graehl (1998)</a></br>
         <a href="https://cs.nyu.edu/~mohri/pub/hbka.pdf" target="_blank">Mohri, Pereira and Riley (2008)</a></td>
       <td>
-      </td>
+        <a href="https://drive.google.com/file/d/1GuzZk6htEEiU3tWEzEL6PRY3kkCn4vg0/view?usp=sharing" target="_blank">Week 7 Exercises</a></br>
+        <a href="https://drive.google.com/file/d/18z76XLPkci-oG3PhsrpC3W-_z1CV5fTl/view?usp=sharing" target="_blank">Week 7 Solutions</a>
+        </td>
       </td>
     </tr>
     <tr>
@@ -343,7 +348,9 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
         <a href="https://www.sciencedirect.com/science/article/pii/S001999586780007X?via%3Dihub" target="_blank">Younger (1967)</a></br>
         <a href="http://www.softwarepreservation.org/projects/FORTRAN/CockeSchwartz_ProgLangCompilers.pdf" target="_blank">Cocke and Schwartz (1970)</a></td>
       <td>
-      </td>
+        <a href="https://drive.google.com/file/d/1GZEEKtcl28yvN0zTDzdj5vY3GA4J7GOr/view?usp=sharing" target="_blank">Week 8 Exercises</a></br>
+        <a href="https://drive.google.com/file/d/1qUxp_7krDn_C6s_hNxr9sZF6z-h-bF44/view?usp=sharing" target="_blank">Week 8 Solutions</a>
+        </td>
     </tr>
     <tr>
       <td>11.11.2025</td>
@@ -543,6 +550,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <td>Transliteration with WFSTs, Assignment 3 introduction</td>
       <td>Tu</td>
       <td>
+        <a href="https://drive.google.com/file/d/1c_UummSrXq_Pp8Q_S80vT7SzT5RJrya8/view?usp=sharing" target="_blank">Assignment 3 Slides</a>
       </td>
     </tr>
     <tr>
