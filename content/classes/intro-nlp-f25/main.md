@@ -313,7 +313,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <th rowspan=2 scope="row">7</th>
       <td>3.11.2025</td>
       <td>Transliteration with WFSTs</td>
-      <td><a href="https://drive.google.com/file/d/1iFUYbFCFJnA7LP9eN2IRg4UB7QdUHZLZ/view?usp=sharing" target="_blank">Lecture 7</a></td>
+      <td><a href="https://drive.google.com/file/d/1ql5CdBMtzl7il9UWPeLV9F__Gp0UKUjL/view?usp=sharing" target="_blank">Lecture 7</a></td>
       <td>Eisenstein Ch. 9</td>
       <td><a href="https://rycolab.io/classes/aflt-s22/" target="_blank">AFLT Course Notes</a> Chapters 1, 2, and 3</br>
       <a href="https://www.aclweb.org/anthology/J98-4003.pdf" target="_blank">Knight and Graehl (1998)</a></br>
