@@ -39,19 +39,20 @@ Since Shannon originally proposed his mathematical theory of communication in th
     <tr>
       <th scope="row">Lecture 3</th>
       <td>Case Studies in Complexity</td>
-      <td><a href="https://drive.google.com/file/d/1O4ENFD8IVu-6YPLHAbVvquK3WSqYIEvN/view?usp=sharing" target="_blank">Slides</a></td>
+      <td><a href="https://drive.google.com/file/d/1mbdIsR1OJ0JH-8RBDk-PYhrjWmuTHm8W/view?usp=drive_link" target="_blank">Slides Part 1</a></td>
+      <td><a href="https://drive.google.com/file/d/1APKfWdZft3OnC9qLgxyM8kvSDSKAPEWF/view?usp=drive_link" target="_blank">Slides Part 2</a></td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">Lecture 4</th>
-      <td>Case Studies in Correlation</td>
-      <td><a href="https://drive.google.com/file/d/1jlIXy6uJW_5LVdpsaJqVBIGuUODLAge6/view?usp=sharing" target="_blank">Slides</a></td>
+      <td>Case Studies in Gender</td>
+      <td><a href="https://drive.google.com/file/d/1KodY8zYl1nhw3gzZsxQrlTTrjEENSiQX/view?usp=drive_link" target="_blank">Slides</a></td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">Lecture 5</th>
       <td>Case Studies in Communication</td>
-      <td><a href="https://drive.google.com/file/d/1wRFbsrP7DeF5YvaZ0WNy5fIMlx9EnzuL/view?usp=sharing" target="_blank">Slides</a></td>
+      <td><a href="https://drive.google.com/file/d/1FrrYGByPbdV0Ey6HOhHgjgB_jHDepI-e/view?usp=drive_link" target="_blank">Slides</a></td>
       <td></td>
     </tr>
 </tbody>
