@@ -47,11 +47,11 @@ subtitle = ""
   extensions = ["hardLineBreak"]
 
 +++
+### Please send in your inquiry using this [form](https://docs.google.com/forms/d/e/1FAIpQLSfiEYlAsJSdzO1CoHHxN2QBPbjuuqV4AsWAKytqpXpICSIM4w/viewform). 
 If you are a BSc or MSc student at ETH Zurich interested in writing your thesis with us, we would be delighted to hear from you! Unfortunately, we do not have the capacity to consider students from outside ETH for thesis projects. To obtain a better understanding of what currently interests us, we invite you to check our most recent publications. However, feel free to express interest in any topic you think our group might be well suited to advise you on.
 &nbsp;
 Specifically for Bachelor theses or semester projects, we typically assign you one of our published papers to replicate, so it would be ideal if you indicate 3-4 of our publications that you are interested in.
-&nbsp;
-Please send in your inquiry using this [form](https://docs.google.com/forms/d/e/1FAIpQLSfiEYlAsJSdzO1CoHHxN2QBPbjuuqV4AsWAKytqpXpICSIM4w/viewform). It helps us a lot with finding a matching project if you are able to state more concrete topics that you would like to work on. We are looking forward to receiving your inquiry!
+It helps us a lot with finding a matching project if you are able to state more concrete topics that you would like to work on. We are looking forward to receiving your inquiry!
 
 
 <!---
