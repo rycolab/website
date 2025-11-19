@@ -22,7 +22,8 @@ The course constitutes an introduction to modern techniques in the field of natu
 **22.09.2025** &emsp; Class [Moodle](https://moodle-app2.let.ethz.ch/course/view.php?id=26761) is online!   
 **02.10.2025** &emsp; [Assignment 1](https://drive.google.com/file/d/1x-hd6BKc5WWUZlmlHZhZLsZPt-qwAsZV/view?usp=sharing) released!   
 **03.11.2025** &emsp; [Assignment 2](https://drive.google.com/file/d/1M-3hIPZJEbmE_ujbNWlrN5LAVw-uG-rk/view?usp=sharing) released!   
-**11.11.2025** &emsp; [Assignment 3](https://drive.google.com/file/d/1i0Y9RkS9D3Bhq--LLfuBEoo7PFfFGb1i/view?usp=sharing) and [Assignment 4](https://drive.google.com/file/d/11pHioll9K4NJhGONe_W69wL6XX7J3svz/view?usp=sharing) released!  
+**11.11.2025** &emsp; [Assignment 3](https://drive.google.com/file/d/1i0Y9RkS9D3Bhq--LLfuBEoo7PFfFGb1i/view?usp=sharing) and [Assignment 4](https://drive.google.com/file/d/11pHioll9K4NJhGONe_W69wL6XX7J3svz/view?usp=sharing) released!   
+**19.11.2025** &emsp; [Assignment 5](https://drive.google.com/file/d/1glhJv8DEcyzAd3Rh_3gfrqNpeylJpByd/view?usp=sharing) released!
 
 
 ## Organisation
@@ -110,7 +111,8 @@ The class assignments were crafted to dovetail nicely with the lecture contents 
 - [Assignment 1](https://drive.google.com/file/d/1x-hd6BKc5WWUZlmlHZhZLsZPt-qwAsZV/view?usp=sharing)   
 - [Assignment 2](https://drive.google.com/file/d/1M-3hIPZJEbmE_ujbNWlrN5LAVw-uG-rk/view?usp=sharing)   
 - [Assignment 3](https://drive.google.com/file/d/1i0Y9RkS9D3Bhq--LLfuBEoo7PFfFGb1i/view?usp=sharing)   
-- [Assignment 4](https://drive.google.com/file/d/11pHioll9K4NJhGONe_W69wL6XX7J3svz/view?usp=sharing)
+- [Assignment 4](https://drive.google.com/file/d/11pHioll9K4NJhGONe_W69wL6XX7J3svz/view?usp=sharing)  
+- [Assignment 5](https://drive.google.com/file/d/1glhJv8DEcyzAd3Rh_3gfrqNpeylJpByd/view?usp=sharing)  
 
 **Very important:**
 *<u>We require the solutions to be properly typeset.</u>*
@@ -375,7 +377,9 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
         <a href="https://www.aclweb.org/anthology/W07-2216/" target="_blank">McDonald and Satta (2007)</a></br>
         <a href="https://www.morganclaypool.com/doi/abs/10.2200/S00169ED1V01Y200901HLT002" target="_blank">McDonald, Kübler and Nivre (2009)</a></td>
       <td>
-      </td>
+        <a href="https://drive.google.com/file/d/1GTIWefDE5IfHu13AbB556UwbVrwkTCWi/view?usp=sharing" target="_blank">Week 9 Exercises</a></br>
+        <a href="https://drive.google.com/file/d/1Obbc8MZ-eqr4JUH13Uylh8GjFc9VE-RD/view?usp=sharing" target="_blank">Week 9 Solutions</a>
+        </td>
     </tr>
     <tr>
       <td>18.11.2025</td>
