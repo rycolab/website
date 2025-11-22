@@ -342,7 +342,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <th rowspan=2 scope="row">8</th>
       <td>10.11.2025</td>
       <td>Context-Free Parsing with CKY</td>
-      <td><a href="https://drive.google.com/file/d/1ULt6GMNlABjKEaQECj4QkdyRQaaDsfa4/view?usp=sharing" target="_blank">(last year) Lecture 8</a></td>
+      <td><a href="https://drive.google.com/file/d/1hqqRCBOCmOyo4HykPIevWm8H-WgwKmE1/view?usp=sharing" target="_blank"> Lecture 8</a></td>
       <td>Eisenstein Ch. 10</td>
       <td><a href="http://www.cs.columbia.edu/~mcollins/io.pdf" target="_blank">The Inside-Outside Algorithm</a></br>
         <a href="https://www.cs.jhu.edu/~jason/465/PowerPoint/lect08-parse.ppt" target="_blank">Jason Eisner’s Slides</a></br>
@@ -370,7 +370,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <th rowspan=2 scope="row">9</th>
       <td>17.11.2025</td>
       <td>Dependency Parsing with the Matrix-Tree Theorem</td>
-      <td><a href="https://drive.google.com/file/d/126SXuv8vjgE34nN-iE-6oTuk0ryRKoZW/view?usp=sharing" target="_blank">(last year) Lecture 9 </a></td>
+      <td><a href="https://drive.google.com/file/d/1N8sv4VZYEyg6fNdLsiEyHmNJvLV3jaU8/view?usp=sharing" target="_blank"> Lecture 9 </a></td>
       <td>Eisenstein Ch. 11</td>
       <td><a href="https://www.aclweb.org/anthology/D07-1015/" target="_blank">Koo et al. (2007)</a></br>
         <a href="https://www.aclweb.org/anthology/D07-1014/" target="_blank">Smith and Smith (2007)</a></br>
