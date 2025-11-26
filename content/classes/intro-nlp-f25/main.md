@@ -393,12 +393,14 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <th rowspan=2 scope="row">10</th>
       <td>24.11.2025</td>
       <td>Semantic Parsing with CCGs</td>
-      <td><a href="https://drive.google.com/file/d/1QMHp3ZlDOl8i8lOBBmYTSwq7d-lib8jf/view?usp=sharing" target="_blank">(last year) Lecture 10</a></td>
+      <td><a href="https://drive.google.com/file/d/17cYghvSWf5y5bVZrwn1T2022x4O1wwpf/view?usp=sharing" target="_blank">Lecture 10</a></td>
       <td>Eisenstein Ch. 9.3 and 12</td>
       <td><a href="https://www.aclweb.org/anthology/P88-1034/" target="_blank">Weir and Joshi (1988)</a></br>
         <a href="https://www.aclweb.org/anthology/Q14-1032/" target="_blank">Kuhlmann and Satta (2014)</a></br>
         <a href="https://homepages.inf.ed.ac.uk/steedman/papers/ccg/ikdoz17.2.pdf" target="_blank">Mark Steedman's CCG slides</a></td>
       <td>
+        <a href="https://drive.google.com/file/d/1Oi4yzUNU3XL2SgXwAZLkUA67Q4hHEQ-v/view?usp=sharing" target="_blank">Week 10 Exercises</a></br>
+        <a href="https://drive.google.com/file/d/1iHm4GRAppHRCquNrkR9mniVq2wHoXg76/view?usp=sharing" target="_blank">Week 10 Solutions</a>
       </td>
     </tr>
     <tr>
@@ -518,27 +520,35 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <td>8.10.2025</td>
       <td>Backpropagation, Assignment 1 introduction</td>
       <td>Blanka</td>
+      <td>
+        <a href="https://drive.google.com/file/d/1gEIZ4ddqpwXZPImGOVaL2jtBPIx7sFDF/view?usp=sharing" target="_blank"> Backprop Slides</a>
+      </td>
     </tr>
     <tr>
       <th scope="row">5</th>
       <td>15.10.2025</td>
       <td>Log-Linear Modeling</td>
       <td>Tianyu</td>
-      <td></td>
+      <td>
+        <a href="https://drive.google.com/file/d/1qxxj7UXxPlwEiLDvBVewvzn-3dwRHxgQ/view?usp=sharing" target="_blank"> Log-Linear Model Slides</a>
+      </td>
     </tr>
     <tr>
       <th scope="row">5</th>
       <td>22.10.2025</td>
       <td>Sentiment Classification with Multi-layer Perceptrons</td>
       <td>Eleftheria</td>
-      <td></td>
+      <td>
+        <a href="https://drive.google.com/file/d/1YC-5nW9G2JF72K5bLt7T_2kvzDOMTBog/view?usp=sharing" target="_blank"> MLP Slides</a>
+      </td>
     </tr>
     <tr>
       <th scope="row">6</th>
       <td>29.10.2025</td>
       <td>Language Modeling with n-grams and LSTMs</td>
       <td>Irene</td>
-      <td></td>
+      <td>
+      </td>
     </tr>
     <tr>
       <th scope="row">7</th>
@@ -546,6 +556,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <td>Part-of-speech Tagging with CRFs, Assignment 2 introduction</td>
       <td>Pawel</td>
       <td>
+        <a href="https://drive.google.com/file/d/1u04sjNv4EtRXx_qEtfa4v8rYNKRm4x-t/view?usp=sharing" target="_blank"> CRF Slides</a>
       </td>
     </tr>
     <tr>
@@ -554,7 +565,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <td>Transliteration with WFSTs, Assignment 3 introduction</td>
       <td>Tu</td>
       <td>
-        <a href="https://drive.google.com/file/d/1c_UummSrXq_Pp8Q_S80vT7SzT5RJrya8/view?usp=sharing" target="_blank">Assignment 3 Slides</a>
+        <a href="https://drive.google.com/file/d/1c_UummSrXq_Pp8Q_S80vT7SzT5RJrya8/view?usp=sharing" target="_blank">WFST Slides</a>
       </td>
     </tr>
     <tr>
@@ -563,6 +574,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <td>Context-free Parsing, Assignment 4 introduction</td>
       <td>Franz</td>
       <td>
+       <a href="https://drive.google.com/file/d/1Bhw3xPuchXPNP2b_dKxABqRkgCHQMIP_/view?usp=sharing" target="_blank">CFG Slides</a>
       </td>
     </tr>
     <tr>
