@@ -31,7 +31,7 @@ The course constitutes an introduction to modern techniques in the field of natu
 ### On the Use of Class Time
 There are two lecture slots for NLP. The first slot is on Monday from 12h to 14h. 
 During this time, the main lecture will be given. 
-The second slot is on Tuesday from 13h to 14h and will be used as a spill-over time if we did not get through all of the lecture material on Monday (this ensures that the class stays on track) and, time-permitting, the professor will work examples and hold an open-ended ask-me-anything-about-NLP session.
+The second slot is on Tuesday from 13h to 14h and will occasionally be used as a spill-over time if we did not get through all of the lecture material on Monday (this ensures that the class stays on track). By default, there is no lecture on Tuesdays. Changes to the schedule will be announced on RocketChat.
 
 
 ### Live Chat
@@ -80,8 +80,8 @@ Other useful literature:
 
 - [Introduction to Natural Language Processing (Eisenstein)](https://www.amazon.de/Jacob-Eisenstein/dp/0262042843/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=30OMHV1C018JY&dchild=1&keywords=introduction+to+natural+language+processing&qid=1598878964&sprefix=introduction+to+na%2Caps%2C148&sr=8-1)  
 - [Deep Learning (Goodfellow, Bengio and Courville)](https://www.deeplearningbook.org/)  
-- [LLM Course Notes](https://rycolab.io/classes/llm-s24/)  
-- [AFLT Course Notes](https://rycolab.io/classes/aflt-s24/)
+- [LLM Course Notes](https://rycolab.io/classes/llm-s25/)  
+- [AFLT Course Notes](https://rycolab.io/classes/aflt-s24/) (2024; the contents are more aligned with NLP than this year's course)
 
 ## Grading
 
