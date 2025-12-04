@@ -23,8 +23,8 @@ The course constitutes an introduction to modern techniques in the field of natu
 **02.10.2025** &emsp; [Assignment 1](https://drive.google.com/file/d/1x-hd6BKc5WWUZlmlHZhZLsZPt-qwAsZV/view?usp=sharing) released!   
 **03.11.2025** &emsp; [Assignment 2](https://drive.google.com/file/d/1M-3hIPZJEbmE_ujbNWlrN5LAVw-uG-rk/view?usp=sharing) released!   
 **11.11.2025** &emsp; [Assignment 3](https://drive.google.com/file/d/1i0Y9RkS9D3Bhq--LLfuBEoo7PFfFGb1i/view?usp=sharing) and [Assignment 4](https://drive.google.com/file/d/11pHioll9K4NJhGONe_W69wL6XX7J3svz/view?usp=sharing) released!   
-**19.11.2025** &emsp; [Assignment 5](https://drive.google.com/file/d/1glhJv8DEcyzAd3Rh_3gfrqNpeylJpByd/view?usp=sharing) released!
-
+**19.11.2025** &emsp; [Assignment 5](https://drive.google.com/file/d/1glhJv8DEcyzAd3Rh_3gfrqNpeylJpByd/view?usp=sharing) released!   
+**04.12.2025** &emsp; [Assignment 6](https://drive.google.com/file/d/1JlC5VfcOucxF8uFpNm8dBUr-OMhpk_lU/view?usp=sharing) released!
 
 ## Organisation
 
@@ -113,6 +113,7 @@ The class assignments were crafted to dovetail nicely with the lecture contents 
 - [Assignment 3](https://drive.google.com/file/d/1i0Y9RkS9D3Bhq--LLfuBEoo7PFfFGb1i/view?usp=sharing)   
 - [Assignment 4](https://drive.google.com/file/d/11pHioll9K4NJhGONe_W69wL6XX7J3svz/view?usp=sharing)  
 - [Assignment 5](https://drive.google.com/file/d/1glhJv8DEcyzAd3Rh_3gfrqNpeylJpByd/view?usp=sharing)  
+- [Assignment 6](https://drive.google.com/file/d/1JlC5VfcOucxF8uFpNm8dBUr-OMhpk_lU/view?usp=sharing)  
 
 **Very important:**
 *<u>We require the solutions to be properly typeset.</u>*
