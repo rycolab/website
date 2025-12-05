@@ -416,7 +416,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <th rowspan=2 scope="row">11</th>
       <td>1.12.2025</td>
       <td>Machine Translation with Transformers</td>
-      <td><a href="https://drive.google.com/file/d/16_eyunOZG1vFF4pNikaSMZdNO86j2HfZ/view?usp=sharing" target="_blank">(last year) Lecture 11</a></td>
+      <td><a href="https://drive.google.com/file/d/122AzVrYuF3NPb1Opt7l9vAd4P8CvYbsi/view?usp=sharing" target="_blank">Lecture 11</a></td>
       <td>Eisenstein Ch. 18</td>
       <td>
         <a href="https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf" target="_blank">Vaswani et al. (2017)</a></br>
@@ -424,6 +424,8 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
         <a href="https://jalammar.github.io/illustrated-transformer/">The Illustrated Transformer</a></br>
         <a href="https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/">The Transformer Family</a></td>
       <td>
+        <a href="https://drive.google.com/file/d/1r36JqPSisoMDRok0DkgaghqIx57KI8xU/view?usp=sharing" target="_blank">Week 11 Exercises</a></br>
+        <a href="https://drive.google.com/file/d/1X31nT3mhc1AwPqSxsOnEKmiPMf8s5rHy/view?usp=sharing" target="_blank">Week 11 Solutions</a>
       </td>
     </tr>
     <tr>
@@ -584,6 +586,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <td>Dependency Parsing with the Matrix-Tree Theorem, Assignment 5 introduction</td>
       <td>Blanka</td>
       <td>
+        <a href="https://drive.google.com/file/d/1a8Z1vlq7ZdUI_k_LtDRjdKXiN1sLjB86/view?usp=sharing" target="_blank">MTT Slides</a>
       </td>
     </tr>
     <tr>
