@@ -444,6 +444,8 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <td>Review Eisenstein Ch. 2;</br>Goodfellow, Bengio and Courville Ch. 5 and 11</td>
       <td></td>
       <td>
+        <a href="https://drive.google.com/file/d/1qHNehzhY-9V-LITqg_ac9nal3KrA7WRx/view?usp=sharing" target="_blank">Week 12 Exercises</a></br>
+        <a href="https://drive.google.com/file/d/10FPeE81EZDlQu2rQMc3MFGauOIbLAIdM/view?usp=sharing" target="_blank">Week 12 Solutions</a>
       </td>
     </tr>
     <tr>
@@ -551,6 +553,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <td>Language Modeling with n-grams and LSTMs</td>
       <td>Irene</td>
       <td>
+        <a href="https://drive.google.com/file/d/13IHcp_CmDmHDuD-OLETwhy3cfGXu08I-/view?usp=sharing" target="_blank"> LM Slides</a>
       </td>
     </tr>
     <tr>
