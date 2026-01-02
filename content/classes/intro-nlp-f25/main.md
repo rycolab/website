@@ -248,7 +248,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <th rowspan=2 scope="row">4</th>
       <td>13.10.2025</td>
       <td>Sentiment Analysis with Multi-layer Perceptrons</td>
-      <td><a href="https://drive.google.com/drive/u/0/folders/1JpatUjoW-Mw96dluKKIeVCogPdmHksfZ" target="_blank">Lecture 4</a></td>
+      <td><a href="https://drive.google.com/file/d/1VWnBqbHAXd3Z42RPYuel3Sg6tDXyvhHf/view?usp=drive_link target="_blank">Lecture 4</a></td>
       <td>Eisenstein Ch. 3 and 4;</br>Goodfellow, Bengio and Courville Ch. 6</td>
       <td></td>
       <td>
