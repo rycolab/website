@@ -440,7 +440,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <th rowspan=2 scope="row">12</th>
       <td>8.12.2025</td>
       <td>Axes of Modeling</td>
-      <td><a href="https://drive.google.com/file/d/1iIwAej8yO90E0kvyNKty4D2SArATuNHm/view?usp=sharing" target="_blank">(last year) Lecture 12</a></td>
+      <td><a href="https://drive.google.com/file/d/19JUZTnfQ2FxzyedioInfZBjnivoPPMeF/view?usp=sharing" target="_blank">Lecture 12</a></td>
       <td>Review Eisenstein Ch. 2;</br>Goodfellow, Bengio and Courville Ch. 5 and 11</td>
       <td></td>
       <td>
@@ -460,7 +460,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <th rowspan=2 scope="row">13</th>
       <td>15.12.2025</td>
       <td>Bias and Fairness in NLP</td>
-      <td><a href="https://drive.google.com/file/d/1xYL3tUFN1xGjJrQNXMLOQEPLzRK5A8rH/view?usp=sharing" target="_blank">(last year) Lecture 13</a></td>
+      <td><a href="https://drive.google.com/file/d/1W0wrtqM3vLHCGFVorl1tdMV1UygICp0O/view?usp=sharing" target="_blank">Lecture 13</a></td>
       <td></td>
       <td><a href="https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf" target="_blank">Bolukabasi et al. (2016)</a></br>
         <a href="https://arxiv.org/abs/1903.03862" target="_blank">Gonen and Goldberg (2019)</a></br>
@@ -605,6 +605,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on th
       <td>Machine Translation with Transformers, Assignment 6 introduction</td>
       <td>Karolina</td>
       <td>
+        <a href="https://drive.google.com/file/d/1BMHTWOF8x9cO8QehQZEZFtl-2mH9dvdQ/view?usp=sharing" target="_blank">Transformer Slides </a>
       </td>
     </tr>
     <tr>
