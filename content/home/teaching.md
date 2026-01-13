@@ -65,6 +65,10 @@ subtitle = "[SEE ALL CLASSES](/classes)"
   fractions = false
 +++
 
+## [Large Language Models](classes/llm-s26)
+**ETH Zürich** <span class="middot-divider"></span> **Spring 2026**
+Large language models have become one of the most commonly deployed NLP inventions. In the past half-decade, their integration into core natural language processing tools has dramatically increased the performance of such tools, and they have entered the public discourse surrounding artificial intelligence. In this course, we start with the probabilistic foundations of language models, i.e., covering what constitutes a language model from a formal, theoretical perspective. We then discuss how to construct and curate training corpora, and introduce many of the neural-network architectures often used to instantiate language models at scale. The course discusses privacy and harms, as well as applications of language models in NLP and beyond.
+
 ## [Natural Language Processing](classes/intro-nlp-f25)
 **ETH Zürich** <span class="middot-divider"></span> **Fall 2025**
 This course presents topics in natural language processing with an emphasis on modern techniques, primarily focusing on statistical and deep learning approaches. The course provides an overview of the primary areas of research in language processing as well as a detailed exploration of the models and techniques used both in research and in commercial natural language systems.
