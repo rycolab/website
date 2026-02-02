@@ -48,7 +48,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Large Language Models Teaching Assistants
 ---
 A second-year master’s student in data science with a passion for AI alignment and mechanistic interpretability. 
 I got into the field through the MATS 6.0 program under the mentorship of Neel Nanda. 

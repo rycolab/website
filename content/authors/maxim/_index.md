@@ -45,6 +45,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Large Language Models Teaching Assistants
 ---
 Second year Computer Science master's student, focusing on the intersection of rigorous mathematics and machine learning. Whenever I break free from ML, I am usually chasing diagrams, fighting the borrow checker or reverse engineering games.

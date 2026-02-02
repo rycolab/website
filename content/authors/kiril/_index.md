@@ -42,6 +42,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Large Language Models Teaching Assistants
+- 
 ---
 Kiril is a second-year Data Science master’s student and an ESOP scholar from Bulgaria. He completed his Bachelor's in Computer Science at TU Delft in the Netherlands. His research interests are applying LLMs in medicine and is very passionate about anything ML-related. During his free time, he enjoys baking cookies, muffins, brownies, cakes, bread, you name it.

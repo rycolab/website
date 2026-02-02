@@ -49,6 +49,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Large Language Models Teaching Assistants
 ---
 Final-year master’s student (EE) and 3D vision enthusiast with a signal processing and deep learning background. With a research focus on neural rendering and 3D reconstruction, I am curiously trying out a wide variety of courses in different fields during my Master’s.

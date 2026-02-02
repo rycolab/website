@@ -60,7 +60,6 @@ user_groups:
 - Members
 - Current
 - PhD Students
-- Large Language Models Teaching Assistants
 - Philosophy of Language and Computation Teaching Assistants (Spring 2025)
 ---
 

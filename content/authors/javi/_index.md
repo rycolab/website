@@ -51,6 +51,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Large Language Models Teaching Assistants
 ---
 Javier Rando is a ETH AI Center Doctoral Fellow advised by [Florian Tramèr](https://floriantramer.com/) and [Mrinmaya Sachan](http://www.mrinmaya.io/). His research focuses on finding vulnerabilities in state-of-the-art AI systems. The question that motivates his work is “What will go wrong when we deploy powerful AI models in real-world applications?”

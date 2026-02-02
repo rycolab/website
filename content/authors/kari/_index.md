@@ -44,6 +44,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Large Language Models Teaching Assistants
 ---
 Second-year Master’s student of Data Science with an interest in the applications and security of language models. Originally from Iceland, where the only thing colder than the weather is the people, you’ll find me running, on the golf course, or in the mountains hiking, alpine or cross-country skiing when I’m not studying in food&lab.

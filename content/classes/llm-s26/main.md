@@ -23,9 +23,10 @@ Large language models have become one of the most commonly deployed NLP inventio
 
 ## On the Use of Class Time
 ### Lectures
-There is lecture slot for LLMs each week:
+There are two lecture slots for LLMs each week (3 hours total):
 
-- Tuesdays 14-16 in [HG E 3](https://www.rauminfo.ethz.ch/Rauminfo/grundrissplan.gif?gebaeude=HG&geschoss=E&raumNr=3&lang=en).
+- Tuesdays 14:15-16:00 in [HG E 3](https://www.rauminfo.ethz.ch/Rauminfo/grundrissplan.gif?gebaeude=HG&geschoss=E&raumNr=3&lang=en)
+- Fridays 10:15-11:00 in [CAB G 61](https://www.rauminfo.ethz.ch/Rauminfo/grundrissplan.gif?gebaeude=CAB&geschoss=G&raumNr=61&lang=en)
 
 ##### In-person and Zoom
 Lectures will be given in person and live broadcast on **Zoom**; the password is available on the course Moodle page.
@@ -56,7 +57,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
     }
 </script>
 
-## Syllabus (Last Year; Subject to Change)
+## Syllabus
 
 <table class="table">
   <head>
@@ -75,17 +76,15 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
     </tr>
   </thead>
   <tbody>
+    <!-- Ryan's Lectures -->
     <tr>
       <td>17. 2. 2026</td>
       <td>1 hour</td>
       <td></td>
       <td>Introduction and Overview</td>
-      <td>
-
-      </td>
+      <td>Ryan</td>
       <td>
       <div id="summary1" style="display:none">
-
       <br/>
       <br/>
       </div>
@@ -99,19 +98,15 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
     <tr>
       <td>17. 2. 2026</td>
       <td>1 hour</td>
-      <td rowspan="3" style="vertical-align : middle;text-align:center;" align="center"><b>Probabilistic Foundations</b></td>
-      <td>Basic Measure Theory</td>
-      <td>
-
-      </td>
+      <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Modeling Foundations</b></td>
+      <td>Defining a Language Model</td>
+      <td>Ryan</td>
       <td>
       <div id="summary2" style="display:none">
-
       <br/>
       <br/>
       </div>
       <button id="button2" style="border:none;" onclick="myFunction('2')">Show</button>
-      </td>
       </td>
       <td>
       </td>
@@ -121,34 +116,29 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
     <tr>
       <td>20. 2. 2026</td>
       <td>1 hour</td>
-      <td>Defining a Language Model</td>
-      <td>
-
-      </td>
+      <td>The Language Modeling Task</td>
+      <td>Ryan</td>
       <td>
       <div id="summary3" style="display:none">
-
       <br/>
       <br/>
       </div>
       <button id="button3" style="border:none;" onclick="myFunction('3')">Show</button>
-      </td>
       </td>
       <td>
       </td>
       <td>
       </td>
     </tr>
+    <!-- Anej's Lectures -->
     <tr>
       <td>24. 2. 2026</td>
       <td>2 hours</td>
-      <td>Tight Language Models</td>
-      <td>
-
-      </td>
+      <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Classical Language Models</b></td>
+      <td>Finite-State Language Models</td>
+      <td>Anej</td>
       <td>
       <div id="summary4" style="display:none">
-
       <br/>
       <br/>
       </div>
@@ -162,14 +152,10 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
     <tr>
       <td>27. 2. 2026</td>
       <td>1 hour</td>
-      <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Modeling Foundations</b></td>
-      <td>The Language Modeling Task</td>
-      <td>
-
-      </td>
+      <td>Recurrent Neural Language Models</td>
+      <td>Anej</td>
       <td>
       <div id="summary5" style="display:none">
-
       <br/>
       <br/>
       </div>
@@ -180,16 +166,15 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>
       </td>
     </tr>
+    <!-- Alexandra's Lecture -->
     <tr>
       <td>3. 3. 2026</td>
       <td>2 hours</td>
-      <td>Finite-State Language Models</td>
-      <td>
-
-      </td>
+      <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Neural Network Modeling</b></td>
+      <td>Representational Capacity of RNN LMs</td>
+      <td>Alexandra</td>
       <td>
       <div id="summary6" style="display:none">
-
       <br/>
       <br/>
       </div>
@@ -200,17 +185,14 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>
       </td>
     </tr>
+    <!-- TBD Lecture -->
     <tr>
       <td>6. 3. 2026</td>
-      <td>1 hours</td>
-      <td rowspan="5" style="vertical-align : middle;text-align:center;" align="center"><b>Neural Network Modeling</b></td>
-      <td>Recurrent Neural Language Models</td>
-      <td>
-
-      </td>
+      <td>1 hour</td>
+      <td>TBD</td>
+      <td>TBD</td>
       <td>
       <div id="summary7" style="display:none">
-
       <br/>
       <br/>
       </div>
@@ -221,17 +203,14 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>
       </td>
     </tr>
+    <!-- Tianyu's Lecture -->
     <tr>
       <td>10. 3. 2026</td>
-      <td>1 hours</td>
-      <!-- <td rowspan="5" style="vertical-align : middle;text-align:center;" align="center"><b>Neural Network Modeling</b></td> -->
-      <td>Representational Capacity of RNN LMs</td>
-      <td>
-
-      </td>
+      <td>2 hours</td>
+      <td>Transformer-based Language Models</td>
+      <td>Tianyu</td>
       <td>
       <div id="summary8" style="display:none">
-
       <br/>
       <br/>
       </div>
@@ -242,16 +221,33 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>
       </td>
     </tr>
+    <!-- Irene's Lecture -->
     <tr>
-      <td>10. 3. 2026</td>
+      <td>13. 3. 2026</td>
       <td>1 hour</td>
-      <td>Transformer-based Language Models</td>
+      <td>Representational Capacity of Transformer-based Language Models</td>
+      <td>Irene</td>
       <td>
-
+      <div id="summary9" style="display:none">
+      <br/>
+      <br/>
+      </div>
+      <button id="button9" style="border:none;" onclick="myFunction('9')">Show</button>
       </td>
       <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <!-- Manuel's Lecture -->
+    <tr>
+      <td>17. 3. 2026</td>
+      <td>2 hours</td>
+      <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Modeling Potpourri</b></td>
+      <td>Tokenization</td>
+      <td>Manuel</td>
+      <td>
       <div id="summary10" style="display:none">
-
       <br/>
       <br/>
       </div>
@@ -262,30 +258,33 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>
       </td>
     </tr>
+    <!-- Robin's Lecture -->
     <tr>
-      <td>13. 3. 2026</td>
+      <td>20. 3. 2026</td>
       <td>1 hour</td>
-      <td>Transformer-based Language Models</td>
+      <td>Generating Text from a Language Model</td>
+      <td>Robin</td>
       <td>
-
-      </td>
-      <td>
+      <div id="summary11" style="display:none">
+      <br/>
+      <br/>
+      </div>
+      <button id="button11" style="border:none;" onclick="myFunction('11')">Show</button>
       </td>
       <td>
       </td>
       <td>
       </td>
     </tr>
+    <!-- Mrinmaya's Lectures -->
     <tr>
-      <td>17. 3. 2026</td>
-      <td>1 hour</td>
-      <td>Representational Capacity of Transformer-based Language Models</td>
-      <td>
-
-      </td>
+      <td>24. 3. 2026</td>
+      <td>2 hours</td>
+      <td rowspan="3" style="vertical-align : middle;text-align:center;" align="center"><b>Transfer Learning and Fine-tuning</b></td>
+      <td>Transfer Learning</td>
+      <td>Mrinmaya</td>
       <td>
       <div id="summary12" style="display:none">
-
       <br/>
       <br/>
       </div>
@@ -297,16 +296,12 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       </td>
     </tr>
     <tr>
-      <td>17. 3. 2026</td>
+      <td>27. 3. 2026</td>
       <td>1 hour</td>
-      <td rowspan="3" style="vertical-align : middle;text-align:center;" align="center"><b>Modeling Potpourri</b></td>
-      <td>Tokenization</td>
-      <td>
-
-      </td>
+      <td>Parameter Efficient Finetuning</td>
+      <td>Mrinmaya</td>
       <td>
       <div id="summary13" style="display:none">
-
       <br/>
       <br/>
       </div>
@@ -318,33 +313,69 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       </td>
     </tr>
     <tr>
-      <td>20. 3. 2026</td>
-      <td>1 hour</td>
-      <!-- <td rowspan="1" style="vertical-align : middle;text-align:center;" align="center"><b>Modeling Potpourri</b></td> -->
-      <td>Generating Text from a Language Model</td>
-      <td>
-
-      </td>
-      <td>
-      <div id="summary13" style="display:none">
-
-      <br/>
-      <br/>
-      </div>
-      <button id="button13" style="border:none;" onclick="myFunction('13')">Show</button>
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td>24. 3. 2026</td>
+      <td>31. 3. 2026</td>
       <td>2 hours</td>
-      <td>Generating Text from a Language Model</td>
+      <td>Parameter Efficient Finetuning</td>
+      <td>Mrinmaya</td>
       <td>
-
+      <div id="summary14" style="display:none">
+      <br/>
+      <br/>
+      </div>
+      <button id="button14" style="border:none;" onclick="myFunction('14')">Show</button>
       </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+      </td>
+      <td colspan="6" style="text-align:center;"><b>Easter Break</b></td>
+    </tr>
+    <tr>
+      <td>14. 4. 2026</td>
+      <td>2 hours</td>
+      <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Prompting and In-context Learning</b></td>
+      <td>In-context Learning, Prompting, Zero-shot, Instruction Tuning</td>
+      <td>Mrinmaya</td>
+      <td>
+      <div id="summary15" style="display:none">
+      <br/>
+      <br/>
+      </div>
+      <button id="button15" style="border:none;" onclick="myFunction('15')">Show</button>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>17. 4. 2026</td>
+      <td>1 hour</td>
+      <td>Multimodality</td>
+      <td>Mrinmaya</td>
+      <td>
+      <div id="summary16" style="display:none">
+      <br/>
+      <br/>
+      </div>
+      <button id="button16" style="border:none;" onclick="myFunction('16')">Show</button>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>21. 4. 2026</td>
+      <td>2 hours</td>
+      <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Retrieval and Reasoning</b></td>
+      <td>Retrieval Augmented Language Models</td>
+      <td>Mrinmaya</td>
       <td>
       <div id="summary17" style="display:none">
       <br/>
@@ -358,13 +389,10 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       </td>
     </tr>
     <tr>
-      <td>27. 3. 2026</td>
+      <td>24. 4. 2026</td>
       <td>1 hour</td>
-      <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Training, Fine Tuning and Inference</b></td>
-      <td>Transfer Learning</td>
-      <td>
-
-      </td>
+      <td>Reinforcement Learning for Reasoning and Inference-time Compute</td>
+      <td>Mrinmaya</td>
       <td>
       <div id="summary18" style="display:none">
       <br/>
@@ -378,12 +406,30 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       </td>
     </tr>
     <tr>
-      <td>31. 3. 2026</td>
+      <td>28. 4. 2026</td>
       <td>2 hours</td>
-      <td>Parameter efficient finetuning</td>
+      <td style="vertical-align : middle;text-align:center;" align="center"><b>Alignment</b></td>
+      <td>Instruction Tuning and RLHF</td>
+      <td>Mrinmaya</td>
       <td>
-
+      <div id="summary19" style="display:none">
+      <br/>
+      <br/>
+      </div>
+      <button id="button19" style="border:none;" onclick="myFunction('19')">Show</button>
       </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <!-- Florian's Lectures -->
+    <tr>
+      <td>1. 5. 2026</td>
+      <td>1 hour</td>
+      <td style="vertical-align : middle;text-align:center;" align="center"><b>Harms and Ethics</b></td>
+      <td>Harms &amp; Ethics</td>
+      <td>Florian</td>
       <td>
       <div id="summary20" style="display:none">
       <br/>
@@ -397,32 +443,11 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       </td>
     </tr>
     <tr>
-      <td>3. 4. 2026</td>
-      <td>1 hour</td>
-      <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Applications and the Benefits of Scale</b></td>
-      <td>In-context learning, Prompting, zero-shot, instruction tuning</td>
-      <td>
-
-      </td>
-      <td>
-      <div id="summary19" style="display:none">
-      <br/>
-      <br/>
-      </div>
-      <button id="button19" style="border:none;" onclick="myFunction('19')">Show</button>
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td>7. 4. 2026</td>
+      <td>5. 5. 2026</td>
       <td>2 hours</td>
-      <td>Multimodality</td>
-      <td>
-
-      </td>
+      <td rowspan="3" style="vertical-align : middle;text-align:center;" align="center"><b>Adversarial Robustness</b></td>
+      <td>Security &amp; Adversarial Examples</td>
+      <td>Florian</td>
       <td>
       <div id="summary21" style="display:none">
       <br/>
@@ -436,12 +461,10 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       </td>
     </tr>
     <tr>
-      <td>10. 4. 2026</td>
+      <td>8. 5. 2026</td>
       <td>1 hour</td>
-      <td>Retrieval augmented Language Models</td>
-      <td>
-
-      </td>
+      <td>Prompt Injections</td>
+      <td>Florian</td>
       <td>
       <div id="summary22" style="display:none">
       <br/>
@@ -455,18 +478,16 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       </td>
     </tr>
     <tr>
-      <td>14. 4. 2026</td>
+      <td>12. 5. 2026</td>
       <td>2 hours</td>
-      <td>Reinforcement learning for reasoning and inference-time compute</td>
-      <td>
-
-      </td>
+      <td>Data Poisoning, Backdoors and Model Stealing</td>
+      <td>Florian</td>
       <td>
       <div id="summary23" style="display:none">
       <br/>
       <br/>
       </div>
-      <button id="button23" style="border:none;" onclick="myFunction('22')">Show</button>
+      <button id="button23" style="border:none;" onclick="myFunction('23')">Show</button>
       </td>
       <td>
       </td>
@@ -474,72 +495,13 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       </td>
     </tr>
     <tr>
-      <td></td>
-      <td>
-      </td>
-      <td style="vertical-align : middle;text-align:center;" align="center"><b>Easter Break</b></td>
-      <td>
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td>28. 4. 2026</td>
-      <td>2 hours</td>
-      <td style="vertical-align : middle;text-align:center;" align="center"><b>Applications and the Benefits of Scale</b></td>
-      <td>Instruction tuning and RLHF</td>
-      <td>
-
-      </td>
-      <td>
-      <div id="summary34" style="display:none">
-      <br/>
-      <br/>
-      </div>
-      <button id="button34" style="border:none;" onclick="myFunction('34')">Show</button>
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td>1. 5. 2026</td>
+      <td>15. 5. 2026</td>
       <td>1 hour</td>
-      <td rowspan="9" style="vertical-align : middle;text-align:center;" align="center"><b>Security</b></td>
-      <td>Security, Adversarial examples, and Watermarks</td>
-      <td>
-
-      </td>
-      <td>
-      <div id="summary25" style="display:none">
-
-      <br/>
-      <br/>
-      </div>
-      <button id="button25" style="border:none;" onclick="myFunction('25')">Show</button>
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td>5. 5. 2026</td>
-      <td>2 hours</td>
-      <td>Security, Adversarial examples, and Watermarks</td>
-      <td>
-
-      </td>
+      <td rowspan="3" style="vertical-align : middle;text-align:center;" align="center"><b>Privacy</b></td>
+      <td>Privacy in ML</td>
+      <td>Florian</td>
       <td>
       <div id="summary24" style="display:none">
-
       <br/>
       <br/>
       </div>
@@ -551,12 +513,27 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       </td>
     </tr>
     <tr>
-      <td>8. 5. 2026</td>
-      <td>1 hour</td>
-      <td>Prompt injections</td>
+      <td>19. 5. 2026</td>
+      <td>2 hours</td>
+      <td>Memorization + Differential Privacy</td>
+      <td>Florian</td>
       <td>
-
+      <div id="summary25" style="display:none">
+      <br/>
+      <br/>
+      </div>
+      <button id="button25" style="border:none;" onclick="myFunction('25')">Show</button>
       </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>22. 5. 2026</td>
+      <td>1 hour</td>
+      <td>Data Lifecycle</td>
+      <td>Florian</td>
       <td>
       <div id="summary26" style="display:none">
       <br/>
@@ -570,95 +547,17 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       </td>
     </tr>
     <tr>
-      <td>12. 5. 2026</td>
-      <td>2 hours</td>
-      <td>Data poisoning, backdoors and model stealing</td>
-      <td>
-
-      </td>
-      <td>
-      <div id="summary28" style="display:none">
-      <br/>
-      <br/>
-      </div>
-      <button id="button28" style="border:none;" onclick="myFunction('27')">Show</button>
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td>15. 5. 2026</td>
-      <td>1 hour</td>
-      <td>Model stealing attacks</td>
-      <td>
-
-      </td>
-      <td>
-      <div id="summary29" style="display:none">
-      <br/>
-      <br/>
-      </div>
-      <button id="button29" style="border:none;" onclick="myFunction('29')">Show</button>
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td>19. 5. 2026</td>
-      <td>2 hours</td>
-      <td>Privacy, Memorization, Differential Privacy</td>
-      <td>
-
-      </td>
-      <td>
-      <div id="summary30" style="display:none">
-
-      <br/>
-      <br/>
-      </div>
-      <button id="button30" style="border:none;" onclick="myFunction('30')">Show</button>
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td>22. 5. 2026</td>
-      <td>1 hour</td>
-      <td>Privacy, Memorization, Differential Privacy</td>
-      <td>
-
-      </td>
-      <td>
-      <div id="summary31" style="display:none">
-      <br/>
-      <br/>
-      </div>
-      <button id="button31" style="border:none;" onclick="myFunction('31')">Show</button>
-      </td>
-      <td>
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
       <td>26. 5. 2026</td>
       <td>2 hours</td>
-      <td>Membership inference attacks</td>
+      <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Interpretability and Safety</b></td>
+      <td>Explainability, Interpretability, AI Safety</td>
+      <td>Florian</td>
       <td>
-
-      </td>
-      <td>
-      <div id="summary32" style="display:none">
+      <div id="summary27" style="display:none">
       <br/>
       <br/>
       </div>
-      <button id="button32" style="border:none;" onclick="myFunction('32')">Show</button>
+      <button id="button27" style="border:none;" onclick="myFunction('27')">Show</button>
       </td>
       <td>
       </td>
@@ -668,17 +567,14 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
     <tr>
       <td>29. 5. 2026</td>
       <td>1 hour</td>
-      <td>Guest Lecture</td>
+      <td>Guest Lecture (TBD)</td>
+      <td>Florian</td>
       <td>
-
-      </td>
-      <td>
-      <div id="summary33" style="display:none">
-
+      <div id="summary28" style="display:none">
       <br/>
       <br/>
       </div>
-      <button id="button33" style="border:none;" onclick="myFunction('33')">Show</button>
+      <button id="button28" style="border:none;" onclick="myFunction('28')">Show</button>
       </td>
       <td>
       </td>
@@ -706,8 +602,8 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
     <tr>
       <th scope="row">1</th>
       <td>19. 2. 2026</td>
-      <td>Course Logistics (1 hour)</td>
-      <td></td>
+      <td>Course Logistics</td>
+      <td>Anej</td>
       <td></td>
     </tr>
     <tr>
@@ -748,59 +644,56 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
     <tr>
       <th scope="row">7</th>
       <td>2. 4. 2026</td>
-      <td>Assignment 1 Q&A</td>
+      <td>Assignment 1 Q&amp;A</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">8</th>
-      <td>9. 4. 2026</td>
-      <td>Common pre-trained language models, Parameter-efficient fine-tuning</td>
+      <td>16. 4. 2026</td>
+      <td>Common Pre-trained Language Models, Parameter-efficient Fine-tuning</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">9</th>
-      <td>16. 4. 2026</td>
-      <td>Retrieval-augmented generation</td>
+      <td>23. 4. 2026</td>
+      <td>Retrieval-augmented Generation</td>
       <td></td>
-      <td>
-      </td>
+      <td></td>
     </tr>
     <tr>
       <th scope="row">10</th>
       <td>30. 4. 2026</td>
-      <td>Prompting, Chain-of-Thought Reasoning</td>
+      <td>TBD</td>
       <td></td>
-      <td>
-      </td>
+      <td></td>
     </tr>
     <tr>
       <th scope="row">11</th>
       <td>7. 5. 2026</td>
-      <td>Decoding and Watermarking</td>
+      <td>Assignment 2 Q&amp;A</td>
       <td></td>
-      <td>
-      </td>
+      <td></td>
     </tr>
     <tr>
       <th scope="row">12</th>
       <td>14. 5. 2026</td>
-      <td>Assignment 2 Q&A</td>
+      <td>Prompting, Chain-of-Thought Reasoning</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">13</th>
       <td>21. 5. 2026</td>
-      <td>TBD</td>
+      <td>Assignment 3 Q&amp;A</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">14</th>
       <td>28. 5. 2026</td>
-      <td><b>No tutorials: Ascension Day</b></td>
+      <td>TBD</td>
       <td></td>
       <td></td>
     </tr>

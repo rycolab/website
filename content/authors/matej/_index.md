@@ -45,6 +45,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Large Language Models Teaching Assistants
 ---
 Hi, my name is Matej! I am a second-year Master's student in CS interested in LLMs, computer vision, and graphics. Born and raised in the beautiful city of Prague, Czech Republic, I always like to be busy playing or making computer or board games, finishing the occasional bouldering session or a hike, or playing the piano. That is when I don't have to be grinding for yet another deadline at ETH.

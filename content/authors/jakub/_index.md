@@ -39,7 +39,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Large Language Models Teaching Assistants
 ---
 Jakub is a Doctoral Fellow at ETH AI Center working on the intersection of Natural Language Processing (NLP) and Learning Sciences. Jakub’s main research interests are in the domain of understanding the reasoning and pedagogical capabilities of generative large language models (LLMs), dialogue tutoring, question answering, and question generation.
 His free time hobbies are mountain biking and hiking.

@@ -53,6 +53,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Large Language Models Teaching Assistants
 ---
 Alessandro is a PhD candidate at the Institute for Machine Learning at ETH Zürich, supervised by Prof. Mrinmaya Sachan. He is interested in studying and improving machine learning models for natural language processing, and his research explores language models’ capabilities on complex tasks such as solving arithmetic problems and reasoning over factual and commonsense knowledge. Prior to embarking on their doctoral journey, Alessandro obtained a Master’s in Data Science from ETH Zürich and worked as a software developer at a start-up. Alessandro is a grateful recipient of the CYD Doctoral Fellowship.
