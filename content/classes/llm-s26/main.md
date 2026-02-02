@@ -679,8 +679,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
     <tr>
       <th scope="row">12</th>
       <td>14. 5. 2026</td>
-      <td>Prompting, Chain-of-Thought Reasoning</td>
-      <td></td>
+      <td>No tutorial (Ascension Day)</td>
       <td></td>
     </tr>
     <tr>
@@ -693,7 +692,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
     <tr>
       <th scope="row">14</th>
       <td>28. 5. 2026</td>
-      <td>TBD</td>
+      <td>Prompting, Chain-of-Thought Reasoning</td>
       <td></td>
       <td></td>
     </tr>
