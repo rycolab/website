@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Vilém Zouhar
+title: Lukas Fluri
 
 
 # Username (this should match the folder name)
 authors:
-- vilem
+- lukas
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,9 +22,10 @@ organizations:
 bio: 
 
 interests:
-- Evaluation (human annotations, automated metrics, optimization methods)
-- NLP-oriented human-computer interaction
-- Multilingual NLP
+- AI safety and alignment, in particular red-teaming
+- Model evaluations
+- Interpretability 
+- Science of deep learning
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -33,20 +34,16 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:vzouhar@inf.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:lukas.fluri@inf.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/zouharvi
-- icon: google
-  icon_pack: fab
-  link: https://scholar.google.com/citations?user=2EUDwtkAAAAJ&hl=en
+  link: https://x.com/LukasFluri_
 - icon: github
   icon_pack: fab
-  link: https://github.com/zouharvi
+  link: https://github.com/luk-s
 - icon: portrait
   icon_pack: fas
-  link: https://vilda.net/
-
+  link: https://lukas-fluri.com/
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -57,8 +54,6 @@ email: ""
 user_groups:
 - Large Language Models Teaching Assistants
 ---
-Vilém Zouhar (Vilda) is a PhD student in LRE lab. His motto is „Without evaluation, science is limited to blind exploration.“ He works on natural language processing problems related to evaluation and multilinguality. Previously he studied at Charles University, Groningen University, and Saarland University. While waiting for the models to converge, he enjoys board games and amateur singing and playing instruments.
-
-Native Language: Czech
-
-<!-- Animal Form: Goat -->
+Lukas is a PhD student at SPY Lab, supervised by Florian Tramèr. 
+He researches when and how AI systems fail, and how we could prevent this. 
+He loves to go outdoors, and is an enthusiastic runner and hiker.

@@ -610,70 +610,70 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <th scope="row">2</th>
       <td>26. 2. 2026</td>
       <td>Fundamentals of Natural Language Processing and Language Modeling</td>
-      <td></td>
+      <td>Tu</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">3</th>
       <td>5. 3. 2026</td>
       <td>Classical Language Models: $n$-grams</td>
-      <td></td>
+      <td>Livia</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">4</th>
       <td>12. 3. 2026</td>
       <td>RNN Language Models</td>
-      <td></td>
+      <td>Irene</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">5</th>
       <td>19. 3. 2026</td>
       <td>Transformer Language Models</td>
-      <td></td>
+      <td>Shawn</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">6</th>
       <td>26. 3. 2026</td>
       <td>Tokenization and Generation</td>
-      <td></td>
+      <td>Blanka</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">7</th>
       <td>2. 4. 2026</td>
       <td>Assignment 1 Q&amp;A</td>
-      <td></td>
+      <td>Irene, Tu, Blanka, Livia</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">8</th>
       <td>16. 4. 2026</td>
       <td>Common Pre-trained Language Models, Parameter-efficient Fine-tuning</td>
-      <td></td>
+      <td>William</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">9</th>
       <td>23. 4. 2026</td>
       <td>Retrieval-augmented Generation</td>
-      <td></td>
+      <td>Jan</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">10</th>
       <td>30. 4. 2026</td>
-      <td>TBD</td>
-      <td></td>
+      <td>Prompting, Chain-of-Thought Reasoning</td>
+      <td>Ema</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">11</th>
       <td>7. 5. 2026</td>
       <td>Assignment 2 Q&amp;A</td>
-      <td></td>
+      <td>Ema, Jan, Javier, William</td>
       <td></td>
     </tr>
     <tr>
@@ -685,15 +685,15 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
     <tr>
       <th scope="row">13</th>
       <td>21. 5. 2026</td>
-      <td>Assignment 3 Q&amp;A</td>
-      <td></td>
+      <td>Decoding, Watermarking</td>
+      <td>Javier</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">14</th>
       <td>28. 5. 2026</td>
-      <td>Prompting, Chain-of-Thought Reasoning</td>
-      <td></td>
+      <td>Assignment 3 Q&amp;A</td>
+      <td>Shawn, Javier</td>
       <td></td>
     </tr>
 
