@@ -85,14 +85,17 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>Ryan</td>
       <td>
       <div id="summary1" style="display:none">
+      The lecturers will contextualize large language models in NLP and computer science more broadly. Thereby, we will also motivate why the topic necessitates a separate course. We will also go over the course schedule and logistics.
       <br/>
       <br/>
       </div>
       <button id="button1" style="border:none;" onclick="myFunction('1')">Show</button>
       </td>
       <td>
+      <a href="https://drive.google.com/file/d/1NIaVqfPqCfWam0n8oFa8_pY70Su_RgWH/view?usp=sharing" target="_blank">Introductory Slides</a>
       </td>
       <td>
+      <a href="https://arxiv.org/abs/2311.04329" target="_blank">Course Notes, &sect; 1</a>
       </td>
     </tr>
     <tr>
@@ -103,6 +106,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>Ryan</td>
       <td>
       <div id="summary2" style="display:none">
+      Language modeling is about placing probability on infinite sets of strings. We introduce the notion of tightness and give a formal definition of a language model.
       <br/>
       <br/>
       </div>
@@ -111,6 +115,8 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>
       </td>
       <td>
+      <a href="https://arxiv.org/abs/2311.04329" target="_blank">Course Notes, &sect;&sect; 2&ndash;3,</a> <br>
+      <a href="https://aclanthology.org/2023.acl-long.543.pdf" target="_blank">Du et al. A Measure-Theoretic Characterization of Tight Language Models</a>
       </td>
     </tr>
     <tr>
@@ -120,6 +126,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>Ryan</td>
       <td>
       <div id="summary3" style="display:none">
+      In this lecture, we introduce the language modeling task, which we define to be any attempt to learn a language model from finite data. We will discuss various objectives that one might wish to optimize to induce a language model from data. We also discuss various regularization techniques and their use in combatting overfitting.
       <br/>
       <br/>
       </div>
@@ -128,6 +135,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>
       </td>
       <td>
+      <a href="https://arxiv.org/abs/2311.04329" target="_blank">Course Notes, &sect; 3</a>
       </td>
     </tr>
     <!-- Anej's Lectures -->
@@ -139,6 +147,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>Anej</td>
       <td>
       <div id="summary4" style="display:none">
+      Finite-state language models have a storied history in NLP. They are a natural generalization of n-gram models, which were the standard in the field from the 1980s till the late 2010s. In terms of theory, we introduce probabilistic finite-state automata as a generalization of finite-state automata from classic theory of computation. Additionally, we give a simple, closed-form characterization of tightness. We also show how Bengio et al. (2003), the first successful neural language model, is naturally viewed as a probabilistic finite-state automaton.
       <br/>
       <br/>
       </div>
@@ -147,6 +156,9 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>
       </td>
       <td>
+      <a href="https://arxiv.org/abs/2311.04329" target="_blank">Course Notes, &sect; 4.1</a> <br>
+      <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf" target="_blank">Bengio, Yoshua, et al. A neural probabilistic language model</a>,
+      <a href="https://arxiv.org/abs/2104.03474" target="_blank">Sun, Simeng, et al. Revisiting Simple Neural Probabilistic Language Models.</a>
       </td>
     </tr>
     <tr>
@@ -156,6 +168,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>Anej</td>
       <td>
       <div id="summary5" style="display:none">
+      Finite-state language models, by construction, can only look at a finite amount of context. Recurrent neural networks are a formalism that overcomes this limitation. In this lecture, we give a formal definition of a recurrent neural language model (RNNLM). We give examples of tight and non-tight RNN LMs as well as characterize the vanishing gradient problem.
       <br/>
       <br/>
       </div>
@@ -164,6 +177,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>
       </td>
       <td>
+      <a href="https://arxiv.org/abs/2311.04329" target="_blank">Course Notes, &sect;&sect; 5.1.1&ndash;5.1.4</a>
       </td>
     </tr>
     <!-- Alexandra's Lecture -->
@@ -175,6 +189,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>Alexandra</td>
       <td>
       <div id="summary6" style="display:none">
+      In this lecture, we explore the representational capacity of RNN LMs. We show that, if the activation function is a hard thresholding operation, then RNN LMs have the same expressive capacity as a finite-state LM. However, we show that RNN LMs can implicitly represent finite-state LMs that are much larger. Additionally, if the activation function is a saturated sigmoid or a ReLu and we assume infinite precision arithmetic, we show how an RNN can emulate a Turing machine.
       <br/>
       <br/>
       </div>
@@ -183,6 +198,10 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>
       </td>
       <td>
+      <a href="https://arxiv.org/abs/2311.04329" target="_blank">Course Notes, &sect; 5.1.6,</a> <br>
+      <a href="https://aclanthology.org/2023.emnlp-main.502.pdf" target="_blank">Svete et al., Recurrent Neural Language Models as Probabilistic Finite-state Automata.</a>, <br>
+      <a href="https://aclanthology.org/2023.emnlp-main.434.pdf" target="_blank">Nowak et al., On the Representational Capacity of Recurrent Neural Language Models.</a>, <br>
+      <a href="https://www.sciencedirect.com/science/article/pii/S0022000085710136" target="_blank">Siegelmann H. T. and Sontag E. D. On the computational power of neural nets.</a>
       </td>
     </tr>
     <!-- TBD Lecture -->
@@ -211,6 +230,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>Tianyu</td>
       <td>
       <div id="summary8" style="display:none">
+      Introduced in 2017 by Vaswani et al., Transformers have quickly become the most popular architecture for neural language modeling. They are the basis for recent large language models, e.g., GPT-3 and PaLM. This lecture gives the definition of a Transformer and overviews details, e.g., residual connections, layer normalization, and position embeddings.
       <br/>
       <br/>
       </div>
@@ -219,6 +239,12 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>
       </td>
       <td>
+      <a href="https://arxiv.org/abs/2311.04329" target="_blank">Course Notes, &sect; 5.2, </a> <br>
+      <a href="https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf" target="_blank">Radford et al., Language Models are Unsupervised Multitask Learners, </a> <br>
+      <a href="https://arxiv.org/pdf/1706.03762.pdf" target="_blank">Vaswani et al., Attention Is All You Need,</a> <br>
+      <a href="https://jalammar.github.io/illustrated-transformer" target="_blank">The Illustrated Transformer,</a> <br>
+      <a href="https://jalammar.github.io/illustrated-gpt2" target="_blank">The Illustrated GPT-2,</a> <br>
+      <a href="https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)#Decoder" target="_blank">Transformer decoder (Wikipedia)</a>
       </td>
     </tr>
     <!-- Irene's Lecture -->
@@ -229,6 +255,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>Irene</td>
       <td>
       <div id="summary9" style="display:none">
+      Inspired by the Turing completeness of RNNs, we study the representational capacity of Transformers. Although the connection to automata is not as straight-forward as with RNNs, we discuss how to think about Transformers as formal models and show that, assuming an unbounded number of layers and infinite precision, Transformers are Turing complete.
       <br/>
       <br/>
       </div>
@@ -237,6 +264,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>
       </td>
       <td>
+      <a href="https://arxiv.org/abs/2311.04329" target="_blank">Course Notes, &sect; 5.3</a>
       </td>
     </tr>
     <!-- Manuel's Lecture -->
@@ -248,6 +276,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>Manuel</td>
       <td>
       <div id="summary10" style="display:none">
+      Throughout the class, we have assumed access to the alphabet &Sigma;. This lecture discusses how we should choose &Sigma;. We discuss various facts about natural language that influence &Sigma;, e.g., morphology and syntax. Then, we introduce the byte-pair encoding algorithm, an automatic procedure for inducing &Sigma;, and give a analyze of its correctness and runtime.
       <br/>
       <br/>
       </div>
@@ -266,12 +295,14 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>Robin</td>
       <td>
       <div id="summary11" style="display:none">
+      A popular use case for language modeling is the generation of text. This lecture overviews various strategies for deterministically and stochastically generating text. We discuss beam search, ancestral sampling, as well as various sampling adaptors, e.g., top-k, nucleus, and locally typical sampling.
       <br/>
       <br/>
       </div>
       <button id="button11" style="border:none;" onclick="myFunction('11')">Show</button>
       </td>
       <td>
+      <a href="https://drive.google.com/file/d/1Wh3hjLOyiyrWKJ72XCVfPR09Ke6IixQ7/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
       </td>
@@ -291,6 +322,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <button id="button12" style="border:none;" onclick="myFunction('12')">Show</button>
       </td>
       <td>
+      <a href="https://drive.google.com/file/d/1a06aJrPwVoZWenCZJ_DOL1-n3kv_lUH9/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
       </td>
@@ -308,6 +340,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <button id="button13" style="border:none;" onclick="myFunction('13')">Show</button>
       </td>
       <td>
+      <a href="https://drive.google.com/file/d/1Yq8E_MPabJYrMpSbRmXHHHWAZt7XKSHi/view?usp=share_link" target="_blank">Slides</a>
       </td>
       <td>
       </td>
@@ -349,6 +382,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <button id="button15" style="border:none;" onclick="myFunction('15')">Show</button>
       </td>
       <td>
+      <a href="https://drive.google.com/file/d/1ew_J5QplCWJerNQ4s8-FczR9k4fOdqa5/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
       </td>
@@ -366,6 +400,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <button id="button16" style="border:none;" onclick="myFunction('16')">Show</button>
       </td>
       <td>
+      <a href="https://drive.google.com/file/d/1jkgo1FkQrEhqg-5lGVHJ_U4iiE053ocQ/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
       </td>
@@ -384,6 +419,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <button id="button17" style="border:none;" onclick="myFunction('17')">Show</button>
       </td>
       <td>
+      <a href="https://drive.google.com/file/d/1Y3Dtz8rZtcddZvsY94PsZloBO3RKCBKg/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
       </td>
@@ -419,6 +455,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <button id="button19" style="border:none;" onclick="myFunction('19')">Show</button>
       </td>
       <td>
+      <a href="https://drive.google.com/file/d/1tQbaEO8aUg-sJdZF6YFYGlBc1D6wHOq4/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
       </td>
@@ -432,14 +469,17 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>Florian</td>
       <td>
       <div id="summary20" style="display:none">
+      Language models work extremely well, until they don't! What are some of the harms that large-scale deployment of language models can bring? We will discuss ways in which models can perpetrate or exacerbate issues in training data (biases, toxicity, etc.) and the difficulty in aligning models with particular ethical principles or truths.
       <br/>
       <br/>
       </div>
       <button id="button20" style="border:none;" onclick="myFunction('20')">Show</button>
       </td>
       <td>
+      <a href="https://drive.google.com/file/d/1xSb_y-53ILsGLLJoMe8jOXavcE88BQDL/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
+      <a href="https://arxiv.org/abs/2212.08073" target="_blank">Bai et al. Constitutional AI: Harmlessness from AI Feedback</a>
       </td>
     </tr>
     <tr>
@@ -450,6 +490,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>Florian</td>
       <td>
       <div id="summary21" style="display:none">
+      Machine learning models are remarkably brittle, and prone to all kinds of exploits. Language models are no different: we will see how tampering with model inputs or training data can lead to arbitrarily bad outcomes. We will also discuss how language models could be exploited for nefarious purposes such as large-scale spam campaigns.
       <br/>
       <br/>
       </div>
@@ -458,6 +499,8 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>
       </td>
       <td>
+      <a href="https://arxiv.org/abs/2306.15447" target="_blank">Carlini et al. Are aligned neural networks adversarially aligned?</a>,
+      <a href="https://arxiv.org/abs/2307.15043" target="_blank">Zou et al. Universal and Transferable Adversarial Attacks on Aligned Language Models</a>
       </td>
     </tr>
     <tr>
@@ -473,8 +516,10 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <button id="button22" style="border:none;" onclick="myFunction('22')">Show</button>
       </td>
       <td>
+      <a href="https://drive.google.com/file/d/176BkJ5pkEXuy7Fi_TMOTqZ88g6Oghk2j/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
+      <a href="https://arxiv.org/abs/2302.12173" target="_blank">Greshake et al. Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection</a>
       </td>
     </tr>
     <tr>
@@ -490,8 +535,13 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <button id="button23" style="border:none;" onclick="myFunction('23')">Show</button>
       </td>
       <td>
+      <a href="https://drive.google.com/file/d/1gagiHaD01KiDi9HwArG-3RF5Y7voHdG-/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
+      <a href="https://arxiv.org/abs/2302.10149" target="_blank">Carlini et al. Poisoning Web-Scale Training Datasets is Practical</a>,
+      <a href="https://arxiv.org/abs/2004.15015" target="_blank">Wallace et al. Imitation Attacks and Defenses for Black-box Machine Translation Systems</a>,
+      <a href="https://arxiv.org/abs/2011.05315" target="_blank">Carlini et al. Is Private Learning Possible with Instance Encoding?</a>,
+      <a href="https://arxiv.org/abs/2110.13057" target="_blank">Fowl et al. Robbing the Fed: Directly Obtaining Private Data in Federated Learning with Modified Models</a>
       </td>
     </tr>
     <tr>
@@ -510,6 +560,8 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>
       </td>
       <td>
+      <a href="https://arxiv.org/abs/2112.03570" target="_blank">Carlini et al. Membership Inference Attacks From First Principles</a>,
+      <a href="https://arxiv.org/abs/2402.07841" target="_blank">Duan et al. Do Membership Inference Attacks Work on Large Language Models?</a>
       </td>
     </tr>
     <tr>
@@ -519,14 +571,18 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>Florian</td>
       <td>
       <div id="summary25" style="display:none">
+      We look into language models' remarkable ability to memorize training data, and the risks this may pose for privacy or copyright. We will look at different ways to define memorization and privacy for textual models, and understand the different threats they aim to address. We will then review methods for provably guaranteeing the confidentiality and privacy of machine learning systems, and debate their adequacy in the context of textual models.
       <br/>
       <br/>
       </div>
       <button id="button25" style="border:none;" onclick="myFunction('25')">Show</button>
       </td>
       <td>
+      <a href="https://drive.google.com/file/d/1DLeoePB7DcB3aDzc4uSg4tf635uNCgDw/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
+      <a href="https://arxiv.org/abs/2311.17035" target="_blank">Nasr et al. Scalable Extraction of Training Data from (Production) Language Models</a>,
+      <a href="https://arxiv.org/abs/1607.00133" target="_blank">Abadi et al. Deep Learning with Differential Privacy</a>
       </td>
     </tr>
     <tr>
@@ -544,6 +600,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>
       </td>
       <td>
+      <a href="https://arxiv.org/abs/1803.09010" target="_blank">Gebru et al. Datasheets for Datasets</a>
       </td>
     </tr>
     <tr>
@@ -560,8 +617,11 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <button id="button27" style="border:none;" onclick="myFunction('27')">Show</button>
       </td>
       <td>
+      <a href="https://drive.google.com/file/d/1L6AYHmJT3isbEXavgGmX9HUzqv-BnASZ/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
+      <a href="https://arxiv.org/abs/2202.05262" target="_blank">Meng et al. Locating and Editing Factual Associations in GPT</a>,
+      <a href="https://arxiv.org/abs/2210.13382" target="_blank">Li et al. Emergent World Representations: Exploring a Sequence Model Trained on a Synthetic Task</a>
       </td>
     </tr>
     <tr>
@@ -604,42 +664,42 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>19. 2. 2026</td>
       <td>Course Logistics</td>
       <td>Anej</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1AslCHM0FrqMSrr1c5ZsIUdM4-4gQskcf/view?usp=sharing" target="_blank">Introduction Slides</a></td>
     </tr>
     <tr>
       <th scope="row">2</th>
       <td>26. 2. 2026</td>
       <td>Fundamentals of Natural Language Processing and Language Modeling</td>
       <td>Tu</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1NDnqkEiS-DiwjOnpoQmbpevnYF3v995j/view?usp=sharing" target="_blank">Exercises</a>, <a href="https://drive.google.com/file/d/11bfdjVtC5-9FhCfnnesbosYDrTQUN14Z/view?usp=sharing" target="_blank">Exercises with solutions</a>, <a href="https://drive.google.com/file/d/1En8H4woQ5iL3qA_TDy3GrS2Uxo88njqR/view?usp=sharing" target="_blank">iPad Notes</a></td>
     </tr>
     <tr>
       <th scope="row">3</th>
       <td>5. 3. 2026</td>
       <td>Classical Language Models: $n$-grams</td>
       <td>Livia</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1KtcPXjwX-eFnCnMReM8na-3CS8x6OsDk/view?usp=sharing" target="_blank">Exercises</a>, <a href="https://drive.google.com/file/d/19uVWQtXECEZBscthrAo7AKj2f-T-9ipv/view?usp=sharing" target="_blank">Exercises with solutions</a></td>
     </tr>
     <tr>
       <th scope="row">4</th>
       <td>12. 3. 2026</td>
       <td>RNN Language Models</td>
       <td>Irene</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1XwYRz1QAz1_itU-7nWtRAN8L2gvRPTlq/view?usp=sharing" target="_blank">Exercises</a>, <a href="https://drive.google.com/file/d/1ixlWV7ABJYwdpMtE6-Lp89nFurI5pegr/view?usp=sharing" target="_blank">Exercises with solutions</a>, <a href="https://drive.google.com/file/d/1DBn3jzadiBvrMSMhM-1_KSXwlglTG0BM/view?usp=sharing" target="_blank">Kári's notes</a></td>
     </tr>
     <tr>
       <th scope="row">5</th>
       <td>19. 3. 2026</td>
       <td>Transformer Language Models</td>
       <td>Shawn</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1jQPRVha6lv_AGsz51Y8GNfg8Z8xMsQrO/view?usp=sharing" target="_blank">Exercises</a>, <a href="https://drive.google.com/file/d/1Dn7asbHKiEX58kQa1gJJfkRibcHoirXE/view?usp=sharing" target="_blank">Exercises with solutions</a>, <a href="https://colab.research.google.com/drive/1Gywenp9vgqZlVVIO6fJP3rTtTSbXeG3q?usp=sharing" target="_blank">Jupyter Notebook</a></td>
     </tr>
     <tr>
       <th scope="row">6</th>
       <td>26. 3. 2026</td>
       <td>Tokenization and Generation</td>
       <td>Blanka</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1X7SDxxe_wie6h2lsXYbKShXWWOE2btv_/view?usp=sharing" target="_blank">Exercises</a>, <a href="https://drive.google.com/file/d/19mlbNDqaX6_I-McJh7kCz9h1phkiFqUU/view?usp=sharing" target="_blank">Exercises with solutions</a>, <a href="https://drive.google.com/file/d/1QacSXop-6TI2paBR0sPb2IrlxljzVxLV/view?usp=sharing" target="_blank">Slides</a></td>
     </tr>
     <tr>
       <th scope="row">7</th>
@@ -653,21 +713,26 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>16. 4. 2026</td>
       <td>Common Pre-trained Language Models, Parameter-efficient Fine-tuning</td>
       <td>William</td>
-      <td></td>
+      <td><a href="https://colab.research.google.com/drive/1zMhR3qHql0LrWwyDdVY-h2Cy-B6FntJu?usp=sharing" target="_blank">Google Colab Notebook</a>, <a href="https://excalidraw.com/#json=cqlOzR7j0SNT0Gk3TnGhL,AOMM5IrcYgoc05SBObTylw" target="_blank">Transformer Architecture Drawing</a></td>
     </tr>
     <tr>
       <th scope="row">9</th>
       <td>23. 4. 2026</td>
       <td>Retrieval-augmented Generation</td>
       <td>Jan</td>
-      <td></td>
+      <td>
+      <a href="https://colab.research.google.com/drive/19sD3mNVGBxyvDXheAwpAwnNO2XD2r3_l?usp=sharing" target="_blank">Google Colab Notebook</a>, <a href="https://drive.google.com/file/d/1375YNz9HWy4sShBA5XBnBrrhjGG9PIOB/view?usp=sharing" target="_blank">Slides</a>
+      </td>
     </tr>
     <tr>
       <th scope="row">10</th>
       <td>30. 4. 2026</td>
       <td>Prompting, Chain-of-Thought Reasoning</td>
       <td>Ema</td>
-      <td></td>
+      <td>
+      <a href="https://drive.google.com/file/d/1Uga7ZS3xU7ietkgsuZmh_cnP1hklfUs7/view?usp=sharing" target="_blank">Exercises</a>,
+      <a href="https://drive.google.com/file/d/1WqPmzArUQLYkSJXaa4hNzrFYsFt1jnOv/view?usp=sharing" target="_blank">Exercises with solutions</a>
+      </td>
     </tr>
     <tr>
       <th scope="row">11</th>
@@ -687,7 +752,10 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>21. 5. 2026</td>
       <td>Decoding, Watermarking</td>
       <td>Javier</td>
-      <td></td>
+      <td>
+      <a href="https://drive.google.com/file/d/16iRNCGY0aNj3vPwNqTjRnYIIYHkPOR60/view?usp=sharing" target="_blank">Exercises</a>,
+      <a href="https://drive.google.com/file/d/1tuddXlfDn7DXtK5lHmQE8bI1lC0vkuoR/view?usp=sharing" target="_blank">Exercises with solutions</a>
+      </td>
     </tr>
     <tr>
       <th scope="row">14</th>
