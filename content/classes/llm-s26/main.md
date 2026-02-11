@@ -208,14 +208,9 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
     <tr>
       <td>6. 3. 2026</td>
       <td>1 hour</td>
-      <td>TBD</td>
-      <td>TBD</td>
+      <td><b>No lecture</b></td>
+      <td></td>
       <td>
-      <div id="summary7" style="display:none">
-      <br/>
-      <br/>
-      </div>
-      <button id="button7" style="border:none;" onclick="myFunction('7')">Show</button>
       </td>
       <td>
       </td>
@@ -460,41 +455,55 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>
       </td>
     </tr>
-    <!-- Florian's Lectures -->
+    <!-- May Lectures -->
     <tr>
       <td>1. 5. 2026</td>
       <td>1 hour</td>
-      <td style="vertical-align : middle;text-align:center;" align="center"><b>Harms and Ethics</b></td>
-      <td>Harms &amp; Ethics</td>
-      <td>Florian</td>
+      <td style="vertical-align : middle;text-align:center;" align="center"><b>TBD</b></td>
+      <td>TBD</td>
+      <td>Mrinmaya</td>
       <td>
       <div id="summary20" style="display:none">
-      Language models work extremely well, until they don't! What are some of the harms that large-scale deployment of language models can bring? We will discuss ways in which models can perpetrate or exacerbate issues in training data (biases, toxicity, etc.) and the difficulty in aligning models with particular ethical principles or truths.
       <br/>
       <br/>
       </div>
       <button id="button20" style="border:none;" onclick="myFunction('20')">Show</button>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/1xSb_y-53ILsGLLJoMe8jOXavcE88BQDL/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
-      <a href="https://arxiv.org/abs/2212.08073" target="_blank">Bai et al. Constitutional AI: Harmlessness from AI Feedback</a>
       </td>
     </tr>
     <tr>
       <td>5. 5. 2026</td>
       <td>2 hours</td>
-      <td rowspan="3" style="vertical-align : middle;text-align:center;" align="center"><b>Adversarial Robustness</b></td>
-      <td>Security &amp; Adversarial Examples</td>
-      <td>Florian</td>
+      <td style="vertical-align : middle;text-align:center;" align="center"><b>Evaluation</b></td>
+      <td>Evaluations and Benchmarks</td>
+      <td>Vilem &amp; Mubashara</td>
       <td>
       <div id="summary21" style="display:none">
-      Machine learning models are remarkably brittle, and prone to all kinds of exploits. Language models are no different: we will see how tampering with model inputs or training data can lead to arbitrarily bad outcomes. We will also discuss how language models could be exploited for nefarious purposes such as large-scale spam campaigns.
       <br/>
       <br/>
       </div>
       <button id="button21" style="border:none;" onclick="myFunction('21')">Show</button>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>8. 5. 2026</td>
+      <td>1 hour</td>
+      <td rowspan="4" style="vertical-align : middle;text-align:center;" align="center"><b>Security</b></td>
+      <td>Security, Adversarial Examples, and Watermarks</td>
+      <td>Avital</td>
+      <td>
+      <div id="summary22" style="display:none">
+      <br/>
+      <br/>
+      </div>
+      <button id="button22" style="border:none;" onclick="myFunction('22')">Show</button>
       </td>
       <td>
       </td>
@@ -504,29 +513,10 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       </td>
     </tr>
     <tr>
-      <td>8. 5. 2026</td>
-      <td>1 hour</td>
-      <td>Prompt Injections</td>
-      <td>Florian</td>
-      <td>
-      <div id="summary22" style="display:none">
-      <br/>
-      <br/>
-      </div>
-      <button id="button22" style="border:none;" onclick="myFunction('22')">Show</button>
-      </td>
-      <td>
-      <a href="https://drive.google.com/file/d/176BkJ5pkEXuy7Fi_TMOTqZ88g6Oghk2j/view?usp=sharing" target="_blank">Slides</a>
-      </td>
-      <td>
-      <a href="https://arxiv.org/abs/2302.12173" target="_blank">Greshake et al. Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection</a>
-      </td>
-    </tr>
-    <tr>
       <td>12. 5. 2026</td>
       <td>2 hours</td>
-      <td>Data Poisoning, Backdoors and Model Stealing</td>
-      <td>Florian</td>
+      <td>Security, Adversarial Examples, and Watermarks</td>
+      <td>Avital</td>
       <td>
       <div id="summary23" style="display:none">
       <br/>
@@ -535,21 +525,15 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <button id="button23" style="border:none;" onclick="myFunction('23')">Show</button>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/1gagiHaD01KiDi9HwArG-3RF5Y7voHdG-/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
-      <a href="https://arxiv.org/abs/2302.10149" target="_blank">Carlini et al. Poisoning Web-Scale Training Datasets is Practical</a>,
-      <a href="https://arxiv.org/abs/2004.15015" target="_blank">Wallace et al. Imitation Attacks and Defenses for Black-box Machine Translation Systems</a>,
-      <a href="https://arxiv.org/abs/2011.05315" target="_blank">Carlini et al. Is Private Learning Possible with Instance Encoding?</a>,
-      <a href="https://arxiv.org/abs/2110.13057" target="_blank">Fowl et al. Robbing the Fed: Directly Obtaining Private Data in Federated Learning with Modified Models</a>
       </td>
     </tr>
     <tr>
       <td>15. 5. 2026</td>
       <td>1 hour</td>
-      <td rowspan="3" style="vertical-align : middle;text-align:center;" align="center"><b>Privacy</b></td>
-      <td>Privacy in ML</td>
-      <td>Florian</td>
+      <td>Prompt Injections</td>
+      <td>Avital</td>
       <td>
       <div id="summary24" style="display:none">
       <br/>
@@ -560,35 +544,35 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>
       </td>
       <td>
-      <a href="https://arxiv.org/abs/2112.03570" target="_blank">Carlini et al. Membership Inference Attacks From First Principles</a>,
-      <a href="https://arxiv.org/abs/2402.07841" target="_blank">Duan et al. Do Membership Inference Attacks Work on Large Language Models?</a>
+      <a href="https://arxiv.org/abs/2302.12173" target="_blank">Greshake et al. Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection</a>
       </td>
     </tr>
     <tr>
       <td>19. 5. 2026</td>
       <td>2 hours</td>
-      <td>Memorization + Differential Privacy</td>
-      <td>Florian</td>
+      <td>Data Poisoning, Backdoors and Model Stealing</td>
+      <td>Avital</td>
       <td>
       <div id="summary25" style="display:none">
-      We look into language models' remarkable ability to memorize training data, and the risks this may pose for privacy or copyright. We will look at different ways to define memorization and privacy for textual models, and understand the different threats they aim to address. We will then review methods for provably guaranteeing the confidentiality and privacy of machine learning systems, and debate their adequacy in the context of textual models.
       <br/>
       <br/>
       </div>
       <button id="button25" style="border:none;" onclick="myFunction('25')">Show</button>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/1DLeoePB7DcB3aDzc4uSg4tf635uNCgDw/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
-      <a href="https://arxiv.org/abs/2311.17035" target="_blank">Nasr et al. Scalable Extraction of Training Data from (Production) Language Models</a>,
-      <a href="https://arxiv.org/abs/1607.00133" target="_blank">Abadi et al. Deep Learning with Differential Privacy</a>
+      <a href="https://arxiv.org/abs/2302.10149" target="_blank">Carlini et al. Poisoning Web-Scale Training Datasets is Practical</a>,
+      <a href="https://arxiv.org/abs/2004.15015" target="_blank">Wallace et al. Imitation Attacks and Defenses for Black-box Machine Translation Systems</a>,
+      <a href="https://arxiv.org/abs/2011.05315" target="_blank">Carlini et al. Is Private Learning Possible with Instance Encoding?</a>,
+      <a href="https://arxiv.org/abs/2110.13057" target="_blank">Fowl et al. Robbing the Fed: Directly Obtaining Private Data in Federated Learning with Modified Models</a>
       </td>
     </tr>
     <tr>
       <td>22. 5. 2026</td>
       <td>1 hour</td>
-      <td>Data Lifecycle</td>
+      <td rowspan="3" style="vertical-align : middle;text-align:center;" align="center"><b>Privacy</b></td>
+      <td>Privacy, Memorization, Differential Privacy</td>
       <td>Florian</td>
       <td>
       <div id="summary26" style="display:none">
@@ -600,14 +584,14 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>
       </td>
       <td>
-      <a href="https://arxiv.org/abs/1803.09010" target="_blank">Gebru et al. Datasheets for Datasets</a>
+      <a href="https://arxiv.org/abs/2311.17035" target="_blank">Nasr et al. Scalable Extraction of Training Data from (Production) Language Models</a>,
+      <a href="https://arxiv.org/abs/1607.00133" target="_blank">Abadi et al. Deep Learning with Differential Privacy</a>
       </td>
     </tr>
     <tr>
       <td>26. 5. 2026</td>
       <td>2 hours</td>
-      <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Interpretability and Safety</b></td>
-      <td>Explainability, Interpretability, AI Safety</td>
+      <td>Privacy, Memorization, Differential Privacy, Membership Inference Attacks</td>
       <td>Florian</td>
       <td>
       <div id="summary27" style="display:none">
@@ -617,17 +601,16 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <button id="button27" style="border:none;" onclick="myFunction('27')">Show</button>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/1L6AYHmJT3isbEXavgGmX9HUzqv-BnASZ/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
-      <a href="https://arxiv.org/abs/2202.05262" target="_blank">Meng et al. Locating and Editing Factual Associations in GPT</a>,
-      <a href="https://arxiv.org/abs/2210.13382" target="_blank">Li et al. Emergent World Representations: Exploring a Sequence Model Trained on a Synthetic Task</a>
+      <a href="https://arxiv.org/abs/2112.03570" target="_blank">Carlini et al. Membership Inference Attacks From First Principles</a>,
+      <a href="https://arxiv.org/abs/2402.07841" target="_blank">Duan et al. Do Membership Inference Attacks Work on Large Language Models?</a>
       </td>
     </tr>
     <tr>
       <td>29. 5. 2026</td>
       <td>1 hour</td>
-      <td>Guest Lecture (TBD)</td>
+      <td>TBD</td>
       <td>Florian</td>
       <td>
       <div id="summary28" style="display:none">
@@ -834,17 +817,17 @@ Each of the three assignments contribute 1/3 to the final assignment grade (that
 
 **Assignment instructions**:
 
-- Assignment 1 Instructions: TBD
-- Assignment 2 Instructions: TBD
+- Assignment 1 Instructions: Will be released on **February 27th, 2026**.
+- Assignment 2 Instructions: Will be released on between mid-April and mid-May 2026.
 - Assignment 3 Instructions: TBD
 
 
 ##### Assignment Deadlines
 You will submit your assignments via Moodle.
 
-- Assignment 1 is due on **TBD**.
+- Assignment 1 is due on **April 30, 2026, at 23:59**.
 - Assignment 2 is due on **TBD**.
-- Assignment 3 is due on **TBD**.
+- Assignment 3 is due on **June 5, 2026, at 23:59**.
 
 Please be proactive with your time management and start early.
 Barring exceptional circumstances that do not only affect the last two weeks before the deadline (e.g., prolonged illness, family emergency, or severe mistakes in the assignment setup), <u>*we will not accept requests for deadline extensions*</u>---neither individual nor group requests.
