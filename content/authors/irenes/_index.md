@@ -54,5 +54,7 @@ email: ""
 user_groups:
 - Large Language Models Teaching Assistants
 - Teaching Assistants NLP F25
+- Lecturer AFLT26
+- Teaching Assistants AFLT26
 ---
 Second-year Master's student in Computer Science, specializing in the theoretical foundations of machine learning and language models. Originally from a mountain village in South Tyrol, the curious German-speaking region of Italy, I like spending my summers ticking 3000-meter peaks off my list. I'm passionate about languages, particularly Latin, and enjoy exploring the etymology of words. My friends like to joke that the Duden is my favorite book.
