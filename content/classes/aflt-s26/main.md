@@ -120,45 +120,51 @@ We will also publish our class notes. The following syllabus is **tentative**.
       <td></td>
     </tr>
     <tr>
-      <td>15. 4. 2025</td>
-      <td><b>Modular Quantifiers</b></td>
-      <td>Chapter VII</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>22. 4. 2025</td>
-      <td><b>Circuit Complexity, Circuit Complexity Classes</b></td>
-      <td>Sections VIII.1, VIII.2</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>29. 4. 2025</td>
+      <td>8. 4. 2025</td>
       <td><b>No class (Easter break)</b></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
+      <td>15. 4. 2025</td>
+      <td><b>TBD</b></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>22. 4. 2025</td>
+      <td><b>TBD</b></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>29. 4. 2025</td>
+      <td><b>TBD</b></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td>6. 5. 2025</td>
-      <td><b>Circuit Complexity, Circuit Complexity Classes</b></td>
-      <td>Sections VIII.2, VIII.3</td>
+      <td><b>TBD</b></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>13. 5. 2025</td>
-      <td><b>Regular Languages and Circuit Complexity</b></td>
-      <td>Sections IX.1, IX.2</td>
+      <td><b>TBD</b></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>20. 5. 2025</td>
-      <td><b>Regular Languages and Circuit Complexity</b></td>
-      <td>Sections IX.3, IX.4</td>
+      <td><b>TBD</b></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>27. 5. 2025</td>
-      <td><b>The Krohn-Rhodes Theorem</b></td>
-      <td>Appendix A</td>
+      <td><b>TBD</b></td>
+      <td></td>
       <td></td>
     </tr>
   </tbody>
