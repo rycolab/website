@@ -77,8 +77,8 @@ This course presents topics in natural language processing with an emphasis on m
 **ETH Zürich** <span class="middot-divider"></span> **Fall 2025**
 This Bachelor’s seminar investigates the computational foundations of modern machine learning. We examine how model complexity, data availability, and algorithmic design interact to determine what learning systems can and cannot achieve, highlighting classic results from computational learning theory.
 
-## [Advanced Formal Language Theory](/classes/aflt-s25) 
-**ETH Zürich** <span class="middot-divider"></span> **Spring 2025**
+## [Advanced Formal Language Theory](/classes/aflt-s26) 
+**ETH Zürich** <span class="middot-divider"></span> **Spring 2026**
 This course explores the connection between automata and formal logic. More precisely, it covers the algebraic characterization of the regular languages definable in many different logical theories, the complexity theory of boolean circuits, and the connection between the two.
 
 ## [Philosophy of Language and Computation II](/classes/phil-s25) 
