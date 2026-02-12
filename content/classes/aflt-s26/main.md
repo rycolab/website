@@ -1,6 +1,6 @@
 
 +++
-title = 'Advanced Formal Language Theory, Spring 2025'
+title = 'Advanced Formal Language Theory, Spring 2026'
 subtitle = 'ETH Zürich: [Course catalog](https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=188900&semkez=2025S&ansicht=LEHRVERANSTALTUNGEN&lang=en)'
 summary = 'This course explores the connection between automata and formal logic. The lectures cover the algebraic characterization of the regular languages definable in many different logical theories, the complexity theory of boolean circuits, and the connection between the two. The interest in these topics has been recently rekindled due to their application in modern-day natural language processing. Both formal logic and circuit complexity are being used extensively to study the expressivity of transformers. The emphasis is on rigor and depth rather than broad coverage. Students should expect a healthy dose of proof-writing and, thus, mathematical maturity is expected. In terms of background, the class will draw on techniques from discrete math, formal logic, automata theory and abstract algebra. While there are no hard prerequisites, having taken a class that covers these topics would be helpful. The course is structured around the book Finite Automata, Formal Logic, and Circuit Complexity and the lectures are meant to guide you through the most important bits. The homework exercises, which comprise 100% of the grade, will require you to apply or extend the theory taught in class. The homework will be released throughout the semester in assignments with 3–4 questions each.'
 
@@ -35,7 +35,7 @@ The lecture and the exercise session will generally be given in person and live 
 
 Lectures and exercise sessions will be recorded---link to the Zoom recordings will be posted on the course [Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=27828).
 
-We will also publish our class notes.
+We will also publish our class notes. The following syllabus is **tentative**.
 
 ### Syllabus 
 
@@ -185,13 +185,14 @@ There will be *no final exam* for this course. Instead, we will release **5** as
 You *can* cooperate on and discuss the assignments with your peers, but you *must* write up the solutions yourself and disclose your collaborators.
 
 **Important**: The deadlines for the assignment submissions are:
-- Assignment 1: 15.05
-- Assignment 2 and 3: 01.07
-- Assignment 4 and 5: 01.08
+
+- Assignment 1: **15.05**, 23:59h
+- Assignment 2 & 3: **01.07**, 23:59h
+- Assignment 4 & 5: **01.08**, 23:59h
 
 
 The submissions will be done through the course [Moodle page](https://moodle-app2.let.ethz.ch/course/section.php?id=246226).
-We will not extend deadlines. We are counting on you to be organised and submit the work in time.
+**We will not extend deadlines**. We are counting on you to be organised and submit the work in time.
 We require the solutions to be properly typeset.
 We recommend using `LaTeX` (with [`Overleaf`](https://www.overleaf.com)), but `markdown` files with `MathJax` for the mathematical expressions are also fine.
 
@@ -201,6 +202,7 @@ Below you can find the assignment instructions.
 
 **Assignment instructions**:
 
+- to be released.
 
 ## Contact
 You can ask questions on the course chat server. 
