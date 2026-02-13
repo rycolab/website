@@ -439,7 +439,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
     <tr>
       <td>28. 4. 2026</td>
       <td>2 hours</td>
-      <td style="vertical-align : middle;text-align:center;" align="center"><b>Alignment</b></td>
+      <td rowspan="2" style="vertical-align : middle;text-align:center;" align="center"><b>Alignment</b></td>
       <td>Instruction Tuning and RLHF</td>
       <td>Mrinmaya</td>
       <td>
@@ -455,12 +455,10 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>
       </td>
     </tr>
-    <!-- May Lectures -->
     <tr>
       <td>1. 5. 2026</td>
       <td>1 hour</td>
-      <td style="vertical-align : middle;text-align:center;" align="center"><b>TBD</b></td>
-      <td>TBD</td>
+      <td>RLHF and Verifiable Rewards</td>
       <td>Mrinmaya</td>
       <td>
       <div id="summary20" style="display:none">
