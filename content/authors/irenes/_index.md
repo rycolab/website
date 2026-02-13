@@ -24,8 +24,7 @@ bio:
 interests:
 - Formal Language Theory
 - Computational Learning Theory
-- Graph Theory
-- Medical AI
+- Responsible & Fair AI
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -56,6 +55,6 @@ user_groups:
 - Teaching Assistants NLP F25
 - Lecturer AFLT26
 - Teaching Assistants AFLT S26
-- Lecturers AFLT S26
+- Co-Lecturer AFLT S26
 ---
 Second-year Master's student in Computer Science, specializing in the theoretical foundations of machine learning and language models. Originally from a mountain village in South Tyrol, the curious German-speaking region of Italy, I like spending my summers ticking 3000-meter peaks off my list. I'm passionate about languages, particularly Latin, and enjoy exploring the etymology of words. My friends like to joke that the Duden is my favorite book.
