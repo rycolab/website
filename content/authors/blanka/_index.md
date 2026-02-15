@@ -40,6 +40,8 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Teaching Assistants NLP F25
+- Large Language Models Teaching Assistants
+- Teaching Assistants AFLT S26
 ---
 
 Blanka is a second-year Mathematics MSc student at ETH Zürich. She obtained her Bachelor’s degree in Mathematics at the Eötvös Loránd University in Budapest. She is interested in everything that lies within the intersection of language, math, and computer science, currently focusing on formal language theory. In her spare time, she enjoys reading a good novel, running (slowly), and playing her guitar.
