@@ -25,8 +25,8 @@ Large language models have become one of the most commonly deployed NLP inventio
 ### Lectures
 There are two lecture slots for LLMs each week (3 hours total):
 
-- Tuesdays 14:15-16:00 in [HG E 3](https://www.rauminfo.ethz.ch/Rauminfo/grundrissplan.gif?gebaeude=HG&geschoss=E&raumNr=3&lang=en)
-- Fridays 10:15-11:00 in [CAB G 61](https://www.rauminfo.ethz.ch/Rauminfo/grundrissplan.gif?gebaeude=CAB&geschoss=G&raumNr=61&lang=en)
+- Tuesdays 14:15-16:00 in [HG E 7](https://www.rauminfo.ethz.ch/Rauminfo/grundrissplan.gif?gebaeude=HG&geschoss=E&raumNr=7&lang=en) (videoconference to [HG E 3](https://www.rauminfo.ethz.ch/Rauminfo/grundrissplan.gif?gebaeude=HG&geschoss=E&raumNr=3&lang=en))
+- Fridays 10:15-11:00 in [ETF E 1](https://www.rauminfo.ethz.ch/Rauminfo/grundrissplan.gif?gebaeude=ETF&geschoss=E&raumNr=1&lang=en) (videoconference to [ETF C 1](https://www.rauminfo.ethz.ch/Rauminfo/grundrissplan.gif?gebaeude=ETF&geschoss=C&raumNr=1&lang=en))
 
 ##### In-person and Zoom
 Lectures will be given in person and live broadcast on **Zoom**; the password is available on the course Moodle page.
