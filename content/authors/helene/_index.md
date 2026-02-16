@@ -34,4 +34,4 @@ email: "hsilva@student.ethz.ch"
 user_groups:
 - Philosophy of Language and Computation Teaching Assistants 2026
 ---
-Adrien is a Master's student in physics currently pursuing a thesis at the chair for the History and Philosophy of Mathematics. He focuses on the histories of type theories and their relations to contemporary logic.
+Hélène is a master’s student in History and Philosophy of Knowledge at the D-GESS ETH. She previously studied modern French literature and art history at the University of Lausanne and completed parts of her training at King’s College London and the University of Zagreb. Her work investigates the formal dimensions of conceptual thinking, with a particular focus on visual representation.
