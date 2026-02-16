@@ -52,6 +52,7 @@ user_groups:
 - Members
 - PhD Students
 - Teaching Assistant
+- Philosophy of Language and Computation Teaching Assistants 2026
 ---
 Francesco Ignazio Re is a PhD candidate at ETH Zürich, jointly affiliated with the IVIA Lab and the Center for Security Studies (CSS). He started his PhD in April 2024 and develops machine learning methods for modeling spatio-temporal events, with a focus on supporting United Nations peacekeeping operations. His program is designed as an embedded PhD with the United Nations to foster trans-disciplinary research, including on-site work at UN facilities to collaborate iteratively with domain experts.
 
