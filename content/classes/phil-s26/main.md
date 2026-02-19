@@ -324,7 +324,7 @@ Moodle will be the main communication hub for the course. You are responsible fo
                     Structure:<br>The Computational Nature of Language</b></td>
             <td>Philosophy</td>
             <td>
-            <a href="https://lingbuzz.net/lingbuzz/007180" target="_blank">Piantadosi (2023)</a>,
+            <a href="https://zenodo.org/records/12665933" target="_blank">Piantadosi (2023)</a>,
             <a href="https://www.nytimes.com/2023/03/08/opinion/noam-chomsky-chatgpt-ai.html" target="_blank">Chomsky et al. (2023)</a>
             </td>
         </tr>
