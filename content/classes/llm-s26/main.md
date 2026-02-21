@@ -115,7 +115,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>
       </td>
       <td>
-      <a href="https://arxiv.org/abs/2311.04329" target="_blank">Course Notes, &sect;&sect; 2&ndash;3,</a> <br>
+      <a href="https://arxiv.org/abs/2311.04329" target="_blank">Course Notes, &sect;&sect; 2.3&ndash;2.4,</a> <br>
       <a href="https://aclanthology.org/2023.acl-long.543.pdf" target="_blank">Du et al. A Measure-Theoretic Characterization of Tight Language Models</a>
       </td>
     </tr>
@@ -135,7 +135,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>
       </td>
       <td>
-      <a href="https://arxiv.org/abs/2311.04329" target="_blank">Course Notes, &sect; 3</a>
+      <a href="https://arxiv.org/abs/2311.04329" target="_blank">Course Notes, &sect;&sect; 2.4&ndash;3.1,</a>
       </td>
     </tr>
     <!-- Anej's Lectures -->
@@ -177,7 +177,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>
       </td>
       <td>
-      <a href="https://arxiv.org/abs/2311.04329" target="_blank">Course Notes, &sect;&sect; 5.1.1&ndash;5.1.4</a>
+      <a href="https://arxiv.org/abs/2311.04329" target="_blank">Course Notes, &sect; 5.1</a>
       </td>
     </tr>
     <!-- Alexandra's Lecture -->
@@ -198,7 +198,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>
       </td>
       <td>
-      <a href="https://arxiv.org/abs/2311.04329" target="_blank">Course Notes, &sect; 5.1.6,</a> <br>
+      <a href="https://arxiv.org/abs/2311.04329" target="_blank">Course Notes, &sect; 5.2,</a> <br>
       <a href="https://aclanthology.org/2023.emnlp-main.502.pdf" target="_blank">Svete et al., Recurrent Neural Language Models as Probabilistic Finite-state Automata.</a>, <br>
       <a href="https://aclanthology.org/2023.emnlp-main.434.pdf" target="_blank">Nowak et al., On the Representational Capacity of Recurrent Neural Language Models.</a>, <br>
       <a href="https://www.sciencedirect.com/science/article/pii/S0022000085710136" target="_blank">Siegelmann H. T. and Sontag E. D. On the computational power of neural nets.</a>
@@ -234,7 +234,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>
       </td>
       <td>
-      <a href="https://arxiv.org/abs/2311.04329" target="_blank">Course Notes, &sect; 5.2, </a> <br>
+      <a href="https://arxiv.org/abs/2311.04329" target="_blank">Course Notes, &sect; 5.3, </a> <br>
       <a href="https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf" target="_blank">Radford et al., Language Models are Unsupervised Multitask Learners, </a> <br>
       <a href="https://arxiv.org/pdf/1706.03762.pdf" target="_blank">Vaswani et al., Attention Is All You Need,</a> <br>
       <a href="https://jalammar.github.io/illustrated-transformer" target="_blank">The Illustrated Transformer,</a> <br>
@@ -259,7 +259,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>
       </td>
       <td>
-      <a href="https://arxiv.org/abs/2311.04329" target="_blank">Course Notes, &sect; 5.3</a>
+      <a href="https://arxiv.org/abs/2311.04329" target="_blank">Course Notes, &sect; 5.4</a>
       </td>
     </tr>
     <!-- Manuel's Lecture -->
@@ -770,6 +770,7 @@ Please report all errata you find in the course notes to the teaching staff in t
 
 Other useful literature:
 
+- [iPad Notes (Anej)](https://drive.google.com/file/d/1ydvPo6n4wEd8mTqwTj4N3KCBoQ64Vtq3/view?usp=sharing)
 - [ESSLLI 2023 Tutorial on the Expressivity of Neural Networks](https://rycolab.io/classes/esslli-23)
 - [ESSLLI 2024 Tutorial on the Expressivity of Transformers](https://sleynas.com/esslli-2024-summer-school-course)
 - [Introduction to Natural Language Processing (Eisenstein)](https://www.amazon.de/Jacob-Eisenstein/dp/0262042843/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=30OMHV1C018JY&dchild=1&keywords=introduction+to+natural+language+processing&qid=1598878964&sprefix=introduction+to+na%2Caps%2C148&sr=8-1)
