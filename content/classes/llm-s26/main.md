@@ -665,7 +665,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <th scope="row">4</th>
       <td>12. 3. 2026</td>
       <td>RNN Language Models</td>
-      <td>Irene</td>
+      <td>Lorenzo</td>
       <td><a href="https://drive.google.com/file/d/1XwYRz1QAz1_itU-7nWtRAN8L2gvRPTlq/view?usp=sharing" target="_blank">Exercises</a>, <a href="https://drive.google.com/file/d/1ixlWV7ABJYwdpMtE6-Lp89nFurI5pegr/view?usp=sharing" target="_blank">Exercises with solutions</a>, <a href="https://drive.google.com/file/d/1DBn3jzadiBvrMSMhM-1_KSXwlglTG0BM/view?usp=sharing" target="_blank">Kári's notes</a></td>
     </tr>
     <tr>
@@ -686,7 +686,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <th scope="row">7</th>
       <td>2. 4. 2026</td>
       <td>Assignment 1 Q&amp;A</td>
-      <td>Irene, Tu, Blanka, Livia</td>
+      <td>Shawn, Tu, Blanka, Livia</td>
       <td></td>
     </tr>
     <tr>
@@ -742,7 +742,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <th scope="row">14</th>
       <td>28. 5. 2026</td>
       <td>Assignment 3 Q&amp;A</td>
-      <td>Shawn, Javier</td>
+      <td>Ema, Javier</td>
       <td></td>
     </tr>
 
