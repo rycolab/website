@@ -709,7 +709,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <th scope="row">10</th>
       <td>30. 4. 2026</td>
       <td>Prompting, Chain-of-Thought Reasoning</td>
-      <td>Ema</td>
+      <td>Javier</td>
       <td>
       <a href="https://drive.google.com/file/d/1Uga7ZS3xU7ietkgsuZmh_cnP1hklfUs7/view?usp=sharing" target="_blank">Exercises</a>,
       <a href="https://drive.google.com/file/d/1WqPmzArUQLYkSJXaa4hNzrFYsFt1jnOv/view?usp=sharing" target="_blank">Exercises with solutions</a>
@@ -719,7 +719,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <th scope="row">11</th>
       <td>7. 5. 2026</td>
       <td>Assignment 2 Q&amp;A</td>
-      <td>Ema, Jan, Javier, William</td>
+      <td>Jan, Javier, William</td>
       <td></td>
     </tr>
     <tr>
