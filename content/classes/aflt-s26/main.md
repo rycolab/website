@@ -31,7 +31,7 @@ The course is structured around the book [Finite Automata, Formal Logic, and Cir
 
 There are two slots for AFLT each week: Wednesdays 12:15-14:00 [(CAB G 51)](https://ethz.ch/en/utils/location.html?building=CAB&floor=G&room=51&farbcode=c010&lang=en) and Thursdays 12:15-14:00 [(ML F 39)](https://ethz.ch/en/utils/location.html?building=ML&floor=F&room=39&farbcode=c010&lang=en). 
 The Wednesday slot will be used for the main lecture, where we will generally cover new material. The Thursday slot may occasionally be used for additional material or to recap concepts. By default, only the Wednesday lecture takes place; we will announce in advance if there will be a session (or any changes) on Thursday.
-The lecture and the exercise session will generally be given in person and live broadcast on Zoom.
+The lecture and the exercise session will generally be given in person and live broadcast on [Zoom](https://ethz.zoom.us/j/63972968644).
 
 Lectures and exercise sessions will be recorded---link to the Zoom recordings will be posted on the course [Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=27828).
 
