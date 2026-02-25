@@ -81,7 +81,7 @@ We will also publish our class notes. The following syllabus is **tentative**. T
       <td>25. 2. 2026</td>
       <td><b>Course Logistics</b></td>
       <td></td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1lbGZKtJ3r4Bn21nD1Klwcy-LeIoJ3XfG/view?usp=share_link">Slides</a></td>
     </tr>
     <tr>
       <td>25. 2. 2026</td>
