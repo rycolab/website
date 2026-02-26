@@ -816,7 +816,7 @@ Each of the three assignments contribute 1/3 to the final assignment grade (that
 
 **Assignment instructions**:
 
-- Assignment 1 Instructions: Will be released on **February 27th, 2026**.
+- [Assignment 1 Instructions](https://drive.google.com/file/d/19ykIE_yoBxxpFNwgIzhKLFRuMl4iGJty/view?usp=sharing)
 - Assignment 2 Instructions: Will be released on between mid-April and mid-May 2026.
 - Assignment 3 Instructions: TBD
 
