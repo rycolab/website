@@ -18,7 +18,7 @@ date: '2024-01-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-07-10T09:33:12.164502Z'
+publishDate: '2026-02-28T10:51:37.201532Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -50,7 +50,7 @@ summary: ''
 tags: []
 
 # Display this page in a list of Featured pages?
-featured: true
+featured: false
 
 # Links
 url_pdf: ''
@@ -80,6 +80,7 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+venue: ACL
 links:
 - name: URL
   url: https://arxiv.org/abs/2406.14197

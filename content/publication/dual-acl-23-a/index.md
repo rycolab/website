@@ -11,13 +11,15 @@ authors:
 - Clara Meister
 - Jason Eisner
 - Ryan Cotterell
+
+# Author notes (such as 'Equal Contribution')
 author_notes: []
 
 date: '2023-07-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-07-15T16:36:05.667481Z'
+publishDate: '2026-02-28T10:54:01.372475Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,6 +27,8 @@ publishDate: '2025-07-15T16:36:05.667481Z'
 # 7 = Thesis; 8 = Patent
 publication_types:
 - '1'
+
+# Publication name and optional abbreviated publication name.
 publication: '*Proceedings of the 61th Annual Meeting of the Association for Computational
   Linguistics (Volume 1: Long Papers)*'
 publication_short: ''
@@ -74,6 +78,7 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+venue: ACL
 links:
 - name: URL
   url: https://arxiv.org/abs/2212.10502

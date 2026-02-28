@@ -22,7 +22,7 @@ date: '2024-07-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-07-10T09:33:12.249610Z'
+publishDate: '2026-02-28T10:51:39.618957Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -86,6 +86,7 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+venue: ICML
 links:
 - name: URL
   url: https://arxiv.org/pdf/2401.18070

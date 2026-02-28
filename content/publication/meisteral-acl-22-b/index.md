@@ -1,39 +1,37 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Analyzing Wrap-Up Effects through an Information-Theoretic Lens
-subtitle: ''
-summary: ''
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
 authors:
 - Clara Meister
 - Tiago Pimentel
 - Thomas Hikaru Clark
 - Ryan Cotterell
 - Roger P. Levy
-tags: []
-categories: []
+
+# Author notes (such as 'Equal Contribution')
+author_notes: []
+
 date: '2022-05-01'
-lastmod: 2022-11-21T00:29:28+01:00
-featured: false
-draft: false
+doi: ''
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
+# Schedule page publish date (NOT publication's date).
+publishDate: '2026-02-28T10:54:30.599980Z'
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2024-06-01T10:19:59.927328Z'
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
 publication_types:
 - '1'
+
+# Publication name and optional abbreviated publication name.
+publication: '*Proceedings of the 60th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)*'
+publication_short: ''
+
 abstract: Numerous analyses of reading time (RT) data have been undertaken in the
   effort to learn more about the internal processes that occur during reading comprehension.
   However, data measured on words at the end of a sentence–or even clause–is often
@@ -46,10 +44,47 @@ abstract: Numerous analyses of reading time (RT) data have been undertaken in th
   distribution of prior context is often predictive of sentence- and clause-final
   RTs (while not of sentence-medial RTs), which lends support to several prior hypotheses
   about the processes involved in wrap-up effects.
-publication: '*Proceedings of the 60th Annual Meeting of the Association for Computational
-  Linguistics (Volume 1: Long Papers)*'
+
+# Summary. An optional shortened abstract.
+summary: ''
+
+tags: []
+
+# Display this page in a list of Featured pages?
+featured: false
+
+# Links
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+# Publication image
+# Add an image named `featured.jpg/png` to your page's folder then add a caption below.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+venue: ACL
 links:
 - name: URL
   url: https://arxiv.org/abs/2203.17213
-url_pdf: https://arxiv.org/pdf/2203.17213.pdf
 ---
+
+Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

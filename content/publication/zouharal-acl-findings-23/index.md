@@ -12,13 +12,15 @@ authors:
 - Tim Vieira
 - Mrinmaya Sachan
 - Ryan Cotterell
+
+# Author notes (such as 'Equal Contribution')
 author_notes: []
 
 date: '2023-07-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-07-15T16:36:03.404841Z'
+publishDate: '2026-02-28T10:54:02.283023Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,6 +28,8 @@ publishDate: '2025-07-15T16:36:03.404841Z'
 # 7 = Thesis; 8 = Patent
 publication_types:
 - '1'
+
+# Publication name and optional abbreviated publication name.
 publication: '*Findings of the Association for Computational Linguistics: ACL 2023*'
 publication_short: ''
 
@@ -77,6 +81,7 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+venue: ACL Findings
 links:
 - name: URL
   url: https://arxiv.org/abs/2306.16837

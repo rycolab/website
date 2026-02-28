@@ -10,35 +10,28 @@ authors:
 - Tiago Pimentel
 - Ryan Cotterell
 - Isabelle Augenstein
+
+# Author notes (such as 'Equal Contribution')
 author_notes: []
 
 date: '2023-01-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-07-15T16:36:07.915765Z'
+publishDate: '2026-02-28T10:54:04.688141Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types:
-- '0'
-publication: ''
+- '1'
+
+# Publication name and optional abbreviated publication name.
+publication: '*PLOS One*'
 publication_short: ''
 
-abstract: While the prevalence of large pre-trained language models has led to significant
-  improvements in the performance of NLP systems, recent research has demonstrated
-  that these models inherit societal biases extant in natural language. In this paper,
-  we explore a simple method to probe pre-trained language models for gender bias,
-  which we use to effect a multi-lingual study of gender bias towards politicians.
-  We construct a dataset of 250k politicians from most countries in the world and
-  quantify adjective and verb usage around those politicians' names as a function
-  of their gender. We conduct our study in 7 languages across 6 different language
-  modeling architectures. Our results demonstrate that stance towards politicians
-  in pre-trained language models is highly dependent on the language used. Finally,
-  contrary to previous findings, our study suggests that larger language models do
-  not tend to be significantly more gender-biased than smaller ones.
+abstract: ''
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -76,6 +69,7 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+venue: PLOS ONE
 links:
 - name: URL
   url: https://arxiv.org/abs/2104.07505

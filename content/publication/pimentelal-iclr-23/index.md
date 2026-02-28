@@ -8,13 +8,15 @@ authors:
 - Tiago Pimentel$^*$
 - Clara Meister$^*$
 - Ryan Cotterell
+
+# Author notes (such as 'Equal Contribution')
 author_notes: []
 
 date: '2023-05-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-07-15T16:36:03.089655Z'
+publishDate: '2026-02-28T10:54:04.115203Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,6 +24,8 @@ publishDate: '2025-07-15T16:36:03.089655Z'
 # 7 = Thesis; 8 = Patent
 publication_types:
 - '1'
+
+# Publication name and optional abbreviated publication name.
 publication: '*Proceedings of the 11th International Conference on Learning Representations*'
 publication_short: ''
 
@@ -82,6 +86,7 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+venue: ICLR
 links:
 - name: URL
   url: https://arxiv.org/abs/2205.16001

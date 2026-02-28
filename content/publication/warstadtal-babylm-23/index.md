@@ -17,13 +17,15 @@ authors:
 - Adina Williams
 - Tal Linzen
 - Ryan Cotterell
+
+# Author notes (such as 'Equal Contribution')
 author_notes: []
 
 date: '2023-12-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-07-15T16:36:11.439866Z'
+publishDate: '2026-02-28T10:54:05.634496Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,6 +33,8 @@ publishDate: '2025-07-15T16:36:11.439866Z'
 # 7 = Thesis; 8 = Patent
 publication_types:
 - '1'
+
+# Publication name and optional abbreviated publication name.
 publication: '*Proceedings of the BabyLM Challenge at the 27th Conference on Computational
   Natural Language Learning*'
 publication_short: ''
@@ -89,6 +93,7 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+venue: BabyLM
 ---
 
 Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

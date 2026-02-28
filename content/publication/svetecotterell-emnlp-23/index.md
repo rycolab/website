@@ -15,7 +15,7 @@ date: '2023-12-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-06-21T14:03:01.963839Z'
+publishDate: '2026-02-28T10:54:03.790685Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -81,6 +81,7 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+venue: EMNLP
 links:
 - name: URL
   url: https://arxiv.org/abs/2310.05161

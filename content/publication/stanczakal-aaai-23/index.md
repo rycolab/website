@@ -10,13 +10,15 @@ authors:
 - Adina Williams
 - Ryan Cotterell
 - Isabelle Augenstein
+
+# Author notes (such as 'Equal Contribution')
 author_notes: []
 
 date: '2023-01-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-07-15T16:36:01.776075Z'
+publishDate: '2026-02-28T10:54:00.521442Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,6 +26,8 @@ publishDate: '2025-07-15T16:36:01.776075Z'
 # 7 = Thesis; 8 = Patent
 publication_types:
 - '1'
+
+# Publication name and optional abbreviated publication name.
 publication: '*Proceedings of the 37th AAAI Conference on Artificial Intelligence*'
 publication_short: ''
 
@@ -77,6 +81,7 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+venue: AAAI
 links:
 - name: URL
   url: https://arxiv.org/abs/2201.08214

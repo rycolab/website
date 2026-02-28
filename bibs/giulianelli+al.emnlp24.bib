@@ -1,0 +1,20 @@
+@inproceedings{giulianelli+al.emnlp24, 
+  title = {On the Proper Treatment of the Word in Computational Psycholinguistics},
+  venue = {EMNLP},
+  year = {2024},
+  code = {https://github.com/rycolab/psycho-toke},
+  arXiv = {https://arxiv.org/abs/2410.02691},
+  author = {Giulianelli, Mario and 
+	Malagutti, Luca and 
+	Luis Gastaldi, Juan and 
+	DuSell, Brian and 
+	Vieira, Tim and 
+	Cotterell, Ryan},
+  booktitle = {Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing},
+  month = {November},
+  publisher = {Association for Computational Linguistics},
+  address = {Miami, United States},
+  pages = {18556--18572},
+  abstract = {Language models are widely used in computational psycholinguistics to test theories that relate the negative log probability (the surprisal) of a region of interest (a substring of characters) under a language model to its cognitive cost experienced by readers, as operationalized, for example, by gaze duration on the region. However, the application of modern language models to psycholinguistic studies is complicated by the practice of using tokenization as an intermediate step in training a model. Doing so results in a language model over token strings rather than one over character strings. Vexingly, regions of interest are generally misaligned with these token strings. The paper argues that token-level language models should be (approximately) marginalized into character-level language models before they are used in psycholinguistic studies to compute the surprisal of a region of interest; then, the marginalized character-level language model can be used to compute the surprisal of an arbitrary character substring, which we term a focal area, that the experimenter may wish to use as a predictor. Our proposal of marginalizing a token-level model into a character-level one solves this misalignment issue independently of the tokenization scheme. Empirically, we discover various focal areas whose surprisal is a better psychometric predictor than the surprisal of the region of interest itself.},
+  url = {https://arxiv.org/abs/2410.02691},
+}

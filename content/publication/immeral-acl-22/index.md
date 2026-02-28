@@ -1,38 +1,36 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Probing as Quantifying the Inductive Bias of Pre-trained Representations
-subtitle: ''
-summary: ''
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
 authors:
 - Alexander Immer
 - Lucas Torroba Hennigen
 - Vincent Fortuin
 - Ryan Cotterell
-tags: []
-categories: []
+
+# Author notes (such as 'Equal Contribution')
+author_notes: []
+
 date: '2022-05-01'
-lastmod: 2022-11-21T00:29:28+01:00
-featured: false
-draft: false
+doi: ''
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
+# Schedule page publish date (NOT publication's date).
+publishDate: '2026-02-28T10:54:30.110202Z'
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2024-06-01T10:01:14.913232Z'
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
 publication_types:
 - '1'
+
+# Publication name and optional abbreviated publication name.
+publication: '*Proceedings of the 60th Annual Meeting of the Association for Computational
+  Linguistics (Volume 1: Long Papers)*'
+publication_short: ''
+
 abstract: Pre-trained contextual representations have led to dramatic performance
   improvements on a range of downstream tasks. Such performance improvements have
   motivated researchers to quantify and understand the linguistic information encoded
@@ -49,10 +47,47 @@ abstract: Pre-trained contextual representations have led to dramatic performanc
   Our results suggest that our proposed framework alleviates many previous problems
   found in probing. Moreover, we are able to offer concrete evidence that—for some
   tasks—fastText can offer a better inductive bias than BERT.
-publication: '*Proceedings of the 60th Annual Meeting of the Association for Computational
-  Linguistics (Volume 1: Long Papers)*'
+
+# Summary. An optional shortened abstract.
+summary: ''
+
+tags: []
+
+# Display this page in a list of Featured pages?
+featured: false
+
+# Links
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+# Publication image
+# Add an image named `featured.jpg/png` to your page's folder then add a caption below.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+venue: ACL
 links:
 - name: URL
   url: https://arxiv.org/abs/2110.08388
-url_pdf: papers/immer+al.acl22.pdf
 ---
+
+Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

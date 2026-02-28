@@ -47,7 +47,6 @@ class CSVParseError(Exception):
 def parse_headers(headers, bib_attribute_map = BIB_ATTRIBUTE_MAP):
   valid_columns = {}
   invalid_columns = {}
-  print(headers)
 
   for i, header in enumerate(headers):
     found = False
@@ -60,7 +59,7 @@ def parse_headers(headers, bib_attribute_map = BIB_ATTRIBUTE_MAP):
     if found == False:
       invalid_columns[i] = header.strip()
   if KEY not in valid_columns.values():
-    print(KEY, headers, valid_columns)
+    # print(KEY, headers, valid_columns)
     import ipdb; ipdb.set_trace()
     raise CSVParseError('no key column found')
 
@@ -86,7 +85,7 @@ def parse_reference(row, attributes_order):
 
 
 def guess_ref_type(ref):
-  print(ref)
+  # print(ref)
   if ref.get('booktitle'):
     if "transactions" in ref.get('booktitle').lower():
       return 'article'
@@ -98,6 +97,8 @@ def guess_ref_type(ref):
   # return 'book'
 
 def to_bib(ref):
+  if KEY not in ref:
+    print('Error: no key found for reference %s' % ref, file=sys.stderr)
   ref_type = guess_ref_type(ref)
 
   featured = False
@@ -204,8 +205,8 @@ def main(argv):
         file_name = os.path.join(BIB_DIR, key + '.bib')
         with open(file_name, 'w') as f:
           f.write(bib)
-        command = ['academic', 'import', '--overwrite', '--bibtex', file_name] #'academic', 'output'
-        #featured = True
+        command = ['academic', 'import', '--overwrite', '--bibtex', file_name]
+        # featured = True
         if featured:
           command.append('--featured')
         subprocess.run(command)

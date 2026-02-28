@@ -12,13 +12,15 @@ authors:
 - Richard Futrell
 - Ryan Cotterell
 - Roger Levy
+
+# Author notes (such as 'Equal Contribution')
 author_notes: []
 
 date: '2023-01-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-07-15T16:36:03.725809Z'
+publishDate: '2026-02-28T10:54:04.822756Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,6 +28,8 @@ publishDate: '2025-07-15T16:36:03.725809Z'
 # 7 = Thesis; 8 = Patent
 publication_types:
 - '2'
+
+# Publication name and optional abbreviated publication name.
 publication: '*Transactions of the Association for Computational Linguistics*'
 publication_short: ''
 
@@ -81,6 +85,7 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: []
+venue: TACL
 links:
 - name: URL
   url: https://arxiv.org/abs/2306.03734
