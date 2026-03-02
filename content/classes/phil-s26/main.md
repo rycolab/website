@@ -43,7 +43,7 @@ More information about the presentation and the oral evaluation expectations can
 ### Organization
 
 **Lectures:**
-Tue	18-19, [ML](http://www.mapsearch.ethz.ch/map.do;msSessionid=L5SyzrCtkESItpN4ljsDvahvaK4yhRSsc8NkSZuCgFNkGmh0TtuN!-455178738?gebaeudeMap=ML&farbcode=c010&lang=en) [D 28](https://ethz.ch/staffnet/en/service/rooms-and-buildings/roominfo/detail.html?building=ML&floor=D&room=28).
+Tue	18-19, [ML](http://www.mapsearch.ethz.ch/map.do;msSessionid=L5SyzrCtkESItpN4ljsDvahvaK4yhRSsc8NkSZuCgFNkGmh0TtuN!-455178738?gebaeudeMap=ML&farbcode=c010&lang=en) [F 38](https://ethz.ch/staffnet/en/service/rooms-and-buildings/roominfo/detail.html?building=ML&floor=F&room=38).
 The lectures will be given in person.
 [This](https://ethz.zoom.us/j/63214008040) recurring Zoom meeting (ID: 632 1400 8040) will be used throughout the semester for people who want to tune in remotely.
 However, given the discussion based character of this course, in person participation is strongly encouraged.
@@ -51,7 +51,7 @@ The password can be found on the course Moodle page.
 The Zoom recordings will be made available on the course Moodle page.
 
 **Discussion Sections:**
-Tue	19-20	[ML](http://www.mapsearch.ethz.ch/map.do;msSessionid=L5SyzrCtkESItpN4ljsDvahvaK4yhRSsc8NkSZuCgFNkGmh0TtuN!-455178738?gebaeudeMap=ML&farbcode=c010&lang=en) [D 28](https://ethz.ch/staffnet/en/service/rooms-and-buildings/roominfo/detail.html?building=ML&floor=D&room=28).
+Tue	19-20	[ML](http://www.mapsearch.ethz.ch/map.do;msSessionid=L5SyzrCtkESItpN4ljsDvahvaK4yhRSsc8NkSZuCgFNkGmh0TtuN!-455178738?gebaeudeMap=ML&farbcode=c010&lang=en) [F 38](https://ethz.ch/staffnet/en/service/rooms-and-buildings/roominfo/detail.html?building=ML&floor=F&room=38).
 
 **Communication**
 Moodle will be the main communication hub for the course. You are responsible for receiving all messages broadcast in Moodle
@@ -64,7 +64,8 @@ Moodle will be the main communication hub for the course. You are responsible fo
 
 ## News
 
-**17.2** &emsp; Class website is online!
+**17.2** &emsp; Class website is online!\
+**02.3** &emsp; Room update: ML F 38
 
 ## Syllabus and Schedule
 
