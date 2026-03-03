@@ -196,6 +196,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <button id="button6" style="border:none;" onclick="myFunction('6')">Show</button>
       </td>
       <td>
+      <a href="https://drive.google.com/file/d/1o8YXwxBKgQLYsGrCoqrXvhYyAKsFCDjV/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
       <a href="https://arxiv.org/abs/2311.04329" target="_blank">Course Notes, &sect; 5.2,</a> <br>
