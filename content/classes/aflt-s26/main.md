@@ -35,7 +35,9 @@ The lecture and the exercise session will generally be given in person and live 
 
 Lectures and exercise sessions will be recorded---link to the Zoom recordings will be posted on the course [Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=27828).
 
-We will also publish our class notes. The following syllabus is **tentative**. The topics will cover parts of the book [Finite Automata, Formal Logic, and Circuit Complexity](https://link.springer.com/book/10.1007/978-1-4612-0289-9) that are interesting and/or useful for the assignments.
+We will also publish and update our **class notes** [here](https://drive.google.com/file/d/1QvKA0LVNJ5WjQREK1YQnWTlB1gSJahMW/view?usp=sharing). 
+
+The following syllabus is **tentative**. The topics will cover parts of the book [Finite Automata, Formal Logic, and Circuit Complexity](https://link.springer.com/book/10.1007/978-1-4612-0289-9) that are interesting and/or useful for the assignments.
 
 ### Syllabus 
 
@@ -84,39 +86,39 @@ We will also publish our class notes. The following syllabus is **tentative**. T
       <td><a href="https://drive.google.com/file/d/1lbGZKtJ3r4Bn21nD1Klwcy-LeIoJ3XfG/view?usp=share_link">Slides</a></td>
     </tr>
     <tr>
-      <td>25. 2. 2026</td>
+      <td>04. 3. 2026</td>
       <td><b>Preliminaries, Automata, Regular Languages</b></td>
       <td>Sections I.1, I.2</td>
       <td></td>
     </tr>
     <tr>
-      <td>04. 3. 2026</td>
+      <td>11. 3. 2026</td>
       <td><b>Formal Logic and Regular Languages</b></td>
       <td>Chapter II, Chapter III</td>
       <td></td>
     </tr>
     <tr>
-      <td>11. 3. 2026</td>
+      <td>18. 3. 2026</td>
       <td><b>Regular Languages and Finite-state Automata</b></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>18. 3. 2026</td>
+      <td>19. 3. 2026</td>
+      <td><b>Tutorial: Assignment 1 Intro, Semigroups, Logic Formulas</b></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>25. 3. 2026</td>
       <td><b>Model-theoretic Games, FO[<] and FO[+1], The Syntactic Monoid</b></td>
       <td>Chapter IV, Chapter V</td>
       <td></td>
     </tr>
     <tr>
-      <td>25. 3. 2026</td>
+      <td>1. 4. 2026</td>
       <td><b>First-Order Logic</b></td>
       <td>Sections VI.1, VI.2</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>1. 4. 2026</td>
-      <td><b>The Hierarchy in FO</b></td>
-      <td>Sections VI.3, VI.4</td>
       <td></td>
     </tr>
     <tr>
