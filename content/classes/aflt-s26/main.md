@@ -23,6 +23,8 @@ The course is structured around the book [Finite Automata, Formal Logic, and Cir
 
 ## News
 
+**11.03** &emsp; [Assignment 1](https://drive.google.com/file/d/1OKkRUqj2ktj6Dfn_jRb9MuF7EzK2Ymdk/view?usp=sharing) is released.
+
 **12.2.** &emsp; Class website is online!
 
 ## Syllabus and Schedule
@@ -94,31 +96,37 @@ The following syllabus is **tentative**. The topics will cover parts of the book
     <tr>
       <td>11. 3. 2026</td>
       <td><b>Formal Logic and Regular Languages</b></td>
-      <td>Chapter II, Chapter III</td>
+      <td>Chapter II</td>
       <td></td>
     </tr>
     <tr>
       <td>18. 3. 2026</td>
-      <td><b>Regular Languages and Finite-state Automata</b></td>
-      <td></td>
+      <td><b>Finite Automata</td>
+      <td>Chapter III</td>
       <td></td>
     </tr>
     <tr>
       <td>19. 3. 2026</td>
       <td><b>Tutorial: Assignment 1 Intro, Semigroups, Logic Formulas</b></td>
       <td></td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1JKrPaskKfh3pg4M983pOJn-ujqzQj4Ex/view?usp=sharing">Exercise 1</a></td>
     </tr>
     <tr>
       <td>25. 3. 2026</td>
-      <td><b>Model-theoretic Games, FO[<] and FO[+1], The Syntactic Monoid</b></td>
-      <td>Chapter IV, Chapter V</td>
+      <td><b>Correspondence between RegEx and SOM</b></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
       <td>1. 4. 2026</td>
-      <td><b>First-Order Logic</b></td>
-      <td>Sections VI.1, VI.2</td>
+      <td><b>The Syntactic Monoid</b></td>
+      <td>Chapter V</td>
+      <td></td>
+    </tr>
+        <tr>
+      <td>2. 4. 2026</td>
+      <td><b>Tutorial: Assignment 2, Automata</b></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -210,7 +218,7 @@ Below you can find the assignment instructions.
 
 **Assignment instructions**:
 
-- to be released.
+- [Assignment 1](https://drive.google.com/file/d/1OKkRUqj2ktj6Dfn_jRb9MuF7EzK2Ymdk/view?usp=sharing)
 
 ## Contact
 You can ask questions on [Moodle](https://moodle-app2.let.ethz.ch/course/view.php?id=27828). 
