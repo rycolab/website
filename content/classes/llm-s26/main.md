@@ -243,12 +243,11 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <a href="https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)#Decoder" target="_blank">Transformer decoder (Wikipedia)</a>
       </td>
     </tr>
-    <!-- Irene's Lecture -->
     <tr>
       <td>13. 3. 2026</td>
       <td>1 hour</td>
       <td>Representational Capacity of Transformer-based Language Models</td>
-      <td>Irene</td>
+      <td>Ryan</td>
       <td>
       <div id="summary9" style="display:none">
       Inspired by the Turing completeness of RNNs, we study the representational capacity of Transformers. Although the connection to automata is not as straight-forward as with RNNs, we discuss how to think about Transformers as formal models and show that, assuming an unbounded number of layers and infinite precision, Transformers are Turing complete.
@@ -667,7 +666,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>12. 3. 2026</td>
       <td>RNN Language Models</td>
       <td>Lorenzo</td>
-      <td><a href="https://drive.google.com/file/d/1XwYRz1QAz1_itU-7nWtRAN8L2gvRPTlq/view?usp=sharing" target="_blank">Exercises</a>, <a href="https://drive.google.com/file/d/1ixlWV7ABJYwdpMtE6-Lp89nFurI5pegr/view?usp=sharing" target="_blank">Exercises with solutions</a>, <a href="https://drive.google.com/file/d/1DBn3jzadiBvrMSMhM-1_KSXwlglTG0BM/view?usp=sharing" target="_blank">Kári's notes</a></td>
+      <td><a href="https://drive.google.com/file/d/1XwYRz1QAz1_itU-7nWtRAN8L2gvRPTlq/view?usp=sharing" target="_blank">Exercises</a>, <a href="https://drive.google.com/file/d/1ixlWV7ABJYwdpMtE6-Lp89nFurI5pegr/view?usp=sharing" target="_blank">Exercises with solutions</a>, <a href="https://drive.google.com/file/d/1DBn3jzadiBvrMSMhM-1_KSXwlglTG0BM/view?usp=sharing" target="_blank">Kári's notes</a>, <a href="https://drive.google.com/file/d/12UPItMnjZkl0H6SVgMZbYRKjv3vW_klB/view?usp=sharing" target="_blank">Slides</a></td>
     </tr>
     <tr>
       <th scope="row">5</th>
