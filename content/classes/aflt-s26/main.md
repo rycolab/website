@@ -109,7 +109,7 @@ The following syllabus is **tentative**. The topics will cover parts of the book
       <td>19. 3. 2026</td>
       <td><b>Tutorial: Assignment 1 Intro, Semigroups, Logic Formulas</b></td>
       <td></td>
-      <td><a href="https://drive.google.com/file/d/1JKrPaskKfh3pg4M983pOJn-ujqzQj4Ex/view?usp=sharing">Exercise 1</a></td>
+      <td><a href="https://drive.google.com/file/d/1JKrPaskKfh3pg4M983pOJn-ujqzQj4Ex/view?usp=sharing">Exercise 1</a><br><a href="https://drive.google.com/file/d/1oJW_xOhhiCLLLWBGa4SzEN8N7yHWZ3CI/view?usp=sharing">Slides</a></td>
     </tr>
     <tr>
       <td>25. 3. 2026</td>
