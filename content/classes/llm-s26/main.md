@@ -278,6 +278,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <button id="button10" style="border:none;" onclick="myFunction('10')">Show</button>
       </td>
       <td>
+      <a href="https://drive.google.com/file/d/1cg7uTAWdW4X80OD8GAWkp7AKEKgY9DiQ/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
       </td>
@@ -297,7 +298,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <button id="button11" style="border:none;" onclick="myFunction('11')">Show</button>
       </td>
       <td>
-      <a href="https://drive.google.com/file/d/1Wh3hjLOyiyrWKJ72XCVfPR09Ke6IixQ7/view?usp=sharing" target="_blank">Slides</a>
+      <a href="https://drive.google.com/file/d/1AvvdGqPJLWx8NeAC9kw4lLsl0bcmgdw9/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
       </td>
@@ -317,6 +318,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <button id="button12" style="border:none;" onclick="myFunction('12')">Show</button>
       </td>
       <td>
+      <a href="https://drive.google.com/file/d/1Wh3hjLOyiyrWKJ72XCVfPR09Ke6IixQ7/view?usp=sharing" target="_blank">Slides</a>, 
       <a href="https://drive.google.com/file/d/1a06aJrPwVoZWenCZJ_DOL1-n3kv_lUH9/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
