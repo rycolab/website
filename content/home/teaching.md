@@ -77,6 +77,10 @@ This graduate class is designed to help you understand the philosophical underpi
 **ETH Zürich** <span class="middot-divider"></span> **Spring 2026**
 This course explores the connection between automata and formal logic. More precisely, it covers the algebraic characterization of the regular languages definable in many different logical theories, the complexity theory of boolean circuits, and the connection between the two.
 
+## [Logical Aspects of Computation](classes/nlp-bachelor-seminar-s26)
+**ETH Zürich** <span class="middot-divider"></span> **Spring 2026**
+Why are some computational problems easy and others seemingly impossible? This question sits at the heart of theoretical computer science, and most of the seminar's participants have already been exposed to basic results about decidability and NP-completeness before. Building on this basis, this seminar approaches computation from the logical perspective, an angle which is rarely integrated into the undergraduate curriculum.
+
 ## [Natural Language Processing](classes/intro-nlp-f25)
 **ETH Zürich** <span class="middot-divider"></span> **Fall 2025**
 This course presents topics in natural language processing with an emphasis on modern techniques, primarily focusing on statistical and deep learning approaches. The course provides an overview of the primary areas of research in language processing as well as a detailed exploration of the models and techniques used both in research and in commercial natural language systems.
