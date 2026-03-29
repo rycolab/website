@@ -127,6 +127,7 @@ The following syllabus is **tentative**. The topics will cover parts of the book
       <td>2. 4. 2026</td>
       <td><b>Tutorial: Assignment 2, Automata</b></td>
       <td></td>
+      <td><a href="https://drive.google.com/file/d/14wDppjFlL_ZwNzZHoT2NGJR2GlSH5uEN/view?usp=sharing">Exercise 2</a>
       <td></td>
     </tr>
     <tr>
