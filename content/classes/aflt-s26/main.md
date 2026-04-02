@@ -23,6 +23,8 @@ The course is structured around the book [Finite Automata, Formal Logic, and Cir
 
 ## News
 
+**02.04** &emsp; [Assignment 2](https://drive.google.com/file/d/1Y13zA1exUJUlsQ2DtOHSGf1BdtK5Bz9z/view?usp=sharing) is released.
+
 **11.03** &emsp; [Assignment 1](https://drive.google.com/file/d/1OKkRUqj2ktj6Dfn_jRb9MuF7EzK2Ymdk/view?usp=sharing) is released.
 
 **12.2.** &emsp; Class website is online!
@@ -128,6 +130,7 @@ The following syllabus is **tentative**. The topics will cover parts of the book
       <td><b>Tutorial: Assignment 2, Automata</b></td>
       <td></td>
       <td><a href="https://drive.google.com/file/d/14wDppjFlL_ZwNzZHoT2NGJR2GlSH5uEN/view?usp=sharing">Exercise 2</a>
+      <br><a href="https://drive.google.com/file/d/114wqpKo6lAefdRg0Y22LaOg_j98NK0R0/view?usp=sharing">Slides</a>
       <td></td>
     </tr>
     <tr>
@@ -220,6 +223,7 @@ Below you can find the assignment instructions.
 **Assignment instructions**:
 
 - [Assignment 1](https://drive.google.com/file/d/1OKkRUqj2ktj6Dfn_jRb9MuF7EzK2Ymdk/view?usp=sharing)
+- [Assignment 2](https://drive.google.com/file/d/1Y13zA1exUJUlsQ2DtOHSGf1BdtK5Bz9z/view?usp=sharing)
 
 ## Contact
 You can ask questions on [Moodle](https://moodle-app2.let.ethz.ch/course/view.php?id=27828). 
