@@ -819,7 +819,7 @@ Each of the three assignments contribute 1/3 to the final assignment grade (that
 **Assignment instructions**:
 
 - [Assignment 1 Instructions](https://drive.google.com/file/d/19ykIE_yoBxxpFNwgIzhKLFRuMl4iGJty/view?usp=sharing)
-- Assignment 2 Instructions: Will be released on around April 20th 2026.
+- Assignment 2 Instructions: Will be released on April 20th 2026.
 - Assignment 3 Instructions: TBD
 
 
@@ -827,7 +827,7 @@ Each of the three assignments contribute 1/3 to the final assignment grade (that
 You will submit your assignments via Moodle.
 
 - Assignment 1 is due on **April 30, 2026, at 23:59**.
-- Assignment 2 is ( *tentatively* ) due on **May 18, 2026, at 23:59**.
+- Assignment 2 is due on **May 18, 2026, at 23:59**.
 - Assignment 3 is due on **June 5, 2026, at 23:59**.
 
 Please be proactive with your time management and start early.
