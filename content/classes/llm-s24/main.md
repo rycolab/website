@@ -1023,7 +1023,8 @@ Discussion sections (tutorials) will take place Thursdays 16-18 in [NO C 60](htt
       <td>Retrieval-augmented generation</td>
       <td>Pep Borrell</td>
       <td>
-      <a href="https://colab.research.google.com/drive/19sD3mNVGBxyvDXheAwpAwnNO2XD2r3_l?usp=sharing" target="_blank">Google Colab Notebook</a>, <a href="https://drive.google.com/file/d/1375YNz9HWy4sShBA5XBnBrrhjGG9PIOB/view?usp=sharing" target="_blank">Slides</a>
+      <!-- <a href="https://colab.research.google.com/drive/19sD3mNVGBxyvDXheAwpAwnNO2XD2r3_l?usp=sharing" target="_blank">Google Colab Notebook</a>,  -->
+      <a href="https://drive.google.com/file/d/1375YNz9HWy4sShBA5XBnBrrhjGG9PIOB/view?usp=sharing" target="_blank">Slides</a>
       </td>
     </tr>
     <tr>
