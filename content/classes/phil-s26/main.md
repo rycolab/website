@@ -206,6 +206,7 @@ Moodle will be the main communication hub for the course. You are responsible fo
         <a href="https://www.mit.edu/~rplevy/papers/gutierrez-levy-bergen-2016-acl.pdf" target="_blank"><b>Gutiérrez et al. (2016)<b></a>, 
         <a href="https://aclanthology.org/P19-1171.pdf" target="_blank"><b>Pimentel et al. (2019)</b></a>,
         <a href="https://aclanthology.org/2021.naacl-main.349/" target="_blank"><b>Pimentel et al. (2021)</b></a>
+        <a href="https://aclanthology.org/2024.cmcl-1.17.pdf" target="_blank"><b>Verhoef et al. (2024)</b></a>
       </td>
     </tr>   
     <tr>
