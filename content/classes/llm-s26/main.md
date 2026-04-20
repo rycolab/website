@@ -460,8 +460,8 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
     <tr>
       <td>1. 5. 2026</td>
       <td>1 hour</td>
-      <td>RLHF and Verifiable Rewards</td>
-      <td>Mrinmaya</td>
+      <td>No lecture</td>
+      <td></td>
       <td>
       <div id="summary20" style="display:none">
       <br/>
@@ -820,7 +820,7 @@ Each of the three assignments contribute 1/3 to the final assignment grade (that
 **Assignment instructions**:
 
 - [Assignment 1 Instructions](https://drive.google.com/file/d/19ykIE_yoBxxpFNwgIzhKLFRuMl4iGJty/view?usp=sharing)
-- Assignment 2 Instructions: Will be released on April 20th 2026.
+- [Assignment 2 Instructions](https://drive.google.com/file/d/1wtUGZyXw13CMfOiUokBgP9siQkuQr9VW/view?usp=sharing)
 - Assignment 3 Instructions: TBD
 
 
