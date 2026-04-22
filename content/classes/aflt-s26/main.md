@@ -23,6 +23,8 @@ The course is structured around the book [Finite Automata, Formal Logic, and Cir
 
 ## News
 
+**22.04** &emsp; [Assignment 3](https://drive.google.com/file/d/1t5so2w2FsQsiOZgeXiSA2MuFaa8K9isX/view?usp=share_link) is released.
+
 **02.04** &emsp; [Assignment 2](https://drive.google.com/file/d/1Y13zA1exUJUlsQ2DtOHSGf1BdtK5Bz9z/view?usp=sharing) is released.
 
 **11.03** &emsp; [Assignment 1](https://drive.google.com/file/d/1OKkRUqj2ktj6Dfn_jRb9MuF7EzK2Ymdk/view?usp=sharing) is released.
@@ -141,14 +143,14 @@ The following syllabus is **tentative**. The topics will cover parts of the book
     </tr>
     <tr>
       <td>15. 4. 2026</td>
-      <td><b>TBD</b></td>
+      <td><b>No class</b></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>22. 4. 2026</td>
-      <td><b>TBD</b></td>
-      <td></td>
+      <td><b>Star-free languages and the Papert-McNaughton theorem</b></td>
+      <td>Chapter V</td>
       <td></td>
     </tr>
     <tr>
@@ -224,6 +226,7 @@ Below you can find the assignment instructions.
 
 - [Assignment 1](https://drive.google.com/file/d/1OKkRUqj2ktj6Dfn_jRb9MuF7EzK2Ymdk/view?usp=sharing)
 - [Assignment 2](https://drive.google.com/file/d/1Y13zA1exUJUlsQ2DtOHSGf1BdtK5Bz9z/view?usp=sharing)
+- [Assignment 3](https://drive.google.com/file/d/1t5so2w2FsQsiOZgeXiSA2MuFaa8K9isX/view?usp=share_link)
 
 ## Contact
 You can ask questions on [Moodle](https://moodle-app2.let.ethz.ch/course/view.php?id=27828). 
