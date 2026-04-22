@@ -149,7 +149,7 @@ The following syllabus is **tentative**. The topics will cover parts of the book
     </tr>
     <tr>
       <td>22. 4. 2026</td>
-      <td><b>Star-free languages and the Papert-McNaughton theorem</b></td>
+      <td><b>Star-free Languages and the Papert-McNaughton Theorem</b></td>
       <td>Chapter V</td>
       <td></td>
     </tr>
