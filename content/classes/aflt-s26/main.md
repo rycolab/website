@@ -137,31 +137,31 @@ The following syllabus is **tentative**. The topics will cover parts of the book
     </tr>
     <tr>
       <td>8. 4. 2026</td>
-      <td><b>No class (Easter break)</b></td>
+      <td><b>No lecture (Easter break)</b></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>15. 4. 2026</td>
-      <td><b>No class</b></td>
+      <td><b>No lecture</b></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>22. 4. 2026</td>
-      <td><b>Star-free Languages and the Papert-McNaughton Theorem</b></td>
+      <td><b>Star-free Languages and the McNaughton–Papert Theorem</b></td>
       <td>Chapter V</td>
       <td></td>
     </tr>
     <tr>
       <td>29. 4. 2026</td>
-      <td><b>TBD</b></td>
+      <td><b>The Syntactic Monoid and Schützenberger's Theorem</b></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>6. 5. 2026</td>
-      <td><b>TBD</b></td>
+      <td><b>Green's Relations</b></td>
       <td></td>
       <td></td>
     </tr>
