@@ -715,7 +715,8 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>Javier</td>
       <td>
       <a href="https://drive.google.com/file/d/1Uga7ZS3xU7ietkgsuZmh_cnP1hklfUs7/view?usp=sharing" target="_blank">Exercises</a>,
-      <a href="https://drive.google.com/file/d/1WqPmzArUQLYkSJXaa4hNzrFYsFt1jnOv/view?usp=sharing" target="_blank">Exercises with solutions</a>
+      <a href="https://drive.google.com/file/d/1WqPmzArUQLYkSJXaa4hNzrFYsFt1jnOv/view?usp=sharing" target="_blank">Exercises with solutions</a>,
+      <a href="https://drive.google.com/file/d/1XKPYUM_tYE6GlD7FZYEYDaV7eby4glx6/view?usp=sharing" target="_blank">Slides</a>
       </td>
     </tr>
     <tr>
