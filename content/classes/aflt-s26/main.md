@@ -228,6 +228,9 @@ Below you can find the assignment instructions.
 - [Assignment 2](https://drive.google.com/file/d/1Y13zA1exUJUlsQ2DtOHSGf1BdtK5Bz9z/view?usp=sharing)
 - [Assignment 3](https://drive.google.com/file/d/1t5so2w2FsQsiOZgeXiSA2MuFaa8K9isX/view?usp=share_link)
 
+## Errata
+Please report any errata in [this document](https://docs.google.com/document/d/1QrajWW0Bs8_lNzLlx-B2edSS9H6qPFcCLJNG8fsLuDo/edit?usp=sharing). Such errata can be, e.g., typos, conceptual mistakes, unclear points, found in the lecture notes, assignments or tutorials. Every contribution is very welcome and will help us improve the teaching materials!
+
 ## Contact
 You can ask questions on [Moodle](https://moodle-app2.let.ethz.ch/course/view.php?id=27828). 
 Please post all content-related questions there, so others can see them and join the discussion. 
