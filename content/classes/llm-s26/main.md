@@ -822,7 +822,7 @@ Each of the three assignments contribute 1/3 to the final assignment grade (that
 
 - [Assignment 1 Instructions](https://drive.google.com/file/d/19ykIE_yoBxxpFNwgIzhKLFRuMl4iGJty/view?usp=sharing)
 - [Assignment 2 Instructions](https://drive.google.com/file/d/1wtUGZyXw13CMfOiUokBgP9siQkuQr9VW/view?usp=sharing)
-- Assignment 3 Instructions: TBD
+- [Assignment 3 Instructions](https://drive.google.com/file/d/1mCOIvatJG5Z0bl4ps0eRobiIRo2L95px/view?usp=sharing)
 
 
 ##### Assignment Deadlines
