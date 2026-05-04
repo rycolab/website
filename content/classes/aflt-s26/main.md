@@ -163,7 +163,8 @@ The following syllabus is **tentative**. The topics will cover parts of the book
       <td>6. 5. 2026</td>
       <td><b>Green's Relations</b></td>
       <td></td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1zaaJ8se5qhM94qVKDSu5IR40_-au7iYW/view?usp=share_link">Exercise 3</a>
+      <br></td>
     </tr>
     <tr>
       <td>13. 5. 2026</td>
