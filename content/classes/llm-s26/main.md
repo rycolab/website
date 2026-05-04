@@ -479,15 +479,17 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <td>2 hours</td>
       <td style="vertical-align : middle;text-align:center;" align="center"><b>Evaluation</b></td>
       <td>Evaluations and Benchmarks</td>
-      <td>Vilem &amp; Mubashara</td>
+      <td>Vilém &amp; Mubashara</td>
       <td>
       <div id="summary21" style="display:none">
+      This class covers methods of evaluation in NLP, ranging from extrinsic (human) evaluations, to automated metrics and evaluation modelling (ELO, TrueSkill, and Item Response Theory). It introduces concepts of experimental design, statistical reliability, and problems of benchmarking.
       <br/>
       <br/>
       </div>
       <button id="button21" style="border:none;" onclick="myFunction('21')">Show</button>
       </td>
       <td>
+      <a href="https://drive.google.com/file/d/1XSph90hoNuA3QvcxEtFl8Qr8oeJH3n1l/view?usp=sharing" target="_blank">Evaluation Slides</a>, <a href="https://drive.google.com/file/d/1bHdrNpwBF7-wOzr8llZXbAdO5NKSi16m/view?usp=sharing" target="_blank">Benchmarking Slides</a>
       </td>
       <td>
       </td>
