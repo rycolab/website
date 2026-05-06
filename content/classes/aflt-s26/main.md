@@ -156,12 +156,12 @@ The following syllabus is **tentative**. The topics will cover parts of the book
     <tr>
       <td>29. 4. 2026</td>
       <td><b>The Syntactic Monoid and Schützenberger's Theorem</b></td>
-      <td></td>
+      <td>Chapter V</td>
       <td></td>
     </tr>
     <tr>
       <td>6. 5. 2026</td>
-      <td><b>Green's Relations</b></td>
+      <td><b>Green's Relations and Alternating Finite Automata</b></td>
       <td></td>
       <td><a href="https://drive.google.com/file/d/1zaaJ8se5qhM94qVKDSu5IR40_-au7iYW/view?usp=share_link">Exercise 3</a>
       <br></td>
