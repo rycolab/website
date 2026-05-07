@@ -164,7 +164,7 @@ The following syllabus is **tentative**. The topics will cover parts of the book
       <td><b>Green's Relations and Alternating Finite Automata</b></td>
       <td></td>
       <td><a href="https://drive.google.com/file/d/1zaaJ8se5qhM94qVKDSu5IR40_-au7iYW/view?usp=share_link">Exercise 3</a>
-      <br></td>
+      <br><a href="https://drive.google.com/file/d/1s_nhv7u4gKb8GRa7pbXsHYhLSUlPy347/view?usp=share_link">Slides</a></td>
     </tr>
     <tr>
       <td>13. 5. 2026</td>
