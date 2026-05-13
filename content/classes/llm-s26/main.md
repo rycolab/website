@@ -508,6 +508,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <button id="button22" style="border:none;" onclick="myFunction('22')">Show</button>
       </td>
       <td>
+      <a href="https://drive.google.com/file/d/1Fe4mLGUU3GuPZ_R-IcGhWExG2Y8GHSKG/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
       <a href="https://arxiv.org/abs/2306.15447" target="_blank">Carlini et al. Are aligned neural networks adversarially aligned?</a>,
@@ -527,6 +528,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <button id="button23" style="border:none;" onclick="myFunction('23')">Show</button>
       </td>
       <td>
+      <a href="https://drive.google.com/file/d/1PQYcXwaGXZvNY3qBvMV3aaifRgx_tYii/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
       </td>
