@@ -546,6 +546,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <button id="button24" style="border:none;" onclick="myFunction('24')">Show</button>
       </td>
       <td>
+      <a href="https://drive.google.com/file/d/1rakquXXIwqdtahPCM07I5WvtpVwVZtbi/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
       <a href="https://arxiv.org/abs/2302.12173" target="_blank">Greshake et al. Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection</a>
