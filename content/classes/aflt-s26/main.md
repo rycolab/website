@@ -165,18 +165,24 @@ The following syllabus is **tentative**. The topics will cover parts of the book
       <td>6. 5. 2026</td>
       <td><b>Green's Relations and Alternating Finite Automata</b></td>
       <td></td>
-      <td><a href="https://drive.google.com/file/d/1zaaJ8se5qhM94qVKDSu5IR40_-au7iYW/view?usp=share_link">Exercise 3</a>
-      <br><a href="https://drive.google.com/file/d/1s_nhv7u4gKb8GRa7pbXsHYhLSUlPy347/view?usp=share_link">Slides</a></td>
+    </tr>
+    <tr>
+      <td>7. 5. 2026</td>
+      <td><b>Tutorial: Minimal Automata and Monoids</b></td>
+      <td></td>
+       <td><a href="https://drive.google.com/file/d/1zaaJ8se5qhM94qVKDSu5IR40_-au7iYW/view?usp=share_link">Exercise 3</a>
+      <br><a href="https://drive.google.com/file/d/1s_nhv7u4gKb8GRa7pbXsHYhLSUlPy347/view?usp=share_link">Slides</a>
+      <td></td>
     </tr>
     <tr>
       <td>13. 5. 2026</td>
-      <td><b>TBD</b></td>
+      <td><b>No lecture</b></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>20. 5. 2026</td>
-      <td><b>TBD</b></td>
+      <td><b>Finite Transducers and Transition Semigroups</b></td>
       <td></td>
       <td></td>
     </tr>
