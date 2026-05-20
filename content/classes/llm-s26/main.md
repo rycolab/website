@@ -565,6 +565,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <button id="button25" style="border:none;" onclick="myFunction('25')">Show</button>
       </td>
       <td>
+      <a href="https://drive.google.com/file/d/1YD9rBxnjAu5JHzjASnLYmWERv7Jo9zYf/view?usp=sharing" target="_blank">Slides</a>
       </td>
       <td>
       <a href="https://arxiv.org/abs/2302.10149" target="_blank">Carlini et al. Poisoning Web-Scale Training Datasets is Practical</a>,
