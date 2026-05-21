@@ -588,6 +588,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <button id="button26" style="border:none;" onclick="myFunction('26')">Show</button>
       </td>
       <td>
+      <a href="https://drive.google.com/file/d/12yVcyi6wnHnlivmoc1pHlS15FXxbjRzP/view?usp=drive_link" target="_blank">Slides</a>
       </td>
       <td>
       <a href="https://arxiv.org/abs/2311.17035" target="_blank">Nasr et al. Scalable Extraction of Training Data from (Production) Language Models</a>,
