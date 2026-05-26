@@ -608,6 +608,7 @@ Tutorials will take place Thursdays 16-18 in [NO C 60](https://www.rauminfo.ethz
       <button id="button27" style="border:none;" onclick="myFunction('27')">Show</button>
       </td>
       <td>
+      <a href="https://drive.google.com/file/d/1L6AYHmJT3isbEXavgGmX9HUzqv-BnASZ/view?usp=drive_link" target="_blank">Slides</a>
       </td>
       <td>
       <a href="https://arxiv.org/abs/2112.03570" target="_blank">Carlini et al. Membership Inference Attacks From First Principles</a>,
