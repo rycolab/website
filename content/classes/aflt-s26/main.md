@@ -23,6 +23,8 @@ The course is structured around the book [Finite Automata, Formal Logic, and Cir
 
 ## News
 
+**09.06** &emsp; [Assignment 5](https://drive.google.com/file/d/1o8x-6cFoRS5JSHQC4aFYBZLDKvjlZfI5/view?usp=drive_link) is released.
+
 **20.05** &emsp; [Assignment 4](https://drive.google.com/file/d/1sps4wOBY8gwtSqz6wvI1hkwKDpz20OC1/view?usp=sharing) is released.
 
 **22.04** &emsp; [Assignment 3](https://drive.google.com/file/d/1t5so2w2FsQsiOZgeXiSA2MuFaa8K9isX/view?usp=share_link) is released.
@@ -188,7 +190,7 @@ The following syllabus is **tentative**. The topics will cover parts of the book
     </tr>
     <tr>
       <td>27. 5. 2026</td>
-      <td><b>TBD</b></td>
+      <td><b>UHATs, B-RASP, LTL, VWAFAs</b></td>
       <td></td>
       <td></td>
     </tr>
@@ -237,6 +239,7 @@ Below you can find the assignment instructions.
 - [Assignment 2](https://drive.google.com/file/d/1Y13zA1exUJUlsQ2DtOHSGf1BdtK5Bz9z/view?usp=sharing)
 - [Assignment 3](https://drive.google.com/file/d/1t5so2w2FsQsiOZgeXiSA2MuFaa8K9isX/view?usp=share_link)
 - [Assignment 4](https://drive.google.com/file/d/1sps4wOBY8gwtSqz6wvI1hkwKDpz20OC1/view?usp=sharing)
+- [Assignment 5](https://drive.google.com/file/d/1o8x-6cFoRS5JSHQC4aFYBZLDKvjlZfI5/view?usp=drive_link)
 
 ## Errata
 Please report any errata in [this document](https://docs.google.com/document/d/1QrajWW0Bs8_lNzLlx-B2edSS9H6qPFcCLJNG8fsLuDo/edit?usp=sharing). Such errata can be, e.g., typos, conceptual mistakes, unclear points, found in the lecture notes, assignments or tutorials. Every contribution is very welcome and will help us improve the teaching materials!
