@@ -65,6 +65,10 @@ subtitle = "[SEE ALL CLASSES](/classes)"
   fractions = false
 +++
 
+## [The Logic and Algebra Underlying Language Models](classes/esslli-26)
+**ETH Zürich** <span class="middot-divider"></span> **Summer 2026**
+
+
 ## [Large Language Models](classes/llm-s26)
 **ETH Zürich** <span class="middot-divider"></span> **Spring 2026**
 Large language models have become one of the most commonly deployed NLP inventions. In the past half-decade, their integration into core natural language processing tools has dramatically increased the performance of such tools, and they have entered the public discourse surrounding artificial intelligence. In this course, we start with the probabilistic foundations of language models, i.e., covering what constitutes a language model from a formal, theoretical perspective. We then discuss how to construct and curate training corpora, and introduce many of the neural-network architectures often used to instantiate language models at scale. The course discusses privacy and harms, as well as applications of language models in NLP and beyond.

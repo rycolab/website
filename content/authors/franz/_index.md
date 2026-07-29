@@ -67,6 +67,7 @@ user_groups:
 - Teaching Assistants NLP F25
 - Teaching Assistants AFLT
 - ESSLLI 2023 Teaching Assistants
+- ESSLLI 2026 Lecturers
 ---
 Franz is a PhD student in Natural Language Processing at ETH Zürich, supervised by Ryan Cotterell. 
 He did his Bachelor's degree in Computer Science at Cambridge, followed by a Master's degree in Computer Science at ETH. His main research interest is the formal investigation of neural network architectures, such as RNNs and transformers.

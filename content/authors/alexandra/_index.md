@@ -24,6 +24,8 @@ interests:
 - Formal language theory
 - Parsing
 - Formal methods in NLP
+- Language generation in the limit
+- Transformer expressivity, learnability and succinctness
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -59,10 +61,11 @@ user_groups:
 - Current
 - Teaching Assistants AFLT S25
 - Teaching Assistants AFLT S26
+- ESSLLI 2026 Lecturers
 ---
 
-Alexandra is a first-year PhD student at ETH Zürich, supervised by Ryan. 
+Alexandra is a PhD student at ETH Zürich, supervised by Ryan. 
 Prior to her PhD, she did a bachelor’s degree in Software Engineering at The University of Sheffield, United Kingdom, and her master's degree in Data Science at ETH Zürich. 
-She is currently working on formalisms for mildly context-sensitive languages. 
+She is currently working on language generation in the limit and transformer succinctness. 
 
 Native Language: Romanian.
