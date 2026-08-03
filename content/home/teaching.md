@@ -65,9 +65,9 @@ subtitle = "[SEE ALL CLASSES](/classes)"
   fractions = false
 +++
 
-## [The Logic and Algebra Underlying Language Models](classes/esslli-26)
+## [The Algebra and Logic Underlying Language Models](classes/esslli-26)
 **ETH Zürich** <span class="middot-divider"></span> **Summer 2026**
-
+This course covers some of the algebra and logic underlying language models. We begin with algebraic preliminaries and the Krohn–Rhodes decomposition, showing how it characterizes the expressive power of RNNs, SSMs, and transformers. We then connect Krohn–Rhodes to linear temporal logic, and use that logical perspective to analyze the succinctness of transformers.
 
 ## [Large Language Models](classes/llm-s26)
 **ETH Zürich** <span class="middot-divider"></span> **Spring 2026**
