@@ -20,14 +20,23 @@ This course covers some of the algebra and logic underlying language models. We 
 ## Syllabus
 
 ### Day 1: Introduction
+We will start with some basic formal language concepts such as strings, languages, etc., followed by language models, the distinction between recognizers and autoregressors, and finally two families of widely used language models, namely RNNs and transformers. We will also touch on the big questions of the course. 
 
-### Day 2: Algebraic Background
+### Day 2: Algebraic Background and the Krohn-Rhodes Theorem
+We will introduce the algebraic background needed for the remainder of the course, including semigroups, monoids, semiatuomata, automata, and transducers, and (pseudo)varieties of semigroups and languages.
+We give a machine-focused outline for the fundamental theorem that much of our course relies on: the Krohn-Rhodes theorem for decomposing finite semigroups into prime components.
 
-### Day 3: The Krohn-Rhodes Decomposition for RNN/SSMs and Softmax Transformers
+### Day 3: Algebraic (De)composition for RNN and Transformer expressivity
+We will use the Krohn-Rhodes decomposition and its refinements to outline a framework that allows deriving upper and lower bounds on the expressive capabilities of RNNs, SSMs, and transformers, and briefly state resulting expressivity results.
+Specifically, we show that transformers can be formalized as RNNs which permits characterizing them using algebraic automata theory.
 
-### Day 4: The Krohn-Rhodes Decomposition, Linear Temporal Logic and Transformer Succinctness
+[//]: # (### Day 4: The Krohn-Rhodes Decomposition, Linear Temporal Logic and Transformer Succinctness)
+### Day 4: On the Connection of Algebra and Logic and Transformer Succinctness
+We will introduce Linear Temporal Logic and explain its connection to the Krohn-Rhodes decomposition. We will then move to transformer succinctness and analyze several recent results showing that transformer recognizers are more succinct than RNNs and finite automata.
 
 ### Day 5: Autoregressive Transformer Succinctness
+We will start by building some machinery that will alllow us to analyze the succinctness of autoregressive transformers.
+We will define two-variable Linear Temporal Logic (LTL), give a measure of succinctness, and explain how to turn a recognizer into an autoregressor. Finally, we will show that for some specific computational problem, the recognizer is small (has polynomial size), while the autoregressor must be very large. 
 
 ## Course Notes
 
