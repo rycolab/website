@@ -40,7 +40,7 @@ We will define two-variable Linear Temporal Logic (LTL), give a measure of succi
 
 ## Course Notes
 
-To follow..
+[Part 1: Algebraic Expressivity](https://drive.google.com/file/d/1EH9qt8sNV0czzUjEaZcfshK_EUARKl6X/view?usp=share_link)
 
 ## Useful Literature
 
