@@ -26,7 +26,7 @@ We will start with some basic formal language concepts such as strings, language
 We will introduce the algebraic background needed for the remainder of the course, including semigroups, monoids, semiatuomata, automata, and transducers, and (pseudo)varieties of semigroups and languages.
 We give a machine-focused outline for the fundamental theorem that much of our course relies on: the Krohn-Rhodes theorem for decomposing finite semigroups into prime components.
 
-### Day 3: Algebraic (De)composition for RNN and Transformer expressivity
+### Day 3: Algebraic (De)composition for RNN and Transformer Expressivity
 We will use the Krohn-Rhodes decomposition and its refinements to outline a framework that allows deriving upper and lower bounds on the expressive capabilities of RNNs, SSMs, and transformers, and briefly state resulting expressivity results.
 Specifically, we show that transformers can be formalized as RNNs which permits characterizing them using algebraic automata theory.
 
