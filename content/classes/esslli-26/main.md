@@ -39,8 +39,8 @@ We will give a measure of succinctness, and explain how to turn a recognizer int
 
 ## Course Notes
 
-[Part 1: Algebraic Expressivity](https://drive.google.com/file/d/1EH9qt8sNV0czzUjEaZcfshK_EUARKl6X/view?usp=share_link)
-[Part 2: Succinctness of Transformers](https://drive.google.com/file/d/192VgfRfsn3xXaVui4E6_tu0tgYz7Fh3I/view?usp=share_link)
+- [Part 1: Algebraic Expressivity](https://drive.google.com/file/d/1EH9qt8sNV0czzUjEaZcfshK_EUARKl6X/view?usp=share_link)
+- [Part 2: Succinctness of Transformers](https://drive.google.com/file/d/192VgfRfsn3xXaVui4E6_tu0tgYz7Fh3I/view?usp=share_link)
 
 ## Useful Literature
 
