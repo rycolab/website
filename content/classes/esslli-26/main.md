@@ -30,17 +30,17 @@ We give a machine-focused outline for the fundamental theorem that much of our c
 We will use the Krohn-Rhodes decomposition and its refinements to outline a framework that allows deriving upper and lower bounds on the expressive capabilities of RNNs, SSMs, and transformers, and briefly state resulting expressivity results.
 Specifically, we show that transformers can be formalized as RNNs which permits characterizing them using algebraic automata theory.
 
-[//]: # (### Day 4: The Krohn-Rhodes Decomposition, Linear Temporal Logic and Transformer Succinctness)
-### Day 4: On the Connection of Algebra and Logic and Transformer Succinctness
-We will introduce Linear Temporal Logic and explain its connection to the Krohn-Rhodes decomposition. We will then move to transformer succinctness and analyze several recent results showing that transformer recognizers are more succinct than RNNs and finite automata.
+### Day 4: Transformer Succinctness
+We will introduce one-variable and two-variable Linear Temporal Logic. We will then move to transformer succinctness and analyze several recent results showing that transformer recognizers are more succinct than RNNs and finite automata.
 
 ### Day 5: Autoregressive Transformer Succinctness
 We will start by building some machinery that will alllow us to analyze the succinctness of autoregressive transformers.
-We will define two-variable Linear Temporal Logic (LTL), give a measure of succinctness, and explain how to turn a recognizer into an autoregressor. Finally, we will show that for some specific computational problem, the recognizer is small (has polynomial size), while the autoregressor must be very large. 
+We will give a measure of succinctness, and explain how to turn a recognizer into an autoregressor. Finally, we will show that for some specific computational problem, the recognizer is small (has polynomial size), while the autoregressor must be very large. 
 
 ## Course Notes
 
 [Part 1: Algebraic Expressivity](https://drive.google.com/file/d/1EH9qt8sNV0czzUjEaZcfshK_EUARKl6X/view?usp=share_link)
+[Part 2: Succinctness of Transformers](https://drive.google.com/file/d/192VgfRfsn3xXaVui4E6_tu0tgYz7Fh3I/view?usp=share_link)
 
 ## Useful Literature
 
