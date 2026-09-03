@@ -1,0 +1,524 @@
++++
+title = 'Natural Language Processing'
+subtitle = 'ETH Zürich, Fall 2026: [Course catalog](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheitPre.do?lerneinheitId=194360&semkez=2026W&lang=en)'
+summary = 'The course constitutes an introduction to modern techniques in the field of natural language processing (NLP). Our primary focus is on the algorithmic aspects of structured NLP models. The course is self-contained and designed to complement other machine learning courses at ETH Zürich, e.g., Deep Learning and Advanced Machine Learning. The course also has a strong focus on algebraic methods, e.g., semiring theory. In addition to machine learning, we also cover the linguistic background necessary for reading the NLP literature.'
+
+active = true  # Activate this widget? true/false
+weight = 20
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
+[advanced]
+ # Custom CSS. 
+ css_style = "padding-bottom: 0px;"
+
++++
+## Course Description
+The course constitutes an introduction to modern techniques in the field of natural language processing (NLP). Our primary focus is on the algorithmic aspects of structured NLP models. The course is self-contained and designed to complement other machine learning courses at ETH Zürich, e.g., [Deep Learning (263-3210-00L)](https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2024W&ansicht=LEHRVERANSTALTUNGEN&lerneinheitId=182386&lang=en) and [Advanced Machine Learning (252-0535-00L)](https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=181977&semkez=2024W&ansicht=LEHRVERANSTALTUNGEN&lang=en). At some points in the course, familiarity with advanced algorithms, e.g., the contents of [Algorithms Lab (263-0006-00L)](https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=182010&semkez=2024W&ansicht=LEHRVERANSTALTUNGEN&lang=en), and mathematical statistics, e.g., the contents of [Fundamentals of Mathematical Statistics (401-3621-00L)](https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=182412&semkez=2024W&ansicht=LEHRVERANSTALTUNGEN&lang=en), will be useful. However, the necessary background knowledge can certainly be picked up in the context of the course, i.e., neither of the above-listed courses is a hard prerequisite. The course also has a strong focus on algebraic methods, e.g., semiring theory. In addition to machine learning, we also cover the linguistic background necessary for reading the NLP literature.
+
+## News
+
+**03.09.2026** &emsp; Class website is online!   
+
+## Organisation
+
+### On the Use of Class Time
+There are two lecture slots for NLP. The first slot is on Monday from 12h to 14h. 
+During this time, the main lecture will be given. 
+The second slot is on Tuesday from 13h to 14h and will occasionally be used as a spill-over time if we did not get through all of the lecture material on Monday (this ensures that the class stays on track). By default, there is no lecture on Tuesdays. Changes to the schedule will be announced on the course [Moodle forum](https://moodle-app2.let.ethz.ch/course/view.php?id=29117).
+
+
+### Moodle Forum
+In addition to class time, there will also be a discussion forum on the course [Moodle page](https://moodle-app2.let.ethz.ch/course/view.php?id=29117). 
+Students are free to ask questions of the teaching staff and of others there. 
+The forum supports LaTeX for easier discussion of technical material.
+
+**Important**: There are a few important points you should keep in mind about the course forum:  
+
+1. The Moodle forum will be the main communications hub for the course. You are responsible for receiving all messages broadcast there.  
+2. Search for answers in the forum before posting a new question.  
+3. Ask questions on the public forum as much as possible.  
+4. Answer to posts in _threads_.  
+
+If you feel like you would benefit from any other discussion board on the forum, feel free to suggest it to the teaching team!
+
+#### Reporting Errata
+Please report any errata in this <a href="https://docs.google.com/document/d/1WmS0JT8VB1UxTiKrg8A3dpsXaHDElgR-WQTV3Obz9mA/edit?usp=sharing">document</a>. Such errata can be, e.g., typos, conceptual mistakes, unclear points, found in the lecture slides, assignments, tutorials or course notes. Every contribution is very welcome and will help us improve the teaching materials!
+
+### Course Notes
+We are currently working on turning out class content into a book! The current draft of the book, i.e., the course notes, can be found [here](https://drive.google.com/file/d/1JX7NpwVyh4IJYjpbUTZ_EuK0iv_HyXSj/view?usp=sharing). 
+
+
+Other useful literature:  
+
+- [Introduction to Natural Language Processing (Eisenstein)](https://www.amazon.de/Jacob-Eisenstein/dp/0262042843/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=30OMHV1C018JY&dchild=1&keywords=introduction+to+natural+language+processing&qid=1598878964&sprefix=introduction+to+na%2Caps%2C148&sr=8-1)  
+- [Deep Learning (Goodfellow, Bengio and Courville)](https://www.deeplearningbook.org/)  
+- [LLM Course Notes](https://rycolab.io/classes/llm-s26/)  
+- [AFLT Course Notes](https://rycolab.io/classes/aflt-s24/) (2024; the contents are more aligned with NLP than this year's course)
+
+## Grading
+
+Marks for the course will be determined by the following formula: 
+
+- **70%** Final Exam  
+- **30%** Assignment or Class Project
+ 
+### On the Final Exam
+<!-- This year's exam will take place on **27 January at 11:30**. -->
+The final exam is comprehensive and should be assumed to cover all the material in the slides and class notes. About 50% of exam questions will be very similar (or even identical) to the theory portion of the class assignments. Thus, it behooves you to at least look at all the assignment questions while preparing for the final exam even if you do not turn them all in for a grade.
+Solutions for the assignments will <ins>***not***</ins> be provided (they will be re-used every year), but the teaching staff can answer questions if you solve the problems ahead of time.
+
+<!-- ### On the Class Assignments 
+
+There will be **6** assignments which will be released (in their final form) roughly every two weeks. We impose three firm deadlines for handing in your solutions:
+
+- **Assignment 1, 2, 3**: December 15th
+- **Assignments 4, 5, and 6**: January 15th
+
+Only your highest-scoring 4 assignments will count towards your grade; each will be weighted equally. So, in principle, you may opt to not turn in 2 out of the 6 assignments without any effect on your grade. <ins>***Note***</ins>: Even though we plan to grade your submissions within one month, we advise you not to wait for your grades to be returned before you decide to tackle the next assignments. In essence, do not base your submission strategy on our grading estimates!
+The assignments will be graded according to the pre-determined [Assignment grading rubric](https://drive.google.com/file/d/1iSMcKBXyII_vl1DEdX3aPv2ceKu1Gadf/view?usp=sharing).
+
+The class assignments were crafted to dovetail nicely with the lecture contents and, moreover, to complement the lectures through a more hands-on approach to the material. Each assignment has a theory portion, which will generally involve derivations or proofs related to the material, and a coding portion where you will implement a working model for one of the NLP tasks discussed in the lecture. The theory and the coding halves of the assignments will be weighted equally. -->
+
+**Very important:**
+*<u>We require the solutions to be properly typeset.</u>*
+Handwritten solutions will *<u>not be accepted</u>*.
+We recommend using LaTeX (with [Overleaf](https://www.overleaf.com)), but markdown files with MathJax for the mathematical expressions are also fine.
+We provide a template for the writeups [here](https://www.overleaf.com/read/dbdnrzmksfnx#33dd4f).
+
+Additionally, the solutions have to be presented in a clean and readable way, with all sub-steps of the solutions presented in a logical order.
+Note that this does not mean that your submissions have to be overly verbose and long. 
+It simply means that you should explain your reasoning and the steps of your solutions in a clear and concise way.
+
+The detailed instructions for the submission will be given in each assignment separately.
+
+
+### On the Tutorials
+Tutorials will take place Wednesdays 16h to 19h in HG F7.
+Their main purpose is to repeat the most important insights from the corresponding lecture and to discuss the solutions of the exercises. Therefore, we strongly encourage you to solve the exercises beforehand.
+
+Furthermore, we will introduce new assignments and allow you to ask questions about them.
+Roughly, we expect to devote 2 hours per week to exercises and 1 hour to the assignments (when a new assignment has been released).
+We therefore strongly encourage you to look at the assignment problems in due time and come to the discussions sessions with your questions.
+We want the sessions to be useful for you!
+
+### Assignment Office Hours
+In addition to the tutorials, we will hold assignment-specific online office hours on Zoom during the week before the deadline of the assignment.
+You will have the opportunity to talk to the TAs responsible for that assignment and ask individual questions you do not want to discuss on the public Moodle forum.
+We will send out 10 minute slots for you to sign up for closer to the time on Moodle.
+
+
+
+## Syllabus
+<table class="table">
+  <head>
+    <base target="_blank">
+  </head>
+  <thead>
+    <tr>
+      <th scope="col" style='white-space:nowrap'>Week</th>
+      <th scope="col" style='white-space:nowrap'>Date&emsp;&emsp;</th>
+      <th scope="col" style='white-space:nowrap'>Topic</th>
+      <th scope="col" style='white-space:nowrap'>Slides&emsp;&emsp;</th>
+      <th scope="col" style='white-space:nowrap'>Readings</th>
+      <th scope="col" style='white-space:nowrap'>Supplementary Material</th>
+      <th scope="col" style='white-space:nowrap'>Material Exercise Sheets</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th rowspan=2 scope="row">0</th>
+      <td>15.9.2026</td>
+      <td>No lecture</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+      <th rowspan=2 scope="row">1</th>
+      <td>21.9.2026</td>
+      <td>Introduction to NLP, Course logistics,</br>
+       Introduction of the TA team</td>
+      <td></td>
+      <td>Eisenstein Ch. 1</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>22.9.2026</td>
+      <td>Introduction to NLP</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+      <th rowspan=2 scope="row">2</th>
+      <td>29.9.2026</td>
+      <td>Backpropagation</td>
+      <td></td>
+      <td>Goodfellow, Bengio and Courville Ch. 6.5</td>
+      <td>
+        <a href="https://colah.github.io/posts/2015-08-Backprop/" target="_blank">Chris Olah's Blog</a></br>
+        <a href="https://people.cs.umass.edu/~domke/courses/sml2011/08autodiff_nnets.pdf" target="_blank">Justin Domke’s Notes</a></br>
+        <a href="https://timvieira.github.io/blog/post/2017/08/18/backprop-is-not-just-the-chain-rule/" target="_blank">Tim Vieira’s Blog</a></br>
+        <a href="https://ee227c.github.io/notes/ee227c-lecture16.pdf" target="_blank">Moritz Hardt’s Notes</a></br>
+        <a href="https://www.jstor.org/stable/2156433?seq=1" target="_blank">Bauer (1974)</a></br>
+        <a href="https://core.ac.uk/download/pdf/82480031.pdf" target="_blank">Baur and Strassen (1983)</a></br>
+        <a href="https://www.amazon.co.uk/Evaluating-Derivatives-Principles-Algorithmic-Differentiation/dp/0898716594/ref=sr_1_1?dchild=1&keywords=griewank&qid=1598888684&s=books&sr=1-1" target="_blank">Griewank and Walter (2008)</a></br>
+        <a href="https://www.cs.jhu.edu/~jason/papers/eisner.spnlp16.pdf" target="_blank">Eisner (2016)</a></br>
+        <a href="https://drive.google.com/file/d/1W4N_ZKOcs-g7gbQqSLRy6fc-Oc7fmKi7/view?usp=sharing" target="_blank">Backpropagation Proof</a></br>
+        <a href="https://drive.google.com/file/d/1XWRz4yMi2A5BZSRSgnnbRJikqz7RYtrN/view?usp=sharing" target="_blank">Computation Graph for MLP</a></br>
+        <a href="https://drive.google.com/file/d/1hsYIXXd6cEWocrhI-pQ4Ox8FG49Otu_m/view?usp=sharing" target="_blank">Computation Graph Example</a></td>
+        <td></td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+      <th rowspan=2 scope="row">3</th>
+      <td>5.10.2026</td>
+      <td>Log-Linear Modeling---Meet the Softmax</td>
+      <td></td>
+      <td>Eisenstein Ch. 2</td>
+      <td><a href="https://www.cs.jhu.edu/~jason/papers/ferraro+eisner.tnlp13.pdf" target="_blank">Ferraro and Eisner (2013)</a></br>
+      <a href="http://cs.jhu.edu/~jason/tutorials/loglin/further.html">Jason Eisner’s list of further resources on log-linear modeling</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6.10.2026</td>
+      <td>Log-Linear Modeling---Meet the Softmax</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan=2 scope="row">4</th>
+      <td>12.10.2026</td>
+      <td>Sentiment Analysis with Multi-layer Perceptrons</td>
+      <td></td>
+      <td>Eisenstein Ch. 3 and 4;</br>Goodfellow, Bengio and Courville Ch. 6</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>13.10.2026</td>
+      <td>Sentiment Analysis with Multi-layer Perceptrons</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan=2 scope="row">5</th>
+      <td>19.10.2026</td>
+      <td>Language Modeling with <em>n</em>-grams and LSTMs</td>
+      <td></td>
+      <td>Eisenstein Ch. 6;</br>Goodfellow, Bengio and Courville Ch. 10</td>
+      <td><a href="https://nlp.stanford.edu/~wcmac/papers/20050421-smoothing-tutorial.pdf" target="_blank">Good Tutorial on n-gram smoothing</a></br>
+        <a href="https://en.wikipedia.org/wiki/Good%E2%80%93Turing_frequency_estimation" target="_blank">Good–Turing Smoothing</a></br>
+        <a href="https://ieeexplore.ieee.org/document/479394" target="_blank">Kneser and Ney (1995)</a></br>
+        <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf" target="_blank">Bengio et al. (2003)</a></br>
+        <a href="https://www.isca-archive.org/interspeech_2010/mikolov10_interspeech.pdf" target="_blank">Mikolov et al. (2010)</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>20.10.2026</td>
+      <td>Language Modeling with <em>n</em>-grams and LSTMs</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan=2 scope="row">6</th>
+      <td>26.10.2026</td>
+      <td>Part-of-Speech Tagging with CRFs</td>
+      <td></td>
+      <td>Eisenstein Ch. 7 and 8</td>
+      <td><a href="https://timvieira.github.io/blog/post/2015/04/29/multiclass-logistic-regression-and-conditional-random-fields-are-the-same-thing/" target="_blank">Tim Vieira's Blog</a></br>
+        <a href="https://dl.acm.org/doi/10.5555/645529.658277" target="_blank">McCallum et al. (2000)</a></br>
+        <a href="https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers" target="_blank">Lafferty et al. (2001)</a></br>
+        <a href="https://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf" target="_blank">Sutton and McCallum (2011)</a></br>
+        <a href="https://mitpress.mit.edu/books/probabilistic-graphical-models" target="_blank">Koller and Friedman (2009)</a></td>
+        <td></td>
+    </tr>
+    <tr>
+      <td>27.10.2026</td>
+      <td>Part-of-Speech Tagging with CRFs, Assignment 2 introduction</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan=2 scope="row">7</th>
+      <td>2.11.2026</td>
+      <td>Transliteration with WFSTs</td>
+      <td></td>
+      <td>Eisenstein Ch. 9</td>
+      <td><a href="https://rycolab.io/classes/aflt-s22/" target="_blank">AFLT Course Notes</a> Chapters 1, 2, and 3</br>
+      <a href="https://www.aclweb.org/anthology/J98-4003.pdf" target="_blank">Knight and Graehl (1998)</a></br>
+        <a href="https://cs.nyu.edu/~mohri/pub/hbka.pdf" target="_blank">Mohri, Pereira and Riley (2008)</a></td>
+      <td></td>
+      </td>
+    </tr>
+    <tr>
+      <td>3.11.2026</td>
+      <td>Transliteration with WFSTs</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+      <th rowspan=2 scope="row">8</th>
+      <td>9.11.2026</td>
+      <td>Context-Free Parsing with CKY</td>
+      <td></td>
+      <td>Eisenstein Ch. 10</td>
+      <td><a href="http://www.cs.columbia.edu/~mcollins/io.pdf" target="_blank">The Inside-Outside Algorithm</a></br>
+        <a href="https://www.cs.jhu.edu/~jason/465/PowerPoint/lect08-parse.ppt" target="_blank">Jason Eisner’s Slides</a></br>
+        <a href="https://www.ideals.illinois.edu/handle/2142/74304">Kasami (1966)</a></br>
+        <a href="https://www.sciencedirect.com/science/article/pii/S001999586780007X?via%3Dihub" target="_blank">Younger (1967)</a></br>
+        <a href="http://www.softwarepreservation.org/projects/FORTRAN/CockeSchwartz_ProgLangCompilers.pdf" target="_blank">Cocke and Schwartz (1970)</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10.11.2026</td>
+      <td>Context-Free Parsing with CKY</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>  
+    <tr>
+    </tr>
+    <tr>
+    </tr>
+    <tr>
+      <th rowspan=2 scope="row">9</th>
+      <td>16.11.2026</td>
+      <td>Dependency Parsing with the Matrix-Tree Theorem</td>
+      <td></td>
+      <td>Eisenstein Ch. 11</td>
+      <td><a href="https://www.aclweb.org/anthology/D07-1015/" target="_blank">Koo et al. (2007)</a></br>
+        <a href="https://www.aclweb.org/anthology/D07-1014/" target="_blank">Smith and Smith (2007)</a></br>
+        <a href="https://www.aclweb.org/anthology/W07-2216/" target="_blank">McDonald and Satta (2007)</a></br>
+        <a href="https://www.morganclaypool.com/doi/abs/10.2200/S00169ED1V01Y200901HLT002" target="_blank">McDonald, Kübler and Nivre (2009)</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>17.11.2026</td>
+      <td>Dependency Parsing with the Matrix-Tree Theorem</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>  
+    <tr>
+      <th rowspan=2 scope="row">10</th>
+      <td>23.11.2026</td>
+      <td>Semantic Parsing with CCGs</td>
+      <td></td>
+      <td>Eisenstein Ch. 9.3 and 12</td>
+      <td><a href="https://www.aclweb.org/anthology/P88-1034/" target="_blank">Weir and Joshi (1988)</a></br>
+        <a href="https://www.aclweb.org/anthology/Q14-1032/" target="_blank">Kuhlmann and Satta (2014)</a></br>
+        <a href="https://homepages.inf.ed.ac.uk/steedman/papers/ccg/ikdoz17.2.pdf" target="_blank">Mark Steedman's CCG slides</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>24.11.2026</td>
+      <td>Semantic Parsing with CCGs</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>  
+    <tr>
+      <th rowspan=2 scope="row">11</th>
+      <td>30.11.2026</td>
+      <td>Machine Translation with Transformers</td>
+      <td></td>
+      <td>Eisenstein Ch. 18</td>
+      <td>
+        <a href="https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf" target="_blank">Vaswani et al. (2017)</a></br>
+        <a href="http://nlp.seas.harvard.edu/annotated-transformer/">The Annotated Transformer</a></br>
+        <a href="https://jalammar.github.io/illustrated-transformer/">The Illustrated Transformer</a></br>
+        <a href="https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/">The Transformer Family</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>1.12.2026</td>
+      <td>Machine Translation with Transformers</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan=2 scope="row">12</th>
+      <td>7.12.2026</td>
+      <td>Axes of Modeling</td>
+      <td></td>
+      <td>Review Eisenstein Ch. 2;</br>Goodfellow, Bengio and Courville Ch. 5 and 11</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>8.12.2026</td>
+      <td>Axes of Modeling</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan=2 scope="row">13</th>
+      <td>14.12.2026</td>
+      <td>Bias and Fairness in NLP</td>
+      <td></td>
+      <td></td>
+      <td><a href="https://papers.nips.cc/paper/6228-man-is-to-computer-programmer-as-woman-is-to-homemaker-debiasing-word-embeddings.pdf" target="_blank">Bolukabasi et al. (2016)</a></br>
+        <a href="https://arxiv.org/abs/1903.03862" target="_blank">Gonen and Goldberg (2019)</a></br>
+        <a href="https://arxiv.org/abs/1909.00871" target="_blank">Hall Maudslay et al. (2019)</a></br>
+        <a href="https://arxiv.org/abs/2009.09435" target="_blank">Vargas and Cotterell (2020)</a></br>
+        <a href="http://ciml.info/dl/v0_99/ciml-v0_99-ch08.pdf" target="_blank">A Course in Machine Learning Chapter 8</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>15.12.2026</td>
+      <td>Bias and Fairness in NLP</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    
+  </tbody>
+</table>
+
+
+## Tutorial Schedule
+<table class="table">
+  <head>
+    <base target="_blank">
+  </head>
+  <thead>
+    <tr>
+      <th scope="col" style='white-space:nowrap'>Week</th>
+      <th scope="col" style='white-space:nowrap'>Date&emsp;&emsp;</th>
+      <th scope="col" style='white-space:nowrap'>Topic</th>
+      <th scope="col" style='white-space:nowrap'>Teaching Assistant</th>
+      <th scope="col" style='white-space:nowrap'>Material</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>16.9.2026</td>
+      <td>No Tutorial</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>23.9.2026</td>
+      <td>No tutorial</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>30.9.2026</td>
+      <td>No tutorial</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>7.10.2026</td>
+      <td>Backpropagation, Assignment 1 introduction</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">5</th>
+      <td>14.10.2026</td>
+      <td>Log-Linear Modeling</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">5</th>
+      <td>21.10.2026</td>
+      <td>Sentiment Classification with Multi-layer Perceptrons</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">6</th>
+      <td>28.10.2026</td>
+      <td>Language Modeling with n-grams and LSTMs</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">7</th>
+      <td>4.11.2026</td>
+      <td>Part-of-speech Tagging with CRFs, Assignment 2 introduction</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">8</th>
+      <td>11.11.2026</td>
+      <td>Transliteration with WFSTs, Assignment 3 introduction</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">10</th>
+      <td>18.11.2026</td>
+      <td>Context-free Parsing, Assignment 4 introduction</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">11</th>
+      <td>25.11.2026</td>
+      <td>Dependency Parsing with the Matrix-Tree Theorem, Assignment 5 introduction</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">12</th>
+      <td>2.12.2026</td>
+      <td>Semantic Parsing with CCGs</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">13</th>
+      <td>9.12.2026</td>
+      <td>Machine Translation with Transformers, Assignment 6 introduction</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th scope="row">14</th>
+      <td>17.12.2026</td>
+      <td>Axes of Modeling</td>
+      <td></td>
+      <td></td>
+    </tr>
+    
+  </tbody>
+</table>

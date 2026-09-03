@@ -40,6 +40,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Teaching Assistants NLP F25
+- Teaching Assistants NLP F26
 - Large Language Models Teaching Assistants
 - Teaching Assistants AFLT S26
 ---
