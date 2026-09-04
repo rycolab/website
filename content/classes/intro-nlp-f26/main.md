@@ -61,7 +61,7 @@ Other useful literature:
 Marks for the course will be determined by the following formula: 
 
 - **70%** Final Exam  
-- **30%** Assignment or Class Project
+- **30%** Assignments
  
 ### On the Final Exam
 <!-- This year's exam will take place on **27 January at 11:30**. -->
@@ -158,7 +158,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
     </tr>
     <tr>
       <th rowspan=2 scope="row">2</th>
-      <td>29.9.2026</td>
+      <td>28.9.2026</td>
       <td>Backpropagation</td>
       <td></td>
       <td>Goodfellow, Bengio and Courville Ch. 6.5</td>
