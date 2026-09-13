@@ -177,6 +177,12 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
         <td></td>
     </tr>
     <tr>
+      <td>29.9.2026</td>
+      <td>Backpropagation</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <th rowspan=2 scope="row">3</th>
