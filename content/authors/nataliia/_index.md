@@ -25,6 +25,11 @@ social:
   icon_pack: fas
   link: "mailto:nbagan@student.ethz.ch"  # For a direct email link, use "mailto:test@example.org".
 
+interests:
+- Reasoning in LLMs
+- RAG
+- AI Security
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
   
