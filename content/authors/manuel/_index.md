@@ -53,5 +53,6 @@ email: ""
 user_groups:
 - Large Language Models Teaching Assistants
 - Teaching Assistants NLP F24
+- Teaching Assistants NLP F26
 ---
 Manuel is a Computer Science MSc student at ETHZ. He completed his Bachelor's degrees in Math and Computer Science at Universidade de Santiago de Compostela. When not in front of a computer, he enjoys playing basketball, fixing bikes, or playing the bagpipe.

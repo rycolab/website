@@ -36,6 +36,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Teaching Assistants AFLT S26
+- Teaching Assistants NLP F26
 ---
 Samuele is a second-year Master’s student in Computer Science with a strong interest in NLP and everything linguistics-related. After completing his bachelor’s degree in Computer Science at Università di Pisa in Italy, he’s currently trying to take every Rycolab course offered in the programme. He likes running, music, playing table tennis, and learning foreign languages.
 
