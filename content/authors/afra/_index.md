@@ -51,11 +51,9 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Members
-- PhD Students
+- Alumna
 - Teaching Assistants
 - Tutorial Leaders
-- Current
-- 
 ---
 
 Afra is a first-year doctoral fellow at [ETH AI center](https://ai.ethz.ch/), where she is advised by Ryan and [Elliott Ash](https://elliottash.com/). She is broadly interested in a variety of topics related to machine learning for NLP and social sciences. Before starting her Ph.D., she received her master’s in computer science at ETH Zürich and bachelor's in software engineering at Sharif University of Technology. In her spare time, she enjoys digital painting, reading and playing the piano.

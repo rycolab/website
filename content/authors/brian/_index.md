@@ -59,9 +59,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Members
-- Senior
-- Senior Members
-- Current
+- Alumna
 ---
 
 Brian is a postdoc in Rycolab. He completed his PhD at the University of Notre Dame, supervised by David Chiang. Brian's dissertation was about incorporating pushdown automata into neural nets for NLP. Brian also taught the Theory of Computing course at Notre Dame in the spring of 2022. Brian is particularly interested in areas of NLP that are connected to formal language theory, grammars, parsing, and machine translation.

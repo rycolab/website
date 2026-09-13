@@ -49,6 +49,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
+- Members
+- PhD Students
+- Current
 - Teaching Assistants NLP F23
 - Teaching Assistants NLP F26
 - Philosophy of Language and Computation Teaching Assistants 2026

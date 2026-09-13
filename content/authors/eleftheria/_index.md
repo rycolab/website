@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
@@ -53,7 +53,8 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Members
-- PhD Students
+- Senior
+- Senior Members
 - Teaching Assistants NLP F23
 - Teaching Assistants NLP F25
 - Teaching Assistants NLP F26

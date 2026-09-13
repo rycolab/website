@@ -59,9 +59,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Members
-- Senior
-- Senior Members
-- Current
+- Alumna
 ---
 Ido Hakimi is a postdoctoral researcher at the ETH AI Center, mentored by Andreas Krause, with Ryan Cotterell and Mrinmaya Sachan as co-mentors. He received his PhD from the Technion in 2022 and worked at Google DeepMind before starting his postdoc. His research focuses on making large language models (LLMs) faster and more efficient and is particularly interested in improving the performance of smaller LLMs.
 
