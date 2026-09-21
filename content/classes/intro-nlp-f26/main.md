@@ -19,6 +19,7 @@ The course constitutes an introduction to modern techniques in the field of natu
 ## News
 
 **03.09.2026** &emsp; Class website is online!   
+**21.09.2026** &emsp; The first lecture is cancelled! The first lecture will take place on Monday, September 28.   
 
 ## Organisation
 
@@ -140,16 +141,15 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
     <tr>
       <th rowspan=2 scope="row">1</th>
       <td>21.9.2026</td>
-      <td>Introduction to NLP, Course logistics,</br>
-       Introduction of the TA team</td>
+      <td>No lecture</td>
       <td></td>
-      <td>Eisenstein Ch. 1</td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>22.9.2026</td>
-      <td>Introduction to NLP</td>
+      <td>No lecture</td>
       <td></td>
       <td></td>
       <td></td>
@@ -159,6 +159,15 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
     <tr>
       <th rowspan=2 scope="row">2</th>
       <td>28.9.2026</td>
+      <td>Introduction to NLP, Course logistics,</br>
+       Introduction of the TA team</td>
+      <td></td>
+      <td>Eisenstein Ch. 1</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>29.9.2026</td>
       <td>Backpropagation</td>
       <td></td>
       <td>Goodfellow, Bengio and Courville Ch. 6.5</td>
@@ -175,14 +184,6 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
         <a href="https://drive.google.com/file/d/1XWRz4yMi2A5BZSRSgnnbRJikqz7RYtrN/view?usp=sharing" target="_blank">Computation Graph for MLP</a></br>
         <a href="https://drive.google.com/file/d/1hsYIXXd6cEWocrhI-pQ4Ox8FG49Otu_m/view?usp=sharing" target="_blank">Computation Graph Example</a></td>
         <td></td>
-    </tr>
-    <tr>
-      <td>29.9.2026</td>
-      <td>Backpropagation</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <th rowspan=2 scope="row">3</th>
