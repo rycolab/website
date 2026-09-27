@@ -24,9 +24,11 @@ The course constitutes an introduction to modern techniques in the field of natu
 ## Organisation
 
 ### On the Use of Class Time
-There are two lecture slots for NLP. The first slot is on Monday from 12h to 14h. 
+There are two lecture slots for NLP, both taking place in HG F 5. The first slot is on Monday from 12h to 14h. 
 During this time, the main lecture will be given. 
 The second slot is on Tuesday from 13h to 14h and will occasionally be used as a spill-over time if we did not get through all of the lecture material on Monday (this ensures that the class stays on track). By default, there is no lecture on Tuesdays. Changes to the schedule will be announced on the course [Moodle forum](https://moodle-app2.let.ethz.ch/course/view.php?id=29117).
+
+The lectures will also be live broadcast on Zoom. The Zoom link and password will be posted on the course Moodle page.
 
 
 ### Moodle Forum
@@ -95,7 +97,7 @@ The detailed instructions for the submission will be given in each assignment se
 
 
 ### On the Tutorials
-Tutorials will take place Wednesdays 16h to 19h in HG F7.
+Tutorials will take place Wednesdays 16h to 19h in HG F 3.
 Their main purpose is to repeat the most important insights from the corresponding lecture and to discuss the solutions of the exercises. Therefore, we strongly encourage you to solve the exercises beforehand.
 
 Furthermore, we will introduce new assignments and allow you to ask questions about them.
