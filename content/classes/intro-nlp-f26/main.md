@@ -163,7 +163,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
       <td>28.9.2026</td>
       <td>Introduction to NLP, Course logistics,</br>
        Introduction of the TA team</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1K_AU_KL8wJj0mV1cYZDQBbYY3X_q90qd/view?usp=sharing" target="_blank">Lecture 1</a></td>
       <td>Eisenstein Ch. 1</td>
       <td></td>
       <td></td>
