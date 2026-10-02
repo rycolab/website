@@ -1,6 +1,6 @@
 +++
 title = 'Natural Language Processing'
-subtitle = 'ETH Zürich, Fall 2026: [Course catalog](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheitPre.do?lerneinheitId=194360&semkez=2026W&lang=en)'
+subtitle = 'ETH Zürich, Fall 2026: [Course catalog](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=204564&semkez=2026W&ansicht=ALLE&lang=en)'
 summary = 'The course constitutes an introduction to modern techniques in the field of natural language processing (NLP). Our primary focus is on the algorithmic aspects of structured NLP models. The course is self-contained and designed to complement other machine learning courses at ETH Zürich, e.g., Deep Learning and Advanced Machine Learning. The course also has a strong focus on algebraic methods, e.g., semiring theory. In addition to machine learning, we also cover the linguistic background necessary for reading the NLP literature.'
 
 active = true  # Activate this widget? true/false
@@ -202,7 +202,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
     </tr>
     <tr>
       <td>6.10.2026</td>
-      <td>Log-Linear Modeling---Meet the Softmax</td>
+      <td>No lecture</td>
       <td></td>
       <td></td>
       <td></td>
@@ -219,7 +219,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
     </tr>
     <tr>
       <td>13.10.2026</td>
-      <td>Sentiment Analysis with Multi-layer Perceptrons</td>
+      <td>No lecture</td>
       <td></td>
       <td></td>
       <td></td>
@@ -240,7 +240,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
     </tr>
     <tr>
       <td>20.10.2026</td>
-      <td>Language Modeling with <em>n</em>-grams and LSTMs</td>
+      <td>No lecture</td>
       <td></td>
       <td></td>
       <td></td>
@@ -260,7 +260,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
     </tr>
     <tr>
       <td>27.10.2026</td>
-      <td>Part-of-Speech Tagging with CRFs, Assignment 2 introduction</td>
+      <td>No lecture</td>
       <td></td>
       <td></td>
       <td></td>
@@ -280,7 +280,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
     </tr>
     <tr>
       <td>3.11.2026</td>
-      <td>Transliteration with WFSTs</td>
+      <td>No lecture</td>
       <td></td>
       <td></td>
       <td></td>
@@ -305,7 +305,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
     </tr>
     <tr>
       <td>10.11.2026</td>
-      <td>Context-Free Parsing with CKY</td>
+      <td>No lecture</td>
       <td></td>
       <td></td>
       <td></td>
@@ -329,7 +329,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
     </tr>
     <tr>
       <td>17.11.2026</td>
-      <td>Dependency Parsing with the Matrix-Tree Theorem</td>
+      <td>No lecture</td>
       <td></td>
       <td></td>
       <td></td>
@@ -348,7 +348,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
     </tr>
     <tr>
       <td>24.11.2026</td>
-      <td>Semantic Parsing with CCGs</td>
+      <td>No lecture</td>
       <td></td>
       <td></td>
       <td></td>
@@ -369,7 +369,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
     </tr>
     <tr>
       <td>1.12.2026</td>
-      <td>Machine Translation with Transformers</td>
+      <td>No lecture</td>
       <td></td>
       <td></td>
       <td></td>
@@ -386,7 +386,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
     </tr>
     <tr>
       <td>8.12.2026</td>
-      <td>Axes of Modeling</td>
+      <td>No lecture</td>
       <td></td>
       <td></td>
       <td></td>
@@ -407,7 +407,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
     </tr>
     <tr>
       <td>15.12.2026</td>
-      <td>Bias and Fairness in NLP</td>
+      <td>No lecture</td>
       <td></td>
       <td></td>
       <td></td>
