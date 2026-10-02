@@ -433,7 +433,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
     <tr>
       <th scope="row">1</th>
       <td>16.9.2026</td>
-      <td>No Tutorial</td>
+      <td>No tutorial</td>
       <td></td>
       <td></td>
     </tr>
@@ -455,77 +455,77 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
       <th scope="row">4</th>
       <td>7.10.2026</td>
       <td>Backpropagation, Assignment 1 introduction</td>
-      <td></td>
+      <td>Samuele</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">5</th>
       <td>14.10.2026</td>
       <td>Log-Linear Modeling</td>
-      <td></td>
+      <td>Nataliia</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">5</th>
       <td>21.10.2026</td>
       <td>Sentiment Classification with Multi-layer Perceptrons</td>
-      <td></td>
+      <td>Samuele</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">6</th>
       <td>28.10.2026</td>
       <td>Language Modeling with n-grams and LSTMs</td>
-      <td></td>
+      <td>Harsh</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">7</th>
       <td>4.11.2026</td>
       <td>Part-of-speech Tagging with CRFs, Assignment 2 introduction</td>
-      <td></td>
+      <td>Blanka</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">8</th>
       <td>11.11.2026</td>
       <td>Transliteration with WFSTs, Assignment 3 introduction</td>
-      <td></td>
+      <td>Nataliia</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">10</th>
       <td>18.11.2026</td>
       <td>Context-free Parsing, Assignment 4 introduction</td>
-      <td></td>
+      <td>Harsh</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">11</th>
       <td>25.11.2026</td>
       <td>Dependency Parsing with the Matrix-Tree Theorem, Assignment 5 introduction</td>
-      <td></td>
+      <td>Nataliia</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">12</th>
       <td>2.12.2026</td>
       <td>Semantic Parsing with CCGs</td>
-      <td></td>
+      <td>Eleftheria</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">13</th>
       <td>9.12.2026</td>
       <td>Machine Translation with Transformers, Assignment 6 introduction</td>
-      <td></td>
+      <td>Samuele</td>
       <td></td>
     </tr>
     <tr>
       <th scope="row">14</th>
       <td>17.12.2026</td>
       <td>Axes of Modeling</td>
-      <td></td>
+      <td>Harsh</td>
       <td></td>
     </tr>
     
