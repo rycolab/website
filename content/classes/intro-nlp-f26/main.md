@@ -171,7 +171,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
     <tr>
       <td>29.9.2026</td>
       <td>Backpropagation</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1VaERWekW0foF3IQKmlvaRf1MhfaOYBft/view?usp=sharing" target="_blank">Lecture 2</a></td>
       <td>Goodfellow, Bengio and Courville Ch. 6.5</td>
       <td>
         <a href="https://colah.github.io/posts/2015-08-Backprop/" target="_blank">Chris Olah's Blog</a></br>
