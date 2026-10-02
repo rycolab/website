@@ -185,7 +185,10 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
         <a href="https://drive.google.com/file/d/1W4N_ZKOcs-g7gbQqSLRy6fc-Oc7fmKi7/view?usp=sharing" target="_blank">Backpropagation Proof</a></br>
         <a href="https://drive.google.com/file/d/1XWRz4yMi2A5BZSRSgnnbRJikqz7RYtrN/view?usp=sharing" target="_blank">Computation Graph for MLP</a></br>
         <a href="https://drive.google.com/file/d/1hsYIXXd6cEWocrhI-pQ4Ox8FG49Otu_m/view?usp=sharing" target="_blank">Computation Graph Example</a></td>
-        <td></td>
+        <td>
+        <a href="https://drive.google.com/file/d/1DS0E_tGL1qGWvRA7QM6PbtTJ4M4j4A6w/view?usp=drive_link" target="_blank">Week 2 Exercises</a></br>
+        <a href="https://drive.google.com/file/d/1Jnk0buKNSgIvWE25mZndBb5P69jMI3jf/view?usp=drive_link" target="_blank">Week 2 Solutions</a>
+        </td>
     </tr>
     <tr>
       <th rowspan=2 scope="row">3</th>
