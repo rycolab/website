@@ -87,7 +87,7 @@ The class assignments were crafted to dovetail nicely with the lecture contents 
 *<u>We require the solutions to be properly typeset.</u>*
 Handwritten solutions will *<u>not be accepted</u>*.
 We recommend using LaTeX (with [Overleaf](https://www.overleaf.com)), but markdown files with MathJax for the mathematical expressions are also fine.
-We provide a template for the writeups [here](https://www.overleaf.com/read/dbdnrzmksfnx#33dd4f).
+We provide a template for the writeups [here](https://www.overleaf.com/read/fbmsxmnbgfbn#e62117).
 
 Additionally, the solutions have to be presented in a clean and readable way, with all sub-steps of the solutions presented in a logical order.
 Note that this does not mean that your submissions have to be overly verbose and long. 
