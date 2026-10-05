@@ -20,6 +20,7 @@ The course constitutes an introduction to modern techniques in the field of natu
 
 **03.09.2026** &emsp; Class website is online!   
 **21.09.2026** &emsp; The first lecture is cancelled! The first lecture will take place on Monday, September 28.   
+**05.10.2026** &emsp; [Assignment 1](https://drive.google.com/file/d/1gpiMNbXIlbUbpyI-sDRfaXKCKt9oXOAL/view?usp=drive_link) released!   
 
 ## Organisation
 
@@ -82,6 +83,9 @@ Only your highest-scoring 4 assignments will count towards your grade; each will
 The assignments will be graded according to the pre-determined [Assignment grading rubric](https://drive.google.com/file/d/1iSMcKBXyII_vl1DEdX3aPv2ceKu1Gadf/view?usp=sharing).
 
 The class assignments were crafted to dovetail nicely with the lecture contents and, moreover, to complement the lectures through a more hands-on approach to the material. Each assignment has a theory portion, which will generally involve derivations or proofs related to the material, and a coding portion where you will implement a working model for one of the NLP tasks discussed in the lecture. The theory and the coding halves of the assignments will be weighted equally. -->
+
+**Assignment sheets**:   
+- [Assignment 1](https://drive.google.com/file/d/1gpiMNbXIlbUbpyI-sDRfaXKCKt9oXOAL/view?usp=drive_link)   
 
 **Very important:**
 *<u>We require the solutions to be properly typeset.</u>*
