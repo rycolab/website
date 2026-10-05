@@ -198,7 +198,10 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
       <td>Eisenstein Ch. 2</td>
       <td><a href="https://www.cs.jhu.edu/~jason/papers/ferraro+eisner.tnlp13.pdf" target="_blank">Ferraro and Eisner (2013)</a></br>
       <a href="http://cs.jhu.edu/~jason/tutorials/loglin/further.html">Jason Eisner’s list of further resources on log-linear modeling</a></td>
-      <td></td>
+      <td>
+        <a href="https://drive.google.com/file/d/1DzzzgYx3WK9hFU_FvNsGBpiMMqi9K0zi/view?usp=drive_link" target="_blank">Week 3 Exercises</a></br>
+        <a href="https://drive.google.com/file/d/1cTiB2gUYzj-rPor97vJqJx-556p6LidT/view?usp=drive_link" target="_blank">Week 3 Solutions</a>
+      </td>
     </tr>
     <tr>
       <td>6.10.2026</td>
