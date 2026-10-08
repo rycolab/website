@@ -466,7 +466,9 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
       <td>7.10.2026</td>
       <td>Backpropagation, Assignment 1 introduction</td>
       <td>Samuele</td>
-      <td></td>
+      <td>
+        <a href="https://drive.google.com/file/d/1RvH2V9NcOdJxCjNyAMEfydXvCOe0fd-W/view?usp=drive_link" target="_blank"> Backprop Slides</a>
+      </td>
     </tr>
     <tr>
       <th scope="row">5</th>
