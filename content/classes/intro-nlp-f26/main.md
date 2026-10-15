@@ -475,7 +475,9 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
       <td>14.10.2026</td>
       <td>Log-Linear Modeling</td>
       <td>Nataliia</td>
-      <td></td>
+      <td>
+        <a href="https://drive.google.com/file/d/1_QbFHjkXI2CE5Uh0nDn3n9WklgmDVFaP/view?usp=drive_link" target="_blank"> Log-Linear Modeling Slides</a>
+      </td>
     </tr>
     <tr>
       <th scope="row">5</th>
