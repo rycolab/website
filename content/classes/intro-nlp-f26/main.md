@@ -230,7 +230,10 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
       <td><a href="https://drive.google.com/file/d/1bf63EDu1QpK8sI1_ZJHLrntn9tLzzf5f/view?usp=drive_link" target="_blank">Lecture 4</a></td>
       <td>Eisenstein Ch. 3 and 4;</br>Goodfellow, Bengio and Courville Ch. 6</td>
       <td></td>
-      <td></td>
+      <td>
+        <a href="https://drive.google.com/file/d/1CQZM2qgU6zGtocAFjmlMXmnWqgBXxUxf/view?usp=sharing" target="_blank">Week 4 Exercises</a></br>
+        <a href="https://drive.google.com/file/d/1109ENtQL1FDLnumwy-ni0GvNDv8lQcB2/view?usp=drive_link" target="_blank">Week 4 Solutions</a>
+      </td>
     </tr>
     <tr>
       <th rowspan=2 scope="row">5</th>
