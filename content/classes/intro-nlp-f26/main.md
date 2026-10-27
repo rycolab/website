@@ -239,7 +239,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
       <th rowspan=2 scope="row">5</th>
       <td>19.10.2026</td>
       <td>Language Modeling with <em>n</em>-grams and LSTMs</td>
-      <td></td>
+      <td><a href="https://drive.google.com/file/d/1mAxnor0i74j9GUPmBjHgVEcmrYP7Bm39/view?usp=drive_link" target="_blank">Lecture 5</a></td>
       <td>Eisenstein Ch. 6;</br>Goodfellow, Bengio and Courville Ch. 10</td>
       <td><a href="https://nlp.stanford.edu/~wcmac/papers/20050421-smoothing-tutorial.pdf" target="_blank">Good Tutorial on n-gram smoothing</a></br>
         <a href="https://en.wikipedia.org/wiki/Good%E2%80%93Turing_frequency_estimation" target="_blank">Good–Turing Smoothing</a></br>
