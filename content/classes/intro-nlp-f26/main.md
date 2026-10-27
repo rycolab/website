@@ -270,7 +270,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
     </tr>
     <tr>
       <td>27.10.2026</td>
-      <td>No lecture</td>
+      <td>Part-of-Speech Tagging with CRFs</td>
       <td></td>
       <td></td>
       <td></td>
