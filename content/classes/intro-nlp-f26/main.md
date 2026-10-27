@@ -246,7 +246,10 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
         <a href="https://ieeexplore.ieee.org/document/479394" target="_blank">Kneser and Ney (1995)</a></br>
         <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf" target="_blank">Bengio et al. (2003)</a></br>
         <a href="https://www.isca-archive.org/interspeech_2010/mikolov10_interspeech.pdf" target="_blank">Mikolov et al. (2010)</a></td>
-      <td></td>
+      <td>
+        <a href="https://drive.google.com/file/d/1eyggfEpj41HgewiIE6wrRWCbP3aVpEoO/view?usp=sharing" target="_blank">Week 5 Exercises</a></br>
+        <a href="https://drive.google.com/file/d/1qy0wwzz47nss0zH2KLJmG6G4cdKjc5ad/view?usp=sharing" target="_blank">Week 5 Solutions</a>
+      </td>
     </tr>
     <tr>
       <td>20.10.2026</td>
