@@ -490,14 +490,18 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
       <td>21.10.2026</td>
       <td>Sentiment Classification with Multi-layer Perceptrons</td>
       <td>Samuele</td>
-      <td></td>
+      <td>
+        <a href="https://drive.google.com/file/d/1Q5_jjvwuBntCsIE5LsQV4FN2MgVhlx14/view?usp=sharing" target="_blank"> MLP Slides</a>
+      </td>
     </tr>
     <tr>
       <th scope="row">6</th>
       <td>28.10.2026</td>
       <td>Language Modeling with n-grams and LSTMs</td>
       <td>Harsh</td>
-      <td></td>
+      <td>
+        <a href="https://drive.google.com/file/d/1Bfl0xekBuRgjhfOikwrTJe2VeKRLmYju/view?usp=sharing" target="_blank"> Language Modeling Slides</a>
+      </td>
     </tr>
     <tr>
       <th scope="row">7</th>
