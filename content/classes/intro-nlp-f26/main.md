@@ -298,7 +298,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
     </tr>
     <tr>
       <td>3.11.2026</td>
-      <td>No lecture</td>
+      <td>Transliteration with WFSTs</td>
       <td></td>
       <td></td>
       <td></td>
