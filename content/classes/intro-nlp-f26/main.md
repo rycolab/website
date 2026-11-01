@@ -159,6 +159,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
     </tr>
@@ -257,6 +258,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <th rowspan=2 scope="row">6</th>
@@ -269,7 +271,10 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
         <a href="https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers" target="_blank">Lafferty et al. (2001)</a></br>
         <a href="https://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf" target="_blank">Sutton and McCallum (2011)</a></br>
         <a href="https://mitpress.mit.edu/books/probabilistic-graphical-models" target="_blank">Koller and Friedman (2009)</a></td>
-        <td></td>
+      <td>
+        <a href="https://drive.google.com/file/d/1mIZhXnPb58y0ug_AWkzeVZElgja1C8oR/view?usp=sharing" target="_blank">Week 6 Exercises</a></br>
+        <a href="https://drive.google.com/file/d/1hu6UXGqNhVyJz9Z1i5CHrpKm-h7As3HF/view?usp=sharing" target="_blank">Week 6 Solutions</a>
+      </td>
     </tr>
     <tr>
       <td>27.10.2026</td>
