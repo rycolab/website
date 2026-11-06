@@ -295,7 +295,9 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
       <td><a href="https://rycolab.io/classes/aflt-s22/" target="_blank">AFLT Course Notes</a> Chapters 1, 2, and 3</br>
       <a href="https://www.aclweb.org/anthology/J98-4003.pdf" target="_blank">Knight and Graehl (1998)</a></br>
         <a href="https://cs.nyu.edu/~mohri/pub/hbka.pdf" target="_blank">Mohri, Pereira and Riley (2008)</a></td>
-      <td></td>
+      <td>
+        <a href="https://drive.google.com/file/d/19VOQLf6itDVOg7bfHYuDQOYGBH1jbSwg/view?usp=drive_link" target="_blank">Week 7 Exercises</a></br>
+        <a href="https://drive.google.com/file/d/1dEWpPIAIxehFKythQsu4WQH5o9_G2SXJ/view?usp=drive_link" target="_blank">Week 7 Solutions</a>
       </td>
     </tr>
     <tr>
