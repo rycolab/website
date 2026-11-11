@@ -526,7 +526,9 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
       <td>11.11.2026</td>
       <td>Transliteration with WFSTs, Assignment 3 introduction</td>
       <td>Nataliia</td>
-      <td></td>
+      <td>
+        <a href="https://drive.google.com/file/d/1BOqn5KsaYG7MKLQO-V5_w0KAzCoI79Rx/view?usp=sharing" target="_blank"> WFST Slides</a>
+      </td>
     </tr>
     <tr>
       <th scope="row">10</th>
