@@ -519,7 +519,9 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
       <td>4.11.2026</td>
       <td>Part-of-speech Tagging with CRFs, Assignment 2 introduction</td>
       <td>Blanka</td>
-      <td></td>
+      <td>
+        <a href="https://drive.google.com/file/d/1MadJp4gWCGNwjfHqxGBmMdJ2Kzc5hPfu/view?usp=sharing" target="_blank"> CRF Slides</a>
+      </td>
     </tr>
     <tr>
       <th scope="row">8</th>
