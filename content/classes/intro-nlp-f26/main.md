@@ -23,6 +23,7 @@ The course constitutes an introduction to modern techniques in the field of natu
 **05.10.2026** &emsp; [Assignment 1](https://drive.google.com/file/d/1gpiMNbXIlbUbpyI-sDRfaXKCKt9oXOAL/view?usp=drive_link) released!   
 **03.11.2026** &emsp; [Assignment 2](https://drive.google.com/file/d/1hP2pG9OxYFNIe-mMQjTyyk2SSZkEV1I9/view?usp=sharing) released!   
 **08.11.2026** &emsp; [Assignment 3](https://drive.google.com/file/d/1OztfhkHJV4liVJsfKMfgP4-wsecx5lAz/view?usp=sharing) released!   
+**12.11.2026** &emsp; [Assignment 4](https://drive.google.com/file/d/1OKVwjyyGzZa5GkveHd2W8Tvea_jozoio/view?usp=sharing) released!   
 
 ## Organisation
 
@@ -90,6 +91,7 @@ The class assignments were crafted to dovetail nicely with the lecture contents 
 - [Assignment 1](https://drive.google.com/file/d/1gpiMNbXIlbUbpyI-sDRfaXKCKt9oXOAL/view?usp=drive_link)   
 - [Assignment 2](https://drive.google.com/file/d/1hP2pG9OxYFNIe-mMQjTyyk2SSZkEV1I9/view?usp=sharing)   
 - [Assignment 3](https://drive.google.com/file/d/1OztfhkHJV4liVJsfKMfgP4-wsecx5lAz/view?usp=sharing)   
+- [Assignment 4](https://drive.google.com/file/d/1OKVwjyyGzZa5GkveHd2W8Tvea_jozoio/view?usp=sharing)   
 
 **Very important:**
 *<u>We require the solutions to be properly typeset.</u>*
