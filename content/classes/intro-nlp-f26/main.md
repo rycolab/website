@@ -327,7 +327,10 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
         <a href="https://www.ideals.illinois.edu/handle/2142/74304">Kasami (1966)</a></br>
         <a href="https://www.sciencedirect.com/science/article/pii/S001999586780007X?via%3Dihub" target="_blank">Younger (1967)</a></br>
         <a href="http://www.softwarepreservation.org/projects/FORTRAN/CockeSchwartz_ProgLangCompilers.pdf" target="_blank">Cocke and Schwartz (1970)</a></td>
-      <td></td>
+      <td>
+        <a href="https://drive.google.com/file/d/13tjVH-FBok7E2MANhBVR6yIAu2ABLY1R/view?usp=drive_link" target="_blank">Week 8 Exercises</a></br>
+        <a href="https://drive.google.com/file/d/10qyzVfhclGk3bZoPqaJ9fOhuzoE9rq3U/view?usp=drive_link" target="_blank">Week 8 Solutions</a>
+      </td>
     </tr>
     <tr>
       <td>10.11.2026</td>
