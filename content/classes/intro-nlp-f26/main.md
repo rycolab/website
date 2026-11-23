@@ -494,7 +494,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
       <td>Backpropagation, Assignment 1 introduction</td>
       <td>Samuele</td>
       <td>
-        <a href="https://drive.google.com/file/d/1RvH2V9NcOdJxCjNyAMEfydXvCOe0fd-W/view?usp=drive_link" target="_blank"> Backprop Slides</a>
+        <a href="https://drive.google.com/file/d/1RvH2V9NcOdJxCjNyAMEfydXvCOe0fd-W/view?usp=drive_link" target="_blank"> Backprop and Assignment 1 Intro Slides</a>
       </td>
     </tr>
     <tr>
@@ -530,7 +530,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
       <td>Part-of-speech Tagging with CRFs, Assignment 2 introduction</td>
       <td>Blanka</td>
       <td>
-        <a href="https://drive.google.com/file/d/1MadJp4gWCGNwjfHqxGBmMdJ2Kzc5hPfu/view?usp=sharing" target="_blank"> CRF Slides</a>
+        <a href="https://drive.google.com/file/d/1MadJp4gWCGNwjfHqxGBmMdJ2Kzc5hPfu/view?usp=sharing" target="_blank"> CRF and Assignment 2 Intro Slides</a>
       </td>
     </tr>
     <tr>
@@ -539,7 +539,7 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
       <td>Transliteration with WFSTs, Assignment 3 introduction</td>
       <td>Nataliia</td>
       <td>
-        <a href="https://drive.google.com/file/d/1BOqn5KsaYG7MKLQO-V5_w0KAzCoI79Rx/view?usp=sharing" target="_blank"> WFST Slides</a>
+        <a href="https://drive.google.com/file/d/1BOqn5KsaYG7MKLQO-V5_w0KAzCoI79Rx/view?usp=sharing" target="_blank"> WFST and Assignment 3 Intro Slides</a>
       </td>
     </tr>
     <tr>
@@ -547,7 +547,10 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
       <td>18.11.2026</td>
       <td>Context-free Parsing, Assignment 4 introduction</td>
       <td>Harsh</td>
-      <td></td>
+      <td>
+        <a href="https://drive.google.com/file/d/1R-C5HOR4Wp_denUJdgKi7Ynbq4WOOv9v/view?usp=drive_link" target="_blank"> CKY Slides</a></br>
+        <a href="https://drive.google.com/file/d/1Ac6EilA0JADVI5qhXCErF2i9uzBHa7K8/view?usp=drive_link" target="_blank"> Assignment 4 Intro Slides</a>
+      </td>
     </tr>
     <tr>
       <th scope="row">11</th>
