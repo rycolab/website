@@ -378,7 +378,10 @@ We will send out 10 minute slots for you to sign up for closer to the time on Mo
       <td><a href="https://www.aclweb.org/anthology/P88-1034/" target="_blank">Weir and Joshi (1988)</a></br>
         <a href="https://www.aclweb.org/anthology/Q14-1032/" target="_blank">Kuhlmann and Satta (2014)</a></br>
         <a href="https://homepages.inf.ed.ac.uk/steedman/papers/ccg/ikdoz17.2.pdf" target="_blank">Mark Steedman's CCG slides</a></td>
-      <td></td>
+      <td>
+        <a href="https://drive.google.com/file/d/1EoKOhYELubr0LuaX1i4a9KazlvMSDZj7/view?usp=drive_link" target="_blank">Week 10 Exercises</a></br>
+        <a href="https://drive.google.com/file/d/1-b0OvcRh3t-rsp9UWlb9N5r_C2AVkwgC/view?usp=drive_link" target="_blank">Week 10 Solutions</a>
+      </td>
     </tr>
     <tr>
       <td>24.11.2026</td>
